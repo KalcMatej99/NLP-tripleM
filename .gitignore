@@ -1,5 +1,8 @@
 # matemato stuff
-WebScrapper/My/
+/My/
+
+# Obtained sentences
+/ccGigaFida/results/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

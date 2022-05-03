@@ -1,0 +1,4 @@
+18 : Kaj Faks kopirni stroj optični bralnik toplotni brizgalnik
+123 : Podatki o naročniku Fizična pravna oseba ustrezno obkrožite Ime in priimek Naziv podjetja Ulica hišna številka Elektronska pošta Tel. faks Davčna številka Davčni zavezanec SI da ne ustrezno obkrožite Datum naročila Žig in podpis odgovorne osebe Poštna številka kraj
+124 : Kaj Faks kopirni stroj optični bralnik brizgalnik piezo
+136 : Fizična pravna oseba ustrezno obkrožite Ime in priimek Naziv podjetja Ulica hišna številka Elektronska pošta Tel. faks Davčna številka Davčni zavezanec SI da ne ustrezno obkrožite

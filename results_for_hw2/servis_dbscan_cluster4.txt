@@ -1,0 +1,6 @@
+Estimated no. of clusters: 6
+Estimated no. of noise points: 4
+Counter({0: 86, 1: 36, 2: 25, 3: 6, -1: 4, 4: 3})
+['Mladinski', 'servis', 'Slovenske', 'Konjice', 'ponuja', 'naslednja', 'dela', 'strežbo', 'delo', 'v', 'proizvodnji', 'trženje', 'čiščenje', 'novinarska', 'dela', 'delo', 'na', 'stroju', 'delo', 'v', 'recepciji', 'in', 'delo', 'na', 'bencinskem', 'servisu']
+['Mladinski', 'servis', 'Slovenske', 'Konjice', 'ponuja', 'naslednja', 'dela', 'delo', 'v', 'recepciji', 'suhomontažna', 'gradbena', 'dela', 'delo', 'v', 'skladišču', 'delo', 'v', 'proizvodnji', 'čiščenje', 'strežbo', 'poučevanje', 'slovenskega', 'jezika', 'anketiranje', 'in', 'delo', 'na', 'bencinskem', 'servisu']
+['Mladinski', 'servis', 'Slovenske', 'Konjice', 'ponuja', 'naslednja', 'dela', 'pomoč', 'pri', 'zlaganju', 'profilov', 'lažja', 'dela', 'v', 'proizvodnji', 'strežba', 'pomoč', 'v', 'proizvodnji', 'delo', 'na', 'recepciji', 'peka', 'pic', 'natakar', 'trženje', 'delo', 'na', 'strehi', 'in', 'pisarniška', 'dela']

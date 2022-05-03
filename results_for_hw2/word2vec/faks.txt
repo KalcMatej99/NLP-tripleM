@@ -1,0 +1,1191 @@
+Faks
+
+Aglomerative clustering:
+Counter({1: 524, 0: 63}) avarage
+Counter({1: 513, 0: 74}) compplete
+
+For average
+Cluster 1:
+0 : Informacije Fiera di Verona Italija tel. 00 39 045 82 98 111 faks
+3 : Kandidati ki se na strokovni izpit prijavljajo sami fizične osebe ter kandidati ki jih na strokovni izpit prijavljajo gospodarske družbe samostojni podjetniki pravne osebe zasebnega prava ipd. lahko prijave pošiljajo po klasični pošti na naslov Ministrstvo za javno upravo Tržaška 21 1000 Ljubljana ali po faksu št. 01 478 86 49
+4 : 49 68 54 98 faks 00 33 1 49 68 56 32 e pošta sial@sial.fr
+5 : Univerza v Mariboru Fakulteta za turizem Slomškov trg 15 zemljevid SI 2000 Maribor telefon + 386 2 2355 200 faks + 386 2 2355 211 ft.uni-mb.si ft@uni-mb.si
+6 : mag. Marta Šabec tel. 01 478 4739 faks 01 478 4719 e pošta marta.sabec at gov.si
+7 : Hrvaška tel. 00 385 1 37 70 333 faks 00 385 1 37 02 173 e pošta
+8 : Lahko pa pokličete na številko 03 575 62 61 ali pošljete faks na 03 759 04 15
+9 : Informacije o posvojitvi EKO CENTER Caput Insulae Beli Beli 4 51559 Beli Hrvaška tel. faks 00 385 51 840 525 Caput.insulae@ri.tel.hr
+10 : Tel. 07 393 47 40 faks 07 393 47 55
+11 : Informacije na telefon 01 47 35 374 faks 01 43 77 542 e pošta oglasnotrzenjeŽczd kmeckiglas.si
+12 : Lesno proizvodno in trgovsko podjetje Tišler d. o. o. Laporje 61 a 2318 Laporje telefon faks 02 80 25 887 GSM 041 520 873 odkupuje vse vrste trdih listavcev hrast jesen češnja oreh hruška
+13 : Vsi ki želite tekmovati se prijavite v uredništvo revije Drobnica tel. 02 88 43 143 faks 02 88 38 047 ali po elektronski pošti drobnicaŽkm z.si
+15 : Podatke za brezplačno objavo pošiljajte na naslov Zavod za šport Slovenije Športnoinformacijski center Celovška 25 1000 Ljubljana faks 01 230 60 84 e pošta koledar@spic.tv spletna stran www.razgibajmozivljenje.net
+18 : AGROPROGRAM faks 063 34 640 tel. faks 062 773 021
+21 : Tel. 75 04 358 faks 75 02 028 gsm 041 600 457 041 600 458
+22 : Ime in sedež organizatorja javnega zbiranja ponudb Občina Cerknica Cesta 4. maja 53 1380 Cerknica tel. 01 709 06 10 faks 01 709 06 33
+23 : Naziv in sedež naročnika Občina Cerknica Cesta 4. maja 53 1380 Cerknica telefon 01 709 06 10 faks 01 709 06 33
+24 : tel 754 31 50 faks 754 18 91
+25 : Prijave sprejemamo do 20. marca po pošti na naslov Urada ali po faksu na številko 061 178 31 10
+26 : Abanka Vipa d. d. Agencija Logatec tel 7591 974 faks 7542 450 anica.vengust@abanka.si
+27 : Prijave lahko pošljete po faksu 02 25 24 188 s priloženim potrdilom o plačilu prijavnine ali jih oddate osebno v soboto 9. decembra od 9. do 12. ure na sedežu MNZ Vita Kraigherja 8 Maribor
+28 : Telefon 07 334 24 10 faks 07 346 07 31
+29 : Tel. 041 676 041 01 436 0001 faks 01 436 4078 www.pluton-plus.si
+30 : RAIGRAF Damijan Hočevar s. p. Celovška 134 Ljubljana tel. faks 01 5055 132 041 687 444 e pošta raigraf@siol.net
+31 : tel. 01 588 1209 faks 01 569 1209
+32 : ARENA Dušan Šuligoj s. p. M. Štrukelj 8 Nova Gorica tel. 041 646 643 041 695 654 05 330 01 13 faks 05 330 01 14
+33 : ARCH IDEA d. o. o. ind. cona Trzin Blatnica 12 Mengeš tel. faks 061 711 140
+35 : Tel. in faks 03 58 75 484 GSM 041 467 601 Zdenka
+36 : Bistrica www.bassport-klub.si ali info@bassport-klub.si faks 05 710 12 07 ali GSM 051 389 077
+37 : Gorenjska cesta 19 4240 RADOVLJICA Telefon 04 537 23 00 faks 04 531 46 84
+39 : Natančnejše informacije posreduje zastopnik New Hollanda za Slovenijo SŽ Itro d. o. o. Železarska cesta 3 3220 Štore tel 063 77 14 11 faks 063 77 15 22
+40 : Tel. 068 323 553 323 554 faks 323 552
+41 : Informacije Reed Exhibitions Messe Salzburg Avstrija tel. 0043 662 44 770 faks 0043 662 44 77 161 e pošta info@reedexpo.at
+42 : Informcije Poznan Fair Poznan Poljska tel. 0048 61 869 20 00 faks 0048 61 866 58 27 e pošta info@mtp.pl
+43 : Informacije Andrej Prpič s. p. Rozke Usenik 10 1210 Ljubljana Šentvid tel. 01 513 14 80 faks 01 513 14 85 e pošta tujisejmi@siol.net
+44 : Informacije Fiera Trieste Trst Italija tel. 0039 040 9494 111 faks 0039 040 393 062 e pošta info@fiera.trieste.it
+45 : Informacije Obrtno podjetniška zbornica Slovenije služba za promocijo in ekonomske odnose s tujino Celovška 71 1000 Ljubljana faks 01 583 05 83. telefon 01 583 05 86 e naslov edina.zejnic@ozs.si
+46 : Informacije Bojan Štrus Topniška 35d Ljubljana tel. 01 437 70 35 faks 01 437 70 37 e pošta velesajam-zg@siol.net
+47 : Informacije Survey Marketing + consulting Milano Italija tel. 0039 02 86995 712 faks 0039 02 86913 226 e pošta unfo@zow.it
+48 : Informacije Exposium Pariz Francija tel. 0033 1 49 68 52 12 faks 0033 1 49 68 52 75 e pošta juana.moreno@exposium.fr
+49 : Informacije Progres Partners Advertising Praga Češka tel 00420 224 218 403 faks 00420 224 235 033 e pošta domorad@ppa.cz
+50 : A. Torino Italija tel. 0039 011 6644 111 faks 0039 011 6644 395 e pošta press @promotorinternational
+51 : Informacije Reed Messe Salzburg Salzburg Avstrija tel. 0043 662 44 770 faks 0043 622 44 77 161 e pošta info@reedexpo.at
+53 : Informacije CEU Cinisell Balsamo Italija tel. 0039 02 26255 286 faks 0039 02 26255 882 e pošta exhibitions.dept@ucimu.it
+54 : Informacije CEPRA Assago Italija tel. 0039 02 8921 0200 faks 0039 02 8259 009 e pošta filippini@xylexpo.com
+55 : A. Via Nizza 294 10126 Torino Italija telefon 0039 011 6644 111 faks 0039 011 6646 642 e pošta info@lingottofiere.it info@fieraprogettoearredo.it
+56 : HUNGEXPO AG Albertisai ut 10 1101 Budimpešta Madžarska telefon 0036 1 263 6000 faks 0036 1 263 6098 e pošta hungexpo@hungexpo.hu http://www.hungexpo.hu
+57 : BRANDT d. o. o. Reljkovičeva 2 10000 Zagreb Hrvaška telefon 00385 1 37 70 333 faks 00385 1 37 02 173 e pošta brandt@inet.hr
+58 : Messe Essen GmbH Norbertstrasse 45131 Essen Nemčija telefon 0049 201 7244 0 faks 0049 201 7244 248 e pošta info@messe-essen.de
+59 : Internationale Messe Poznan GmbH ul. Glogowska 14 60734 Poznan Poljska telefon 0048 61 869 20 00 faks 0048 61 866 58 27 e pošta info@mtp.pl
+60 : Informacije Padova Fiere Padova Italija tel. 0039 049 840 111 faks 0039 049 840 570 e pošta flormart@padovafiere.it
+61 : Informacije COMEXPO Pariz Francija tel. 0033 1 49 09 42 80 faks 0033 1 49 09 6104 e pošta edevigan@comexpo-paris.com
+62 : Informacije po telefonu 631 112 faks 631 565
+63 : tel. faks 061 125 10 95 125 10 85
+64 : Telefon 03 746 29 00 faks 03 746 29 20
+65 : OE Postojna Vojkova 9 6230 Postojna telefon 05 700 06 10 faks 05 700 06 28
+66 : KE Stari trg Cesta Notranjskega odreda 6 1386 Stari trg pri Ložu telefon 01 705 31 00 faks 01 705 31 08
+67 : Morebitna vprašanja povezana s KGZ nam lahko pošljete na naslov Kmečki glas Železna cesta 14 1000 Ljubljana za rubriko Vse o KGZ ali po faksu 061 173 53 76 oz. po e pošti uros korbarŽczd kmeckiglas.si
+68 : Alojz Tisnikar s. p. Mozirje tel. faks 063 833 416
+69 : klasifikacija ribja nadstandardna naslov Heuplatz 2 Celovec telefon 0043 463 554 99 faks 0043 463 554 994 sedeži znotraj 26 zunaj 25 delovni čas od 12. do 14. ure in od 18. do 22. ure ob sobotah in nedeljah zaprto kreditne kartice Eurocard Visa Diners Amex Maestro BA
+70 : 2000 Maribor Mlinska ulica 1 tel. faks 062 222 641
+71 : Več informacij dobite pri proizvajalcu RM International Lepovče 23 1310 Ribnica tel. 01 836 19 44 faks 01 836 19 43
+73 : po e pošti svet. ljudjeŽczd kmeckiglas.si ali po faksu 01 437 75 42
+74 : faks 061 514 00 73 faks 062 320 73 81
+75 : Tel. 01 423 99 40 faks 01 423 99 45
+77 : Informacije tel. + 33 0 5 46 44 22 82 faks + 33 0 5 46 44 92 42 e naslov info@mystere-catamarans.fr inetrenetna stran www.mystere-catamarans.fr
+78 : Lahko pošljete prijavo tudi na faks 04 20 24 180
+79 : Za podrobnejše informacije o možnostih sklenitve zavarovanja se obrnite na specializirano agencijo za pomorska zavarovanja IBC iz Kopra tel. 05 639 8018 faks 05 6398017 ali na spletnih straneh www.slovensko-morje.net zavarovanje ki vam bo pripravila tudi najugodnejšo ponudbo za sklenitev zavarovanja
+80 : tel. 07 39 39 175 faks 07 39 39 103
+81 : Burin klub Rojčeva 25 1110 Ljubljana telefon 01 510 18 67 faks 01 520 18 63
+82 : Jonathan Yachting Marina Portorož telefon 05 877 89 30 faks 05 877 89 35
+83 : Informacije Intel Srl. Milano tel. 0039 2 32 64 282 faks 0039 2 32 64 284 e pošta intel@intel.anie.it
+84 : Informacije Promexpo Srl. Milano Italija tel. 0039 2 409 22 401 faks 0039 2 409 22 450 e pošta info@promexpo.it
+85 : Informacije APR Andrej Prpič Smlednik tel 01 362 81 53 faks 01 362 76 28 e pošta tujisejmi@siol.net
+86 : faks 03 781 01 54ITRO Štore d. o. o.
+87 : Na voljo so vam tudi telefon 01 47 35 351 e pošta darinka sebenikŽczd kmeckiglas.si in faks 01 47 35 376
+88 : Priročnike lahko naročite po pošti Planet GV d. o. o. Einspielerjeva ulica 6 1000 Ljubljana po faksu 01 30 94 445 ali po e pošti knjigarna@planetgv.si
+89 : Gozdno gospodarstvo Bled d. d. Ljubljanska c. 19 4260 Bled tel. 04 575 00 00 faks 04 574 35 54 odkupuje les na kamionski cesti in na panju opravlja storitve za vsa dela v gozdu in prevzema gozdne površine v upravljanje ali zakup ter vzdržuje in popravlja gozdarsko in kmetijsko mehanizacijo
+90 : Informacije Maksima komunikacije Zagreb Hrvaška tel. 00 385 1 455 22 27 faks 00 385 1 455 22 28 e pošta vesna@maksima.hr
+91 : tel. faks 01 56 13 816 GSM 041 637 718 e pošta stane.terlep@eunet.si
+92 : Informacije Skopski Saem Skopje Makedonija tel. 00389 2 3218 388 faks 00389 2 3218 375 e pošta skfair@mt.net.mk
+93 : Prijavite se lahko po faksu 01 505 92 70 po pošti na gornji naslov sekcije ali po e pošti rudi.wostner@ozs.si R. W.
+94 : V hotelu Vita v Dobrni s štirimi zvezdicami je zanje rezerviranih nekaj sob ki naj si jih čim zagotovijo po telefonu 03 780 81 10 faksu 03 780 81 11 ali e pošti info@terme-dobrna.si
+95 : MARINKO & PARTNERJI d. n. o. Medvedova 28 1000 Ljubljana tel. 01 439 84 30 faks 01 439 84 34 041 764 601 e pošta ales.marinko@siol.net
+96 : Elteh Pungerl d. o. o. Kozinova 2 1000 Ljubljana tel. 01 5182 035 faks 01 5108 813 e pošta elteh.pungerl@siol.net URL www.elteh-pungerl.si g.
+97 : Odgovore pošljite na naslov Obrtna zbornica Slovenije Adrijana Poljanšek Celovška 71 1000 Ljubljana faks 01 5
+98 : Informacije Messecenter Graz Gradec Avstrija tel. 0043 316 80 880 faks 0043 316 80 88 250 e pošta office@messecentergraz.at
+99 : Hitreje gre po faksu 01 30 94 445 ali e pošti knjigarna@planetgv.si
+100 : Prijavnico za individualne pogovore izpolnite in vrnite na naslov Obrtna zbornica Slovenije služba za promocijo in EOT Celovška 71 1000 Ljubljana ali po faksu 01 5830 583 najpozneje do 15. julija 2007
+101 : Stubelj d. o. o. Vojkova 14 Anhovo 5210 Deskle tel. 05 3310 339 faks 05 3310 349
+102 : Če ne morete izterjati svojih terjatev pokličite Finnal d. o. o. Kovinarska 3 D 8270 Krško tel. 07 4905 120 4905 121 faks 07 4925 952 07 4905 122 in uredili vam bomo kompenzacijo ali gotovinsko nakazilo
+103 : FOIRES & SALONS DE BRUXELLES Place de Belgique 1020 Bruselj Belgija telefon 0032 2 474 84 85 faks 0032 2 474 80 52 e pošta bfe@bfe.be
+104 : Box 77777 1070 MS Amsterdam Nizozemska telefon 0031 20 549 2272 faks 0031 20 549 1843 e pošta mail@rai.nl
+105 : Veritas & Co d. o. o. Zdenko Jager Želimlje 73 1291 Škofljica telefon faks 01 366 14 38 GSM 041 695 512 e pošta zdenko.jager@veritasco.si
+106 : Novosadski sajam Hajduk Veljkova 11 21000 Novi Sad Srbija telefon 00381 21 423 341 faks 00381 21 423 341 e pošta info@nsfair.co.yu
+107 : Obala 105 6320 Portorož tel. 05 6779 060 01 3615 228 faks 05 6779 064
+108 : Stubelj d. o. o. Vojkova 14 Anhovo 5210 Deskle tel. 05 3310 333 faks 05 3310 349
+109 : SZR OSA ARILJE tel. 0038131 893 875 0038163 660 585 faks 0038131 894 875 e pošta szrosa@ptt.yu www.osaarilje.com
+110 : Einspielerjeva ulica 6 1000 Ljubljana Tel. 01 30 94 444 faks 01 30 94 445 Epošta info@hrmrevija.si Spletna stran www.hrmrevija.si
+111 : Tima Ekspres Korošec k. d. Cesta Andreja Bitenca 68 1000 Ljubljana faks 01 4210 535 e pošta taxi@amis.net URL www.taxitimaekspres.com ga
+112 : EURO MILD urgenca plačil Dragan Milenković s. p. Pucova 1 3000 Celje tel. 03 547 19 20 faks 03 490 21 17 e pošta sanjami@siol.net Dragan Milenković tel. 547 19 20 e pošta sanjami@siol.net
+113 : Izpolnjeno prijavnico pošljite na naslov Obrtna zbornica Slovenije služba za promocijo in EOT Celovška 71 1000 Ljubljana najpozneje do 25. januarja 2007 ali po faksu 01 58 30 583
+114 : Informacije Firenze Fiera Firence Italija tel. 0039 055 49 721 faks 0039 055 4973 237 e pošta info@firenzefiera.it
+116 : tel. 01 473 81 11 faks 01 473 81 29
+117 : Toplice Dobrna Dobrna 50 Tel. 03 78 08 000 faks 03 78 08 111 e mail info@terme-dobrna.si spletna stran www.terme-dobrna.si
+118 : Eden bolj znanih nemških izdelovalcev velikih vetrnic je firma Enercon iz Auricha faks 0049 41 92 71 99 ki izdeluje vse glavne elemente vetrnih elektrarn vetrnico električni generator in elektroniko potrebno za regulacijo in priključitev vetrnice v omrežje
+119 : Naročite se lahko po telefonu 01 620 88 03 faksu 01 620 88 15 po e pošti narocnine@nevtron.si ali s posebnimi reklamnimi pristopnimi izjavami
+120 : Na voljo so vam tudi telefon 061 1735 367 in faks 061 1735 376 ali elektronski naslov marjan papezŽczd kmeckiglas.si
+121 : Alojz Toplak obrtnik Grajenščak 62 a Ptuj faks in Tel. 062 778 800
+122 : Strokovna založba ekonomske in pravne literature Dunajska cesta 21 1000 Ljubljana Telefon 01 434 55 90 Faks 01 434 55 94 E pošta info@dashofer.si Splet www.dashofer.si
+123 : Dolenjska c. 76 1000 Ljubljana Tel. 01 428 94 05 Faks 01 428 94 06 E pošta info@sisplet.com www.sisplet.com
+124 : Tržaška 85 2000 Maribor Telefon 02 620 6 394 Faks 02 620 6 325 E pošta info@f-secure.si
+125 : tel. 068 323 171 faks 068 23 997
+126 : faks 061 161 60 35 E pošta Zeleni hitŽsiol net
+127 : V tem primeru vam prav tako pošljemo prijavnico ki jo izpolnjeno in podpisano pošljete na naš naslov Delo d. d. Dunajska 5 1509 Ljubljana ali po faksu na številko 01 47 37 613
+129 : Izpolnjeno naročilnico lahko pošljete na elektronski naslov publicistika.umar@gov.si faks 01 4781070 ali na Urad RS za makroekonomske analize in razvoj Gregorčičeva 27 1000 Ljubljana
+130 : Za podrobnejše informacije se lahko pozanimate pri podjetju ROMAX iz Kranja na tel. 04 201 18 37 201 21 79 in faks 04 201 23 61
+131 : Strojni krožek Posavje ki ga koordinira Jože Baznik s KSS Brežice Cesta prvih borcev 41 tel. 07 49 66 480 tel. in faks 07 49 61 165 ima naslednji cenik strojnih storitev pri slabših pogojih dela je lahko cena do 20 odstotkov višja
+132 : Podrobnejše informacije o proizvodnem programu Tajfun Planina d. o. o. Planina 41a 3225 Planina pri Sevnici tel. 03 579 10 11 faks 03 579 12 41 www.tajfun.si oz. www.tajfun.com
+133 : LIKOVNA IN TEHNIČNA UREDNICA Suzana Komel LEKTORICA Renata Hrovatič SODELAVCI Vesna Sivec Poljanšek Maja Poljšak Žana Kapetanović Mateja Bevk Renata Ucman Suzana Belaka Pungartnik Simona Pompe Barbara Žgalin Mateja Jordovič Potočnik Andrej Križ Franci Virant TAJNICA Marina Železnik LIKOVNA ZASNOVA Suzana Komel OGLASNO TRŽENJE DELO REVIJE d. d. Marketing Dunajska 5 1509 Ljubljana tel. 01 473 81 11 473 81 17 faks 01 473 81 29 e pošta marketing@delorevije.si
+134 : 03 57 24 034 faks 03 57 24 740
+135 : IZDAJATELJ UMco d. d. Leskoškova 12 1000 Ljubljana Telefon 01 520 18 30 Faks 01 520 18 40 E mail bukla-urednistvo@umco.si
+136 : Za brezplačne kataloge in ponudbo pokličite UMco d. d. Leskoškova 12 1000 Ljubljana telefon 01 520 18 30 faks 01 520 18 40 info@umco.si www.umco.si Ponudba velja za pravne osebe in društva
+137 : Vabimo vas v naši knjigarni Celje Prešernova 23 tel. 03 490 14 20 21 faks 03 490 14 22 Ljubljana Nazorjeva 1 tel. 01 244 36 50 faks 01 244 36 75 www.mohorjeva.org
+138 : Naročite jo lahko pri Mladini d. d. na Dunajski cesti 51 v Ljubljani najlažje pa bo šlo po telefonu 01 2306 550 faksu 01 2306 510 ali elektronski pošti narocnine@mladina.si
+139 : faks 01 473 82 53 e pošta HYPERLINK mailto naročnine @delo-revije.si naročnine @delo-revije.si
+140 : Vsi ki bi se želeli udeležiti se lahko za informacije obrnejo na tel. št. 041 62 99 88 po faksu 01 361 40 72 ali po elektronski pošti krila@email.si
+141 : Barbara Sršen moda kozmetika zdravje stanovanje prehrana vrt KOLPORTAŽA DELO REVIJE d. d. Marketing Dunajska 5 1509 Ljubljana tel. 01 473 81 20 faks 01 473 82 53 NAROČNINE DELO REVIJE d. d. Marketing Dunajska 5 1509 Ljubljana tel. 01 473 81 23 473 81 24 faks 01 473 82 53 e pošta narocnine@delo-revije.si
+142 : Panoptikum d. o. o. Medvedova 12 1241 Kamnik Proizvodnja letalski modeli tel. 01 831 90 60 faks 01 831 90 65 e pošta modelar@panoptikum.si http://www.panoptikum.si
+143 : Top modeltehnik d. o. o. Bratov HvaIič 145 5000 Nova Gorica Proizvodnja letalski modeli in trgovina tel. 05 330 01 73 faks 05 330 01 74 e pošta topmodel@siol.net http://www.top-modeltehnik.si
+144 : Primotehna d. o. o. Partizanska 3 5 2000 Maribor Male železnice tel. 02 252 58 55 tel faks 02 251 15 94
+145 : Dragomer Na Grivi 5 p. p. 09 1358 Log pri Brezovici telefon 01 750 77 00 faks 01 750 77 05
+146 : IZOBRAŽEVANJE ZA UPORABNIKE FITOFARMACEVTSKIH SREDSTEV Celovška cesta 135 1000 Ljubljana tel. 01 5130 720 faks 01 5130 741 3
+147 : Javni sklad Republike Slovenije za kulturne dejavnosti Območna izpostava Ljubljana okolica Trg MDB 14 1111 Ljubljana tel. + 386 1 241 05 37 422 26 40 faks + 386 1 422 26 44 e pošta oi.ljubljana.okolica@jskd.si razpisuje
+148 : Ivan Šturbej s. p. tel. 03 705 03 70 faks 03 705 03 71 gsm 041 653 287
+149 : Cesta Toneta Kralja 2 1290 Grosuplje SLOVENIJA Tel. + 386 1 787 37 00 Faks + 386 1 787 37 02 e mail veleprodaja@biros.si Prodajalne MEDO ŠPORT Grosuplje RACOON Ljubljana VELO Domžale In druge prodajalne z ribiško opremo po Sloveniji
+151 : Faks + 386 0 1 256 59 80
+152 : Več in natančnejše informacije dobite pri zastopniku za Slovenijo AC Intercar Baragova 5 1000 Ljubljana tel. 01 588 35 85 faks 01 588 35 97
+153 : Hotel Kendov dvorec Na griču 2 5281 Spodnja Idrija Telefon 05 372 51 00 Faks 05 375 64 75 E pošta kendov-dvorec@s5.net info@kendov-dvorec.com www.kendov-dvorec.com
+154 : Gostilna As Čopova 5a 1000 Ljubljana Telefon 01 425 88 22 Faks 01 252 72 38 Mobitel 031 580 219 E pošta gostilna.as@siol.net www.gostilnaas.si
+155 : Gostilna Pri Kuklju Trubarjeva 31 1315 Velike Lašče Telefon 01 788 90 98 Faks 01 788 91 30 Mobitel 031 703 991 E pošta gostilna.kukelj@siol.net www.prikuklju.com
+156 : tel. 01 361 12 66 faks 01 361 37 28
+157 : tel. 04 201 42 00 faks 04 201 42 13 e pošta info@g-glas.si http://www.gorenjskiglas.si
+158 : FAKS 062 60 90 410 V SODELOVANJU Z DOW AGROSCIENCES
+159 : LHB Trade Zagreb Trg Dražena Petrovi a 3 XVII 10000 Zagreb Telefon + 385 1 4844030 Faks + 385 1 4843611 E pošta zagrebÐlhb de LHB Immobilien GmbH Ottostraße 3 5 80333 München Telefon 089 551503 0 Faks 089 554776 E pošta muenchenÐlhb de
+160 : Veleposlaništvo Grčije Trnovski pristan 14 1000 Ljubljana tel. 01 420 14 00 faks 01 281 11 14
+161 : UMco d. d. Leskoškova 12 1000 Ljubljana Telefon 01 520 18 30 Faks 01 520 18 40 E mail premiera@umco.si ISSN 1580 3678 Naklada 40.000 izvodov
+162 : Leskovškova 6 1000 Ljubljana Telefon 01 5202 800 Faks 01 5202 840 www.lexmark.si www.alterna-i.si info.alterna@alterna-i.si
+163 : Dolenjska cesta 244 1000 Ljubljana Telefon 01 4205 570 Faks 01 4205 584 E pošta info@marmis.si
+164 : POSAVSKI OBZORNIK izdaja Zavod Neviodunum v Krškem Uredništvo Trg Matije Gubca 3 8270 Krško Tel. 07 49 05 782 Faks 07 49 05 781 www.posavje.info obzornik@volja.net TRR 03155 1086687920 Odgovorni urednik Silvester Mavsar Izvršni urednik Peter Pavlovič Prelom in priprava za tisk Studio Neviodunum Krško Vodja trženja Katarina Požun tel. 07 49 05 780
+165 : Tel. 01 230 12 01 faks 01 439 71 05
+166 : Na voljo so vam tudi telefon 061 17 35 351 E mail darinka sebenikŽczd kmeckiglas.si in faks 061 17 35 376
+167 : tel. 067 510 007 faks 067 510 008
+168 : Za brezplačne kataloge in ponudbo pokličite UMco d. d. Leskoškova 12 1000 Ljubljana telefon 01 520 18 30 faks 01 520 18 40 info@umco.si www.umco.si
+172 : Teslina 10 tel. 4811 427 faks 4811 443 www.vinodol-zg.hr odprto 10.00 24.00
+173 : Prijave sprejemajo do 26. oktobra na naslov GILŠ KODUM p. p. 4506 1001 Ljubljana tel. faks 061 126 42 35 Metka Zobec
+174 : Tel. 07 33 70 600 faks 07 33 70 601
+175 : telefon 05 331 52 31 faks 05 331 52 40 e pošta natasa.frelih@p-ng.si
+176 : Tel. 02 534 93 90 faks 02 534 93 91 Trg zmage 4 p. p. 207 9101 M. Sobota
+177 : Avtor Mijenix Corporation ZDA tel. 001 608 277 1981 faks 001 608 277 1971
+178 : DSI Ul. Donizetti 3 34133 Trst Italija Tel. + 39 040 370846 faks + 39 040 633307 El. naslov redakcija@mladika.com
+179 : Občina Jesenice Oddelek za okolje in prostor Cesta železarjev 6 4270 Jesenice tel. 04 5869 221 faks 04 5869 213 e pošta katarina.koblar@jesenice.si
+180 : dušan bezek s. p. Metliška cesta 1 semič tel. faks 07 30 67 197 gsm 040 782 605 e mail dusan.bezek@email.si
+181 : Dušan Bezek s. p. Metliška cesta 1 Semič Tel. faks 07 30 67 197 gsm 040 782 605
+182 : Tel. faks 07 33 76 500 Župnca 3 novo mesto
+183 : POSAVSKI OBZORNIK izdaja Zavod neviodunum v krškem Uredništvo trg Matije gubca 3 8270 krško tel. 07 49 05 782 Faks 07 49 05 781 www.posavje.info obzornik@volja.net trr 03155 1086687920 Odgovorni urednik silvester Mavsar Izvršni urednik Peter Pavlovič Prelom in priprava za tisk studio neviodunum krško Trženje in promocija Bojana kunej tel. 07 49 05 780 bojana.kunej@posavje.info
+184 : POSAVSKI OBZORNIK izdaja Zavod Neviodunum v Krškem Uredništvo Trg Matije gubca 3 8270 Krško Tel. 07 49 05 782 Faks 07 49 05 781 www.posavje.info obzornik@volja.net Trr 03155 1086687920 Odgovorni urednik Silvester Mavsar Glavni urednik Peter Pavlovič Prelom in priprava za tisk Studio Neviodunum Krško Trženje in promocija Bojana Kunej tel. 07 49 05 780 bojana.kunej@posavje.info
+185 : POSAVSKI OBZORNIK izdaja Zavod Neviodunum v krškem Uredništvo trg Matije gubca 3 8270 krško tel. 07 49 05 782 Faks 07 49 05 781 E pošta redakcija@posavje.info tRR 03155 1086687920 Odgovorni urednik Silvester Mavsar Glavni urednik Peter Pavlovič Prelom in priprava za tisk Studio Neviodunum krško Trženje in promocija Bojana kunej tel. 07 49 05 780 bojana.kunej@posavje.info
+186 : Tel. 310 453 4402 faks 310 453 8775 e mail Continuummove @earthlink net
+187 : Tel 832 852 832 526 faks 832 526
+188 : Več informacij dobite pri prodajalcu za Slovenijo KM Agroremont Marjan Klobasa s. p. Radgonska 5 2235 Sv. Trojica tel. 02 729 02 70 tel. faks 02 729 02 71 www.km-sp.si Email marjan.klobasa@amis.net pa tudi na Ferrarijevi domači strani www.bcs-ferrari.it
+189 : Tisk Tiskarna Razvedrilo Distribucija POŠTA SLOVENIJE Izid prve številke marec 1991 Naslov uredništva in naročniški oddelek Revija VIP Frankopanska 5 1000 Ljubljana tel. 01 474 06 22 uredništvo tel. 01 474 06 00 naročniški oddelek faks 01 433 33 71 e pošta uredništvo vip@zps.si e pošta naročniški odd. vip.narocnine@zps.si http ::// www.zps.si ISSN 1318 1084 TRR 02010 0016585996 Na podlagi Zakona o DDV Ur. list RS št. 89 98 sodi revija med proizvode za katere se obračunava DDV po stopnji 8,5 %
+190 : Tisk Tiskarna Razvedrilo Distribucija POŠTA SLOVENIJE Izid prve številke marec 1991 Naslov uredništva in naročniški oddelek Revija VIP Frankopanska 5 1000 Ljubljana tel. 01 474 06 22 uredništvo tel. 01 474 06 00 naročniški oddelek faks 01 433 33 71 e pošta uredništvo vipŽzps zveza.si e pošta naročniški odd. vip narocnineŽzps zveza.si http ::// www.zps-zveza.si ISSN 1318 1084 TRR 02010 0016585996 Na podlagi Zakona o DDV Ur. list RS št. 89 98 sodi revija med proizvode za katere se obračunava DDV po stopnji 8,5 %
+191 : Na voljo so vam tudi telefon 061 17 35 351 E pošta darinka sebenikŽczd kmeckiglas.si in faks 061 17 35 376
+192 : Pričakujemo vas v agenciji Avstral Azija Ljubljanska cesta 12 F 1236 Trzin tel. 01 564 1900 faks 01 564 1910 ali mobitel 040 414 710 oziroma 040 414 709
+193 : Podatke za brezplačno objavo pošljite na faks 01 232 39 56 ali e naslov
+194 : tel. 01 3000 787 faks 01 3000 715
+195 : tel. 01 473 81 20 faks 01 473 82 53
+196 : Evropski parlament ASP 05F366 Rue Wiertz 60 tel. + 32 0 2 28 45 638 faks + 32 0 2 28 49 638 B 1047 Bruselj Evropski parlament LOW T10026 Allée du Printemps BP 10024 F F 67070 Strasbourg Cedex tel. + 33 0 3 88 17 56 38 faks + 33 0 3 88 17 96 38 e pošta alojz.peterle@europarl.europa.eu ASISTENT
+197 : Lea Iskra Evropski parlament ASP 13G354 Rue Wiertz 60 B 1047 Bruselj tel. + 32 0 2 28 47 240 faks + 32 0 2 28 49 240 Evropski parlament LOW T07053 Allée du Printemps BP 10024 F F 67070 Strasbourg Cedex tel. + 33 0 3 88 17 72 40 faks 33 0 3 88 17 92 40 e pošta borut.pahor assistant @ europarl.europa.eu
+199 : tel. 01 473 82 25 473 82 28 faks 01 473 82 20
+200 : Uredništvo v Gorici Piazza Vittoria Travnik 25 34170 Gorica tel. 0481 550330 faks 0481 548808 e mail gorica@noviglas.it Uredništvo v Trstu Ulica Donizetti 3 34133 Trst tel. 040 365473 faks 040 775419 e mail trst@noviglas.it Uprava Piazza Vittoria Travnik 25 34170 Gorica tel. 0481 533177 faks 0481 548276 e mail uprava@noviglas.it www.noviglas.it
+201 : tel. 049 8700713 faks 049 8073868 e mail cdascv@libero.it
+202 : tel. 01 473 81 11 473 81 12 faks 01 473 81 29
+203 : Več informacij in podrobnejši opis potovanja dobite v turistični agencija NATURA VIVA Usnjarska 16 v Kamniku ali v poslovalnici na Celovški 69 c v Ljubljani pokličete jih lahko tudi po telefonu na številki 01 505 5793 tudi faks ali 031 372 632 dosegljivi so tudi na e naslovu info@natura-viva-sp.si
+204 : Vošnjakova ul. 3 1000 Ljubljana tel. 01 3000 701 faks 01 3000 715
+205 : Informacije in prijave po telefonih 061 883 169 041 697 697 in faksu 061 883 169
+206 : SLO 2000 Maribor Tržaška 65 tel. 062 305 225 faks 062 305 224
+207 : Svoje tekste vprašanja in vse drugo lahko pošljete na naslov ČZD Kmečki glas Železna cesta 14 1000 Ljubljana po E mailu kmglasŽmibo si ali po faksu 061 17 35 376
+208 : Rezervacije na tel. 066 463 100 ali faks 066 62 222
+209 : tel. 061 176 13 52 faks 061 212 251
+210 : Info Seaway TiM d. o. o. Portorož tel. faks 05 6774122 GSM 041 418899 Mitja ali 041 418884 Tomaž e mail seawaytim@portoroz.com
+211 : faks 01 473 82 53 e pošta naročnine @delo-revije.si
+212 : Za vse dodatne informacije lahko pokličete v Jelovico gospoda Antona Eržena Kidričeva 58 Škofja Loka tel. 064 61 30 faks
+213 : TEL. 02 234 41 00 FAKS 02 723 44 114 E MAIL FONTANAŽTERMEMB
+214 : 01 519 77 14 FAKS 01 519 78 25
+215 : Koordinator SK je Simon Gajšek tel. 03 700 19 30 faks 03 700 19 31 GSM 041 704 798 e pošta gajsekŽstrojni krozek.com
+216 : Ptuj faks in Tel. Tel. 062 783 008
+217 : Več o ponudbi po telefonu 04 20 49 580 faksu 04 20 49 581 ali na spletni strani www.technoracing-sp.si
+218 : Obrtniška 21 8210 Trebnje tel. 07 34 81 350 faks 07 34 81 355
+219 : tel. faks 07 30 66 880 30 66 881 gsm 041 795 808 041 678 036
+220 : Na voljo so vam tudi telefon 01 47 35 351 e pošta darinka.sebenikczd-kmeckiglas.si in faks 01 47 35 376
+221 : Gozd Ljubljana d. d. Tržaška cesta 2 1000 Ljubljana tel. 01 241 02 20 faks 01 241 02 56 e pošta gozdŽgozd si odkupuje les na kamionski cesti in na panju
+222 : TEL :( 0608 59 233 FAKS :( 0608 59 151
+223 : Na voljo so vam tudi telefon 061 17 35 351 E mail kmglasmibo.si in faks 061 17 35 376
+224 : 080 11 55 01 524 19 93 faks sta telefon SOS in faks za ženske in otroke žrtve nasilja
+226 : Če z odgovorom niste zadovoljni ali ga sploh niste prejeli lahko daste pobudo za izredni inšpekcijski nadzor na Socialno inšpekcijo Zemljemerska 12 1000 Ljubljana faks 01 230 26 21
+227 : Gluhonemi lahko pošljete faks 01 524 19 93 e naslov drustvo-sos@drustvo-sos.si spletna stran www.drustvo-sos.si
+228 : Fabjančič Zbilje 10 b 61215 Medvode + in faks 061 612 781
+229 : Veleposlaništvo Republike Slovenije Amaliegade 6 2nd fl. 1256 Copenhagen Denmark tel. 00 45 33 73 01 20 faks 00 45 33 15 06 07
+230 : Izpolnjeno naročilnico pošljite na naslov Demokracija p. p. 4315 1000 Ljubljana ali na faks 01 230 06 61
+231 : DEMOKRACIJA p. p. 4315 Komenskega 11 1000 Ljubljana SI Tel. 01 2300 660 uredništvo urednik@demokracija.si 01 230 06 66 tajništvo tajnistvo@demokracija.si Faks 01 230 06 61
+232 : DEMOKRACIJA p. p. 315 Komenskega 11 1000 Ljubljana SI Tel. 01 2300 660 uredništvo urednik@demokracija.si 01 230 06 66 tajništvo tajnistvo@demokracija.si Faks 01 230 06 61
+233 : Komenskega 11 1000 Ljubljana SI Tel. 01 2300 660 uredništvo urednik@demokracija.si 01 230 06 66 tajništvo tajnistvo@demokracija.si Faks 01 230 06 61 Glavni in odgovorni urednik Metod Berlec Tehnični urednik Bojan Jovan Novinarji Peter Avsenik Gašper Blažič Lucija Horvat Petra Janša Lovro Kastelic Barbara Prevorčič Aleš Kocjan Vida Kocjan Monika Maljevič Ana Müllner Bogdan Sajovic Denis Vengust Mitja Volčanšek Kolumnisti Esad Babačić dr. Metod Benedik dr. Andrej Capuder mag. Klemen Jaklič dr. Janez Jerovšek dr. Janko Kos dr. Matej Makarovič dr. Hubert Požarnik dr. Andrej Rahten dr. Ljubo Sirc dr. Peter Starič
+234 : Traktorje in kombajne Case pri nas prodaja Agro Radgona d. o. o. Apače 3 9253 Apače tel. faks 069 69 314 69 279 kjer Vam bodo postregli z natančnejšimi informacijami o cenah samih strojih servisni službi in oskrbi z rezervnimi deli
+235 : 2000 Maribor Mlinska 1 tel. faks 062 222 641
+237 : Tel. 041 669 195 ali 01 549 22 02 faks 01 549 22 03
+238 : Tel. 01 722 89 97 041 676 198 faks 01 722 70 89
+239 : Tel. faks 07 814 22 37 041 621 285
+240 : Tel. 051 218 322 040 357 716 faks 01 256 56 31
+241 : Informacije Zabeo Mare Yachting Marina Izola tel. 05 649 800 05 640 35 84 faks 05 649 800
+242 : Informacije LNC d. o. o. Cesta solinarjev 8 marina Portorož tel. 05 677 21 00 faks 05 677 21 00 e naslov lnc@siol.net www.lnc.si
+243 : Informacije CISUM d. o. o. tel. faks 01 519 24 90 skladišče
+244 : V. Haydnstraße 11 80336 München tel. 089 54 41 41 0 faks 089 5 30 94 32
+245 : Informacije in rezervacije tel. faks 061 271 471
+246 : Naslov za naročila Studio T Na jami 1 1000 Ljubljana faks 01 515 71 35 ali elektronska pošta studio T a siol.net
+247 : Agencija Arih ima nov naslov Celovška 32 Ljubljana tel. 01 4341700 faks 01 4341740
+248 : Organizatorji sprejemajo redne prijave tekmovalcev do ponedeljka 23. junija po telefonu 068 78 027 78 026 in 061 329 760 kjer dobite tudi vse informacije o prireditvi ter po faksu 068 78 490
+249 : Tel. 02 584 90 63 faks 02 581 16 10
+250 : faksu 01 230 16 27 aratrgovinaŽsiol com siol.com e pošti aratrgovina siol.com www.misteriji.si www.misteriji.si ali pisno na naslov založba 5 ARA založba Cigaletova 5 Ljubljana
+252 : Planet GV d. o. o. Einspielerjeva ulica 6 1000 Ljubljana po faksu 01 30 94 445 s pripisom Kadrovski up 2008 ali e pošti izobrazevanje@planetgv.si
+253 : Einspielerjeva ulica 6 1000 Ljubljana Tel. 01 30 94 444 faks 01 30 94 445 E pošta info@hrm-revija.si Spletna stran www.hrm-revija.si
+255 : Informacije Bojan Bubnič 040 725 596 bojan.bubnic@sagem.si arturo.steffe@gmail.com ali faks številka 05 663 21 10
+256 : Ogled nepremičnega premoženja ki je predmet prodaje je mogoč po predhodnem dogovoru s stečajnim upraviteljem odvetnikom Andrejem Kozeljem Hrvatski trg 3 Ljubljana ali po telefonu št. 01 434 42 08 oziroma po faksu št. 01 431 40 62
+257 : Kongresno turistična agencija Albatros Bled Ribenska c. 2 4260 Bled do 16. novembra 2000 tel. 04 57 80 350 faks 04 57 80 355
+258 : Podrobnejše informacije dobite na naslovu Tehnostroj Heissenberger & Pretzler d. o. o. 9240 Ljutomer Prešernova 40 tel. 02 584 91 00 faks 581 16 75 e pošta infoŽtehnostroj si www.tehnostroj.si
+259 : Tisk Tiskarna Razvedrilo Naklada 8500 izvodov Distribucija POŠTA SLOVENIJE Izid prve številke marec 1991 Naslov uredništva in naročniški oddelek Revija VIP Frankopanska 5 1000 Ljubljana tel. 01 474 06 22 uredništvo tel. 01 474 06 00 naročniški oddelek faks 01 433 33 71 e pošta uredništvo vip@zps.si e pošta naročniški odd. vip.narocnine@zps.si
+260 : Tisk Tiskarna Razvedrilo Naklada 8500 izvodov Distribucija POŠTA SLOVENIJE Izid prve številke marec 1991 Naslov uredništva in naročniški oddelek Revija VIP Frankopanska 5 1000 Ljubljana tel. 01 474 06 22 uredništvo tel. 01 474 06 00 naročniški oddelek faks 01 433 33 71 e pošta uredništvo vip@zps.si e pošta naročniški odd. vip.narocnine@zps.si http://www.zps.si ISSN 1318 1084 TRR 02010 0016585996 Na podlagi Zakona o DDV Ur. list RS št. 89 98 sodi revija med proizvode za katere se obračunava DDV po stopnji 8,5 %
+261 : Gregorčičeva 27 1000 Ljubljana Slovenija Tel. 01 478 10 12 Faks 01 478 10 70 E pošta gp.umar@gov.si Http://www.gov.si/umar
+262 : KGZS KSS Žalec Žalskega tabora 1 3310 Žalec faks 03 710 17 81
+263 : Uredništvo v Trstu Ulica Donizetti 3 34133 Trst tel. 040 365473 faks 040 775419 e mail trst@noviglas.it vanjem siromašili tla so postala nerodovitna Nekaj takega
+264 : Ali Uprava Piazza Vittoria Travnik 25 34170 Gorica tel. 0481 533177 faks 0481 548276 e mail uprava@noviglas.it tako da ste morali uporabljati gnojila in spet bi niso bile sanje večine ljudi v mestih da si kupijo www.noviglas.it li prepričani da ste napredni
+265 : 049 8700713 faks 049 8073868 e mail cdascv@libero.it vela in jih ne gnoji pa vseeno rastejo
+266 : Uredništvo v Trstu Ulica Donizetti 3 34133 Trst tel. 040 365473 faks 040 775419 e mail trst@noviglas.it zreli
+267 : Ne vidim pa v tem naUprava Piazza Vittoria Travnik 25 34170 Gorica tel. 0481 533177 faks 0481 548276 e mail uprava@noviglas.it gijo da si jo podjarmimo da ne postanemo pov predka
+268 : Potrebo po gibanju ste čutili tel. 049 8700713 faks 049 8073868 e mail cdascv@libero.it nutku ko smo od nje odvisni smo njeni sužnji prav vsi
+269 : V. d. odgovorne urednice Petra Ilar Namestnica odgovorne urednice Blanka Markovič Uredništvo Dalmatinova ul. 2 1000 Ljubljana telefon 01 30 91 474 faks 01 30 91 575 Tajnica uredništva Snežna Obreza telefon 01 30 91 481 e pošta tajnica@finance-on.net internetni naslov www.tajnica-on.net Fotografija na naslovnici Aleš Beno Oblikovna zasnova Bojan Dobravc Tehnična urednica Mojca Zavolovšek Prelom Tina Malovrh Oblikovanje oglasov Tadej Trkman Urednica fotografije Barbara Reya Lektoriranje Tina Špelko Oglasno trženje Bojana Vrenjak Lavrenčič telefon 01 30 91 489 Naročnina Mateja Zabukovec telefon 01 30 91 469 Tisk Grafično podjetje Schwarz d. o. o. Koprska 106 d Ljubljana Naklada 3.800 Na leto izide 12 številk
+272 : Tel. 051 218 322 040 357 716 faks 01 256 56 31 e pošta bramont@siol.net
+273 : Informacije na tel. faks 059 113 694 ali na e nasluvu leo.presnig@telemach.net
+274 : tel. 01 42 19 600 faks 01 42 19 655
+275 : Informacije na tel. faks 059 113 694 ali na e naslovu leo.presnig@telemach.net www.parapsihologija.si 641330
+276 : Informacije tel. faks 059 113 694 ali e pošta leo.presnig@telemach.net http://www.parapsihologija.si 641330
+277 : Tel faks 059 113 694 ali e pošta leo.presnig@telemach.net www.parapsihologija.si 641805
+278 : Tel. faks 059 113 694 ali e pošta leo.presnig@telemach.net www.parapsihologija.si 641805
+279 : Tel faks 059 113 694 ali e pošta leo.presnig@telemach.net www.parapsihologija.si
+280 : Tel. faks 059 113 694 ali e pošta leo.presnig@telemach.net www.parapsihologija.si 642193
+281 : Prijave na 04 856 60 70 faks 04 586 60 70
+283 : tel. 01 474 06 00 faks 01 433 33 71 e pošta vip narocnineŽzps zveza.si
+284 : FAKS 04 259 15 20 GSM 041 618 961
+285 : tel. 04 25 19 605 faks 04 25 19 604
+286 : Pisno na Zavod za šport turizem in prosti čas Kosovelova 5 6210 Sežana po telefonu na 05 730 14 80 po faksu na 05 730 14 81 na GSM 051 33 97 59 ali elektronsko na info@sport-sezana.com
+287 : Sporočila nam lahko pošljete po elektronski pošti info@podjetnik.si ali po faksu 01 423 82 60
+288 : Organizator Leskovački sajam 16000 Leskovac Srbija in Črna gora tel. 00 381 16 243 001 faks 00 381 16 212 083 e pošta lesajam@eunet.yu http :// www.lesajam.co.yu
+289 : Informacije po telefonu 064 561 354 faks 064 561 211
+290 : Podrobnejše informacije so na voljo pri zastopniku in prodajalcu za Slovenijo Kmetijska mehanizacija d. o. o. Trboje 10 4000 Kranj tel. faks 064 491565 mtel 0609 632479
+291 : SLO 4000 Kranj Struževo 20 tel. 064 224 235 faks 064 224 237
+292 : Tel. 01 568 57 82 faks 01 541 22 06
+293 : Tel 061 817 000 faks 061 832 662 Tel 0602 43 143 faks 0602 43 100
+295 : Dosegljivi so po telefonu 02 608 41 41 faksu 02 608 40 61 na internetu www.as-boats.si ter preko e maila asboats@siol.net
+296 : Tel. 03 54 82 930 faks 03 54 41 645
+297 : V. Károlyi Mihály utca 1115 tel. 1 8 89 37 00 faks 1 89 37 63 www.danubisgroup.com/erzsebet metro 3 Ferenciek tere 123 sob od 36 E naprej AMEX MASTER VISA
+298 : 3 4 Great Denmark St. tel. 8 74 69 49 faks 1 8 72 76 74 hotels@indigo.ie 48 sob do 200 E MASTER VISA
+299 : Christchurch Place tel. 1 4 54 00 00 faks 1 4 54 00 12 www.bookajurysinn.com 23.27 dec. zaprto 182 sob do 200 E AMEX MASTER VISA
+300 : 20 tel. 040 24 84 80 faks 040 24 15 21 S U Bahn Hauptbahnhof 63 sob od 30 E naprej AMEX DINERS
+301 : Kongens Nytorv 34 tel. 33 12 00 95 faks 33 12 11 18 www.remmen.dk 130 sob od 180 E naprej CREDIT
+302 : Malá Strana Jánski Vršek 3 tel. 57 53 12 68 faks 57 53 41 01 tramvaj 12 22 Malostranská 24 sob od 60 E naprej AMEX MASTER VISA
+303 : 02 234 41 00 faks 02 234 41 14
+304 : telefon 01 473 86 30 in 473 82 87 faks 433 93 27 naslov e pošte zdravje@delo-revije.si
+305 : tel. 01 5897 650 faks 01 565 59 20
+306 : STEP d. o. o. Tržaška 85 2000 Maribor telefon 02 33 01 710 faks 02 33 01 718 e pošta step@step-sejmi.si
+307 : Organizator JADRANSKI SAJAM Trg svobode 5 85310 Budva ZR Jugoslavija telefon 00 381 86 456 410 00 381 86 452 205 faks 00 381 86 451 415 00 381 86 452 042 e pošta jadranskisajam@cg.yu adriafair@cg.yu
+308 : Podjetja ki jih zanima razstavljanje v Skopju lahko podatke dobe tudi na sedežu podjetja Era d. d. v Velenju Sejemska pisarna Prešernova 20 3504 Velenje telefon 03 89 60 370 faks 03 89 60 144 e pošta nevenka.pusnik@era.si hhtp :// www.era.si
+309 : Organizator BANJALUČKI VELESAJAM Pilanska b. b. 78000 Banja Luka Republika srpska Bosna in Hercegovina telefon 00 387 51 311 096 00 387 51 305 542 00 387 51 312 242 faks 00 387 51 305 542 00 387 51 312 242 e pošta metal@blic.net
+311 : Veleposlaništvo Republike Slovenije Moyzesova 4 813 15 Bratislava Slovašla tel. 00 421 2 52 45 00 05 tajništvo faks 00 421 2 52 45 00 09
+312 : Na voljo so vam tudi telefon 061 17 35 382 E mail kmglasŽmibo si in faks 061 17 35 376
+313 : KARSIA d. o. o. Dutovlje tel. faks 061 123 33 84 MTL 0609 621 158
+315 : Več informacij dobite pri zastopniku John Deera za Slovenijo Euroglobtrade d. o. o. Voklo 49 4208 Šenčur tel 064 491 250 faks 064 491 520
+316 : Tel. 062 724 675 Faks 062 724 617
+317 : Društvo bolnikov z osteoporozo Ljubljana Potrčeva 16 1000 Ljubljana tel 01 540 19 15 faks 01 540 19 15 e naslov dusa.zore@siol.net
+318 : tel. 041 593 899 faks 04 204 31 57 e naslov cirles@siol.net
+319 : Vse ki oglašujete v SOS rubriki prosimo da nam redno sporočate vse spremembe in sicer pisno na naslov Naša žena za SOS rubriko Dunajska 5 1000 Ljubljana po faksu 01 473 86 39 ali na elektronski naslov neva.zeleznik@delo-revije.si
+321 : 01 434 25 70 01 434 25 74 01 434 25 75 in faks 01 434 25 72 Miklošičeva 16 Ljubljana UP društvo za pomoč zasvojencem in njihovim svojcem Slovenije nudi celostne informacije o problematiki zasvojenosti in reševanju le te
+323 : 01 528 44 93 faks 01 528 43 61 DGN LJUBLJANA Cesta v Prod 8,1260 Ljubljana Polje e naslov dgn.ljubljana@siol.net
+324 : 02 872 02 46 faks 02 872 02 47 DGN KOROŠKE Trg 4. julija 26 2370 Dravograd e naslov dgn.dravograd@siol.net
+325 : tel. faks 01 24 16 143 24 16 146
+326 : Zveza društev bolnikov z osteoporozo Slovenije Potrčeva 16 1000 Ljubljana tel 01 540 19 15 faks 01 540 19 15
+327 : Društvo bolnikov z osteoporozo Terme Zreče Celje Gregorčičeva 7 3000 Celje tel 041 324 165 faks 03 548 30 21 e naslov eva.orac@siol.net
+328 : 03 746 17 00 03 746 18 19 faks Dom starejših Šentjur splošni dom Svetinova 1 3230 Šentjur e naslov ds.sentjur@ssz-slo.si
+329 : 01 757 01 00 01 757 01 11 faks Dom upokojencev Vrhnika splošni dom Idrijska cesta 13 1360 Vrhnika e naslov du-vrhnika@s5.net
+330 : 01 584 37 00 01 524 78 03 faks Dom starejših občanov Ljubljana Moste Polje splošni dom Ob sotočju 9 1000 Ljubljana e naslov dsolmp@siol.net
+331 : 02 878 32 54 02 878 43 30 02 872 00 90 faks Koroški dom starostnikov Črneče splošni dom Črneče 146 2370 Dravograd e naslov kdsd@siol.net
+332 : Tel. 839 12 50 faks 583 27 18
+333 : Tel. 031 305 532 faks 03 839 54 64
+334 : Tajnica Barbara Kovačič HC telefon 750 66 30 faks 750 66 36 E naslov info@zavod-cankar.si Direktor Boštjan Koprivec Telefon 750 66 34 E naslov direktor@zavod-cankar.si Poslovna sekretarka Irena Oblak Telefon 750 66 32 E naslov poslovodstvo@zavod-cankar.si Kultura Tatjana Oblak Milčinski Cankarjev dom Vrhnika Telefon 755 76 48 E naslov kultura@zavod-cankar.si Šport Daniel Cukjati Telefon 750 66 35 E naslov sport@zavod-cankar.si
+335 : Dragomer Na Grivi 5 p. p. 09 1358 Log pri Brezovici telefon 01 750 77 00 faks 01 750 77 05 Uradne ure v občinski upravi Občine LogDragomer za osebni obisk in po telefonu so v ponedeljek od 9. do 12. ure v sredo od 9. do 12. ure in od 14. do 16. ure in v petek od 9. do 12. ure
+336 : Tel 01 759 17 40 faks 01 759 17 41
+338 : Na voljo so vam tudi telefon 061 17 35 367 E pošta darinka sebenikŽczd kmeckiglas.si in faks 061 17 35 376
+339 : Na voljo so vam tudi telefon 061 17 35 351 E mail kmglasŽmibo si in faks 061 17 35 376
+340 : Tel. 061 125 1303 faks 061 125 20 85 e mail eudelsvn@eunet.si
+341 : Fotokopijo in izpolnjeno prijavnico pošljite na naslov PRO PLAY Glavarjeva 47 Ljubljana lahko pa tudi na faks 01 586 30 50
+342 : Zgibanke lahko brezplačno naročite na naslov #Agencija RAO Parmova 53 61 113 Ljubljana tel. 061 132 32 80 faks 061 132 51 12 #
+344 : E pošta interim@siol.net Tel. 386 1 437 02 43 Faks 386 1 437 02 42 GSM + 386 41 239 332 E pošta interim@siol.net
+345 : IZDAJATELJ UMco d. d. Leskoškova 12 1000 Ljubljana Telefon 01 520 18 0 Faks 01 520 18 40 E mail bukla@umco.si
+346 : Leskoškova 12 1000 Ljubljana telefon 01 520 18 30 faks 01 520 18 40
+347 : To lahko storite tudi po elektronski pošti mesecnik@tv-nm.si ali po faksu 07 39 30 870
+348 : Javni gospodarski zavod Protokolarne storitve Republike Slovenije Predoslje 39 4001 Kranj tel. 04 260 10 00 faks 04 202 15 51
+349 : PRI ZASTOPANJU SKUPINE CNH GLOBAL V SLOVENIJI BLAGOVNO ZNAMKO NEW HOLLAND TRŽIJO NA NASLOVU ITRO D. O. O. ŽELEZARSKA CESTA 3 3220 ŠTORE TEL. 03 577 14 11 FAKS 03 781 01 54 BLAGOVNO ZNAMKO CASE STEYR PA NJIHOVA LJUBLJANSKA POSLOVALNICA ITRO D. O. O. PE LJUBLJANA NA GMAJNI 1517 1236 TRZIN TEL. 01 563 72 37 FAKS 01 563 72 38
+350 : od ponedeljka do petka od 7. do 15. ureSavlje 90 a 1113 Ljubljana tel. faks 061 16 12 185
+351 : tel. 01 42 11 464 faks 01 42 11 465 e pošta infodecor-design.si
+352 : Prijave lahko pošljete na e naslov zoran.novarlic@gmail.com po faksu 02 25 24 188 s priloženim potrdilom o plačilu prijavnine ali jih oddate osebno v soboto 13. decembra 2008 zadnji rok za prijave od 11. do 14. ure v Tribuna baru štadion Ljudski vrt
+353 : Naslov Trinity College Dublin Accomodation Office West Chapel Dublin 2 Irska 353 1 608 1177 faks 353 1 671 1267
+354 : Kidričeva 2a Velenje tel. 063 861 335 faks 859 100
+356 : faks 04 574 35 54 e pošta gg.bled s5.net odkupuje les na kamionski cesti in na panju
+357 : Evidenčne prijave zbiramo po e pošti na naslov emilija.bratoz@ozs.si oziroma po faksu na 01 583 0 583
+358 : RAIGRAF Damijan Hočevar s. p. Celovška 134 Ljubljana tel. faks 01 5055 132 041 687 444 e pošta info@raigraf.si internet www.raigraf.si
+359 : Franc Antolič EUROBROKER tel. faks 0049 7125 408 681 e pošta franc.antolic@web.de
+360 : Tel. faks 04 2531 017 041 672 043
+361 : Kontakt EXAL d. o. o. Nova Gorica tel. 05 333 1136 031 385 536 faks 05 333 1137
+362 : Gradal Se d. o. o. Tržaška 132 1000 Ljubljana tel. 01 242 7000 faks 01 242 7004 e pošta info@gradal-se.si g.
+363 : Lamentale Luka Tašner s. p. Topole 23 3250 Rogaška Slatina tel. 03 819 0139 faks 03 581 4447 e pošta lamentale@siol.net URL www.freeweb.siol.net/tasner02
+364 : Informacije Veritas & Co Škofljica telefon faks 01 366 14 38 GSM 041 695 512 e pošta zdenko.jager@veritasco.si kontaktna oseba Zdenko Jager
+365 : Informacije Promotor Torino Italija tel. 0039 011 6644 111 faks 0039 011 6644 395 e pošta press@promotorinternational.it
+366 : tel. 01 24 16 332 faks 01 24 16 351
+367 : HIDRAVLIČNE IN INDUSTRIJSKE CEVI ter razne komponente za hidravliko in pnevmatiko dobite pri GM FLEX Marjan Grdadolnik s. p. Cesta na Log 85 1357 Notranje Gorice faks 01 365 16 24 tel. 01 3634 009 041 681 106
+368 : Grča z. o. o. Zgornji Lahen 8 2364 Ribnica na Pohorju tel. 02 8768 107 faks 02 8768 226 e pošta grca.grubelnik@siol.net g.
+369 : Udeležence srečanja čaka nekaj sob v hotelu Kompas ker pa je njihovo število omejeno sekcija svetuje da si jih zagotovijo čim prej 04 588 44 77 faks 04 588 44 79 e pošta booking@hitholidays-kg.si
+370 : Makedonija tel. 00 389 2 118 288 faks 00 389 2 117 375
+371 : PREKOV d. o. o. Podsmreka 3 e 1356 Dobrova tel. 01 2573 037 faks 01 2561 281 041 693 799
+372 : Prijavnico za individualne pogovore izpolnite in vrnite na naslov Obrtna zbornica Slovenije služba za promocijo in EOT Celovška 71 1000 Ljubljana ali po faksu 01 583 05 83 najpozneje do 15. julija 2006
+373 : PEKSIM Emica Lipičar Pahor s. p. Gradnikove brigade 11 5000 Nova Gorica tel. faks 05 30 27 136 041 690 872
+374 : Vita Center d. o. o. Pivka 23a 4202 Naklo tel. 04 2519 553 faks 04 2919 570 e pošta sasa.ulaga@vitacenter.si URL www.vitacenter.si ga
+375 : Podatki o organizatorju MARINA PORTOROŽ d. d. Cesta solinarjev 8 6320 Portorož telefon 05 676 12 00 faks 05 676 12 10 e pošta captain@marinap.si http www.marinap.si
+376 : Organizator BJELOVARSKI SAJAM dr. Ante Starčeviča 8 Bjelovar Hrvaška telefon 00 385 43 23 73 21 faks 00 385 43 23 73 22 e pošta bjelovarskisajam@bj.tel.hr http://www.bj-sajam.hr
+377 : Informacije in prijave Rudolf Wostner telefon 01 583 05 41 e pošta rudi.wostner@ozs.si faks 01 505 92 70 R.
+378 : Informacije Fiera Milano Milano Italija tel. 0039 02 485 501 faks 0039 02 48550 420 e pošta fparrini@fmi.it
+379 : Informacije po tel. 040 655 554 ali faksu 01 3627 177
+380 : Oglase lahko pošljete po pošti na naslov Celovška 71 Ljubljana ali po faksu št. 01 519 34 96 01 505 43 73
+381 : Kmečka trgovina Dobravlje Kete Jernej s. p. Dobravlje 34B 5263 Dobravlje tel. 05 3646 690 faks 05 3646 691 e pošta kmecka.dobravlje@volja.net URL www.agronovice.com g.
+382 : Co d. o. o. Stanetova ulica 20 3000 Celje tel. 03 4926 353 faks 03 4926 354 e pošta g.i.company@siol.net ga
+383 : Izdeluje McAfee Associates Inc. 2710 Walsh Avenue Santa Clara CA 95051 0963 USA tel. 408 988 3832 faks 408 970 9727
+384 : Potrošniki so na telefonsko številko pisarne 061 13 16 182 ali prek faksa s številko 061 178 34 40 opozarjali tudi da davčni zavezanci sploh ne izdajajo računov za prodano blago ali opravljeno storitev in da računi ki jih izdajajo davčni zavezanci končnim potrošnikom in tudi drugim davčnim zavezancem ne vsebujejo vseh v zakonu taksativno navedenih postavk
+385 : Prijavnice po pošti faksu 01 583 05 13 ali na e pošti mojca.ponikvar@ozs.si bomo sprejemali do 20. 11. 2003
+386 : Vsekakor bo več informacij na voljo pri zastopniku New Hollanda SŽ Itro d. o. o. Železarska 3 3220 Štore tel. 063 771 411 faks 063 771 522
+387 : Zastopnik Beatus d. o. o. Bratovševa ploščad 9 1000 Ljubljana tel. faks 01 534 63 57 e pošta info@beatus.si
+388 : UMco d. d. Leskoškova 12 1000 Ljubljana Telefon 01 520 18 30 Faks 01 520 18 40 E mail bukla@umco.si
+390 : Mladi tehnik Levstikov trg 7 1000 Ljubljana tel. 01 421 87 80 faks 01 426 22 43
+391 : Faks 04 201 42 13 info@g-glas.si Datum 19. maj 2004
+392 : faks 01 58 98 100 faks 01 58 91 885 faks 01 58 30 596
+393 : WE TAKE CARE EVERYWHERE tel. n. c. 062 320 700 faks 062 320 70 71
+394 : V tovarni krmil Mlinotest Živilska industrija d. d. Ajdovščina tel. 05 36 44 512 36 44 513 36 44 514 faks 05 36 44 516 proizvajajo krmila za govedo prašiče perutnino drobnico kunce divjad in konje
+395 : Podatke za brezplačno objavo pošiljajte na naslov Zavod za šport Slovenije Športnoinformacijski center Celovška 25 1000 Ljubljana faks 01 432 62 18 e pošta koledar@spic.tv spletna stran www.razgibajmozivljenje.net
+396 : Vaše prispevke lahko pošljete na naslov ČZD Kmečki glas Železna cesta 14 1000 Ljubljana E mail kmglasŽmibo si ali po faksu 061 17 35 376
+397 : 8.00 13.00 TELEFONSKA ŠT. CENTRALE 05 728 07 00 FAKS 05 728 07 80 E POŠTA obcina@postojna.si SPLETNA STRAN www.postojna.si
+398 : Tedensko vodenje manjših skupin k čudodelni Bo ji zdravilki v Srbijo tel 01 564 45 47 od 10h 16h faks 01 564 45 48 e mail evekarunŽsiol net od 0h 24h PSIHOKIBERNETIKA ESENOV Psihokibernetika Esenov spodbuja samorazvoj in meditacijo ter omogoča osebne zaščite zaščite naših bližnjih zaščite stvari delovanje z miselnimi frekvencami telesno čustveno in umsko zdravje zdravljenje že obstoječih in preprečevanje novih motenj pa tudi sposobnost psihokirurgije
+401 : Informacije po tel. 05 7300 200 faks 05 7302 500
+402 : Informacije po tel. 01 530 21 72 faks 01 530 21 73
+403 : Tel. faks 01 895 04 80 041 628 614 041 643 574 e pošta renova@siol.net
+404 : PROSEKTA d. o. o. Celovška 150 Ljubljana tel. 01 515 84 00 tel. faks 01 505 61 86
+405 : EIC Koper Polona Matekovič tel. 05 627 96 10 faks 05 627 96 15
+406 : Občina Jesenice Oddelek za okolje in prostor Cesta železarjev 6 4270 Jesenice tel. 04 5869 272 faks 04 5869 213
+407 : Plačilo tudi na čeke faks in Tel. 062 782 874 mobitel 041 675 358 Pergerjeva 1 Ptuj
+408 : tel. 049 8073263 faks 049 8073868 e mail cdascv@libero.it
+409 : Gozd Bled Kmetijsko gozdarska zadruga z. o. o. Za žago 1a 4260 Bled tel. 04 575 05 00 faks 04 575 05 49 odkupuje les na kamionski cesti in na panju opravlja storitve za vsa dela v gozdu in prevzema gozdne površine v upravljanje ali zakup
+410 : TIC Portorož Obala 16 6320 Portorož tel. 05 674 02 31 faks 05 674 82 61
+411 : Sport Activ Brdo 44 5230 Bovec tel. 05 388 65 85 faks 05 388 63 80
+413 : tel. 05 640 50 87 faks 05 640 50 88
+414 : Roletarstvo Ivan Arnuš Povodnova 3 ob Mariborski cesti Ptuj faks in Tel. 062 783 008
+416 : Tel. 386 1 437 02 43 Tel. 386 1 437 02 43 Faks 386 KI interim d. o. o.
+417 : Prijave U 10 in U 14 do 4. februarja U 12 do 11. februarja oziroma do zasedbe turnirja na naslov Športno društvo Bas šport Rozmanova 27 6250 Ilirska Bistrica www.bassport-klub.si ali info@bassport-klub.si faks 05 710 12 07 ali mobilni telefon 031 688 621
+419 : Faks 01 524 73 27 01 438 22 14
+420 : Tel. 01 432 10 55 faks 01 434 72 19
+421 : Tel. 01 300 34 50 60 faks 01 300 34 57
+422 : Tel. centrala 02 584 90 44 int. 75 faks 02 581 16 10
+423 : Tel. 01 300 59 60 faks 01 232 31 86
+424 : Tel. 05 627 84 20 faks 627 84 82
+425 : Tel. 04 201 71 00 faks 04 201 71 13
+426 : Tel. 01 232 55 65 01 230 19 97 faks 01 232 55 65
+427 : Tel. 02 618 11 41 faks 02 618 21 36
+428 : Tel. 07 499 14 27 faks 07 499 14 50
+429 : Tel. 01 241 99 99 01 241 99 90 faks 01 241 99 99
+430 : Tel. 01 475 08 00 faks 01 231 61 90
+431 : Tel. 01 587 49 70 01 587 49 81 faks 01 587 49 90
+432 : Tel. 01 543 72 22 faks 01 524 38 64
+433 : Tel. 01 587 21 00 faks 01 528 46 18
+434 : Tel. 01 520 64 47 faks 01 520 64 45
+435 : Tel. 02 228 65 40 faks 02 228 65 85
+436 : Tel. 02 883 14 70 041 887 925 080 2223 faks 02 883 14 71
+437 : Tel. 02 252 26 97 faks 02 252 40 37
+438 : Tel. 05 338 32 65 faks 05 338 32 24
+439 : Tel. 04 533 33 15 faks 04 530 72 20
+440 : Organizator Cankarjev dom Prešernova cesta 10 1000 Ljubljana T 01 241 71 00 faks 01 241 72 96 e pošta cankarjev.dom@cd.cc.si http :// www.cd.cc.si
+441 : Organizator Marina Portorož d. d. Cesta solinarjev 8 6320 Portorož T 05 676 12 00 faks 05 676 12 10 e pošta captain@marinap.si http :// www marinap.si
+442 : Organizator Skopski saem Belasica 2 1001 Skopje Makedonija T 00389 2 118 288 faks 00389 2 117 375 e pošta skfair@mt.net.mk
+443 : Zastopnik Beatus d. o. o. Bratovševa ploščad 9 1000 Ljubljana T 01 534 63 57 faks 01 534 63 57 e pošta info@beatus.si
+444 : tel. 01 473 82 36 01 473 82 00 faks 01 473 82 20
+445 : Podatki o naročniku Fizična pravna oseba ustrezno obkrožite Ime in priimek Naziv podjetja Ulica hišna številka Elektronska pošta Tel. faks Davčna številka Davčni zavezanec SI da ne ustrezno obkrožite Datum naročila Žig in podpis odgovorne osebe Poštna številka kraj
+446 : 063 851 046 faks 063 851 948 ki je leta 1993 nastala iz podjetja Gorenje Elektronika
+447 : Posodil Xenya tel. 061 125 1332 faks 061 125 1366
+448 : Potrebujemo vizum ki ga za Slovenijo izdaja pristojno maroško veleposlaništvo na Dunaju Embassy of Morocco Opernring 3 5 1010 Wien tel. 00 431 58 66 650 faks 00 431 58 67 667
+449 : Knjigo lahko naročite na tel. faks 068 342 700 GSM 031 651 550 e mail uros ravbarŽsiol net
+450 : tel. 02 661 6771 faks 02 661 4571
+451 : faks 07 495 91 51 GSM 041 561 187
+452 : Za pojasnila ki se nanašajo na naše delo smo prebivalcem omenjenega območja in drugim zainteresiranim na voljo na tel. št. 01 7505 616 faks št. 01 7556 004 e pošti info@primis.si ali osebno v tajništvu podjetja na naslovu Tržaška c. 23 1. nadstropje
+453 : I. Naziv in sedež prodajalca Občina Borovnica Paplerjeva ulica 22 Borovnica tel. 01 7507 460 faks 01 7507 461 II
+454 : POLHOGRAJSKA CESTA 33 1356 DOBROVA Tel. 01 3640 227 Faks 01 3640 228 Mobi 041 394 700 e mail insura@siol.net ZAVARUJEMO vozila in delovne stroje hiše in druge objekte odgovornosti iz dejavnosti VLAGAMO ODŠKODNINSKE ZAHTEVKE za škode v tujini za telesne poškodbe doma in v tujini iz splošne odgovornosti DRUGE STORITVE brezplačno uredimo cenitev in popravilo poškodovanega vozila uredimo prevoz vozila z avtovleko rešujemo sporne primere na zavarovalnicah za 3000Sit + DDV vam posredujemo informacijo o plačilni sposobnosti vaših naročnikov
+455 : TEL 01 3601 800 FAKS 01 3601 805 E POŠTA info@dobrovapolhovgradec.si SPLETNA STRAN www.dobrova-polhovgradec.si www.dobrova.si www.polhovgradec.si URADNE URE PONEDELJEK 8.00 12.00 SREDA 8.00 12.00 14.00 16.00 PETEK 8.00 12.00 Županove uradne ure za občane so po predhodni najavi po tel 01 3601 800 ob ponedeljkih sredah in petkih 8.00 13.00
+456 : Morebitna vprašanja povezana s KGZS lahko še naprej pošiljate na naslov Kmečki glas Železna c. 14 1000 Ljubljana za rubriko Vse o KGZS ali po faksu 01 473 53 76 oz. po e pošti uros korbarŽczd kmeckiglas.si
+457 : tel. 01 585 42 21 faks 01 524 90 33
+458 : Postojnska jama turizem d. d. tel. 05 7000 101 faks 05 7000 130 www.postojnska-jama.si
+459 : JBB d. o. o. Milana Majcna 4 Ljubljana tel. 01 43 47 175 faks 01 43 47 174
+461 : Komentarje ideje ali predloge za izboljšanje bodočih izdaj lahko pošljete na spodnji naslov ali pa nam pošljete faks na številko 317 581 4663
+462 : Če torej želite sodelovati v tej rubriki nam pišite na naslov ČZD Kmečki glas Železna cesta 14 1000 Ljubljana E mail kmglasŽmibo si ali pošljite po faksu 061 17 35 376
+463 : Generalni konzulat Republike Slovenije Radetzkystrasse 26 9020 Celovec Klagenfurt Austria tel. 00 43 463 54 6 05 faks 00 43 463 50 95 62
+464 : Konzulat Republike Avstrije Vita Kraigherja 4 I 2000 Maribor tel. 02 229 22 57 faks 02 224 333
+465 : GORIZIA ITALY Via Duca dAosta 42 tel. 0039 0481 537192 faks 0039 0481 537196
+466 : tel. 01 473 81 23 473 81 24 faks 01 473 82 53
+467 : Motonavis trgovina in storitve d. o. o. Krešimirova 56b 51000 Reka Hrvaška tel. + 385 51 213 955 faks + 385 51 213 899 e naslov motonavis@ri.tel.hr
+468 : TEL. 061 13 41 100 FAKS 061 13 61 228
+469 : Stane Terlep Ljubljana tel. faks 01 561 38 16 GSM 041 637 718
+470 : Grand hotel Corvinus Kempinski Erzsébet tér 7 8 tel. 266 1000 faks 266 2000 5 zvezdic 368 sob in apartmajev tudi 2 predsedniška apartmaja
+471 : Tel. faks 063 754 003 ali GSM 041 621 478
+472 : Prijave sprejemajo do petka na telefonski številki 04 255 10 80 ali po faksu 04 255 13 70
+473 : TOP modeltehnik d. o. o. Ul. IX. korpusa 73 5000 Nova Gorica tel. 05 33 00 173 faks 05 33 00 174 e pošta topmodel@siol.net
+474 : TOP modetehnik d. o. o. Ul. IX. korpusa 73 5000 Nova Gorica tel. 05 330 01 73. faks 05 330 01 74 e pošta topmodel@siol.net http://www.top-modeltehnik.si
+476 : 01 241 85 18 01 241 86 71 faks Kongresni trg 2 Ljubljana sta telefonska številka in faks visokošolske prijavno informacijske službe na njej se lahko študentje od ponedeljka do četrtka med 10. in 12. uro in med 14. in 15. uro ter v petek med 10. in 12. uro informirajo o študijskih programih zasedenosti mest vpisnih pogojih itd.
+477 : Podatke za brezplačno objavo pošljite na faks 01 232 39 56 ali e pošto koledar@rekreacija.si
+478 : 03 818 55 00 03 818 55 11 faks COMETT domovi d. o. o. PE Pegazov dom zasebni zavod s koncesijo Celjska cesta 11 3250 Rogaška Slatina e naslov janja.stojnsek@pegazov-dom.si
+479 : 04 583 41 00 04 583 41 20 faks Dom upokojencev dr. Franceta Bergelja Jesenice splošni dom Ulica Staneta Bokala 4 4270 Jesenice e naslov dufbj@siol.net
+480 : 01 542 15 82 01 542 12 87 faks PAPILOT Zavod za vzpodbujanje in razvijanje kvalitete življenja Center za dnevno oskrbo in druženje starejših Zakotnikova 3 1000 Ljubljana e naslov simona@papilot.si
+481 : 01 839 15 06 01 839 15 10 01 839 13 26 faks Dom starejših občanov Kamnik splošni dom Neveljska pot 26 1240 Kamnik e naslov dom.kamnik1@siol.net
+482 : 01 893 02 22 01 893 02 24 faks Dom starejših občanov Kočevje splošni dom Roška cesta 22 1330 Kočevje e naslov kocevje@ssz-slo.si
+483 : 05 365 98 10 05 365 98 26 faks Dom starejših občanov Ajdovščina splošni dom Bevkova 10 5270 Ajdovščina e naslov ajdovscina@ssz-slo.si
+484 : 05 375 13 00 05 375 13 02 05 375 13 30 faks Socialnovarstveni zavod VITADOM Ljubljana PE Dom za starejše občane Bor zasebni zavod s koncesijo Črni vrh 120 5274 Črni vrh nad Idrijo e naslov tadeja.godnik@vitadom.si
+486 : tel. 068 341 826 341 810 341 288 faks 068 322 625
+487 : Faks 3861 43702 42 1 437 02 42 PE Zupančičeva Jama Železna 14 1000 Ljubljana GSM + + 386 41 239 332 GSM 386 41 239 332 Tel. 386 1E pošta GSM 031 656 847 E pošta info@interim.si 437 02 43 interim@siol.net E pošta interim@siol.net
+488 : Izpolnjeno prijavnica pošljite na Društvo kmetijske tehnike Slovenije Hacquetova 17 1000 Ljubljana tel. 01 2805262 2805100 faks 01 2805255 e pošta drustvo kmetijske tehnikeŽkis h2.si kjer dobite tudi dodatna pojasnila o srečanju
+489 : Bogdana Bizjak telefon 01 709 06 25 faks 01 709 06 33 e naslov bogdana.bizjak@cerknica.si
+490 : PODLUBNIK 1 4220 ŠKOFJA LOKA tel. 04 506 11 00 faks 04 512 51 41
+491 : tel. 04 201 52 40 faks 04 201 52 11
+492 : Občina Radovljica Gorenjska c. št. 19 Radovljica tel. 04 537 23 00 faks 04 53124 684
+493 : tel. 061 136 12 03 faks 061 136 12 14
+494 : GSM 041 674 315 tel. faks 062 773 021
+495 : Več informacij dobite po telefonu 04 20 49 580 ali faksu 04 20 49 580
+496 : Oglasite se na naslovu Radkersburger Metallwarenfabrik GmbH Stadtgrabenstrasse 11 8490 Bad Radkersburg 1. nadstropje tel. 00433476 22 74 0 faks 0043 3476 22 74 22 ali em mail office@radersburger.at m17440
+497 : Lipnica 8 4245 Kropa tel. 04 53 55 109 faks 04 53 36 593
+498 : 03 493 02 02 faks 03 548 37 40 DGN CELJE Lešničarjeva 5 3000 Celje el. nasl. dgn.celje@guest.arnes.si
+499 : Einspielerjeva ulica 6 1000 Ljubljana Tel. 01 30 94 424 faks 01 30 94 445 e pošta info@poslovna-asistenca.si spletna stran www.poslovna-asistenca.si in www.tajnica.si
+500 : Za vse druge informacije v zvezi z naročanjem edicije smo na voljo na Dunajska 5 1509 Ljubljana navedenih telefonskih številkah ali tel. 01 473 81 11 faks 01 473 81 29 po elektronski pošti e pošta marketing@delo-revije.si Nenaročenih besedil Kolportaža in fotografij ne vračamo
+501 : telefon 01 438 22 10 faks 01 438 22 14
+503 : Fizična pravna oseba ustrezno obkrožite Ime in priimek Naziv podjetja Ulica hišna številka Elektronska pošta Tel. faks Davčna številka Davčni zavezanec SI da ne ustrezno obkrožite
+504 : Njihova telefonska številka je 01 511 15 24 faks pa 01 511 12 24
+506 : DELO REVIJE d. d. Marketing POSAMEZNI IZVOD Dunajska 5 1509 Ljubljana tel. 01 473 81 20 faks 01 473 82 53 STANE 490 SIT 2,04 EUR cena revije v EUR je preračunana Naročnine DELO REVIJE d. d. Marketing po centralnem paritetnem tečaju Dunajska 5 1509 Ljubljana 1 EUR = 239,640 SIT
+507 : Tel. 20 23 355 798 faks 20 23 558 781
+508 : V Zvezo za športni ribolov na morju Slovenije s sedežem na Obali 55 v Portorožu telefon in faks sta 05 676 62 43 spletni naslov ribiska.zveza@siol.net uradne ure so v torek in četrtek od 10. do 12. ure tajnik zveze pa je dosegljiv po telefonu 051 232 105 je v letu 2008 registriranih 16 društev z Obale in notranjosti Slovenije
+509 : Demokracija Mivka 25 1000 Ljubljana ali na faks 01 24 47 204
+510 : pošljite faks 01 473 82 53 e pošto na narocnine@delo-revije.si ali pošljite podatke o prejemniku revije in plačniku na naslov Delo Revije d. d. naročniška služba Dunajska 5 1509 Ljubljana
+511 : DEMOKRACIJA Mivka 25 1000 Ljubljana SI Tel. 01 24 47 200 tajništvo tajnistvo@demokracija.si 01 24 47 205 uredništvo urednik@demokracija.si Faks 01 24 47 204
+512 : DEMOKRACIJA Mivka 25 1000 Ljubljana SI Tel. 01 2 7 200 tajništvo tajnistvo@demokracija.si 01 2 7 205 uredništvo urednik@demokracija.si Faks 01 2 7 20
+513 : DEMOKRACIJA Mivka 2 1000 Ljubljana SI Tel. 01 24 47 20 uredništvo urednik@demokracija.si 01 24 47 200 tajništvo tajnistvo@demokracija.si Faks 01 24 47 204
+514 : DEMOKRACIJA Mivka 25 1000 Ljubljana SI Tel. 01 24 47 205 uredništvo urednik@demokracija.si 01 24 47 200 tajništvo tajnistvo@demokracija.si Faks 01 24 47 204
+515 : Italijanski izdelovalec skuterjev Piaggio lastnik blagovnih znamk Piaggio Gilera Vespa in Derbi je zaradi bolj usmerjenega delovanja v slovenskem prostoru meseca marca sklenil sodelovanje z novim partnerjem podjetjem PVG d. o. o. iz Kopra Vangelanska cesta 14 tel 05 6 250 150 faks 05 6 250 151
+516 : IZDAJATELJ UMco d. d. Leskoškova 12 1000 Ljubljana Telefon 01 520 18 30 Faks 01 520 18 40 bukla-urednistvo@umco.si
+517 : Telefon 041 669 195 ali 01 549 22 02 faks 01 549 22 03
+518 : Telefon faks 07 814 22 37 041 621 285
+519 : Telefon 01 722 89 97 041 676 198 faks 01 722 70 89
+520 : Tel. 01 564 45 47 faks 01 564 45 48 od 9. do 17. ure e pošta evekarun@siol.net
+521 : Telefon 01 564 45 47 faks 01 564 45 48 od 9. do 17. ure e pošta evekarun@siol.net
+522 : Telefon 01 564 45 47 faks 01 564 45 48 od 9h do 17h e mail evekarun@siol.net
+523 : Občina Radovljica Gorenjska c. št. 19 Radovljica tel. 04 537 23 00 faks 04 5314 684
+526 : Prijave sprejema Šport Info po telefonu 061 140 23 76 in tudi po telefonu faksu 061 448 132
+527 : Izpolnjeno naro ilnico lahko pošljete na elektronski naslov publicistika.umar@gov.si faks 01 4781070 ali na Urad RS za makroekonomske analize in razvoj Gregor i eva 27 1000 Ljubljana
+528 : Izdajatelj Prirodoslovno društvo Slovenije Salendrova 4 Ljubljana telefon 01 252 19 14 faks 01 421 21 21 e pošta prirodoslovno.drustvo@guest.arnes.si
+529 : Tel. 068 62 050 faks 0608 61 850
+530 : Gorenjska cesta 19 4240 Radovljica tel. 04 537 230 faks 04 531 46 84
+531 : telefon 068 361 000 faks 068 361 004
+533 : Skupina Gozd ki jo sestavljajo družbe Gozd Ljubljana d. d. Tržaška cesta 2 Ljubljana tel. 01 241 02 20 faks 01 241 02 56 e pošta gozdŽgozd si Gozdno gospodarstvo Celje d. d. Ljubljanska cesta 13 tel. 03 428 41 40 faks 03 428 41 60 e pošta ggceljeŽgozd si in Gozdno gospodarstvo Brežice d. o. o. Tržaška cesta 2 Ljubljana tel. 07 499 44 50 01 241 02 20 faks 07 499 44 64 01 241 02 56 z mrežo 20 odkupovalcev pokriva velik del osrednje Slovenije
+535 : LB Leasing Maribor d. o. o. Maribor Titova cesta 2 2000 Maribor Tel. 02 229 70 20 Faks 02 229 70 21 darja trojnerÐlbleasingmb si
+536 : tel. faks 061 775 437 GSM 041 747 810
+537 : Tel. 03 56 71 122 Faks 03 56 71 587
+538 : Gorenjska cesta 19 4240 Radovljica tel. 04 537 23 00 faks 04 531 46 84
+539 : 03 734 56 00 03 734 52 98 faks Dom starejših Zdravilišča Laško splošni dom Zdravilška cesta 4 3270 Laško e naslov dom.starejsih@zdravilisce-lasko.si
+540 : 05 731 17 00 05 731 17 01 faks Dom upokojencev Sežana splošni dom Ivana Turšiča 6 Sežana e naslov domupokojencev.sezana@siol.net
+541 : 03 565 81 00 03 568 41 96 faks Trubarjev dom upokojencev Loka pri Zidanem mostu kombinirani dom Loka 48 1434 Loka pri Zidanem mostu e naslov loka@ssz-slo.si
+542 : 01 513 16 30 01 513 16 65 faks Dom starejših občanov Ljubljana Šiška splošni dom Kunaverjeva 15 1000 Ljubljana e naslov siska@ssz-slo.si
+543 : 01 234 71 00 01 234 71 45 faks Dom upokojencev Center enota Dom Poljane splošni dom Zrinjskega 2 1000 Ljubljana e naslov dom.poljane@siol.net
+544 : 02 480 61 00 02 471 31 57 faks Dom upokojencev Danice Vogrinec enota Pobrežje kombinirani dom Čufarjeva cesta 9 2000 Maribor e naslov dudvm@siol.net
+545 : 02 829 59 20 02 802 56 75 faks Dom dr. Jožeta Potrča splošni dom
+546 : 02 655 66 50 02 655 66 91 faks Dom starejših občanov IDILA splošni dom Vukovski dol 30 2221 Jarenina e naslov gipit@siol.net
+547 : 03 839 28 00 03 839 28 14 faks DEOS d. d.
+549 : 07 499 17 00 07 499 17 11 faks Dom upokojencev in oskrbovancev Impoljca enota Brežice kombinirani dom Prešernova 13 8250 Brežice ČAKALNA DOBA za pokretne 6 mesecev za nepokretne od 3 do 6 mesecev
+550 : 01 568 20 59 01 568 22 16 01 568 13 31 01 568 20 49 faks Dom starejših občanov Ljubljana Bežigrad kombinirani dom Komanova 1 1000 Ljubljana e naslov bezigrad@ssz-slo.si
+551 : 01 890 01 00 01 890 01 10 faks Dom Tisje Šmartno pri Litiji splošni dom in posebni zavod za psihiatrične bolnike Črni potok 13 1275 Šmartno pri Litiji e naslov tisje@ssz-slo.si
+552 : 01 754 31 09 01 754 20 40 01 754 25 55 faks Dom Marije in Marte Karitas Logatec zasebni zavod s koncesijo Šolska pot 1 1370 Logatec e naslov dom.marije.marte@siol.net
+553 : 03 565 33 00 03 565 33 39 03 563 19 60 faks Dom upokojencev Franca Salamona Trbovlje splošni dom Kolonija 1. maja 21 1420 Trbovlje e naslov dom.upo-f-salamon@siol.net
+554 : 03 567 40 85 03 567 41 04 03 567 35 07 faks Dom starejših občanov Polde Ebrl Jamski Izlake splošni dom Izlake 13 1411 Izlake ;( e naslov eberlov.dom.izlake@siol.net
+555 : 02 532 16 09 02 532 16 30 02 530 42 40 faks Dom starejših Rakičan splošni dom Ulica Dr. Vrbnjaka 1 p. p. 1302 9001 Murska Sobota e naslov dom.rakican@maj.net
+556 : 059 080 359 faks 059 080 360 Strossmayerjeva 15 Maribor
+557 : 01 230 78 30 in 01 230 78 38 faks Cigaletova 5 Ljubljana sta telefona in naslov Šenta Slovenskega združenja za duševno zdravje ki vsem ki imajo duševne motnje pomaga da se vrnejo v normalno življenje e naslov info@sent-si.org
+558 : Tel. 386 1 437 02 43 PE 386 1 437 02 Jama Tel. Zupančičeva43 GSM 031 656 847 Faks 386 1 437 02 42 Železnainfo @interim.si Ljubljana E pošta 14 100041 239 332 GSM + 386
+559 : tel 01 423 11 61 faks 01 256 57 82
+560 : Katarina Klemenc Dinjaški tel 01 580 2243 faks 01 580 2432
+561 : Barbara Kus tel 01 580 2883 faks 01 568 1209
+563 : posreduje obrazec v potrditev Banki Slovenije na faks številko 01 42 54 311
+565 : Tesarstvo krovstvo kleparstvo Mario Marič s. p. Polhov Gradec 22 tel. faks 01 364 5622 041 211 218
+567 : Samo Tevž tel. 01 478 39 28 in faks 01 478 39 05
+568 : Slovenski proizvajalec FINES d. o. o. Industrijska 5 1290 Grosuplje tel. 01 788 83 40 faks 01 788 83 42 e pošta info@fines.si http://www.fines.si
+569 : ali po faksu na št. 01 230 26 87
+571 : v digitalni obliki scan podpisanega obrazca po elektronski pošti na naslov tus-klub@tus.si oz. po faksu na številko 05 973 3045
+573 : Franc Antolič EUROBROKER tel. 0049 7125 408 681 faks 0049 7125 408 681
+574 : Profis d. o. o. Industrijska c. 1 Grosuplje tel. 01 7862 201 faks 01 7862 413 e pošta info@profis.si www.profis.si
+576 : DVIG & NAGIB d. o. o. Ljubljana tel. 01 5461 870 041 630 360 faks 01 5461 875 www.dvignagib.si e pošta dvignagib@siol.net
+578 : Tel. faks 05 330 54 73 330 54 74
+583 : Soven d. o. o. Selnica ob Dravi tel. 02 674 0574 faks 02 674 0573 e pošta soven@siol.net
+585 : Veleposlaništvo RS Dublin Morrison Chambers 2nd floor 32 Nassau St Dublin 2 IRSKA tel. + 353 1 6705 240 faks + 353 1 6705 243 e pošta vdb@mzz-dkp.gov.si URL www.gov.si/mzz/dkp/vdb g.
+
+Cluster 0:
+1 : V Sloveniji imamo trenutno 30.000 študentov ki so na faks vpisani samo zato da imajo status da lahko delajo študirajo pa nič
+2 : Zato pa hodim na faks da bom lahko z diplomo opravljal delo katerega pač vsak študent ki ima preveč prostega časa ne more
+14 : Eden takih je tudi znani program za sprejem in pošiljanje faksov WinFax ki je tokrat na voljo že v deseti različici
+16 : Fizične in pravne osebe ga lahko naročijo tako da nam sporočijo svoj naslov po pošti e pošti ali faksu
+17 : Fizične in pravne osebe ga lahko naročijo po pošti e pošti ali faksu
+19 : Novo odločbo so ponudniki interneta včeraj že dobili po elektronski pošti ali po faksu z današnjo pošto pa bo do njih priromala tudi uradno
+20 : Tudi če bom zmagala se faksu ne bom odpovedala je še dodala Vanja
+34 : Če je le mogoče naj vam napotke in odločitve pošlje pisno po faksu ali po elektronski pošti
+38 : Sicer pa bom najprej šel na faks kateri se še nisem odločil
+52 : Prosimo jih tudi naj sporočilo pošljejo na oba faksa torej Janševega in Bajukovega pa tudi na faks OZS da bomo vedeli koliko obrtnikov je v akciji sodelovalo in da bomo na koncu če bo treba obema vladnima možema fakse predali tudi osebno
+72 : Kaj Faks kopirni stroj optični bralnik toplotni brizgalnik
+76 : Microsoft Outlook Program ki ga dobite ob nakupu Microsoft pisarne in vzdržuje vaš osebni notes seznam opravil telefonske pogovore fakse elektronsko pošto
+115 : No do zdaj je seveda vabilo po faksu ali po pošti za policijske zadeve prihajalo na kranjsko dopisništvo Dnevnika do katerega se tudi gospod Belak lahko sprehodi v treh minutah
+128 : Telefon zlasti slušalko pa tudi tipkovnico in aparat v celoti faks računalnik tiskalnik in fotokopirni stroj na katerih se nabirajo prah umazanija in številni škodljivi mikroorganizmi bakterije virusi in glivice je treba redno čistiti in razkuževati posebno še dele ki jih pogosto prijemamo
+150 : Odstopim osebni računalnik monitor tipkovnica miška in multifunkcijsko napravo telefon faks fotokopirni stroj
+169 : Prijave sprejemamo po telefonu faksu klasični pošti ali elektronski pošti
+170 : Poleg simultanega prenašanja podatkov in govora modem podpira tudi sprejemanje in pošiljanje faksov deluje pa tudi kot digitalni odzivnik telefonska tajnica
+171 : V tajništvu ministrstva smo izvedeli le da so mu anonimko poslali po faksu v vlado vendar bo verjetno nanjo odgovoril če se bo seveda odločil za to šele danes
+198 : Matija Odšla bova takrat ko bom končal faks in dobil redno službo
+225 : 07 338 27 20 07 338 27 21 sta telefonska številka in faks Centra za pomoč ljudem v stiski Ulica Slavka Gruma 34 v Novem mestu
+236 : In namesto da bi protest poslali po faksu so ga prihranili za uradnejše mesto ustnega sporočanja
+251 : Podjetje Computer Associates je predstavilo nov strežnik za omrežno sprejemanje in pošiljanje faksov FaxServer ki deluje v okolju Windows NT
+254 : Naročilo na revijo lahko pošljete po faksu e pošti ali internetu
+270 : Poleg žepnih različic Worda in Excela ter odjemalca za elektronsko pošto Pocket Outlook ima Mobilion vgrajen tudi predvajalnik za predstavitve narejene v programu PowerPoint ter program za sprejemanje in pošiljanje faksov bFax Express
+271 : Z njim lahko urejamo svoje obveznosti si pomagamo pri organizaciji sestankov ustvarimo seznam opravil shranjujemo naslove poslovnih partnerjev in prijateljev pišemo zapiske pošiljamo elektronsko pošto in fakse
+282 : Rezervacije preveriti je treba vse rezervacije ki se nanašajo na letalske vozovnice hotele najem avtomobila lokalni prevoz itn. pri čemer je priporočljivo dobiti potrdila po faksu oz. e mailu v primeru da načrtujemo najem avtomobila je treba preveriti tudi uporabnost mednarodnega vozniškega dovoljenja
+294 : Digitalni telefoni ISDN sploh pa faksi so na žalost še zelo dragi
+310 : Evropska organizacija za zaščito državljanskih pravic Statewatch je opozorila da bodo vlade EU v skladu z akcijskim načrtom proti terorizmu skušale prestreči in arhivirati vse telekomunikacijske podatke fakse telefonske pogovore elektronsko pošto
+314 : Že prvi teden je bil moj urnik nabito poln na faksu sem bila od jutra do poznega popoldneva
+320 : 07 338 27 20 07 338 27 21 sta telefonska številka in faks Kluba zdravljenih alkoholikov Centra za pomoč ljudem v stiski Ulica Slavka Gruma 34 v Novem mestu
+322 : 02 480 11 86 02 480 11 87 02 480 11 88 sta telefona in faks mariborske Varne hiše kamor se lahko zatečejo ženske in otroci žrtve domačega nasilja
+337 : Nobena od naprav žal nima vgrajene možnosti za sprejem in pošiljanje faksov vendar pri Epsonu pripravljajo programsko opremo ki bo omogočala preprosto povezavo s samostojnimi faks modemi
+343 : Prijave po telefonu faksu ali elektronski pošti Inštituta za trajnostni razvoj tel. 01 434 37 72 041 725 991
+355 : Lahko tudi po faksu še posebej če ne bo veliko popravkov
+389 : Mislim da bodo navadni telefoni služili samo še za faks in ISDN
+399 : Adrema ali seznam novinarjev in urednikov je namreč eno najpomembnejših orodij v odnosih z mediji in jo dopolnjujejo imena medijev njihovi naslovi imena in priimki novinarjev in urednikov telefonske številke naslovi elektronske pošte in številke faksa
+400 : Njihove večfunkcijske enote angl. MFC združujejo laserski tiskalnik optični čitalnik faks PC faks in fotokopirni stroj
+412 : Zakaj si se pa ti vpisal na ta faks
+415 : Modem Na jezičku Modem lahko s seznama nameščenih modemov izberete tistega ki ga želite uporabiti za pošiljanje in sprejemanje faksov
+418 : Privolitev ki so jo starši poslali po faksu je tako hkrati pomenila tudi privolitev v takojšnje plačilo razlike v stroških
+460 : Kaj Faks kopirni stroj optični bralnik brizgalnik piezo
+475 : 07 338 27 20 07 338 27 21 sta telefonski številki oz. faks Centra za pomoč ljudem v stiski Ulica Slavka Gruma 34 v Novem mestu
+485 : 02 480 11 86 02 480 11 87 02 480 11 88 so telefona in faks mariborske Varne hiše v katero se lahko zatečejo ženske in otroci žrtve domačega nasilja
+502 : Vsak zapis imenika je sestavljen iz imena priimka podjetja naziva dveh telefonskih številk številke faksa in naslova elektronske pošte
+505 : Naj nam pošlje sporočilo preko faksa in bo lahko prišel je dejal
+524 : Podjetje Artisoft znano predvsem po omrežnem sistemu Lantastic je predstavilo nov programski paket za omrežno sprejemanje in pošiljanje faksov BizFax ki je namenjen predvsem manjšim in srednje velikim omrežjem
+525 : Za pošiljanje in sprejemanje faksov z računalnikom lahko v Windowsu 95 98 uporabljamo v operacijski sistem vgrajeno podporo za Windows 3.1 3.11 pa moramo uporabiti priloženi Symantecov program WinFax Lite
+532 : Ta in še druga vprašanja smo po faksu poslali tudi Sodržniku ki je podpisal najmanj dva dokumenta v zvezi s tem nakupom
+534 : Ta teden se mi je začel faks delala bom v istih službah kot doslej
+548 : Ko bo Kazlište enkrat prenehalo redno delovati se bom resno vrnil na faks
+562 : V primeru da so podatki pomanjkljivi ali napačni jih dopolni ali popravi obrazec TPNP 60 opremi z datumom žigom in podpisom ter ga posreduje UJP po faksu ali po pošti najpozneje štiri delovne dni po prejemu
+564 : Še na faksu so nas učili da je s t. d. vse zakonito in ok le vsak ki gre v sodelovanje s takšno družbo tvega da posluje z lopovom
+566 : V kolikor je inšpektor ocenil da bo delavec lahko vprašalnik verodostojneje izpolnil sam je prazni obrazec pustil delavcu in ga poprosil če mu ga vrne po pošti faksu ali osebno
+570 : Volivci morajo zahtevek podpisati in ga poslati po pošti ali faksu lahko pa tudi skenirano po elektronski pošti
+572 : preveril in oblkljukal sedaj ko kličem številko mi pravi da ta številka ne obstaja pa tudi faks še vedno ne funkcionira ali lahko pregledae moje nastavitve če vam pošljem uporabniško ime na ZS
+575 : Večini študentom očitno ni jasno da bodo končanem faksu v večini primerov pristali na ZZRS in prejemali kilavih 225 eur če se ne bo nekaj spremenilo
+577 : Ampak nič za to važno da sedaj uživam s faksom se bom ukvarjal potem ko bo čas za to
+579 : Na vseh faksih počnejo še marskaj drugega ne poznam nobenega kjer bi samo študirali :)
+580 : povsem se strinjam če si se vpisal na faks zato da boš doštudiral potem študiraj in doštudiraj če pa si se vpisal na faks zato da boš imel status in užival ter koristil bonitete naslednjih 5 let potem prepusti mesto na faksu tistemu ki želi bolj resno študirati in doštudirati
+581 : Na faks hodimo zato da bomo nekoč dobili službe prav verjetno je da to ne bo v Sloveniji nažalost ki jih že danes primanjkuje
+582 : 8. začnite brat stvari ki vas jih ne učijo na nobenem faksu kaj šele v javnosti s tem mislim predvsem vede ki so na meji vrjetnega bioenergetika alternativna medicina noetika metafizika metapsihologija kvantan fizika pa še kaj bi se našlo začudeni bi bili koliko nevrjetnih stvari je dejansko že odkritih a nikoli javno predstavljenih veste da se globalna kolektivna zavest dejansko meri že kakih 10 let pa to ni še nič takega napram drugim odkritjem
+584 : Danes se eni vpišejo na razne fakse samo zato da vlečejo ugodnosti za študij jim pa ni okoliški bifeji so polni mladine kadilci skoraj vsi
+586 : Na žalost imamo na faksu urnik od jutra do večera
+
+Counter({0: 526, 1: 61})
+1 : V Sloveniji imamo trenutno 30.000 študentov ki so na faks vpisani samo zato da imajo status da lahko delajo študirajo pa nič
+2 : Zato pa hodim na faks da bom lahko z diplomo opravljal delo katerega pač vsak študent ki ima preveč prostega časa ne more
+14 : Eden takih je tudi znani program za sprejem in pošiljanje faksov WinFax ki je tokrat na voljo že v deseti različici
+16 : Fizične in pravne osebe ga lahko naročijo tako da nam sporočijo svoj naslov po pošti e pošti ali faksu
+17 : Fizične in pravne osebe ga lahko naročijo po pošti e pošti ali faksu
+19 : Novo odločbo so ponudniki interneta včeraj že dobili po elektronski pošti ali po faksu z današnjo pošto pa bo do njih priromala tudi uradno
+20 : Tudi če bom zmagala se faksu ne bom odpovedala je še dodala Vanja
+34 : Če je le mogoče naj vam napotke in odločitve pošlje pisno po faksu ali po elektronski pošti
+38 : Sicer pa bom najprej šel na faks kateri se še nisem odločil
+52 : Prosimo jih tudi naj sporočilo pošljejo na oba faksa torej Janševega in Bajukovega pa tudi na faks OZS da bomo vedeli koliko obrtnikov je v akciji sodelovalo in da bomo na koncu če bo treba obema vladnima možema fakse predali tudi osebno
+72 : Kaj Faks kopirni stroj optični bralnik toplotni brizgalnik
+76 : Microsoft Outlook Program ki ga dobite ob nakupu Microsoft pisarne in vzdržuje vaš osebni notes seznam opravil telefonske pogovore fakse elektronsko pošto
+115 : No do zdaj je seveda vabilo po faksu ali po pošti za policijske zadeve prihajalo na kranjsko dopisništvo Dnevnika do katerega se tudi gospod Belak lahko sprehodi v treh minutah
+128 : Telefon zlasti slušalko pa tudi tipkovnico in aparat v celoti faks računalnik tiskalnik in fotokopirni stroj na katerih se nabirajo prah umazanija in številni škodljivi mikroorganizmi bakterije virusi in glivice je treba redno čistiti in razkuževati posebno še dele ki jih pogosto prijemamo
+150 : Odstopim osebni računalnik monitor tipkovnica miška in multifunkcijsko napravo telefon faks fotokopirni stroj
+169 : Prijave sprejemamo po telefonu faksu klasični pošti ali elektronski pošti
+170 : Poleg simultanega prenašanja podatkov in govora modem podpira tudi sprejemanje in pošiljanje faksov deluje pa tudi kot digitalni odzivnik telefonska tajnica
+171 : V tajništvu ministrstva smo izvedeli le da so mu anonimko poslali po faksu v vlado vendar bo verjetno nanjo odgovoril če se bo seveda odločil za to šele danes
+198 : Matija Odšla bova takrat ko bom končal faks in dobil redno službo
+236 : In namesto da bi protest poslali po faksu so ga prihranili za uradnejše mesto ustnega sporočanja
+251 : Podjetje Computer Associates je predstavilo nov strežnik za omrežno sprejemanje in pošiljanje faksov FaxServer ki deluje v okolju Windows NT
+254 : Naročilo na revijo lahko pošljete po faksu e pošti ali internetu
+270 : Poleg žepnih različic Worda in Excela ter odjemalca za elektronsko pošto Pocket Outlook ima Mobilion vgrajen tudi predvajalnik za predstavitve narejene v programu PowerPoint ter program za sprejemanje in pošiljanje faksov bFax Express
+271 : Z njim lahko urejamo svoje obveznosti si pomagamo pri organizaciji sestankov ustvarimo seznam opravil shranjujemo naslove poslovnih partnerjev in prijateljev pišemo zapiske pošiljamo elektronsko pošto in fakse
+282 : Rezervacije preveriti je treba vse rezervacije ki se nanašajo na letalske vozovnice hotele najem avtomobila lokalni prevoz itn. pri čemer je priporočljivo dobiti potrdila po faksu oz. e mailu v primeru da načrtujemo najem avtomobila je treba preveriti tudi uporabnost mednarodnega vozniškega dovoljenja
+294 : Digitalni telefoni ISDN sploh pa faksi so na žalost še zelo dragi
+310 : Evropska organizacija za zaščito državljanskih pravic Statewatch je opozorila da bodo vlade EU v skladu z akcijskim načrtom proti terorizmu skušale prestreči in arhivirati vse telekomunikacijske podatke fakse telefonske pogovore elektronsko pošto
+314 : Že prvi teden je bil moj urnik nabito poln na faksu sem bila od jutra do poznega popoldneva
+322 : 02 480 11 86 02 480 11 87 02 480 11 88 sta telefona in faks mariborske Varne hiše kamor se lahko zatečejo ženske in otroci žrtve domačega nasilja
+337 : Nobena od naprav žal nima vgrajene možnosti za sprejem in pošiljanje faksov vendar pri Epsonu pripravljajo programsko opremo ki bo omogočala preprosto povezavo s samostojnimi faks modemi
+343 : Prijave po telefonu faksu ali elektronski pošti Inštituta za trajnostni razvoj tel. 01 434 37 72 041 725 991
+355 : Lahko tudi po faksu še posebej če ne bo veliko popravkov
+389 : Mislim da bodo navadni telefoni služili samo še za faks in ISDN
+399 : Adrema ali seznam novinarjev in urednikov je namreč eno najpomembnejših orodij v odnosih z mediji in jo dopolnjujejo imena medijev njihovi naslovi imena in priimki novinarjev in urednikov telefonske številke naslovi elektronske pošte in številke faksa
+400 : Njihove večfunkcijske enote angl. MFC združujejo laserski tiskalnik optični čitalnik faks PC faks in fotokopirni stroj
+412 : Zakaj si se pa ti vpisal na ta faks
+415 : Modem Na jezičku Modem lahko s seznama nameščenih modemov izberete tistega ki ga želite uporabiti za pošiljanje in sprejemanje faksov
+418 : Privolitev ki so jo starši poslali po faksu je tako hkrati pomenila tudi privolitev v takojšnje plačilo razlike v stroških
+460 : Kaj Faks kopirni stroj optični bralnik brizgalnik piezo
+475 : 07 338 27 20 07 338 27 21 sta telefonski številki oz. faks Centra za pomoč ljudem v stiski Ulica Slavka Gruma 34 v Novem mestu
+485 : 02 480 11 86 02 480 11 87 02 480 11 88 so telefona in faks mariborske Varne hiše v katero se lahko zatečejo ženske in otroci žrtve domačega nasilja
+502 : Vsak zapis imenika je sestavljen iz imena priimka podjetja naziva dveh telefonskih številk številke faksa in naslova elektronske pošte
+505 : Naj nam pošlje sporočilo preko faksa in bo lahko prišel je dejal
+524 : Podjetje Artisoft znano predvsem po omrežnem sistemu Lantastic je predstavilo nov programski paket za omrežno sprejemanje in pošiljanje faksov BizFax ki je namenjen predvsem manjšim in srednje velikim omrežjem
+525 : Za pošiljanje in sprejemanje faksov z računalnikom lahko v Windowsu 95 98 uporabljamo v operacijski sistem vgrajeno podporo za Windows 3.1 3.11 pa moramo uporabiti priloženi Symantecov program WinFax Lite
+532 : Ta in še druga vprašanja smo po faksu poslali tudi Sodržniku ki je podpisal najmanj dva dokumenta v zvezi s tem nakupom
+534 : Ta teden se mi je začel faks delala bom v istih službah kot doslej
+548 : Ko bo Kazlište enkrat prenehalo redno delovati se bom resno vrnil na faks
+562 : V primeru da so podatki pomanjkljivi ali napačni jih dopolni ali popravi obrazec TPNP 60 opremi z datumom žigom in podpisom ter ga posreduje UJP po faksu ali po pošti najpozneje štiri delovne dni po prejemu
+564 : Še na faksu so nas učili da je s t. d. vse zakonito in ok le vsak ki gre v sodelovanje s takšno družbo tvega da posluje z lopovom
+566 : V kolikor je inšpektor ocenil da bo delavec lahko vprašalnik verodostojneje izpolnil sam je prazni obrazec pustil delavcu in ga poprosil če mu ga vrne po pošti faksu ali osebno
+570 : Volivci morajo zahtevek podpisati in ga poslati po pošti ali faksu lahko pa tudi skenirano po elektronski pošti
+572 : preveril in oblkljukal sedaj ko kličem številko mi pravi da ta številka ne obstaja pa tudi faks še vedno ne funkcionira ali lahko pregledae moje nastavitve če vam pošljem uporabniško ime na ZS
+575 : Večini študentom očitno ni jasno da bodo končanem faksu v večini primerov pristali na ZZRS in prejemali kilavih 225 eur če se ne bo nekaj spremenilo
+577 : Ampak nič za to važno da sedaj uživam s faksom se bom ukvarjal potem ko bo čas za to
+579 : Na vseh faksih počnejo še marskaj drugega ne poznam nobenega kjer bi samo študirali :)
+580 : povsem se strinjam če si se vpisal na faks zato da boš doštudiral potem študiraj in doštudiraj če pa si se vpisal na faks zato da boš imel status in užival ter koristil bonitete naslednjih 5 let potem prepusti mesto na faksu tistemu ki želi bolj resno študirati in doštudirati
+581 : Na faks hodimo zato da bomo nekoč dobili službe prav verjetno je da to ne bo v Sloveniji nažalost ki jih že danes primanjkuje
+582 : 8. začnite brat stvari ki vas jih ne učijo na nobenem faksu kaj šele v javnosti s tem mislim predvsem vede ki so na meji vrjetnega bioenergetika alternativna medicina noetika metafizika metapsihologija kvantan fizika pa še kaj bi se našlo začudeni bi bili koliko nevrjetnih stvari je dejansko že odkritih a nikoli javno predstavljenih veste da se globalna kolektivna zavest dejansko meri že kakih 10 let pa to ni še nič takega napram drugim odkritjem
+584 : Danes se eni vpišejo na razne fakse samo zato da vlečejo ugodnosti za študij jim pa ni okoliški bifeji so polni mladine kadilci skoraj vsi
+586 : Na žalost imamo na faksu urnik od jutra do večera
+0 : Informacije Fiera di Verona Italija tel. 00 39 045 82 98 111 faks
+3 : Kandidati ki se na strokovni izpit prijavljajo sami fizične osebe ter kandidati ki jih na strokovni izpit prijavljajo gospodarske družbe samostojni podjetniki pravne osebe zasebnega prava ipd. lahko prijave pošiljajo po klasični pošti na naslov Ministrstvo za javno upravo Tržaška 21 1000 Ljubljana ali po faksu št. 01 478 86 49
+4 : 49 68 54 98 faks 00 33 1 49 68 56 32 e pošta sial@sial.fr
+5 : Univerza v Mariboru Fakulteta za turizem Slomškov trg 15 zemljevid SI 2000 Maribor telefon + 386 2 2355 200 faks + 386 2 2355 211 ft.uni-mb.si ft@uni-mb.si
+6 : mag. Marta Šabec tel. 01 478 4739 faks 01 478 4719 e pošta marta.sabec at gov.si
+7 : Hrvaška tel. 00 385 1 37 70 333 faks 00 385 1 37 02 173 e pošta
+8 : Lahko pa pokličete na številko 03 575 62 61 ali pošljete faks na 03 759 04 15
+9 : Informacije o posvojitvi EKO CENTER Caput Insulae Beli Beli 4 51559 Beli Hrvaška tel. faks 00 385 51 840 525 Caput.insulae@ri.tel.hr
+10 : Tel. 07 393 47 40 faks 07 393 47 55
+11 : Informacije na telefon 01 47 35 374 faks 01 43 77 542 e pošta oglasnotrzenjeŽczd kmeckiglas.si
+12 : Lesno proizvodno in trgovsko podjetje Tišler d. o. o. Laporje 61 a 2318 Laporje telefon faks 02 80 25 887 GSM 041 520 873 odkupuje vse vrste trdih listavcev hrast jesen češnja oreh hruška
+13 : Vsi ki želite tekmovati se prijavite v uredništvo revije Drobnica tel. 02 88 43 143 faks 02 88 38 047 ali po elektronski pošti drobnicaŽkm z.si
+15 : Podatke za brezplačno objavo pošiljajte na naslov Zavod za šport Slovenije Športnoinformacijski center Celovška 25 1000 Ljubljana faks 01 230 60 84 e pošta koledar@spic.tv spletna stran www.razgibajmozivljenje.net
+18 : AGROPROGRAM faks 063 34 640 tel. faks 062 773 021
+21 : Tel. 75 04 358 faks 75 02 028 gsm 041 600 457 041 600 458
+22 : Ime in sedež organizatorja javnega zbiranja ponudb Občina Cerknica Cesta 4. maja 53 1380 Cerknica tel. 01 709 06 10 faks 01 709 06 33
+23 : Naziv in sedež naročnika Občina Cerknica Cesta 4. maja 53 1380 Cerknica telefon 01 709 06 10 faks 01 709 06 33
+24 : tel 754 31 50 faks 754 18 91
+25 : Prijave sprejemamo do 20. marca po pošti na naslov Urada ali po faksu na številko 061 178 31 10
+26 : Abanka Vipa d. d. Agencija Logatec tel 7591 974 faks 7542 450 anica.vengust@abanka.si
+27 : Prijave lahko pošljete po faksu 02 25 24 188 s priloženim potrdilom o plačilu prijavnine ali jih oddate osebno v soboto 9. decembra od 9. do 12. ure na sedežu MNZ Vita Kraigherja 8 Maribor
+28 : Telefon 07 334 24 10 faks 07 346 07 31
+29 : Tel. 041 676 041 01 436 0001 faks 01 436 4078 www.pluton-plus.si
+30 : RAIGRAF Damijan Hočevar s. p. Celovška 134 Ljubljana tel. faks 01 5055 132 041 687 444 e pošta raigraf@siol.net
+31 : tel. 01 588 1209 faks 01 569 1209
+32 : ARENA Dušan Šuligoj s. p. M. Štrukelj 8 Nova Gorica tel. 041 646 643 041 695 654 05 330 01 13 faks 05 330 01 14
+33 : ARCH IDEA d. o. o. ind. cona Trzin Blatnica 12 Mengeš tel. faks 061 711 140
+35 : Tel. in faks 03 58 75 484 GSM 041 467 601 Zdenka
+36 : Bistrica www.bassport-klub.si ali info@bassport-klub.si faks 05 710 12 07 ali GSM 051 389 077
+37 : Gorenjska cesta 19 4240 RADOVLJICA Telefon 04 537 23 00 faks 04 531 46 84
+39 : Natančnejše informacije posreduje zastopnik New Hollanda za Slovenijo SŽ Itro d. o. o. Železarska cesta 3 3220 Štore tel 063 77 14 11 faks 063 77 15 22
+40 : Tel. 068 323 553 323 554 faks 323 552
+41 : Informacije Reed Exhibitions Messe Salzburg Avstrija tel. 0043 662 44 770 faks 0043 662 44 77 161 e pošta info@reedexpo.at
+42 : Informcije Poznan Fair Poznan Poljska tel. 0048 61 869 20 00 faks 0048 61 866 58 27 e pošta info@mtp.pl
+43 : Informacije Andrej Prpič s. p. Rozke Usenik 10 1210 Ljubljana Šentvid tel. 01 513 14 80 faks 01 513 14 85 e pošta tujisejmi@siol.net
+44 : Informacije Fiera Trieste Trst Italija tel. 0039 040 9494 111 faks 0039 040 393 062 e pošta info@fiera.trieste.it
+45 : Informacije Obrtno podjetniška zbornica Slovenije služba za promocijo in ekonomske odnose s tujino Celovška 71 1000 Ljubljana faks 01 583 05 83. telefon 01 583 05 86 e naslov edina.zejnic@ozs.si
+46 : Informacije Bojan Štrus Topniška 35d Ljubljana tel. 01 437 70 35 faks 01 437 70 37 e pošta velesajam-zg@siol.net
+47 : Informacije Survey Marketing + consulting Milano Italija tel. 0039 02 86995 712 faks 0039 02 86913 226 e pošta unfo@zow.it
+48 : Informacije Exposium Pariz Francija tel. 0033 1 49 68 52 12 faks 0033 1 49 68 52 75 e pošta juana.moreno@exposium.fr
+49 : Informacije Progres Partners Advertising Praga Češka tel 00420 224 218 403 faks 00420 224 235 033 e pošta domorad@ppa.cz
+50 : A. Torino Italija tel. 0039 011 6644 111 faks 0039 011 6644 395 e pošta press @promotorinternational
+51 : Informacije Reed Messe Salzburg Salzburg Avstrija tel. 0043 662 44 770 faks 0043 622 44 77 161 e pošta info@reedexpo.at
+53 : Informacije CEU Cinisell Balsamo Italija tel. 0039 02 26255 286 faks 0039 02 26255 882 e pošta exhibitions.dept@ucimu.it
+54 : Informacije CEPRA Assago Italija tel. 0039 02 8921 0200 faks 0039 02 8259 009 e pošta filippini@xylexpo.com
+55 : A. Via Nizza 294 10126 Torino Italija telefon 0039 011 6644 111 faks 0039 011 6646 642 e pošta info@lingottofiere.it info@fieraprogettoearredo.it
+56 : HUNGEXPO AG Albertisai ut 10 1101 Budimpešta Madžarska telefon 0036 1 263 6000 faks 0036 1 263 6098 e pošta hungexpo@hungexpo.hu http://www.hungexpo.hu
+57 : BRANDT d. o. o. Reljkovičeva 2 10000 Zagreb Hrvaška telefon 00385 1 37 70 333 faks 00385 1 37 02 173 e pošta brandt@inet.hr
+58 : Messe Essen GmbH Norbertstrasse 45131 Essen Nemčija telefon 0049 201 7244 0 faks 0049 201 7244 248 e pošta info@messe-essen.de
+59 : Internationale Messe Poznan GmbH ul. Glogowska 14 60734 Poznan Poljska telefon 0048 61 869 20 00 faks 0048 61 866 58 27 e pošta info@mtp.pl
+60 : Informacije Padova Fiere Padova Italija tel. 0039 049 840 111 faks 0039 049 840 570 e pošta flormart@padovafiere.it
+61 : Informacije COMEXPO Pariz Francija tel. 0033 1 49 09 42 80 faks 0033 1 49 09 6104 e pošta edevigan@comexpo-paris.com
+62 : Informacije po telefonu 631 112 faks 631 565
+63 : tel. faks 061 125 10 95 125 10 85
+64 : Telefon 03 746 29 00 faks 03 746 29 20
+65 : OE Postojna Vojkova 9 6230 Postojna telefon 05 700 06 10 faks 05 700 06 28
+66 : KE Stari trg Cesta Notranjskega odreda 6 1386 Stari trg pri Ložu telefon 01 705 31 00 faks 01 705 31 08
+67 : Morebitna vprašanja povezana s KGZ nam lahko pošljete na naslov Kmečki glas Železna cesta 14 1000 Ljubljana za rubriko Vse o KGZ ali po faksu 061 173 53 76 oz. po e pošti uros korbarŽczd kmeckiglas.si
+68 : Alojz Tisnikar s. p. Mozirje tel. faks 063 833 416
+69 : klasifikacija ribja nadstandardna naslov Heuplatz 2 Celovec telefon 0043 463 554 99 faks 0043 463 554 994 sedeži znotraj 26 zunaj 25 delovni čas od 12. do 14. ure in od 18. do 22. ure ob sobotah in nedeljah zaprto kreditne kartice Eurocard Visa Diners Amex Maestro BA
+70 : 2000 Maribor Mlinska ulica 1 tel. faks 062 222 641
+71 : Več informacij dobite pri proizvajalcu RM International Lepovče 23 1310 Ribnica tel. 01 836 19 44 faks 01 836 19 43
+73 : po e pošti svet. ljudjeŽczd kmeckiglas.si ali po faksu 01 437 75 42
+74 : faks 061 514 00 73 faks 062 320 73 81
+75 : Tel. 01 423 99 40 faks 01 423 99 45
+77 : Informacije tel. + 33 0 5 46 44 22 82 faks + 33 0 5 46 44 92 42 e naslov info@mystere-catamarans.fr inetrenetna stran www.mystere-catamarans.fr
+78 : Lahko pošljete prijavo tudi na faks 04 20 24 180
+79 : Za podrobnejše informacije o možnostih sklenitve zavarovanja se obrnite na specializirano agencijo za pomorska zavarovanja IBC iz Kopra tel. 05 639 8018 faks 05 6398017 ali na spletnih straneh www.slovensko-morje.net zavarovanje ki vam bo pripravila tudi najugodnejšo ponudbo za sklenitev zavarovanja
+80 : tel. 07 39 39 175 faks 07 39 39 103
+81 : Burin klub Rojčeva 25 1110 Ljubljana telefon 01 510 18 67 faks 01 520 18 63
+82 : Jonathan Yachting Marina Portorož telefon 05 877 89 30 faks 05 877 89 35
+83 : Informacije Intel Srl. Milano tel. 0039 2 32 64 282 faks 0039 2 32 64 284 e pošta intel@intel.anie.it
+84 : Informacije Promexpo Srl. Milano Italija tel. 0039 2 409 22 401 faks 0039 2 409 22 450 e pošta info@promexpo.it
+85 : Informacije APR Andrej Prpič Smlednik tel 01 362 81 53 faks 01 362 76 28 e pošta tujisejmi@siol.net
+86 : faks 03 781 01 54ITRO Štore d. o. o.
+87 : Na voljo so vam tudi telefon 01 47 35 351 e pošta darinka sebenikŽczd kmeckiglas.si in faks 01 47 35 376
+88 : Priročnike lahko naročite po pošti Planet GV d. o. o. Einspielerjeva ulica 6 1000 Ljubljana po faksu 01 30 94 445 ali po e pošti knjigarna@planetgv.si
+89 : Gozdno gospodarstvo Bled d. d. Ljubljanska c. 19 4260 Bled tel. 04 575 00 00 faks 04 574 35 54 odkupuje les na kamionski cesti in na panju opravlja storitve za vsa dela v gozdu in prevzema gozdne površine v upravljanje ali zakup ter vzdržuje in popravlja gozdarsko in kmetijsko mehanizacijo
+90 : Informacije Maksima komunikacije Zagreb Hrvaška tel. 00 385 1 455 22 27 faks 00 385 1 455 22 28 e pošta vesna@maksima.hr
+91 : tel. faks 01 56 13 816 GSM 041 637 718 e pošta stane.terlep@eunet.si
+92 : Informacije Skopski Saem Skopje Makedonija tel. 00389 2 3218 388 faks 00389 2 3218 375 e pošta skfair@mt.net.mk
+93 : Prijavite se lahko po faksu 01 505 92 70 po pošti na gornji naslov sekcije ali po e pošti rudi.wostner@ozs.si R. W.
+94 : V hotelu Vita v Dobrni s štirimi zvezdicami je zanje rezerviranih nekaj sob ki naj si jih čim zagotovijo po telefonu 03 780 81 10 faksu 03 780 81 11 ali e pošti info@terme-dobrna.si
+95 : MARINKO & PARTNERJI d. n. o. Medvedova 28 1000 Ljubljana tel. 01 439 84 30 faks 01 439 84 34 041 764 601 e pošta ales.marinko@siol.net
+96 : Elteh Pungerl d. o. o. Kozinova 2 1000 Ljubljana tel. 01 5182 035 faks 01 5108 813 e pošta elteh.pungerl@siol.net URL www.elteh-pungerl.si g.
+97 : Odgovore pošljite na naslov Obrtna zbornica Slovenije Adrijana Poljanšek Celovška 71 1000 Ljubljana faks 01 5
+98 : Informacije Messecenter Graz Gradec Avstrija tel. 0043 316 80 880 faks 0043 316 80 88 250 e pošta office@messecentergraz.at
+99 : Hitreje gre po faksu 01 30 94 445 ali e pošti knjigarna@planetgv.si
+100 : Prijavnico za individualne pogovore izpolnite in vrnite na naslov Obrtna zbornica Slovenije služba za promocijo in EOT Celovška 71 1000 Ljubljana ali po faksu 01 5830 583 najpozneje do 15. julija 2007
+101 : Stubelj d. o. o. Vojkova 14 Anhovo 5210 Deskle tel. 05 3310 339 faks 05 3310 349
+102 : Če ne morete izterjati svojih terjatev pokličite Finnal d. o. o. Kovinarska 3 D 8270 Krško tel. 07 4905 120 4905 121 faks 07 4925 952 07 4905 122 in uredili vam bomo kompenzacijo ali gotovinsko nakazilo
+103 : FOIRES & SALONS DE BRUXELLES Place de Belgique 1020 Bruselj Belgija telefon 0032 2 474 84 85 faks 0032 2 474 80 52 e pošta bfe@bfe.be
+104 : Box 77777 1070 MS Amsterdam Nizozemska telefon 0031 20 549 2272 faks 0031 20 549 1843 e pošta mail@rai.nl
+105 : Veritas & Co d. o. o. Zdenko Jager Želimlje 73 1291 Škofljica telefon faks 01 366 14 38 GSM 041 695 512 e pošta zdenko.jager@veritasco.si
+106 : Novosadski sajam Hajduk Veljkova 11 21000 Novi Sad Srbija telefon 00381 21 423 341 faks 00381 21 423 341 e pošta info@nsfair.co.yu
+107 : Obala 105 6320 Portorož tel. 05 6779 060 01 3615 228 faks 05 6779 064
+108 : Stubelj d. o. o. Vojkova 14 Anhovo 5210 Deskle tel. 05 3310 333 faks 05 3310 349
+109 : SZR OSA ARILJE tel. 0038131 893 875 0038163 660 585 faks 0038131 894 875 e pošta szrosa@ptt.yu www.osaarilje.com
+110 : Einspielerjeva ulica 6 1000 Ljubljana Tel. 01 30 94 444 faks 01 30 94 445 Epošta info@hrmrevija.si Spletna stran www.hrmrevija.si
+111 : Tima Ekspres Korošec k. d. Cesta Andreja Bitenca 68 1000 Ljubljana faks 01 4210 535 e pošta taxi@amis.net URL www.taxitimaekspres.com ga
+112 : EURO MILD urgenca plačil Dragan Milenković s. p. Pucova 1 3000 Celje tel. 03 547 19 20 faks 03 490 21 17 e pošta sanjami@siol.net Dragan Milenković tel. 547 19 20 e pošta sanjami@siol.net
+113 : Izpolnjeno prijavnico pošljite na naslov Obrtna zbornica Slovenije služba za promocijo in EOT Celovška 71 1000 Ljubljana najpozneje do 25. januarja 2007 ali po faksu 01 58 30 583
+114 : Informacije Firenze Fiera Firence Italija tel. 0039 055 49 721 faks 0039 055 4973 237 e pošta info@firenzefiera.it
+116 : tel. 01 473 81 11 faks 01 473 81 29
+117 : Toplice Dobrna Dobrna 50 Tel. 03 78 08 000 faks 03 78 08 111 e mail info@terme-dobrna.si spletna stran www.terme-dobrna.si
+118 : Eden bolj znanih nemških izdelovalcev velikih vetrnic je firma Enercon iz Auricha faks 0049 41 92 71 99 ki izdeluje vse glavne elemente vetrnih elektrarn vetrnico električni generator in elektroniko potrebno za regulacijo in priključitev vetrnice v omrežje
+119 : Naročite se lahko po telefonu 01 620 88 03 faksu 01 620 88 15 po e pošti narocnine@nevtron.si ali s posebnimi reklamnimi pristopnimi izjavami
+120 : Na voljo so vam tudi telefon 061 1735 367 in faks 061 1735 376 ali elektronski naslov marjan papezŽczd kmeckiglas.si
+121 : Alojz Toplak obrtnik Grajenščak 62 a Ptuj faks in Tel. 062 778 800
+122 : Strokovna založba ekonomske in pravne literature Dunajska cesta 21 1000 Ljubljana Telefon 01 434 55 90 Faks 01 434 55 94 E pošta info@dashofer.si Splet www.dashofer.si
+123 : Dolenjska c. 76 1000 Ljubljana Tel. 01 428 94 05 Faks 01 428 94 06 E pošta info@sisplet.com www.sisplet.com
+124 : Tržaška 85 2000 Maribor Telefon 02 620 6 394 Faks 02 620 6 325 E pošta info@f-secure.si
+125 : tel. 068 323 171 faks 068 23 997
+126 : faks 061 161 60 35 E pošta Zeleni hitŽsiol net
+127 : V tem primeru vam prav tako pošljemo prijavnico ki jo izpolnjeno in podpisano pošljete na naš naslov Delo d. d. Dunajska 5 1509 Ljubljana ali po faksu na številko 01 47 37 613
+129 : Izpolnjeno naročilnico lahko pošljete na elektronski naslov publicistika.umar@gov.si faks 01 4781070 ali na Urad RS za makroekonomske analize in razvoj Gregorčičeva 27 1000 Ljubljana
+130 : Za podrobnejše informacije se lahko pozanimate pri podjetju ROMAX iz Kranja na tel. 04 201 18 37 201 21 79 in faks 04 201 23 61
+131 : Strojni krožek Posavje ki ga koordinira Jože Baznik s KSS Brežice Cesta prvih borcev 41 tel. 07 49 66 480 tel. in faks 07 49 61 165 ima naslednji cenik strojnih storitev pri slabših pogojih dela je lahko cena do 20 odstotkov višja
+132 : Podrobnejše informacije o proizvodnem programu Tajfun Planina d. o. o. Planina 41a 3225 Planina pri Sevnici tel. 03 579 10 11 faks 03 579 12 41 www.tajfun.si oz. www.tajfun.com
+133 : LIKOVNA IN TEHNIČNA UREDNICA Suzana Komel LEKTORICA Renata Hrovatič SODELAVCI Vesna Sivec Poljanšek Maja Poljšak Žana Kapetanović Mateja Bevk Renata Ucman Suzana Belaka Pungartnik Simona Pompe Barbara Žgalin Mateja Jordovič Potočnik Andrej Križ Franci Virant TAJNICA Marina Železnik LIKOVNA ZASNOVA Suzana Komel OGLASNO TRŽENJE DELO REVIJE d. d. Marketing Dunajska 5 1509 Ljubljana tel. 01 473 81 11 473 81 17 faks 01 473 81 29 e pošta marketing@delorevije.si
+134 : 03 57 24 034 faks 03 57 24 740
+135 : IZDAJATELJ UMco d. d. Leskoškova 12 1000 Ljubljana Telefon 01 520 18 30 Faks 01 520 18 40 E mail bukla-urednistvo@umco.si
+136 : Za brezplačne kataloge in ponudbo pokličite UMco d. d. Leskoškova 12 1000 Ljubljana telefon 01 520 18 30 faks 01 520 18 40 info@umco.si www.umco.si Ponudba velja za pravne osebe in društva
+137 : Vabimo vas v naši knjigarni Celje Prešernova 23 tel. 03 490 14 20 21 faks 03 490 14 22 Ljubljana Nazorjeva 1 tel. 01 244 36 50 faks 01 244 36 75 www.mohorjeva.org
+138 : Naročite jo lahko pri Mladini d. d. na Dunajski cesti 51 v Ljubljani najlažje pa bo šlo po telefonu 01 2306 550 faksu 01 2306 510 ali elektronski pošti narocnine@mladina.si
+139 : faks 01 473 82 53 e pošta HYPERLINK mailto naročnine @delo-revije.si naročnine @delo-revije.si
+140 : Vsi ki bi se želeli udeležiti se lahko za informacije obrnejo na tel. št. 041 62 99 88 po faksu 01 361 40 72 ali po elektronski pošti krila@email.si
+141 : Barbara Sršen moda kozmetika zdravje stanovanje prehrana vrt KOLPORTAŽA DELO REVIJE d. d. Marketing Dunajska 5 1509 Ljubljana tel. 01 473 81 20 faks 01 473 82 53 NAROČNINE DELO REVIJE d. d. Marketing Dunajska 5 1509 Ljubljana tel. 01 473 81 23 473 81 24 faks 01 473 82 53 e pošta narocnine@delo-revije.si
+142 : Panoptikum d. o. o. Medvedova 12 1241 Kamnik Proizvodnja letalski modeli tel. 01 831 90 60 faks 01 831 90 65 e pošta modelar@panoptikum.si http://www.panoptikum.si
+143 : Top modeltehnik d. o. o. Bratov HvaIič 145 5000 Nova Gorica Proizvodnja letalski modeli in trgovina tel. 05 330 01 73 faks 05 330 01 74 e pošta topmodel@siol.net http://www.top-modeltehnik.si
+144 : Primotehna d. o. o. Partizanska 3 5 2000 Maribor Male železnice tel. 02 252 58 55 tel faks 02 251 15 94
+145 : Dragomer Na Grivi 5 p. p. 09 1358 Log pri Brezovici telefon 01 750 77 00 faks 01 750 77 05
+146 : IZOBRAŽEVANJE ZA UPORABNIKE FITOFARMACEVTSKIH SREDSTEV Celovška cesta 135 1000 Ljubljana tel. 01 5130 720 faks 01 5130 741 3
+147 : Javni sklad Republike Slovenije za kulturne dejavnosti Območna izpostava Ljubljana okolica Trg MDB 14 1111 Ljubljana tel. + 386 1 241 05 37 422 26 40 faks + 386 1 422 26 44 e pošta oi.ljubljana.okolica@jskd.si razpisuje
+148 : Ivan Šturbej s. p. tel. 03 705 03 70 faks 03 705 03 71 gsm 041 653 287
+149 : Cesta Toneta Kralja 2 1290 Grosuplje SLOVENIJA Tel. + 386 1 787 37 00 Faks + 386 1 787 37 02 e mail veleprodaja@biros.si Prodajalne MEDO ŠPORT Grosuplje RACOON Ljubljana VELO Domžale In druge prodajalne z ribiško opremo po Sloveniji
+151 : Faks + 386 0 1 256 59 80
+152 : Več in natančnejše informacije dobite pri zastopniku za Slovenijo AC Intercar Baragova 5 1000 Ljubljana tel. 01 588 35 85 faks 01 588 35 97
+153 : Hotel Kendov dvorec Na griču 2 5281 Spodnja Idrija Telefon 05 372 51 00 Faks 05 375 64 75 E pošta kendov-dvorec@s5.net info@kendov-dvorec.com www.kendov-dvorec.com
+154 : Gostilna As Čopova 5a 1000 Ljubljana Telefon 01 425 88 22 Faks 01 252 72 38 Mobitel 031 580 219 E pošta gostilna.as@siol.net www.gostilnaas.si
+155 : Gostilna Pri Kuklju Trubarjeva 31 1315 Velike Lašče Telefon 01 788 90 98 Faks 01 788 91 30 Mobitel 031 703 991 E pošta gostilna.kukelj@siol.net www.prikuklju.com
+156 : tel. 01 361 12 66 faks 01 361 37 28
+157 : tel. 04 201 42 00 faks 04 201 42 13 e pošta info@g-glas.si http://www.gorenjskiglas.si
+158 : FAKS 062 60 90 410 V SODELOVANJU Z DOW AGROSCIENCES
+159 : LHB Trade Zagreb Trg Dražena Petrovi a 3 XVII 10000 Zagreb Telefon + 385 1 4844030 Faks + 385 1 4843611 E pošta zagrebÐlhb de LHB Immobilien GmbH Ottostraße 3 5 80333 München Telefon 089 551503 0 Faks 089 554776 E pošta muenchenÐlhb de
+160 : Veleposlaništvo Grčije Trnovski pristan 14 1000 Ljubljana tel. 01 420 14 00 faks 01 281 11 14
+161 : UMco d. d. Leskoškova 12 1000 Ljubljana Telefon 01 520 18 30 Faks 01 520 18 40 E mail premiera@umco.si ISSN 1580 3678 Naklada 40.000 izvodov
+162 : Leskovškova 6 1000 Ljubljana Telefon 01 5202 800 Faks 01 5202 840 www.lexmark.si www.alterna-i.si info.alterna@alterna-i.si
+163 : Dolenjska cesta 244 1000 Ljubljana Telefon 01 4205 570 Faks 01 4205 584 E pošta info@marmis.si
+164 : POSAVSKI OBZORNIK izdaja Zavod Neviodunum v Krškem Uredništvo Trg Matije Gubca 3 8270 Krško Tel. 07 49 05 782 Faks 07 49 05 781 www.posavje.info obzornik@volja.net TRR 03155 1086687920 Odgovorni urednik Silvester Mavsar Izvršni urednik Peter Pavlovič Prelom in priprava za tisk Studio Neviodunum Krško Vodja trženja Katarina Požun tel. 07 49 05 780
+165 : Tel. 01 230 12 01 faks 01 439 71 05
+166 : Na voljo so vam tudi telefon 061 17 35 351 E mail darinka sebenikŽczd kmeckiglas.si in faks 061 17 35 376
+167 : tel. 067 510 007 faks 067 510 008
+168 : Za brezplačne kataloge in ponudbo pokličite UMco d. d. Leskoškova 12 1000 Ljubljana telefon 01 520 18 30 faks 01 520 18 40 info@umco.si www.umco.si
+172 : Teslina 10 tel. 4811 427 faks 4811 443 www.vinodol-zg.hr odprto 10.00 24.00
+173 : Prijave sprejemajo do 26. oktobra na naslov GILŠ KODUM p. p. 4506 1001 Ljubljana tel. faks 061 126 42 35 Metka Zobec
+174 : Tel. 07 33 70 600 faks 07 33 70 601
+175 : telefon 05 331 52 31 faks 05 331 52 40 e pošta natasa.frelih@p-ng.si
+176 : Tel. 02 534 93 90 faks 02 534 93 91 Trg zmage 4 p. p. 207 9101 M. Sobota
+177 : Avtor Mijenix Corporation ZDA tel. 001 608 277 1981 faks 001 608 277 1971
+178 : DSI Ul. Donizetti 3 34133 Trst Italija Tel. + 39 040 370846 faks + 39 040 633307 El. naslov redakcija@mladika.com
+179 : Občina Jesenice Oddelek za okolje in prostor Cesta železarjev 6 4270 Jesenice tel. 04 5869 221 faks 04 5869 213 e pošta katarina.koblar@jesenice.si
+180 : dušan bezek s. p. Metliška cesta 1 semič tel. faks 07 30 67 197 gsm 040 782 605 e mail dusan.bezek@email.si
+181 : Dušan Bezek s. p. Metliška cesta 1 Semič Tel. faks 07 30 67 197 gsm 040 782 605
+182 : Tel. faks 07 33 76 500 Župnca 3 novo mesto
+183 : POSAVSKI OBZORNIK izdaja Zavod neviodunum v krškem Uredništvo trg Matije gubca 3 8270 krško tel. 07 49 05 782 Faks 07 49 05 781 www.posavje.info obzornik@volja.net trr 03155 1086687920 Odgovorni urednik silvester Mavsar Izvršni urednik Peter Pavlovič Prelom in priprava za tisk studio neviodunum krško Trženje in promocija Bojana kunej tel. 07 49 05 780 bojana.kunej@posavje.info
+184 : POSAVSKI OBZORNIK izdaja Zavod Neviodunum v Krškem Uredništvo Trg Matije gubca 3 8270 Krško Tel. 07 49 05 782 Faks 07 49 05 781 www.posavje.info obzornik@volja.net Trr 03155 1086687920 Odgovorni urednik Silvester Mavsar Glavni urednik Peter Pavlovič Prelom in priprava za tisk Studio Neviodunum Krško Trženje in promocija Bojana Kunej tel. 07 49 05 780 bojana.kunej@posavje.info
+185 : POSAVSKI OBZORNIK izdaja Zavod Neviodunum v krškem Uredništvo trg Matije gubca 3 8270 krško tel. 07 49 05 782 Faks 07 49 05 781 E pošta redakcija@posavje.info tRR 03155 1086687920 Odgovorni urednik Silvester Mavsar Glavni urednik Peter Pavlovič Prelom in priprava za tisk Studio Neviodunum krško Trženje in promocija Bojana kunej tel. 07 49 05 780 bojana.kunej@posavje.info
+186 : Tel. 310 453 4402 faks 310 453 8775 e mail Continuummove @earthlink net
+187 : Tel 832 852 832 526 faks 832 526
+188 : Več informacij dobite pri prodajalcu za Slovenijo KM Agroremont Marjan Klobasa s. p. Radgonska 5 2235 Sv. Trojica tel. 02 729 02 70 tel. faks 02 729 02 71 www.km-sp.si Email marjan.klobasa@amis.net pa tudi na Ferrarijevi domači strani www.bcs-ferrari.it
+189 : Tisk Tiskarna Razvedrilo Distribucija POŠTA SLOVENIJE Izid prve številke marec 1991 Naslov uredništva in naročniški oddelek Revija VIP Frankopanska 5 1000 Ljubljana tel. 01 474 06 22 uredništvo tel. 01 474 06 00 naročniški oddelek faks 01 433 33 71 e pošta uredništvo vip@zps.si e pošta naročniški odd. vip.narocnine@zps.si http ::// www.zps.si ISSN 1318 1084 TRR 02010 0016585996 Na podlagi Zakona o DDV Ur. list RS št. 89 98 sodi revija med proizvode za katere se obračunava DDV po stopnji 8,5 %
+190 : Tisk Tiskarna Razvedrilo Distribucija POŠTA SLOVENIJE Izid prve številke marec 1991 Naslov uredništva in naročniški oddelek Revija VIP Frankopanska 5 1000 Ljubljana tel. 01 474 06 22 uredništvo tel. 01 474 06 00 naročniški oddelek faks 01 433 33 71 e pošta uredništvo vipŽzps zveza.si e pošta naročniški odd. vip narocnineŽzps zveza.si http ::// www.zps-zveza.si ISSN 1318 1084 TRR 02010 0016585996 Na podlagi Zakona o DDV Ur. list RS št. 89 98 sodi revija med proizvode za katere se obračunava DDV po stopnji 8,5 %
+191 : Na voljo so vam tudi telefon 061 17 35 351 E pošta darinka sebenikŽczd kmeckiglas.si in faks 061 17 35 376
+192 : Pričakujemo vas v agenciji Avstral Azija Ljubljanska cesta 12 F 1236 Trzin tel. 01 564 1900 faks 01 564 1910 ali mobitel 040 414 710 oziroma 040 414 709
+193 : Podatke za brezplačno objavo pošljite na faks 01 232 39 56 ali e naslov
+194 : tel. 01 3000 787 faks 01 3000 715
+195 : tel. 01 473 81 20 faks 01 473 82 53
+196 : Evropski parlament ASP 05F366 Rue Wiertz 60 tel. + 32 0 2 28 45 638 faks + 32 0 2 28 49 638 B 1047 Bruselj Evropski parlament LOW T10026 Allée du Printemps BP 10024 F F 67070 Strasbourg Cedex tel. + 33 0 3 88 17 56 38 faks + 33 0 3 88 17 96 38 e pošta alojz.peterle@europarl.europa.eu ASISTENT
+197 : Lea Iskra Evropski parlament ASP 13G354 Rue Wiertz 60 B 1047 Bruselj tel. + 32 0 2 28 47 240 faks + 32 0 2 28 49 240 Evropski parlament LOW T07053 Allée du Printemps BP 10024 F F 67070 Strasbourg Cedex tel. + 33 0 3 88 17 72 40 faks 33 0 3 88 17 92 40 e pošta borut.pahor assistant @ europarl.europa.eu
+199 : tel. 01 473 82 25 473 82 28 faks 01 473 82 20
+200 : Uredništvo v Gorici Piazza Vittoria Travnik 25 34170 Gorica tel. 0481 550330 faks 0481 548808 e mail gorica@noviglas.it Uredništvo v Trstu Ulica Donizetti 3 34133 Trst tel. 040 365473 faks 040 775419 e mail trst@noviglas.it Uprava Piazza Vittoria Travnik 25 34170 Gorica tel. 0481 533177 faks 0481 548276 e mail uprava@noviglas.it www.noviglas.it
+201 : tel. 049 8700713 faks 049 8073868 e mail cdascv@libero.it
+202 : tel. 01 473 81 11 473 81 12 faks 01 473 81 29
+203 : Več informacij in podrobnejši opis potovanja dobite v turistični agencija NATURA VIVA Usnjarska 16 v Kamniku ali v poslovalnici na Celovški 69 c v Ljubljani pokličete jih lahko tudi po telefonu na številki 01 505 5793 tudi faks ali 031 372 632 dosegljivi so tudi na e naslovu info@natura-viva-sp.si
+204 : Vošnjakova ul. 3 1000 Ljubljana tel. 01 3000 701 faks 01 3000 715
+205 : Informacije in prijave po telefonih 061 883 169 041 697 697 in faksu 061 883 169
+206 : SLO 2000 Maribor Tržaška 65 tel. 062 305 225 faks 062 305 224
+207 : Svoje tekste vprašanja in vse drugo lahko pošljete na naslov ČZD Kmečki glas Železna cesta 14 1000 Ljubljana po E mailu kmglasŽmibo si ali po faksu 061 17 35 376
+208 : Rezervacije na tel. 066 463 100 ali faks 066 62 222
+209 : tel. 061 176 13 52 faks 061 212 251
+210 : Info Seaway TiM d. o. o. Portorož tel. faks 05 6774122 GSM 041 418899 Mitja ali 041 418884 Tomaž e mail seawaytim@portoroz.com
+211 : faks 01 473 82 53 e pošta naročnine @delo-revije.si
+212 : Za vse dodatne informacije lahko pokličete v Jelovico gospoda Antona Eržena Kidričeva 58 Škofja Loka tel. 064 61 30 faks
+213 : TEL. 02 234 41 00 FAKS 02 723 44 114 E MAIL FONTANAŽTERMEMB
+214 : 01 519 77 14 FAKS 01 519 78 25
+215 : Koordinator SK je Simon Gajšek tel. 03 700 19 30 faks 03 700 19 31 GSM 041 704 798 e pošta gajsekŽstrojni krozek.com
+216 : Ptuj faks in Tel. Tel. 062 783 008
+217 : Več o ponudbi po telefonu 04 20 49 580 faksu 04 20 49 581 ali na spletni strani www.technoracing-sp.si
+218 : Obrtniška 21 8210 Trebnje tel. 07 34 81 350 faks 07 34 81 355
+219 : tel. faks 07 30 66 880 30 66 881 gsm 041 795 808 041 678 036
+220 : Na voljo so vam tudi telefon 01 47 35 351 e pošta darinka.sebenikczd-kmeckiglas.si in faks 01 47 35 376
+221 : Gozd Ljubljana d. d. Tržaška cesta 2 1000 Ljubljana tel. 01 241 02 20 faks 01 241 02 56 e pošta gozdŽgozd si odkupuje les na kamionski cesti in na panju
+222 : TEL :( 0608 59 233 FAKS :( 0608 59 151
+223 : Na voljo so vam tudi telefon 061 17 35 351 E mail kmglasmibo.si in faks 061 17 35 376
+224 : 080 11 55 01 524 19 93 faks sta telefon SOS in faks za ženske in otroke žrtve nasilja
+225 : 07 338 27 20 07 338 27 21 sta telefonska številka in faks Centra za pomoč ljudem v stiski Ulica Slavka Gruma 34 v Novem mestu
+226 : Če z odgovorom niste zadovoljni ali ga sploh niste prejeli lahko daste pobudo za izredni inšpekcijski nadzor na Socialno inšpekcijo Zemljemerska 12 1000 Ljubljana faks 01 230 26 21
+227 : Gluhonemi lahko pošljete faks 01 524 19 93 e naslov drustvo-sos@drustvo-sos.si spletna stran www.drustvo-sos.si
+228 : Fabjančič Zbilje 10 b 61215 Medvode + in faks 061 612 781
+229 : Veleposlaništvo Republike Slovenije Amaliegade 6 2nd fl. 1256 Copenhagen Denmark tel. 00 45 33 73 01 20 faks 00 45 33 15 06 07
+230 : Izpolnjeno naročilnico pošljite na naslov Demokracija p. p. 4315 1000 Ljubljana ali na faks 01 230 06 61
+231 : DEMOKRACIJA p. p. 4315 Komenskega 11 1000 Ljubljana SI Tel. 01 2300 660 uredništvo urednik@demokracija.si 01 230 06 66 tajništvo tajnistvo@demokracija.si Faks 01 230 06 61
+232 : DEMOKRACIJA p. p. 315 Komenskega 11 1000 Ljubljana SI Tel. 01 2300 660 uredništvo urednik@demokracija.si 01 230 06 66 tajništvo tajnistvo@demokracija.si Faks 01 230 06 61
+233 : Komenskega 11 1000 Ljubljana SI Tel. 01 2300 660 uredništvo urednik@demokracija.si 01 230 06 66 tajništvo tajnistvo@demokracija.si Faks 01 230 06 61 Glavni in odgovorni urednik Metod Berlec Tehnični urednik Bojan Jovan Novinarji Peter Avsenik Gašper Blažič Lucija Horvat Petra Janša Lovro Kastelic Barbara Prevorčič Aleš Kocjan Vida Kocjan Monika Maljevič Ana Müllner Bogdan Sajovic Denis Vengust Mitja Volčanšek Kolumnisti Esad Babačić dr. Metod Benedik dr. Andrej Capuder mag. Klemen Jaklič dr. Janez Jerovšek dr. Janko Kos dr. Matej Makarovič dr. Hubert Požarnik dr. Andrej Rahten dr. Ljubo Sirc dr. Peter Starič
+234 : Traktorje in kombajne Case pri nas prodaja Agro Radgona d. o. o. Apače 3 9253 Apače tel. faks 069 69 314 69 279 kjer Vam bodo postregli z natančnejšimi informacijami o cenah samih strojih servisni službi in oskrbi z rezervnimi deli
+235 : 2000 Maribor Mlinska 1 tel. faks 062 222 641
+237 : Tel. 041 669 195 ali 01 549 22 02 faks 01 549 22 03
+238 : Tel. 01 722 89 97 041 676 198 faks 01 722 70 89
+239 : Tel. faks 07 814 22 37 041 621 285
+240 : Tel. 051 218 322 040 357 716 faks 01 256 56 31
+241 : Informacije Zabeo Mare Yachting Marina Izola tel. 05 649 800 05 640 35 84 faks 05 649 800
+242 : Informacije LNC d. o. o. Cesta solinarjev 8 marina Portorož tel. 05 677 21 00 faks 05 677 21 00 e naslov lnc@siol.net www.lnc.si
+243 : Informacije CISUM d. o. o. tel. faks 01 519 24 90 skladišče
+244 : V. Haydnstraße 11 80336 München tel. 089 54 41 41 0 faks 089 5 30 94 32
+245 : Informacije in rezervacije tel. faks 061 271 471
+246 : Naslov za naročila Studio T Na jami 1 1000 Ljubljana faks 01 515 71 35 ali elektronska pošta studio T a siol.net
+247 : Agencija Arih ima nov naslov Celovška 32 Ljubljana tel. 01 4341700 faks 01 4341740
+248 : Organizatorji sprejemajo redne prijave tekmovalcev do ponedeljka 23. junija po telefonu 068 78 027 78 026 in 061 329 760 kjer dobite tudi vse informacije o prireditvi ter po faksu 068 78 490
+249 : Tel. 02 584 90 63 faks 02 581 16 10
+250 : faksu 01 230 16 27 aratrgovinaŽsiol com siol.com e pošti aratrgovina siol.com www.misteriji.si www.misteriji.si ali pisno na naslov založba 5 ARA založba Cigaletova 5 Ljubljana
+252 : Planet GV d. o. o. Einspielerjeva ulica 6 1000 Ljubljana po faksu 01 30 94 445 s pripisom Kadrovski up 2008 ali e pošti izobrazevanje@planetgv.si
+253 : Einspielerjeva ulica 6 1000 Ljubljana Tel. 01 30 94 444 faks 01 30 94 445 E pošta info@hrm-revija.si Spletna stran www.hrm-revija.si
+255 : Informacije Bojan Bubnič 040 725 596 bojan.bubnic@sagem.si arturo.steffe@gmail.com ali faks številka 05 663 21 10
+256 : Ogled nepremičnega premoženja ki je predmet prodaje je mogoč po predhodnem dogovoru s stečajnim upraviteljem odvetnikom Andrejem Kozeljem Hrvatski trg 3 Ljubljana ali po telefonu št. 01 434 42 08 oziroma po faksu št. 01 431 40 62
+257 : Kongresno turistična agencija Albatros Bled Ribenska c. 2 4260 Bled do 16. novembra 2000 tel. 04 57 80 350 faks 04 57 80 355
+258 : Podrobnejše informacije dobite na naslovu Tehnostroj Heissenberger & Pretzler d. o. o. 9240 Ljutomer Prešernova 40 tel. 02 584 91 00 faks 581 16 75 e pošta infoŽtehnostroj si www.tehnostroj.si
+259 : Tisk Tiskarna Razvedrilo Naklada 8500 izvodov Distribucija POŠTA SLOVENIJE Izid prve številke marec 1991 Naslov uredništva in naročniški oddelek Revija VIP Frankopanska 5 1000 Ljubljana tel. 01 474 06 22 uredništvo tel. 01 474 06 00 naročniški oddelek faks 01 433 33 71 e pošta uredništvo vip@zps.si e pošta naročniški odd. vip.narocnine@zps.si
+260 : Tisk Tiskarna Razvedrilo Naklada 8500 izvodov Distribucija POŠTA SLOVENIJE Izid prve številke marec 1991 Naslov uredništva in naročniški oddelek Revija VIP Frankopanska 5 1000 Ljubljana tel. 01 474 06 22 uredništvo tel. 01 474 06 00 naročniški oddelek faks 01 433 33 71 e pošta uredništvo vip@zps.si e pošta naročniški odd. vip.narocnine@zps.si http://www.zps.si ISSN 1318 1084 TRR 02010 0016585996 Na podlagi Zakona o DDV Ur. list RS št. 89 98 sodi revija med proizvode za katere se obračunava DDV po stopnji 8,5 %
+261 : Gregorčičeva 27 1000 Ljubljana Slovenija Tel. 01 478 10 12 Faks 01 478 10 70 E pošta gp.umar@gov.si Http://www.gov.si/umar
+262 : KGZS KSS Žalec Žalskega tabora 1 3310 Žalec faks 03 710 17 81
+263 : Uredništvo v Trstu Ulica Donizetti 3 34133 Trst tel. 040 365473 faks 040 775419 e mail trst@noviglas.it vanjem siromašili tla so postala nerodovitna Nekaj takega
+264 : Ali Uprava Piazza Vittoria Travnik 25 34170 Gorica tel. 0481 533177 faks 0481 548276 e mail uprava@noviglas.it tako da ste morali uporabljati gnojila in spet bi niso bile sanje večine ljudi v mestih da si kupijo www.noviglas.it li prepričani da ste napredni
+265 : 049 8700713 faks 049 8073868 e mail cdascv@libero.it vela in jih ne gnoji pa vseeno rastejo
+266 : Uredništvo v Trstu Ulica Donizetti 3 34133 Trst tel. 040 365473 faks 040 775419 e mail trst@noviglas.it zreli
+267 : Ne vidim pa v tem naUprava Piazza Vittoria Travnik 25 34170 Gorica tel. 0481 533177 faks 0481 548276 e mail uprava@noviglas.it gijo da si jo podjarmimo da ne postanemo pov predka
+268 : Potrebo po gibanju ste čutili tel. 049 8700713 faks 049 8073868 e mail cdascv@libero.it nutku ko smo od nje odvisni smo njeni sužnji prav vsi
+269 : V. d. odgovorne urednice Petra Ilar Namestnica odgovorne urednice Blanka Markovič Uredništvo Dalmatinova ul. 2 1000 Ljubljana telefon 01 30 91 474 faks 01 30 91 575 Tajnica uredništva Snežna Obreza telefon 01 30 91 481 e pošta tajnica@finance-on.net internetni naslov www.tajnica-on.net Fotografija na naslovnici Aleš Beno Oblikovna zasnova Bojan Dobravc Tehnična urednica Mojca Zavolovšek Prelom Tina Malovrh Oblikovanje oglasov Tadej Trkman Urednica fotografije Barbara Reya Lektoriranje Tina Špelko Oglasno trženje Bojana Vrenjak Lavrenčič telefon 01 30 91 489 Naročnina Mateja Zabukovec telefon 01 30 91 469 Tisk Grafično podjetje Schwarz d. o. o. Koprska 106 d Ljubljana Naklada 3.800 Na leto izide 12 številk
+272 : Tel. 051 218 322 040 357 716 faks 01 256 56 31 e pošta bramont@siol.net
+273 : Informacije na tel. faks 059 113 694 ali na e nasluvu leo.presnig@telemach.net
+274 : tel. 01 42 19 600 faks 01 42 19 655
+275 : Informacije na tel. faks 059 113 694 ali na e naslovu leo.presnig@telemach.net www.parapsihologija.si 641330
+276 : Informacije tel. faks 059 113 694 ali e pošta leo.presnig@telemach.net http://www.parapsihologija.si 641330
+277 : Tel faks 059 113 694 ali e pošta leo.presnig@telemach.net www.parapsihologija.si 641805
+278 : Tel. faks 059 113 694 ali e pošta leo.presnig@telemach.net www.parapsihologija.si 641805
+279 : Tel faks 059 113 694 ali e pošta leo.presnig@telemach.net www.parapsihologija.si
+280 : Tel. faks 059 113 694 ali e pošta leo.presnig@telemach.net www.parapsihologija.si 642193
+281 : Prijave na 04 856 60 70 faks 04 586 60 70
+283 : tel. 01 474 06 00 faks 01 433 33 71 e pošta vip narocnineŽzps zveza.si
+284 : FAKS 04 259 15 20 GSM 041 618 961
+285 : tel. 04 25 19 605 faks 04 25 19 604
+286 : Pisno na Zavod za šport turizem in prosti čas Kosovelova 5 6210 Sežana po telefonu na 05 730 14 80 po faksu na 05 730 14 81 na GSM 051 33 97 59 ali elektronsko na info@sport-sezana.com
+287 : Sporočila nam lahko pošljete po elektronski pošti info@podjetnik.si ali po faksu 01 423 82 60
+288 : Organizator Leskovački sajam 16000 Leskovac Srbija in Črna gora tel. 00 381 16 243 001 faks 00 381 16 212 083 e pošta lesajam@eunet.yu http :// www.lesajam.co.yu
+289 : Informacije po telefonu 064 561 354 faks 064 561 211
+290 : Podrobnejše informacije so na voljo pri zastopniku in prodajalcu za Slovenijo Kmetijska mehanizacija d. o. o. Trboje 10 4000 Kranj tel. faks 064 491565 mtel 0609 632479
+291 : SLO 4000 Kranj Struževo 20 tel. 064 224 235 faks 064 224 237
+292 : Tel. 01 568 57 82 faks 01 541 22 06
+293 : Tel 061 817 000 faks 061 832 662 Tel 0602 43 143 faks 0602 43 100
+295 : Dosegljivi so po telefonu 02 608 41 41 faksu 02 608 40 61 na internetu www.as-boats.si ter preko e maila asboats@siol.net
+296 : Tel. 03 54 82 930 faks 03 54 41 645
+297 : V. Károlyi Mihály utca 1115 tel. 1 8 89 37 00 faks 1 89 37 63 www.danubisgroup.com/erzsebet metro 3 Ferenciek tere 123 sob od 36 E naprej AMEX MASTER VISA
+298 : 3 4 Great Denmark St. tel. 8 74 69 49 faks 1 8 72 76 74 hotels@indigo.ie 48 sob do 200 E MASTER VISA
+299 : Christchurch Place tel. 1 4 54 00 00 faks 1 4 54 00 12 www.bookajurysinn.com 23.27 dec. zaprto 182 sob do 200 E AMEX MASTER VISA
+300 : 20 tel. 040 24 84 80 faks 040 24 15 21 S U Bahn Hauptbahnhof 63 sob od 30 E naprej AMEX DINERS
+301 : Kongens Nytorv 34 tel. 33 12 00 95 faks 33 12 11 18 www.remmen.dk 130 sob od 180 E naprej CREDIT
+302 : Malá Strana Jánski Vršek 3 tel. 57 53 12 68 faks 57 53 41 01 tramvaj 12 22 Malostranská 24 sob od 60 E naprej AMEX MASTER VISA
+303 : 02 234 41 00 faks 02 234 41 14
+304 : telefon 01 473 86 30 in 473 82 87 faks 433 93 27 naslov e pošte zdravje@delo-revije.si
+305 : tel. 01 5897 650 faks 01 565 59 20
+306 : STEP d. o. o. Tržaška 85 2000 Maribor telefon 02 33 01 710 faks 02 33 01 718 e pošta step@step-sejmi.si
+307 : Organizator JADRANSKI SAJAM Trg svobode 5 85310 Budva ZR Jugoslavija telefon 00 381 86 456 410 00 381 86 452 205 faks 00 381 86 451 415 00 381 86 452 042 e pošta jadranskisajam@cg.yu adriafair@cg.yu
+308 : Podjetja ki jih zanima razstavljanje v Skopju lahko podatke dobe tudi na sedežu podjetja Era d. d. v Velenju Sejemska pisarna Prešernova 20 3504 Velenje telefon 03 89 60 370 faks 03 89 60 144 e pošta nevenka.pusnik@era.si hhtp :// www.era.si
+309 : Organizator BANJALUČKI VELESAJAM Pilanska b. b. 78000 Banja Luka Republika srpska Bosna in Hercegovina telefon 00 387 51 311 096 00 387 51 305 542 00 387 51 312 242 faks 00 387 51 305 542 00 387 51 312 242 e pošta metal@blic.net
+311 : Veleposlaništvo Republike Slovenije Moyzesova 4 813 15 Bratislava Slovašla tel. 00 421 2 52 45 00 05 tajništvo faks 00 421 2 52 45 00 09
+312 : Na voljo so vam tudi telefon 061 17 35 382 E mail kmglasŽmibo si in faks 061 17 35 376
+313 : KARSIA d. o. o. Dutovlje tel. faks 061 123 33 84 MTL 0609 621 158
+315 : Več informacij dobite pri zastopniku John Deera za Slovenijo Euroglobtrade d. o. o. Voklo 49 4208 Šenčur tel 064 491 250 faks 064 491 520
+316 : Tel. 062 724 675 Faks 062 724 617
+317 : Društvo bolnikov z osteoporozo Ljubljana Potrčeva 16 1000 Ljubljana tel 01 540 19 15 faks 01 540 19 15 e naslov dusa.zore@siol.net
+318 : tel. 041 593 899 faks 04 204 31 57 e naslov cirles@siol.net
+319 : Vse ki oglašujete v SOS rubriki prosimo da nam redno sporočate vse spremembe in sicer pisno na naslov Naša žena za SOS rubriko Dunajska 5 1000 Ljubljana po faksu 01 473 86 39 ali na elektronski naslov neva.zeleznik@delo-revije.si
+320 : 07 338 27 20 07 338 27 21 sta telefonska številka in faks Kluba zdravljenih alkoholikov Centra za pomoč ljudem v stiski Ulica Slavka Gruma 34 v Novem mestu
+321 : 01 434 25 70 01 434 25 74 01 434 25 75 in faks 01 434 25 72 Miklošičeva 16 Ljubljana UP društvo za pomoč zasvojencem in njihovim svojcem Slovenije nudi celostne informacije o problematiki zasvojenosti in reševanju le te
+323 : 01 528 44 93 faks 01 528 43 61 DGN LJUBLJANA Cesta v Prod 8,1260 Ljubljana Polje e naslov dgn.ljubljana@siol.net
+324 : 02 872 02 46 faks 02 872 02 47 DGN KOROŠKE Trg 4. julija 26 2370 Dravograd e naslov dgn.dravograd@siol.net
+325 : tel. faks 01 24 16 143 24 16 146
+326 : Zveza društev bolnikov z osteoporozo Slovenije Potrčeva 16 1000 Ljubljana tel 01 540 19 15 faks 01 540 19 15
+327 : Društvo bolnikov z osteoporozo Terme Zreče Celje Gregorčičeva 7 3000 Celje tel 041 324 165 faks 03 548 30 21 e naslov eva.orac@siol.net
+328 : 03 746 17 00 03 746 18 19 faks Dom starejših Šentjur splošni dom Svetinova 1 3230 Šentjur e naslov ds.sentjur@ssz-slo.si
+329 : 01 757 01 00 01 757 01 11 faks Dom upokojencev Vrhnika splošni dom Idrijska cesta 13 1360 Vrhnika e naslov du-vrhnika@s5.net
+330 : 01 584 37 00 01 524 78 03 faks Dom starejših občanov Ljubljana Moste Polje splošni dom Ob sotočju 9 1000 Ljubljana e naslov dsolmp@siol.net
+331 : 02 878 32 54 02 878 43 30 02 872 00 90 faks Koroški dom starostnikov Črneče splošni dom Črneče 146 2370 Dravograd e naslov kdsd@siol.net
+332 : Tel. 839 12 50 faks 583 27 18
+333 : Tel. 031 305 532 faks 03 839 54 64
+334 : Tajnica Barbara Kovačič HC telefon 750 66 30 faks 750 66 36 E naslov info@zavod-cankar.si Direktor Boštjan Koprivec Telefon 750 66 34 E naslov direktor@zavod-cankar.si Poslovna sekretarka Irena Oblak Telefon 750 66 32 E naslov poslovodstvo@zavod-cankar.si Kultura Tatjana Oblak Milčinski Cankarjev dom Vrhnika Telefon 755 76 48 E naslov kultura@zavod-cankar.si Šport Daniel Cukjati Telefon 750 66 35 E naslov sport@zavod-cankar.si
+335 : Dragomer Na Grivi 5 p. p. 09 1358 Log pri Brezovici telefon 01 750 77 00 faks 01 750 77 05 Uradne ure v občinski upravi Občine LogDragomer za osebni obisk in po telefonu so v ponedeljek od 9. do 12. ure v sredo od 9. do 12. ure in od 14. do 16. ure in v petek od 9. do 12. ure
+336 : Tel 01 759 17 40 faks 01 759 17 41
+338 : Na voljo so vam tudi telefon 061 17 35 367 E pošta darinka sebenikŽczd kmeckiglas.si in faks 061 17 35 376
+339 : Na voljo so vam tudi telefon 061 17 35 351 E mail kmglasŽmibo si in faks 061 17 35 376
+340 : Tel. 061 125 1303 faks 061 125 20 85 e mail eudelsvn@eunet.si
+341 : Fotokopijo in izpolnjeno prijavnico pošljite na naslov PRO PLAY Glavarjeva 47 Ljubljana lahko pa tudi na faks 01 586 30 50
+342 : Zgibanke lahko brezplačno naročite na naslov #Agencija RAO Parmova 53 61 113 Ljubljana tel. 061 132 32 80 faks 061 132 51 12 #
+344 : E pošta interim@siol.net Tel. 386 1 437 02 43 Faks 386 1 437 02 42 GSM + 386 41 239 332 E pošta interim@siol.net
+345 : IZDAJATELJ UMco d. d. Leskoškova 12 1000 Ljubljana Telefon 01 520 18 0 Faks 01 520 18 40 E mail bukla@umco.si
+346 : Leskoškova 12 1000 Ljubljana telefon 01 520 18 30 faks 01 520 18 40
+347 : To lahko storite tudi po elektronski pošti mesecnik@tv-nm.si ali po faksu 07 39 30 870
+348 : Javni gospodarski zavod Protokolarne storitve Republike Slovenije Predoslje 39 4001 Kranj tel. 04 260 10 00 faks 04 202 15 51
+349 : PRI ZASTOPANJU SKUPINE CNH GLOBAL V SLOVENIJI BLAGOVNO ZNAMKO NEW HOLLAND TRŽIJO NA NASLOVU ITRO D. O. O. ŽELEZARSKA CESTA 3 3220 ŠTORE TEL. 03 577 14 11 FAKS 03 781 01 54 BLAGOVNO ZNAMKO CASE STEYR PA NJIHOVA LJUBLJANSKA POSLOVALNICA ITRO D. O. O. PE LJUBLJANA NA GMAJNI 1517 1236 TRZIN TEL. 01 563 72 37 FAKS 01 563 72 38
+350 : od ponedeljka do petka od 7. do 15. ureSavlje 90 a 1113 Ljubljana tel. faks 061 16 12 185
+351 : tel. 01 42 11 464 faks 01 42 11 465 e pošta infodecor-design.si
+352 : Prijave lahko pošljete na e naslov zoran.novarlic@gmail.com po faksu 02 25 24 188 s priloženim potrdilom o plačilu prijavnine ali jih oddate osebno v soboto 13. decembra 2008 zadnji rok za prijave od 11. do 14. ure v Tribuna baru štadion Ljudski vrt
+353 : Naslov Trinity College Dublin Accomodation Office West Chapel Dublin 2 Irska 353 1 608 1177 faks 353 1 671 1267
+354 : Kidričeva 2a Velenje tel. 063 861 335 faks 859 100
+356 : faks 04 574 35 54 e pošta gg.bled s5.net odkupuje les na kamionski cesti in na panju
+357 : Evidenčne prijave zbiramo po e pošti na naslov emilija.bratoz@ozs.si oziroma po faksu na 01 583 0 583
+358 : RAIGRAF Damijan Hočevar s. p. Celovška 134 Ljubljana tel. faks 01 5055 132 041 687 444 e pošta info@raigraf.si internet www.raigraf.si
+359 : Franc Antolič EUROBROKER tel. faks 0049 7125 408 681 e pošta franc.antolic@web.de
+360 : Tel. faks 04 2531 017 041 672 043
+361 : Kontakt EXAL d. o. o. Nova Gorica tel. 05 333 1136 031 385 536 faks 05 333 1137
+362 : Gradal Se d. o. o. Tržaška 132 1000 Ljubljana tel. 01 242 7000 faks 01 242 7004 e pošta info@gradal-se.si g.
+363 : Lamentale Luka Tašner s. p. Topole 23 3250 Rogaška Slatina tel. 03 819 0139 faks 03 581 4447 e pošta lamentale@siol.net URL www.freeweb.siol.net/tasner02
+364 : Informacije Veritas & Co Škofljica telefon faks 01 366 14 38 GSM 041 695 512 e pošta zdenko.jager@veritasco.si kontaktna oseba Zdenko Jager
+365 : Informacije Promotor Torino Italija tel. 0039 011 6644 111 faks 0039 011 6644 395 e pošta press@promotorinternational.it
+366 : tel. 01 24 16 332 faks 01 24 16 351
+367 : HIDRAVLIČNE IN INDUSTRIJSKE CEVI ter razne komponente za hidravliko in pnevmatiko dobite pri GM FLEX Marjan Grdadolnik s. p. Cesta na Log 85 1357 Notranje Gorice faks 01 365 16 24 tel. 01 3634 009 041 681 106
+368 : Grča z. o. o. Zgornji Lahen 8 2364 Ribnica na Pohorju tel. 02 8768 107 faks 02 8768 226 e pošta grca.grubelnik@siol.net g.
+369 : Udeležence srečanja čaka nekaj sob v hotelu Kompas ker pa je njihovo število omejeno sekcija svetuje da si jih zagotovijo čim prej 04 588 44 77 faks 04 588 44 79 e pošta booking@hitholidays-kg.si
+370 : Makedonija tel. 00 389 2 118 288 faks 00 389 2 117 375
+371 : PREKOV d. o. o. Podsmreka 3 e 1356 Dobrova tel. 01 2573 037 faks 01 2561 281 041 693 799
+372 : Prijavnico za individualne pogovore izpolnite in vrnite na naslov Obrtna zbornica Slovenije služba za promocijo in EOT Celovška 71 1000 Ljubljana ali po faksu 01 583 05 83 najpozneje do 15. julija 2006
+373 : PEKSIM Emica Lipičar Pahor s. p. Gradnikove brigade 11 5000 Nova Gorica tel. faks 05 30 27 136 041 690 872
+374 : Vita Center d. o. o. Pivka 23a 4202 Naklo tel. 04 2519 553 faks 04 2919 570 e pošta sasa.ulaga@vitacenter.si URL www.vitacenter.si ga
+375 : Podatki o organizatorju MARINA PORTOROŽ d. d. Cesta solinarjev 8 6320 Portorož telefon 05 676 12 00 faks 05 676 12 10 e pošta captain@marinap.si http www.marinap.si
+376 : Organizator BJELOVARSKI SAJAM dr. Ante Starčeviča 8 Bjelovar Hrvaška telefon 00 385 43 23 73 21 faks 00 385 43 23 73 22 e pošta bjelovarskisajam@bj.tel.hr http://www.bj-sajam.hr
+377 : Informacije in prijave Rudolf Wostner telefon 01 583 05 41 e pošta rudi.wostner@ozs.si faks 01 505 92 70 R.
+378 : Informacije Fiera Milano Milano Italija tel. 0039 02 485 501 faks 0039 02 48550 420 e pošta fparrini@fmi.it
+379 : Informacije po tel. 040 655 554 ali faksu 01 3627 177
+380 : Oglase lahko pošljete po pošti na naslov Celovška 71 Ljubljana ali po faksu št. 01 519 34 96 01 505 43 73
+381 : Kmečka trgovina Dobravlje Kete Jernej s. p. Dobravlje 34B 5263 Dobravlje tel. 05 3646 690 faks 05 3646 691 e pošta kmecka.dobravlje@volja.net URL www.agronovice.com g.
+382 : Co d. o. o. Stanetova ulica 20 3000 Celje tel. 03 4926 353 faks 03 4926 354 e pošta g.i.company@siol.net ga
+383 : Izdeluje McAfee Associates Inc. 2710 Walsh Avenue Santa Clara CA 95051 0963 USA tel. 408 988 3832 faks 408 970 9727
+384 : Potrošniki so na telefonsko številko pisarne 061 13 16 182 ali prek faksa s številko 061 178 34 40 opozarjali tudi da davčni zavezanci sploh ne izdajajo računov za prodano blago ali opravljeno storitev in da računi ki jih izdajajo davčni zavezanci končnim potrošnikom in tudi drugim davčnim zavezancem ne vsebujejo vseh v zakonu taksativno navedenih postavk
+385 : Prijavnice po pošti faksu 01 583 05 13 ali na e pošti mojca.ponikvar@ozs.si bomo sprejemali do 20. 11. 2003
+386 : Vsekakor bo več informacij na voljo pri zastopniku New Hollanda SŽ Itro d. o. o. Železarska 3 3220 Štore tel. 063 771 411 faks 063 771 522
+387 : Zastopnik Beatus d. o. o. Bratovševa ploščad 9 1000 Ljubljana tel. faks 01 534 63 57 e pošta info@beatus.si
+388 : UMco d. d. Leskoškova 12 1000 Ljubljana Telefon 01 520 18 30 Faks 01 520 18 40 E mail bukla@umco.si
+390 : Mladi tehnik Levstikov trg 7 1000 Ljubljana tel. 01 421 87 80 faks 01 426 22 43
+391 : Faks 04 201 42 13 info@g-glas.si Datum 19. maj 2004
+392 : faks 01 58 98 100 faks 01 58 91 885 faks 01 58 30 596
+393 : WE TAKE CARE EVERYWHERE tel. n. c. 062 320 700 faks 062 320 70 71
+394 : V tovarni krmil Mlinotest Živilska industrija d. d. Ajdovščina tel. 05 36 44 512 36 44 513 36 44 514 faks 05 36 44 516 proizvajajo krmila za govedo prašiče perutnino drobnico kunce divjad in konje
+395 : Podatke za brezplačno objavo pošiljajte na naslov Zavod za šport Slovenije Športnoinformacijski center Celovška 25 1000 Ljubljana faks 01 432 62 18 e pošta koledar@spic.tv spletna stran www.razgibajmozivljenje.net
+396 : Vaše prispevke lahko pošljete na naslov ČZD Kmečki glas Železna cesta 14 1000 Ljubljana E mail kmglasŽmibo si ali po faksu 061 17 35 376
+397 : 8.00 13.00 TELEFONSKA ŠT. CENTRALE 05 728 07 00 FAKS 05 728 07 80 E POŠTA obcina@postojna.si SPLETNA STRAN www.postojna.si
+398 : Tedensko vodenje manjših skupin k čudodelni Bo ji zdravilki v Srbijo tel 01 564 45 47 od 10h 16h faks 01 564 45 48 e mail evekarunŽsiol net od 0h 24h PSIHOKIBERNETIKA ESENOV Psihokibernetika Esenov spodbuja samorazvoj in meditacijo ter omogoča osebne zaščite zaščite naših bližnjih zaščite stvari delovanje z miselnimi frekvencami telesno čustveno in umsko zdravje zdravljenje že obstoječih in preprečevanje novih motenj pa tudi sposobnost psihokirurgije
+401 : Informacije po tel. 05 7300 200 faks 05 7302 500
+402 : Informacije po tel. 01 530 21 72 faks 01 530 21 73
+403 : Tel. faks 01 895 04 80 041 628 614 041 643 574 e pošta renova@siol.net
+404 : PROSEKTA d. o. o. Celovška 150 Ljubljana tel. 01 515 84 00 tel. faks 01 505 61 86
+405 : EIC Koper Polona Matekovič tel. 05 627 96 10 faks 05 627 96 15
+406 : Občina Jesenice Oddelek za okolje in prostor Cesta železarjev 6 4270 Jesenice tel. 04 5869 272 faks 04 5869 213
+407 : Plačilo tudi na čeke faks in Tel. 062 782 874 mobitel 041 675 358 Pergerjeva 1 Ptuj
+408 : tel. 049 8073263 faks 049 8073868 e mail cdascv@libero.it
+409 : Gozd Bled Kmetijsko gozdarska zadruga z. o. o. Za žago 1a 4260 Bled tel. 04 575 05 00 faks 04 575 05 49 odkupuje les na kamionski cesti in na panju opravlja storitve za vsa dela v gozdu in prevzema gozdne površine v upravljanje ali zakup
+410 : TIC Portorož Obala 16 6320 Portorož tel. 05 674 02 31 faks 05 674 82 61
+411 : Sport Activ Brdo 44 5230 Bovec tel. 05 388 65 85 faks 05 388 63 80
+413 : tel. 05 640 50 87 faks 05 640 50 88
+414 : Roletarstvo Ivan Arnuš Povodnova 3 ob Mariborski cesti Ptuj faks in Tel. 062 783 008
+416 : Tel. 386 1 437 02 43 Tel. 386 1 437 02 43 Faks 386 KI interim d. o. o.
+417 : Prijave U 10 in U 14 do 4. februarja U 12 do 11. februarja oziroma do zasedbe turnirja na naslov Športno društvo Bas šport Rozmanova 27 6250 Ilirska Bistrica www.bassport-klub.si ali info@bassport-klub.si faks 05 710 12 07 ali mobilni telefon 031 688 621
+419 : Faks 01 524 73 27 01 438 22 14
+420 : Tel. 01 432 10 55 faks 01 434 72 19
+421 : Tel. 01 300 34 50 60 faks 01 300 34 57
+422 : Tel. centrala 02 584 90 44 int. 75 faks 02 581 16 10
+423 : Tel. 01 300 59 60 faks 01 232 31 86
+424 : Tel. 05 627 84 20 faks 627 84 82
+425 : Tel. 04 201 71 00 faks 04 201 71 13
+426 : Tel. 01 232 55 65 01 230 19 97 faks 01 232 55 65
+427 : Tel. 02 618 11 41 faks 02 618 21 36
+428 : Tel. 07 499 14 27 faks 07 499 14 50
+429 : Tel. 01 241 99 99 01 241 99 90 faks 01 241 99 99
+430 : Tel. 01 475 08 00 faks 01 231 61 90
+431 : Tel. 01 587 49 70 01 587 49 81 faks 01 587 49 90
+432 : Tel. 01 543 72 22 faks 01 524 38 64
+433 : Tel. 01 587 21 00 faks 01 528 46 18
+434 : Tel. 01 520 64 47 faks 01 520 64 45
+435 : Tel. 02 228 65 40 faks 02 228 65 85
+436 : Tel. 02 883 14 70 041 887 925 080 2223 faks 02 883 14 71
+437 : Tel. 02 252 26 97 faks 02 252 40 37
+438 : Tel. 05 338 32 65 faks 05 338 32 24
+439 : Tel. 04 533 33 15 faks 04 530 72 20
+440 : Organizator Cankarjev dom Prešernova cesta 10 1000 Ljubljana T 01 241 71 00 faks 01 241 72 96 e pošta cankarjev.dom@cd.cc.si http :// www.cd.cc.si
+441 : Organizator Marina Portorož d. d. Cesta solinarjev 8 6320 Portorož T 05 676 12 00 faks 05 676 12 10 e pošta captain@marinap.si http :// www marinap.si
+442 : Organizator Skopski saem Belasica 2 1001 Skopje Makedonija T 00389 2 118 288 faks 00389 2 117 375 e pošta skfair@mt.net.mk
+443 : Zastopnik Beatus d. o. o. Bratovševa ploščad 9 1000 Ljubljana T 01 534 63 57 faks 01 534 63 57 e pošta info@beatus.si
+444 : tel. 01 473 82 36 01 473 82 00 faks 01 473 82 20
+445 : Podatki o naročniku Fizična pravna oseba ustrezno obkrožite Ime in priimek Naziv podjetja Ulica hišna številka Elektronska pošta Tel. faks Davčna številka Davčni zavezanec SI da ne ustrezno obkrožite Datum naročila Žig in podpis odgovorne osebe Poštna številka kraj
+446 : 063 851 046 faks 063 851 948 ki je leta 1993 nastala iz podjetja Gorenje Elektronika
+447 : Posodil Xenya tel. 061 125 1332 faks 061 125 1366
+448 : Potrebujemo vizum ki ga za Slovenijo izdaja pristojno maroško veleposlaništvo na Dunaju Embassy of Morocco Opernring 3 5 1010 Wien tel. 00 431 58 66 650 faks 00 431 58 67 667
+449 : Knjigo lahko naročite na tel. faks 068 342 700 GSM 031 651 550 e mail uros ravbarŽsiol net
+450 : tel. 02 661 6771 faks 02 661 4571
+451 : faks 07 495 91 51 GSM 041 561 187
+452 : Za pojasnila ki se nanašajo na naše delo smo prebivalcem omenjenega območja in drugim zainteresiranim na voljo na tel. št. 01 7505 616 faks št. 01 7556 004 e pošti info@primis.si ali osebno v tajništvu podjetja na naslovu Tržaška c. 23 1. nadstropje
+453 : I. Naziv in sedež prodajalca Občina Borovnica Paplerjeva ulica 22 Borovnica tel. 01 7507 460 faks 01 7507 461 II
+454 : POLHOGRAJSKA CESTA 33 1356 DOBROVA Tel. 01 3640 227 Faks 01 3640 228 Mobi 041 394 700 e mail insura@siol.net ZAVARUJEMO vozila in delovne stroje hiše in druge objekte odgovornosti iz dejavnosti VLAGAMO ODŠKODNINSKE ZAHTEVKE za škode v tujini za telesne poškodbe doma in v tujini iz splošne odgovornosti DRUGE STORITVE brezplačno uredimo cenitev in popravilo poškodovanega vozila uredimo prevoz vozila z avtovleko rešujemo sporne primere na zavarovalnicah za 3000Sit + DDV vam posredujemo informacijo o plačilni sposobnosti vaših naročnikov
+455 : TEL 01 3601 800 FAKS 01 3601 805 E POŠTA info@dobrovapolhovgradec.si SPLETNA STRAN www.dobrova-polhovgradec.si www.dobrova.si www.polhovgradec.si URADNE URE PONEDELJEK 8.00 12.00 SREDA 8.00 12.00 14.00 16.00 PETEK 8.00 12.00 Županove uradne ure za občane so po predhodni najavi po tel 01 3601 800 ob ponedeljkih sredah in petkih 8.00 13.00
+456 : Morebitna vprašanja povezana s KGZS lahko še naprej pošiljate na naslov Kmečki glas Železna c. 14 1000 Ljubljana za rubriko Vse o KGZS ali po faksu 01 473 53 76 oz. po e pošti uros korbarŽczd kmeckiglas.si
+457 : tel. 01 585 42 21 faks 01 524 90 33
+458 : Postojnska jama turizem d. d. tel. 05 7000 101 faks 05 7000 130 www.postojnska-jama.si
+459 : JBB d. o. o. Milana Majcna 4 Ljubljana tel. 01 43 47 175 faks 01 43 47 174
+461 : Komentarje ideje ali predloge za izboljšanje bodočih izdaj lahko pošljete na spodnji naslov ali pa nam pošljete faks na številko 317 581 4663
+462 : Če torej želite sodelovati v tej rubriki nam pišite na naslov ČZD Kmečki glas Železna cesta 14 1000 Ljubljana E mail kmglasŽmibo si ali pošljite po faksu 061 17 35 376
+463 : Generalni konzulat Republike Slovenije Radetzkystrasse 26 9020 Celovec Klagenfurt Austria tel. 00 43 463 54 6 05 faks 00 43 463 50 95 62
+464 : Konzulat Republike Avstrije Vita Kraigherja 4 I 2000 Maribor tel. 02 229 22 57 faks 02 224 333
+465 : GORIZIA ITALY Via Duca dAosta 42 tel. 0039 0481 537192 faks 0039 0481 537196
+466 : tel. 01 473 81 23 473 81 24 faks 01 473 82 53
+467 : Motonavis trgovina in storitve d. o. o. Krešimirova 56b 51000 Reka Hrvaška tel. + 385 51 213 955 faks + 385 51 213 899 e naslov motonavis@ri.tel.hr
+468 : TEL. 061 13 41 100 FAKS 061 13 61 228
+469 : Stane Terlep Ljubljana tel. faks 01 561 38 16 GSM 041 637 718
+470 : Grand hotel Corvinus Kempinski Erzsébet tér 7 8 tel. 266 1000 faks 266 2000 5 zvezdic 368 sob in apartmajev tudi 2 predsedniška apartmaja
+471 : Tel. faks 063 754 003 ali GSM 041 621 478
+472 : Prijave sprejemajo do petka na telefonski številki 04 255 10 80 ali po faksu 04 255 13 70
+473 : TOP modeltehnik d. o. o. Ul. IX. korpusa 73 5000 Nova Gorica tel. 05 33 00 173 faks 05 33 00 174 e pošta topmodel@siol.net
+474 : TOP modetehnik d. o. o. Ul. IX. korpusa 73 5000 Nova Gorica tel. 05 330 01 73. faks 05 330 01 74 e pošta topmodel@siol.net http://www.top-modeltehnik.si
+476 : 01 241 85 18 01 241 86 71 faks Kongresni trg 2 Ljubljana sta telefonska številka in faks visokošolske prijavno informacijske službe na njej se lahko študentje od ponedeljka do četrtka med 10. in 12. uro in med 14. in 15. uro ter v petek med 10. in 12. uro informirajo o študijskih programih zasedenosti mest vpisnih pogojih itd.
+477 : Podatke za brezplačno objavo pošljite na faks 01 232 39 56 ali e pošto koledar@rekreacija.si
+478 : 03 818 55 00 03 818 55 11 faks COMETT domovi d. o. o. PE Pegazov dom zasebni zavod s koncesijo Celjska cesta 11 3250 Rogaška Slatina e naslov janja.stojnsek@pegazov-dom.si
+479 : 04 583 41 00 04 583 41 20 faks Dom upokojencev dr. Franceta Bergelja Jesenice splošni dom Ulica Staneta Bokala 4 4270 Jesenice e naslov dufbj@siol.net
+480 : 01 542 15 82 01 542 12 87 faks PAPILOT Zavod za vzpodbujanje in razvijanje kvalitete življenja Center za dnevno oskrbo in druženje starejših Zakotnikova 3 1000 Ljubljana e naslov simona@papilot.si
+481 : 01 839 15 06 01 839 15 10 01 839 13 26 faks Dom starejših občanov Kamnik splošni dom Neveljska pot 26 1240 Kamnik e naslov dom.kamnik1@siol.net
+482 : 01 893 02 22 01 893 02 24 faks Dom starejših občanov Kočevje splošni dom Roška cesta 22 1330 Kočevje e naslov kocevje@ssz-slo.si
+483 : 05 365 98 10 05 365 98 26 faks Dom starejših občanov Ajdovščina splošni dom Bevkova 10 5270 Ajdovščina e naslov ajdovscina@ssz-slo.si
+484 : 05 375 13 00 05 375 13 02 05 375 13 30 faks Socialnovarstveni zavod VITADOM Ljubljana PE Dom za starejše občane Bor zasebni zavod s koncesijo Črni vrh 120 5274 Črni vrh nad Idrijo e naslov tadeja.godnik@vitadom.si
+486 : tel. 068 341 826 341 810 341 288 faks 068 322 625
+487 : Faks 3861 43702 42 1 437 02 42 PE Zupančičeva Jama Železna 14 1000 Ljubljana GSM + + 386 41 239 332 GSM 386 41 239 332 Tel. 386 1E pošta GSM 031 656 847 E pošta info@interim.si 437 02 43 interim@siol.net E pošta interim@siol.net
+488 : Izpolnjeno prijavnica pošljite na Društvo kmetijske tehnike Slovenije Hacquetova 17 1000 Ljubljana tel. 01 2805262 2805100 faks 01 2805255 e pošta drustvo kmetijske tehnikeŽkis h2.si kjer dobite tudi dodatna pojasnila o srečanju
+489 : Bogdana Bizjak telefon 01 709 06 25 faks 01 709 06 33 e naslov bogdana.bizjak@cerknica.si
+490 : PODLUBNIK 1 4220 ŠKOFJA LOKA tel. 04 506 11 00 faks 04 512 51 41
+491 : tel. 04 201 52 40 faks 04 201 52 11
+492 : Občina Radovljica Gorenjska c. št. 19 Radovljica tel. 04 537 23 00 faks 04 53124 684
+493 : tel. 061 136 12 03 faks 061 136 12 14
+494 : GSM 041 674 315 tel. faks 062 773 021
+495 : Več informacij dobite po telefonu 04 20 49 580 ali faksu 04 20 49 580
+496 : Oglasite se na naslovu Radkersburger Metallwarenfabrik GmbH Stadtgrabenstrasse 11 8490 Bad Radkersburg 1. nadstropje tel. 00433476 22 74 0 faks 0043 3476 22 74 22 ali em mail office@radersburger.at m17440
+497 : Lipnica 8 4245 Kropa tel. 04 53 55 109 faks 04 53 36 593
+498 : 03 493 02 02 faks 03 548 37 40 DGN CELJE Lešničarjeva 5 3000 Celje el. nasl. dgn.celje@guest.arnes.si
+499 : Einspielerjeva ulica 6 1000 Ljubljana Tel. 01 30 94 424 faks 01 30 94 445 e pošta info@poslovna-asistenca.si spletna stran www.poslovna-asistenca.si in www.tajnica.si
+500 : Za vse druge informacije v zvezi z naročanjem edicije smo na voljo na Dunajska 5 1509 Ljubljana navedenih telefonskih številkah ali tel. 01 473 81 11 faks 01 473 81 29 po elektronski pošti e pošta marketing@delo-revije.si Nenaročenih besedil Kolportaža in fotografij ne vračamo
+501 : telefon 01 438 22 10 faks 01 438 22 14
+503 : Fizična pravna oseba ustrezno obkrožite Ime in priimek Naziv podjetja Ulica hišna številka Elektronska pošta Tel. faks Davčna številka Davčni zavezanec SI da ne ustrezno obkrožite
+504 : Njihova telefonska številka je 01 511 15 24 faks pa 01 511 12 24
+506 : DELO REVIJE d. d. Marketing POSAMEZNI IZVOD Dunajska 5 1509 Ljubljana tel. 01 473 81 20 faks 01 473 82 53 STANE 490 SIT 2,04 EUR cena revije v EUR je preračunana Naročnine DELO REVIJE d. d. Marketing po centralnem paritetnem tečaju Dunajska 5 1509 Ljubljana 1 EUR = 239,640 SIT
+507 : Tel. 20 23 355 798 faks 20 23 558 781
+508 : V Zvezo za športni ribolov na morju Slovenije s sedežem na Obali 55 v Portorožu telefon in faks sta 05 676 62 43 spletni naslov ribiska.zveza@siol.net uradne ure so v torek in četrtek od 10. do 12. ure tajnik zveze pa je dosegljiv po telefonu 051 232 105 je v letu 2008 registriranih 16 društev z Obale in notranjosti Slovenije
+509 : Demokracija Mivka 25 1000 Ljubljana ali na faks 01 24 47 204
+510 : pošljite faks 01 473 82 53 e pošto na narocnine@delo-revije.si ali pošljite podatke o prejemniku revije in plačniku na naslov Delo Revije d. d. naročniška služba Dunajska 5 1509 Ljubljana
+511 : DEMOKRACIJA Mivka 25 1000 Ljubljana SI Tel. 01 24 47 200 tajništvo tajnistvo@demokracija.si 01 24 47 205 uredništvo urednik@demokracija.si Faks 01 24 47 204
+512 : DEMOKRACIJA Mivka 25 1000 Ljubljana SI Tel. 01 2 7 200 tajništvo tajnistvo@demokracija.si 01 2 7 205 uredništvo urednik@demokracija.si Faks 01 2 7 20
+513 : DEMOKRACIJA Mivka 2 1000 Ljubljana SI Tel. 01 24 47 20 uredništvo urednik@demokracija.si 01 24 47 200 tajništvo tajnistvo@demokracija.si Faks 01 24 47 204
+514 : DEMOKRACIJA Mivka 25 1000 Ljubljana SI Tel. 01 24 47 205 uredništvo urednik@demokracija.si 01 24 47 200 tajništvo tajnistvo@demokracija.si Faks 01 24 47 204
+515 : Italijanski izdelovalec skuterjev Piaggio lastnik blagovnih znamk Piaggio Gilera Vespa in Derbi je zaradi bolj usmerjenega delovanja v slovenskem prostoru meseca marca sklenil sodelovanje z novim partnerjem podjetjem PVG d. o. o. iz Kopra Vangelanska cesta 14 tel 05 6 250 150 faks 05 6 250 151
+516 : IZDAJATELJ UMco d. d. Leskoškova 12 1000 Ljubljana Telefon 01 520 18 30 Faks 01 520 18 40 bukla-urednistvo@umco.si
+517 : Telefon 041 669 195 ali 01 549 22 02 faks 01 549 22 03
+518 : Telefon faks 07 814 22 37 041 621 285
+519 : Telefon 01 722 89 97 041 676 198 faks 01 722 70 89
+520 : Tel. 01 564 45 47 faks 01 564 45 48 od 9. do 17. ure e pošta evekarun@siol.net
+521 : Telefon 01 564 45 47 faks 01 564 45 48 od 9. do 17. ure e pošta evekarun@siol.net
+522 : Telefon 01 564 45 47 faks 01 564 45 48 od 9h do 17h e mail evekarun@siol.net
+523 : Občina Radovljica Gorenjska c. št. 19 Radovljica tel. 04 537 23 00 faks 04 5314 684
+526 : Prijave sprejema Šport Info po telefonu 061 140 23 76 in tudi po telefonu faksu 061 448 132
+527 : Izpolnjeno naro ilnico lahko pošljete na elektronski naslov publicistika.umar@gov.si faks 01 4781070 ali na Urad RS za makroekonomske analize in razvoj Gregor i eva 27 1000 Ljubljana
+528 : Izdajatelj Prirodoslovno društvo Slovenije Salendrova 4 Ljubljana telefon 01 252 19 14 faks 01 421 21 21 e pošta prirodoslovno.drustvo@guest.arnes.si
+529 : Tel. 068 62 050 faks 0608 61 850
+530 : Gorenjska cesta 19 4240 Radovljica tel. 04 537 230 faks 04 531 46 84
+531 : telefon 068 361 000 faks 068 361 004
+533 : Skupina Gozd ki jo sestavljajo družbe Gozd Ljubljana d. d. Tržaška cesta 2 Ljubljana tel. 01 241 02 20 faks 01 241 02 56 e pošta gozdŽgozd si Gozdno gospodarstvo Celje d. d. Ljubljanska cesta 13 tel. 03 428 41 40 faks 03 428 41 60 e pošta ggceljeŽgozd si in Gozdno gospodarstvo Brežice d. o. o. Tržaška cesta 2 Ljubljana tel. 07 499 44 50 01 241 02 20 faks 07 499 44 64 01 241 02 56 z mrežo 20 odkupovalcev pokriva velik del osrednje Slovenije
+535 : LB Leasing Maribor d. o. o. Maribor Titova cesta 2 2000 Maribor Tel. 02 229 70 20 Faks 02 229 70 21 darja trojnerÐlbleasingmb si
+536 : tel. faks 061 775 437 GSM 041 747 810
+537 : Tel. 03 56 71 122 Faks 03 56 71 587
+538 : Gorenjska cesta 19 4240 Radovljica tel. 04 537 23 00 faks 04 531 46 84
+539 : 03 734 56 00 03 734 52 98 faks Dom starejših Zdravilišča Laško splošni dom Zdravilška cesta 4 3270 Laško e naslov dom.starejsih@zdravilisce-lasko.si
+540 : 05 731 17 00 05 731 17 01 faks Dom upokojencev Sežana splošni dom Ivana Turšiča 6 Sežana e naslov domupokojencev.sezana@siol.net
+541 : 03 565 81 00 03 568 41 96 faks Trubarjev dom upokojencev Loka pri Zidanem mostu kombinirani dom Loka 48 1434 Loka pri Zidanem mostu e naslov loka@ssz-slo.si
+542 : 01 513 16 30 01 513 16 65 faks Dom starejših občanov Ljubljana Šiška splošni dom Kunaverjeva 15 1000 Ljubljana e naslov siska@ssz-slo.si
+543 : 01 234 71 00 01 234 71 45 faks Dom upokojencev Center enota Dom Poljane splošni dom Zrinjskega 2 1000 Ljubljana e naslov dom.poljane@siol.net
+544 : 02 480 61 00 02 471 31 57 faks Dom upokojencev Danice Vogrinec enota Pobrežje kombinirani dom Čufarjeva cesta 9 2000 Maribor e naslov dudvm@siol.net
+545 : 02 829 59 20 02 802 56 75 faks Dom dr. Jožeta Potrča splošni dom
+546 : 02 655 66 50 02 655 66 91 faks Dom starejših občanov IDILA splošni dom Vukovski dol 30 2221 Jarenina e naslov gipit@siol.net
+547 : 03 839 28 00 03 839 28 14 faks DEOS d. d.
+549 : 07 499 17 00 07 499 17 11 faks Dom upokojencev in oskrbovancev Impoljca enota Brežice kombinirani dom Prešernova 13 8250 Brežice ČAKALNA DOBA za pokretne 6 mesecev za nepokretne od 3 do 6 mesecev
+550 : 01 568 20 59 01 568 22 16 01 568 13 31 01 568 20 49 faks Dom starejših občanov Ljubljana Bežigrad kombinirani dom Komanova 1 1000 Ljubljana e naslov bezigrad@ssz-slo.si
+551 : 01 890 01 00 01 890 01 10 faks Dom Tisje Šmartno pri Litiji splošni dom in posebni zavod za psihiatrične bolnike Črni potok 13 1275 Šmartno pri Litiji e naslov tisje@ssz-slo.si
+552 : 01 754 31 09 01 754 20 40 01 754 25 55 faks Dom Marije in Marte Karitas Logatec zasebni zavod s koncesijo Šolska pot 1 1370 Logatec e naslov dom.marije.marte@siol.net
+553 : 03 565 33 00 03 565 33 39 03 563 19 60 faks Dom upokojencev Franca Salamona Trbovlje splošni dom Kolonija 1. maja 21 1420 Trbovlje e naslov dom.upo-f-salamon@siol.net
+554 : 03 567 40 85 03 567 41 04 03 567 35 07 faks Dom starejših občanov Polde Ebrl Jamski Izlake splošni dom Izlake 13 1411 Izlake ;( e naslov eberlov.dom.izlake@siol.net
+555 : 02 532 16 09 02 532 16 30 02 530 42 40 faks Dom starejših Rakičan splošni dom Ulica Dr. Vrbnjaka 1 p. p. 1302 9001 Murska Sobota e naslov dom.rakican@maj.net
+556 : 059 080 359 faks 059 080 360 Strossmayerjeva 15 Maribor
+557 : 01 230 78 30 in 01 230 78 38 faks Cigaletova 5 Ljubljana sta telefona in naslov Šenta Slovenskega združenja za duševno zdravje ki vsem ki imajo duševne motnje pomaga da se vrnejo v normalno življenje e naslov info@sent-si.org
+558 : Tel. 386 1 437 02 43 PE 386 1 437 02 Jama Tel. Zupančičeva43 GSM 031 656 847 Faks 386 1 437 02 42 Železnainfo @interim.si Ljubljana E pošta 14 100041 239 332 GSM + 386
+559 : tel 01 423 11 61 faks 01 256 57 82
+560 : Katarina Klemenc Dinjaški tel 01 580 2243 faks 01 580 2432
+561 : Barbara Kus tel 01 580 2883 faks 01 568 1209
+563 : posreduje obrazec v potrditev Banki Slovenije na faks številko 01 42 54 311
+565 : Tesarstvo krovstvo kleparstvo Mario Marič s. p. Polhov Gradec 22 tel. faks 01 364 5622 041 211 218
+567 : Samo Tevž tel. 01 478 39 28 in faks 01 478 39 05
+568 : Slovenski proizvajalec FINES d. o. o. Industrijska 5 1290 Grosuplje tel. 01 788 83 40 faks 01 788 83 42 e pošta info@fines.si http://www.fines.si
+569 : ali po faksu na št. 01 230 26 87
+571 : v digitalni obliki scan podpisanega obrazca po elektronski pošti na naslov tus-klub@tus.si oz. po faksu na številko 05 973 3045
+573 : Franc Antolič EUROBROKER tel. 0049 7125 408 681 faks 0049 7125 408 681
+574 : Profis d. o. o. Industrijska c. 1 Grosuplje tel. 01 7862 201 faks 01 7862 413 e pošta info@profis.si www.profis.si
+576 : DVIG & NAGIB d. o. o. Ljubljana tel. 01 5461 870 041 630 360 faks 01 5461 875 www.dvignagib.si e pošta dvignagib@siol.net
+578 : Tel. faks 05 330 54 73 330 54 74
+583 : Soven d. o. o. Selnica ob Dravi tel. 02 674 0574 faks 02 674 0573 e pošta soven@siol.net
+585 : Veleposlaništvo RS Dublin Morrison Chambers 2nd floor 32 Nassau St Dublin 2 IRSKA tel. + 353 1 6705 240 faks + 353 1 6705 243 e pošta vdb@mzz-dkp.gov.si URL www.gov.si/mzz/dkp/vdb g.
+
+DBSCAN:
+Estimated no. of clusters: 1
+Estimated no. of noise points: 0
+Counter({0: 587})

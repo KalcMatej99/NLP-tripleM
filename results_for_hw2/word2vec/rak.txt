@@ -1,0 +1,886 @@
+rak
+
+Aglomerative clustering
+Counter({0: 836, 2: 16, 1: 2})
+Counter({1: 834, 2: 16, 0: 4})
+Counter({0: 810, 1: 24, 2: 20}) complete uporabljen spodaj
+
+Cluster 0:
+1 : Po eni naj bi bil umrl za rakom na želodcu
+2 : Tudi v Sloveniji se ravnajo po sprejetih normativih Evropskega združenja za boj proti raku dojk
+3 : Rak slinavke je agresivna bolezen in od trenutka ko so mi postavili diagnozo sem vedel da me čaka boj mojega življenja
+4 : Dermatologi namreč opozarjajo da tveganje za nastanek kožnega raka poveča kar za 75 odstotkov če jih obiskujemo do 35. leta
+5 : Na vseh razgovorih za službo pošteno povem da sem prebolel raka kadrovniki pa takoj pomislijo kaj bo če znova zbolim
+6 : Nova metoda bi veliko pripomogla pri preventivnih pregledih saj bi lahko pravočasno odkrili raka in ga načeloma lahko tudi pozdravili razlaga zdravnica
+7 : Naš pokojni oče je bil pijanec in ženskar ko ga je položil rak v posteljo pa je bil tako poln morfija da sploh ni vedel zase
+8 : Pri raku endometrija ki je bolezen starejših žensk pa postane maternična sluznica rakava
+9 : Informacije & podpora v boju proti črevesnemu raku
+10 : Pri nastanku benignih tumorjev spolovila genitalnih bradavic in grla sta najpogostejša nizkorizična genotipa HPV 6 in HPV 11 pri nastanku predrakavih sprememb in RMV ter nekaterih oblik raka zunanjega spolovila nožnice penisa anusa in ustne votline pa sta najpogostejša visokorizična genotipa HPV 16 in HPV 18
+11 : Sorodniki oseb prvo drugo in tretje koleno ki so zboleli za rakom debelega črevesa in danke bodo povabljeni na preventivni pregled že po 40. letu starosti endoskopski pregled debelega črevesa koloskopija
+12 : Farah Fawcett že od septembra 2006 boleha za rakom na črevesju in vedno znova se v javnosti pojavljajo špekulacije o njenem zdravstvenem stanju
+13 : Erazem je mladiča naročil še preden je izvedel za Athosovo bolezen raka
+14 : Rak Nekdo vam bo na dolgo in široko pojasnjeval zadevo ki je v bistvu enostavna
+15 : Seveda se strinjajo da preveč nevarnih ultravijoličnih žarkov povečuje verjetnost za nastanek kožnega raka katarakte in pospešuje staranje kože
+17 : To biološko zdravilo je prav pri raku dojke prvič potrdilo da je tarčno zdravljenje tisto ki bo pravilno izbrano in vodeno v prihodnosti izboljšalo možnosti ozdravitve in zazdravitve številnim bolnikom z rakom
+18 : Seveda pa so v rakavih celicah poleg HER 2 receptorja še številne druge tarče in prepoznanje le teh in usmerjeno delovanje nanje s kombinacijo tarčnih zdravil je predmet novih raziskav na področju zdravljenja raka
+19 : Ali se priporočila za prehrano bolnika z rakom v čem razlikujejo od priporočil za zdravega človeka
+20 : Kakšna so priporočila za prehrano bolnikov z rakom
+21 : Priporočila za prehrano bolnikov z rakom se od priporočil zdravega prehranjevanja lahko bistveno razlikujejo
+22 : Katera bolezen je bolj razširjena od raka sladkorne bolezni srčnih obolenj ali artritisa
+23 : Zbrani denar bo namenjen nakupu intenzivne postelje na elektriko v pomoč otrokom ki so zboleli za rakom na Pediatrični kliniki v Ljubljani
+24 : Pacientka operirana zaradi suma raka na devetem rebru je na ljubljanskem okrožnem sodišču tudi vložila tožbo s katero od zavarovalnice Adriatic zahteva 25 milijonov tolarjev zaradi preživetega strahu zmanjšanih življenjskih sposobnosti in podobno
+25 : Obetavni rezultati glede medicinske uporabe konoplje se kažejo zlasti pri bolnikih z multiplo sklerozo pri katerih zmanjšuje bolečino in cerebralno paralizo bolnikih z očesno boleznijo glavkoma bolnikih z različnimi oblikami raka zlasti v primeru kemoterapij saj zmanjšuje slabost in bruhanje pri bolnikih z aidsom zmanjšuje anoreksijo in izgubo teže saj povečuje tek in podobno
+26 : 23.55Recept za zdravo življenje Rak materničnega vratu ponovitev
+28 : Pri ljudeh ki so prestali presaditev organa je tveganje za raka namreč večje za kožnega raka denimo kar stokrat večje oziroma še izrazitejše v sončnih predelih kot je Avstralija
+29 : Ponavadi so to ministrstva za socialna vprašanja Jazas organizacija za boj proti virusu AIDS organizacije ki se borijo proti raku na dojki ali raku na materničnem vratu
+30 : Aprila pripravljamo modno revijo v sodelovanju z dobrodelnim fondom Katarine Rebrače ki se bori proti problematiki raka na dojki
+31 : Tudi Slovenija ima nekaj organizacij ki se poleg zdravnikov ukvarjajo z informiranjem javnosti predvsem pa bolnikov in njihovih svojcev o bolezni o njihovih možnostih o življenju ki se z diagnozo rak ne konča
+32 : Statistične raziskave kažejo da mesečni samopregled dojk ne zmanjšuje tveganja da bo ženska umrla za rakom na dojkah tako kot ga lahko zmanjša pregled z mamogramom
+33 : Če jih je v prehrani dovolj je tveganje da bi zboleli za rakom manjše
+34 : Raziskave so zajele različne vrste tumorjev najpogosteje pa so zdravilo preučevali pri raku na jajčnikih dojki pljučih glavi in vratu
+35 : Po vzoru združenja Europa Donna evropske neprofitne nevladne organizacije ki si prizadeva za izboljšanje informiranosti o raku dojk in dostopnosti do zdravljenja za vse ženske se je v Veliki Britaniji pred štirimi leti oblikovala podobna organizacija Europacolon
+36 : To je vseevropsko društvo ki deluje za bolnike z rakom debelega črevesa in danke
+37 : Ljudje imajo na splošno še občutek da je levkemija oziroma rak nekaj dokončnega in da so to neozdravljive bolezni
+38 : V ZDA je to tretja najdražja bolezen za srčnimi boleznimi in rakom
+39 : Tveganje je okoli šestkrat večje če je imela mati ali sestra raka dojke pred menopavzo in do desetkrat večje če je bil rak v obeh dojkah
+40 : Pri ženskah je debelost tudi tveganje za raka na dojki ali maternici zato je celulitis ki je tudi neljub produkt debelosti še najmanjše zlo
+41 : Tovrstna prehrana preprečuje raka na prsih jajčnikih in pljučih
+42 : Vprašanje zastavlja bralec C. I. iz okolice Radeč Ima neozdravljivo bolno ženo kostni rak ki je nepokretna
+43 : Za rakom na dojkah vsako leto na novo zboli okoli 1000 žensk
+44 : Raziskave pa so pokazale da mleko pomaga v boju proti številnim zdravstvenim težavam od predmenstrualnega sindroma do raka na jajčnikih
+45 : Tudi na zdravljenje raka moramo ljudi sprejemati kulturno
+46 : Dokler mama ne zboli za rakom na dojki sploh ne opazita kako čas hitro teče mimo njiju
+47 : Ni vsaka zatrdlina ki jo ženska zatipa rak vendar je prav rak tisti ki se tako začne
+48 : Posebej omenjena so bila zdravila za lajšanje bolečin zdravljenje raka aidsa in osteoporoze
+49 : V Sloveniji za rakom vsako leto na novo zboli približno 10.000 ljudi v približno dveh tretjinah primerov pa bi lahko bolezen celo preprečili
+50 : Vemo da je povzročitelj pljučnega raka predvsem cigareta
+51 : Posledice kajenja to danes še ni bilo omenjeno niso samo v pljučnem raku za posledicami kajenja umre veliko ljudi zaradi srčnega infarkta
+52 : Ko raka odkrijemo je ponavadi že tako razpreden po telesu da ga težko odstranimo
+53 : Tistim ki imajo družinsko obremenjenost vsled raka dojke ali druge nevarnostne dejavnike priporočajo zgodnejši osnovni mamogram po 40. letu starosti pa vsakoletno mamografijo
+54 : Prav program presejanja naj bi bila ključna prvina preventivnega ravnanja ki bi dolgoročno pripomogla k zgodnejšemu odkrivanju raka debelega črevesa in danke RDČD ter boljšemu preživetju bolnikov
+55 : Tisti ki imajo v družini primer raka na širokem črevesu ali danki naj bi to preiskavo opravili že vsaj deset let prej in jo nato ponavljali v primernih časovnih razdaljah
+56 : Glavni cilj združenja je poleg ozaveščanja širše javnosti o raku debelega črevesa in danke tudi prizadevanje za enakomerno in večjo dostopnost do vseh diagnostičnih postopkov in najnovejših oblik zdravljenja
+57 : Tabletke zmanjšujejo tveganje za razvoj raka sluznice in jajčnikov manj je vnetij tudi menstruacije je možno prestavljati kar je velikokrat zelo koristno
+58 : Države ki sodelujejo v svetovnem pohodu za boj proti raku dojk so na prav poseben način povezane tudi s predajanjem roza pentlje
+59 : Zdaj pripravljajo program zgodnjega odkrivanja raka debelega črevesa in danke ki je po pogostosti trenutno prvi rak v Sloveniji
+60 : Številni ljudje se namreč bojijo da pomenijo raka
+61 : Poleg tega uporabljajo oralno kontracepcijo in velikokrat želijo prejemati hormonsko nadomestno terapijo kar še poveča tveganje za raka dojke
+62 : S katranom poimenujemo vse tiste kemične sestavine dima ki jih povezujemo z rakom pljučnimi in srčno žilnimi obolenji
+63 : Na nastanek raka debelega črevesa vplivajo polipi in nekatere hujše vnetne bolezni a tudi prehranske navade mastna hrana in hrana z malo vlaknin
+64 : Na nevrološke težave vplivajo na primer pesticidi parkinsonova bolezen ki vplivajo tudi na nastanek cerebralnega raka
+65 : Tudi v koži nenehno delujejo obrambni mehanizmi ki veliko okvar popravijo sproti ko ti odpovedo ali če je okvar preveč lahko pride do nastanka rakavih celic in razvije se kožni rak
+66 : Bevacizumab je poleg trastuzumaba Herceptin že drugo biološko zdravilo za zdravljenje metastatskega raka dojk
+67 : Rak dojk je najpogostejši rak pri ženskah samo v Sloveniji odkrijejo več kot tisoč novih primerov na leto
+68 : Uživanje mastne hrane povečuje tveganje za razvoj raka dojke je pokazala raziskava opravljena na ženskah ki so vstopile v menopavzo
+69 : Pokazalo se je da pri ženskah katerih prehrana je sestavljena predvsem iz maščob obstaja za 11 odstotkov večje tveganje da bodo zbolele za rakom dojke kot pri ženskah ki uživajo razmeroma malo mastne hrane
+70 : Posebno pozornost posvečajo uvajanju zdravljenja z novimi biološkimi zdravili za sistemsko zdravljenje raka
+71 : Letos naj bi zagotovili denar za začetek pilotnih presejalnih programov za raka debelega črevesa in danke v starosti od 50 do 69 let v dveh regijah prvo organizirano vabljenje žensk v programe presejanja raka dojke pa se bo začelo konec leta
+72 : S smrtjo Giannija Agnellija 24. januarja je umrl za rakom na prostati pa so se dokončno začele poslovne bitke za deleže v lastništvu podjetja ki je še na začetku devetdesetih let imelo 50 odstotni delež na italijanskem trgu do danes pa se je delež zmanjšal za 17 odstotkov
+73 : Komisija podpisnikov pisma sestavljena iz predsednikov in članov devetih društev za boj proti raku bo preučila ministrove odgovore in se odločila kako naprej napovedani javni protest pa so preklicali
+74 : Pri tem moramo natančno pretehtati koristne in škodljive učinke kajti tudi takšno omejeno izpostavljanje žarčenju lahko vpliva na razvoj kožnega raka
+75 : Marca je potekala letna skupščina Društva za boj proti okužbam s HPV in raku materničnega vratu Kala na kateri je predsednica Renata Capuder Mermal predstavila dosedanje delovanje društva in njegove prihodnje načrte ki so predvsem ozaveščanje prebivalstva o okužbi s humanim virusom papiloma HPV in o povezanosti okužbe z nastankom raka materničnega vratu RMV ter o možnostih preprečevanja te bolezni
+76 : Po podatkih Registra raka za Slovenijo ki deluje pri Onkološkem inštitutu v Ljubljani je leta 2003 v Sloveniji živelo 57.108 bolnikov z rakom med njimi 22.382 moških in 34.726 žensk
+77 : Najpogostejši raki zabeleženi pri moških v letu 2003 so bili pljučni rak 17,3 % vseh rakov rak kože 14,5 % rak debelega črevesja in danke 13,4 %
+78 : Najpogostejši raki pri ženskah v letu 2003 so bili rak dojk 21,8 % vseh rakov rak kože 16,8 % in rak debelega črevesa in danke 10,6 %
+79 : Poudarili so da je RMV edini rak ki ga je mogoče z učinkovitim presejanjem in zdravljenjem odkriti še v predrakavi
+80 : Glede na nevzdržne razmere na Onkološkem inštitutu Ljubljana podpirajo pripombe na osnutek Državnega programa nadzorovanja raka v Sloveniji in zahteve ki so jih podprli člani Društva onkoloških bolnikov Slovenije
+81 : Za rakom trebušne slinavke po svetu zboli približno 220 tisoč ljudi na leto in je pogostejši v razvitem svetu
+82 : Zanimivo je da nekatera biološka ali tarčna zdravila najprej registrirajo samo za eno vrsto raka pozneje pa še za zdravljenje drugih oblik raka ki s prvo niso v povezavi
+83 : Takšen primer je cetuksimab ki je v rabi za zdravljenje raka debelega črevesa ter raka glave in vratu
+84 : Doslej so zdravniki bolnikom z metastatskim rakom debelega črevesa in danke lahko zagotavljali le simptomatsko zdravljenje
+85 : Ta metoda je trenutno zelo uporabljana in preučevana in daje bolnikom z napredovalim rakom debelega črevesa in danke več upanja
+86 : V njej je bilo veliko rakov ki so jih primerjali z najbolj znanimi žužemberškimi
+87 : Bioloških zdravil pri preventivnem zdravljenju torej pri nenapredovalem raku ne uporabljajo ker še ni bilo dokazov da so učinkovita
+88 : Zdaj je na voljo veliko revij o zdravju in prehrani tudi o raku materničnega vratu se v javnosti veliko govori zato je možnosti za ozaveščanje dovolj je poudarila Metka Jerman Šenica ki je članica slovenskega Društva za boj proti okužbam s HPV in raku materničnega vratu Kala
+89 : Pogostejši je pri bolnikih z rakom ali drugimi sistemskimi boleznimi
+90 : Oddelek pediatrične klinike na katerem se zdravijo za rakom oboleli otroci je imel tri gastroskope
+91 : Da to velja za nosečnice starejše ljudi kadilce kronične bolnike na primer sladkorna bolezen rak in za ljudi ki so ravnokar preboleli kakšno okužbo ali jemljejo zdravila kot so antibiotiki
+92 : Jože je eden od več tisoč bolnikov z rakom debelega črevesa in danke v Sloveniji
+93 : To je predvsem zaradi dejstva da rak črevesa praviloma dolgo ne daje posebnih znamenj ko pa jih je pogosto že razširjen
+94 : Jože se je takoj vključil v društvo bolnikov s stomo ILCO kjer je predsednik ter zdaj tudi v novoustanovljeno združenje za boj proti raku debelega črevesa in danke europacolon slovenija v katerih je še eden najbolj dejavnih članov
+95 : LONDON Državna zdravstvena služba v Angliji je pred kratkim razvila test za zgodnje prepoznavanje raka na maternici
+96 : Po večletnem obolenju se rahlo poveča tveganje za črevesnega raka zato so potrebne stalne preiskave
+97 : RAK V družbi partnerja se večkrat odpravljajta na podeželje k sorodnikom ki niso tako mobilni kot vi in potrebujejo družbo v kratkih zimskih dnevih
+98 : Ta čas je tako to edina obstoječa naprava za zdravljenje raka v veterinarski medicini v Sloveniji prvi najbližji sta na Dunaju in v Zürichu sicer daleč okoli Slovenije takšne naprave ni ne na območju Italije ali nekdanje Jugoslavije
+99 : Na srečo so pozneje v Zagrebu ugotovili da raka sploh ni bilo a mati se je morala odtlej uničevati s cigaretami in z alkoholom tako da Janeza ki jo je prišel pred smrtjo obiskat z začasnega dela v tujini še spoznala ni več
+102 : Če sodimo po njej bi bilo upravičeno zmerno podaljšati čas ki ga preživimo na soncu saj vitamin D varuje pred rakom na prsih pljučih črevesju prostati jajčnikih in tudi pred boleznimi srca in ožilja
+103 : Dobre rezultate dosegamo na področjih kjer je zdravljenje raka centralizirano rak testisov limfomi kožni rak pa tudi rak na dojkah kjer se je v zadnjem obdobju petletno preživetje po odkritju in zdravljenju bolezni bistveno podaljšalo
+104 : Težave pa se kažejo pri obvladovanju raka debelega črevesa in danke saj še vedno nimamo tako imenovanega presejalnega programa s katerim bi zgodaj odkrivali to bolezen kar s takojšnjim začetkom zdravljenja omogoči tudi ozdravitev
+105 : Prav pri raku na debelem črevesu in danki menda organizirano zgodnje odkrivanje umrljivost zmanjša kar za 10 do 20 odstotkov to rakavo obolenje v Sloveniji najhitreje narašča poleg raka na pljučih pri ženskah kjer se je v zadnjih dveh desetletjih zbolevnost povečala kar za 2,5 krat
+106 : Poleg tega je treba dodati da ima Yarina poleg naloge preprečevanja neželene nosečnosti tudi druge pozitivne učinke preprečuje zadrževanje vode in s tem povečanje telesne teže blaži predmenstrualni sindrom ugodno vpliva na kožo in akne in ob dolgotrajnem jemanju zmanjšuje tveganje za nastanek raka jajčnikov in maternične sluznice
+107 : Če raka na debelem črevesu in danki odkrijejo zgodaj v prvem stadiju rakavo tkivo operativno izrežejo druge oblike zdravljenja pa običajno niso potrebne
+108 : Zazdravljenost je dobra v 90 odstotkih se bolezen ne ponovi vendar pa se pri ženskah poveča tveganje za raka na dojkah
+109 : Z zgodnjim odkrivanjem predrakavih sprememb in raka na debelem črevesu in danki so možnosti zdravljenja večje in možnosti preživetja bolezni boljše
+110 : Onkolog mi je zelo direktno povedal da imam raka in da bo treba dojko čimhitreje odrezati
+111 : Pri raku na dojkah so se v zadnjih letih za varna in učinkovita izkazala številna tarčna zdravila kot so trastuzumab lapatinib in bevacizumab
+112 : Za rakom na dojkah lahko zbolijo tudi moški
+113 : Pojasnilo glede lapatiniba novega zdravila pri zdravljenju HER2 pozitivnega raka na dojkah
+114 : Rak na dojkah Vsako leto na novo zboli več kot tisoč žensk
+115 : Samopregledovanje dojk je najpomembnejša sekundarna preventiva raka na dojkah s katero naj bi začele že pri dvajsetih letih starosti
+116 : Rak na dojkah je vedno večji zdravstveni problem v svetu in pri nas
+117 : Incidenca bolezni raste in je znašala po podatkih registra raka za Slovenijo v letu 2004 106 obolelih na sto tisoč žensk
+118 : Kajenje zmanjšuje telesne zmogljivosti pojavijo se bolezni ožilja nekateri dobijo raka
+119 : Naš namen je zasnovati terapije s katerimi bi reševali življenja pred celo vrsto človeških obolenj vključno s sladkorno boleznijo kapjo rakom AIDS-om in nevro degenerativnimi boleznimi kakršni sta Parkinsonova in Alzheimerjeva bolezen
+120 : Zagotovili bodo čim pogostejše preglede za preprečevanje nastanka raka materničnega vratu
+121 : Seveda ne morem pozabiti in še dolgo ne bom pozabila da sem prebolela za zdaj srečno obliko kostnega raka z metastazami na pljučih
+122 : Tako za rakom dojk zbolevajo predvsem ženske ki so dobile prvo menstruacijo zelo mlade ki so jo izgubile v starejših letih ki niso nikoli rodile ali so prvič rodile po 35. letu starosti
+124 : Za ustrezno zdravljenje je treba rak na prostati diagnosticirati dovolj zgodaj saj je ozdravljiv le v začetnem stadiju
+125 : Res je takšno zdravljenje rešilo življenja številnim ženskam ki so zbolele za rakom dojk vendar pa je ob tem številnim povzročilo tudi neželene učinke
+126 : Obstaja cela vrsta dokazov ki pričajo da bolniki oboleli za rakom želijo poznati vso resnico in pridobiti kolikor je le mogoče informacij pa naj bodo dobre ali slabe
+127 : Četudi je danes vse bolj v navadi da bolnik z rakom izve vso resnico se še vedno uporablja tudi metoda delnega prikrivanja ali celo prikrivanja v celoti
+128 : Zelo pogosti so tudi drugi tumorji debelega črevesa in raki izven kolona
+129 : V nekaj odstotkih lahko zbolijo še za rakom sečil žolčnika centralnega živčnega sistema in tankega črevesa
+130 : Vsaj trije sorodniki z rakom debelega črevesa RDČ od teh eden v prvem kolenu ostala dva morata biti v dveh zaporednih generacijah vsaj eden je zbolel pred 50. letom starosti
+131 : Kdaj v posvetovalnico za dedni nepolipozni rak debelega črevesa HNPCC
+132 : Zbrani denar bo namenjen otrokom obolelim za rakom in sicer za nakup postelje na elektriko
+133 : Pljučni rak je pri nas najpogostejša maligna bolezen moških pri ženskah je na osmem mestu
+134 : Ta ustreza naravnemu steroidnemu progesteronu uporabljajo pa ga v veterini predvsem za ovce pse in mačke in humani medicini v kontracepcijske namene ali pri zdravljenju raka na dojki
+135 : Povečuje se število primerov raka debelega črevesa in danke kože prostate ter glave in vratu
+136 : Ko se je začela šiba tresti je bilo treba hitro cukniti in plen je bil na kopnem ali pa tudi ne če se je rak zmuznil
+138 : Ta raziskava je namreč pokazala da je za rakom na prsih zbolelo mnogo več žensk ki so jemale hormone kot tistih ki jih niso jemale
+139 : Predstavljena je bila tudi raziskava BOND ki so jo naredili s tem zdravilom in je dokazala da je cetuksimab v kombinaciji z irinotekanom zdravilo ki so ga že doslej uporabljali za zdravljenje raka širokega črevesa in danke učinkovit pri več kot polovici bolnikov
+140 : Gabriel A. Kune je pri svoji raziskavi ki ni bila povezana z delovanjem aspirina opazil da tisti bolniki ki so redno dnevno jemali aspirin za 40 odstotkov manj pogosto zbolijo za rakom debelega črevesa
+141 : Če bi radi naredili z malo denarja veliko dobrega potem pošljite SMS namenjen nakupu aparata za zgodnje odkrivanje raka na dojkah
+142 : Na dosedanjem seznamu bolezni ki so dokazano povezane s kajenjem pa so rak sečnega mehurja žrela pljuč ustne votline grla kronična obstruktivna pljučna bolezen bolezni srca in žil in tudi problemi pri reprodukciji po domače neplodnost
+143 : Mimogrede prvo poročilo o boleznih ki so povezane s kajenjem je imelo na seznamu raka žrela in kronični bronhitis
+144 : Njenemu sodelavcu se je še rak popravil ko je posteljo prestavil na drug konec sobe
+145 : Po navedbah ameriškega časnika Dallas Morning News naj bi bil denar namenjen predvsem teksaškim otrokom obolelim za rakom
+146 : Obolevnost za rakom na materničnem vratu je v celjski regiji nadpovprečno visoka zato je Zavod za zdravstveno varstvo Celje 8. maja pripravil strokovni posvet na to temo katerega se je udeležilo 14 ginekologov in 24 medicinskih sester s Celjskega
+147 : Za to da bi prave informacije o rakavih boleznih bile posredovane čim večjemu številu ljudi skrbi tudi Društvo za boj proti raku celjske regije
+148 : Raziskave so pokazala da imajo osebe z visokim deležem vlaknin v prehrani manjšo možnost za nastanek ateroskleroze raka na debelem črevesu in hemoroidov
+149 : Rak Srečali boste človeka ki bo drugačen od vaših znancev
+150 : Po oceni slovenskih zdravnikov je bila vsaka nadaljnja operacija brez pomena saj se je rak pri bolniku že preveč razširil
+151 : Pri tej skupini bolnikov kjer gre za zdravljenje metastatskega raka debelega črevesa in danke ter imajo zasevke v jetrih se lahko bolezen v taki meri zmanjša da je mogoča celo ozdravitev in zazdravitev
+152 : Res je bolnik si zasluži več pozornosti Doc. dr. Janez Žgajnar Prepričan sem da se bo delež neobvladljivih rakov v prihodnosti manjšal
+153 : Toda oslabitev bolnikovega imunskega sistema ima svojo ceno saj poveča njegovo dovzetnost za infekcijske bolezni in raka
+155 : Vsekakor sem prepričan da se bo delež neobvladljivih rakov v prihodnosti manjšal
+156 : LjubljanaDanes bodo na Onkološkem inštitutu v Ljubljani prvič v Sloveniji bolniku z rakom debelega črevesa in danke poskušali pomagati z novo metodo imenovano HIPEC regionalno hipertermično zdravljenje s citostatiki po citoreduktivni operaciji
+157 : Kar 95 odstotno pa ozdravijo tudi mezoteliom ki sicer velja za neozdravljivo vrsto raka
+158 : Ob kajenju marihuane se tako sproščajo snovi ki vplivajo na kratkotrajni spomin pozornost presojo in zaznavanje povečujejo tveganje za respiratorne infekcije raka in srčno žilna obolenja sprožajo psihoze in shizofrenijo
+159 : Osemintridesetim zdravilom s povsem novimi zdravilnimi učinkovinami bo tako omogočeno predpisovanje na recept v breme obveznega in dopolnilnega zdravstvenega zavarovanja v oklepaju navajamo tudi lastniška imena zdravil sunitinib Sutent in sorafenib Nexavar za zdravljenje raka ledvic kladribin Litak in dasatinib Sprycel za zdravljenje levkemije
+160 : Debele ljudi bolj ogrožajo koronarna bolezen možganska kap ter nekatere vrste raka kot so rak debelega črevesa dojke maternice in prostate
+161 : Letos maja je bila operirana zaradi raka na maternici
+162 : Evropska agencija za zdravila je lani izdala dovoljenje za promet za zdravilo sorafenib nexavar namenjeno zdravljenju bolnikov z napredovalim rakom ledvic
+163 : Omenjeni dietni principi so uspešni predvsem pri raku na želodcu črevesju in prebavilih nasploh pa tudi na dojki in jajčnikih
+164 : Samo kajenje ne povzroča raka saj ne zbolijo vsi kadilci je pa eden od dejavnikov ki to bolezen ali pospešijo ali povzročijo
+165 : Vendar rak ni edina bolezen ki jo lahko dobimo če kadimo
+166 : Ameriški znanstveniki so predstavili urinski test ki zaznava beljakovine ki nastanejo pri malignih raščah z njim pa bi lahko hitreje diagnosticirali rak na mehurju in morda zmanjšali uporabo bolj invazivnih tehnik odkrivanja raka
+167 : Sodnika evropskega sodišča Boštjana M. Zupančiča je o izsledkih da je umrljivost za rakom v Socki nenavadno visoka opozoril neodvisni raziskovalec Anton Komat iz Ljubljane ki naj bi že več let proučeval vpliv različnih strupov iz okolja na človeka
+168 : Na pokopališču Žale je namreč postavljena posebna stojnica kjer prodajajo sveče zbrana sredstva s prodajo sveč pa bodo v celoti namenjena nakupu mamotoma oziroma združenju za boj proti raku dojk Europa Donna
+169 : Tudi pri artritisu in nekaterih vrstah raka so dosegli izboljšanje
+170 : vstvo ki je utemeljitelj ideje da je za uspešno zniževanje obolevnosti za rakom dojk zelo pomembno sodelovanje strokovnjakov in civilne družbe
+172 : Rak Če boste še naprej ravnali tako se boste kmalu znašli v svetu spletk
+173 : Rak debelega črevesa je namreč po svoje bolj prijazen kot kakšna druga oblika raka najavlja se z znaki in če te odkrijejo je bolezen lažje obvladljiva
+174 : Ni naključje da je rak v največji meri posledica starosti
+175 : Ali je pomembno da je zdravljenje raka že od začetka pravilno zastavljeno
+176 : Ta program ki so ga v Registru raka na Onkološkem inštitutu poimenovali dora naj bi naposled zaživel tudi v Sloveniji
+177 : Če vzameva kirurško zdravljenje ki je pri čvrstih rakih še vedno najbolj uspešna metoda zdravljenja če metode primerjamo ločeno gre razvoj predvsem v smeri vedno manj invazivnega zdravljenja
+178 : Že zelo dolgo na priomer vemo da večina rakov dojk izraža hormonske receptorje in zdravila usmerjena proti njim so zelo uspešna pri zdravljenju
+179 : Rak na dojkah je v mladih letih sicer zelo redka bolezen vendar bi že v mladih letih morale spoznati svoje dojke da jih bomo poznale tako da bomo v letih ko je rak vse pogostejši to je po 50. letu začutile da je nekaj narobe
+180 : Drugi pomemben rezultat je manjše število novih primerov raka na materničnem vratu incidenca raka na materničnem vratu se je v petih letih delovanja presejalnega programa zmanjšala za dobro četrtino z 209 novih primerov leta 2003 na 151 novih primerov leta 2007
+181 : Rak debelega črevesa in danke je druga najpogostejša vrsta raka v Sloveniji
+182 : Kaj je Europa Donna in kateri so njeni cilji Europa Donna je evropska zveza za boj proti raku dojk ki trenutno združuje 40 držav med njimi je od leta 1997 tudi Slovenija
+183 : Nosilec državnega programa zgodnjega odkrivanja raka debelega črevesa in danke programa SVIT je Zdravstveni dom Ljubljana enota preventive CINDI Slovenija
+184 : Možno je da je venska tromboza znanilec še prikrite resne bolezni raka katere odkritje omogoča zdravljenje v zgodnjem obdobju ko je možnost ozdravitve še velika
+186 : Združenje zastopa interese žensk v boju proti raku dojk
+187 : Mlaj e generacije poto nih rakov in jedi pripravljenih iz njih ne poznajo
+188 : Na Posestvu PULE elimo pri arati okuse tradicionalne slovenske kuhinje zato pripravljamo jedi iz poto nih rakov in tako prena amo bogastvo avtohtonih okusov v prihodnost
+189 : Pomurska skupina za samopomoč žena z rakom na dojki je sredi junija praznovala 20. obletnico delovanja
+190 : Askorbinska kislina vitamin C je pomemben antioksidant in ima zelo verjeten vpliv v preventivi raka in bolezni srca ter ožilja
+191 : Ginekologi opozarjajo tudi na povišano smrtnost žensk zaradi raka na materničnem ustju
+192 : Poškodbe nekaterih genov kromosoma 6 so verjetno vpletene tudi v nastanek kompleksnih genetskih bolezni kakršne so shizofrenija epilepsija rak in bolezni srca to bo treba še potrditi
+193 : Vekoslava Krašovec je za Mariborčanke predlagala brezplačne preglede za zgodnje odkrivanje raka na dojki
+194 : V Los Angelesu je za rakom umrl 57 letni ameriški pevec Scatman J. ki je leta 1994 zaslovel s tehnorapovsko uspešnico Scatman
+195 : raka društvo prijateljev mladine raka je na pustni ponedeljek organiziralo pustno ustvarjalno delavnico ki se jo je udeležilo kar 21 otrok iz odpadnega papirja so izdelovali različne pisane trakove in pustne maske tako so nastale zanimive pikapolonice ali vitezove čelade naslednji dan na pustni torek pa je sledilo pustno rajanje kjer so maškare veselo plesale najbolj domiselne maske pa je strokovna komisija nagradila s praktičnimi nagradami
+196 : Ministrstvo za zdravje financiranje cepljenja proti HPv iz javnih sredstev odsvetuje do razrešitve dilem ki naj bi jih razrešila interdisciplinarna strokovna skupina za pripravo strokovnih priporočil za uvedbo cepljenja proti raku materničnega vratu oziroma humanim virusom papiloma HPv v sloveniji
+197 : Pomemben dosežek v boju zoper raka na materničnem vratu pomeni cepivo izdelano posebej za preprečevanje nastanka tumorjev v področju spolovil in rodil
+198 : raKa Društvo prijateljev mladine raka v mesecu decembru pripravlja niz prireditev in kot je povedala predsednica društva Petra Bizjan je bilo poskrbljeno za aktivno preživljanje časa tako za najmlajše kot tudi za starejše krajane ob ponedeljkih so praznično vzdušje pričarale pravljice ob sobotah so bile organizirane tudi ustvarjalnice v katerih so v Mladinski točki na raki izdelovali novoletne okraske in voščilnice v origami tehniki pa so se preizkusili s pomočjo interneta v torek 18. decembra so izpeljali Ugankarski izziv in reševali najrazličnejše križanke rebuse in različne druge oblike v soboto 22. decembra pa v dopoldanskem času vabijo k udeležbi otroke od šestega do 12. leta starosti da bodo staršem izdelali novoletna darila
+199 : Toda sonce lahko tudi neprijetno opeče škoduje imunskemu sistemu pospeši staranje kože ali celo povzroči kožnega raka
+200 : Tako je tudi pri raku na dojkah zelo pomembno da ga čim prej odkrijejo saj je verjetnost za ozdravitev bistveno večja
+201 : Poleg tega je rak v zadnjih dvajsetih letih postal eden od glavnih vzrokov smrti na Kitajskem a v državi še ni dovolj organizacij in centrov ki bi obolelim pomagali živeti z boleznijo ne da bi bili prikrajšani za normalno življenje
+202 : S cepivom v boj proti raku materničnega vratu in okužbi s HPV
+203 : To je podobno raku katerega metastaze se širijo po vsem finančnem sistemu
+204 : Vsi udeleženci slikarske kolonije bodo eno od svojih slik odstopili za javno dražbo izkupiček prodaje pa bo v celoti namenjen Ustanovi za pomoč otrokom obolelim za rakom in krvnimi boleznimi
+205 : Obolevnost za kožnim rakom je v naši državi na drugem mestu med vsemi rakavimi obolenji in se v zadnjih letih povečuje
+206 : Rak testisov se je razširil na pljuča izpljuval sem na litre krvi in nato še na možgane
+207 : Pomemben dosežek v boju zoper raka na materničnem vratu pomeni cepivo izdelano posebej za preprečevanje nastanka tumorjev
+208 : Vegetarijanci redkeje zbolijo za srčnimi boleznimi želodčnimi težavami in črevesnemu raku žolčnih kamnih sladkorni bolezni
+209 : Njena kriza traja že nekaj mesecev odkar je izvedela da je njena mati zbolela za rakom in tudi poškodba je obremenjevala njene nastope
+210 : sprememb in raka zunanjega spolovila pa tudi nekatere rake nožnice penisa in zadnjika
+211 : Verjetno je le da bi ljudje prej umrli od drugih bolezni predvsem raka ali nesreče kot od kapi ali infarkta
+212 : Za rakom niso zbolele in ugotovitev je bila da kajenje ni škodljivo
+213 : Sadje in zelenjava ne zmanjšujeta tveganja za nastanek raka na dojki
+214 : Rak je skupno ime za nekaj sto malignih bolezni ki so tako po svetu kot tudi pri nas različno pogoste kot druga najpogostejša bolezen našega časa pa je pokopal že veliko ljudi
+215 : Z vadbo krepimo imunski sistem preprečimo debelost s tem pa zmanjšamo tudi možnost raka črevesja ženske pa lahko zmanjšamo tudi tveganje za rakom dojk
+216 : jabolka hruške in podobno sadje zmanjšujejo tveganje za pljučnega raka so ugotovili raziskovalci v raziskovalnem centru v Heidelbergu
+217 : Namenili jih bodo hemato onkološkemu oddelku na Pediatrični kliniki v Ljubljani kjer se zdravijo otroci oboleli za rakom
+218 : Uživanje sadja in zelenjave naj bi po večini epidemioloških raziskav zmanjšalo tveganje za nastanek raka na pljučih požiralniku želodcu in debelem črevesu
+219 : Rak Srečali boste nekoga ki ga že dolgo niste videli
+220 : Rak Nikar se ne uklonite znančevi volji zgolj zato da boste imeli znova mir pred njim
+221 : Najnovejše študije so pokazale da je rak na debelem črevesu pri diabetikih pogostejši
+222 : Največ primerov raka se razvije iz polipov ki se pogosto pojavljajo po petdesetem letu
+223 : Večino raka na debelem črevesu odkrijejo pri starejših od petdeset let diabetiki tipa 2 pa imajo kar 30 do 40 odstotkov več možnosti da zbolijo za njim
+224 : Rak Ali res ne vidite da na svoje težave gledate preveč egoistično in enostransko
+225 : Prvi rak ki se mu res lahko izognemo je pljučni rak
+226 : Drugi raki ki se jim lahko izognemo so povezani z nepravilno prehrano
+227 : To so raki prebavil rak debelega črevesa in danke rak želodca pravijo pa da prehrana vpliva tudi na rak požiralnika
+228 : raka materničnega vratu v Sloveniji zbolelo 208 žensk
+229 : Več je primerov pljučnega raka raka trebušne slinavke in mehurja ugotavlja dr. Alfred Kobal upokojeni direktor idrijskega zdravstvenega doma
+230 : Pri združenju Europa Donna opozarjajo tudi na pomanjkljivosti pri presejavanju za zgodnje odkrivanje raka dojke
+231 : V tistem času je v Sloveniji zbolelo za rakom okoli 3000 ljudi na leto zdaj jih že deset tisoč
+232 : Poleg dednosti je močan dejavnik tveganja za nastanek raka na dojki reproduktivnost
+233 : ZAGREB Predsednika hrvaških socialdemokratov SDP in nekdanjega hrvaškega premiera Ivico Račana so v soboto zaradi težav pri nadaljevanju zdravljenja raka prepeljali v klinični center v Zagrebu kjer so ugotovili da ima Račan rakaste metastaze na možganih
+234 : Pri raku ne moremo govoriti da ga je več samo zato ker je več starih ljudi
+235 : Spremembo zaradi katere bodo ženske pri nas upravičene do preventivnega pregleda za preprečevanje raka materničnega vratu enkrat na tri leta in ne več vsako leto je pred dnevi potrdil tudi zdravstveni svet pri ministrstvu za zdravje
+236 : Pri nas močno narašča obolevnost za rakom vse več je bolezni srca in ožilja ter travmatizmov
+237 : Pred tem so jim vsadili agresivne celice raka na jajčnikih trebušne slinavke in možganov poleg tega pa so jim prej oslabili imunski sistem da so se rakaste celice lahko hitro množile
+238 : Prostovoljka je ženska ki je uspešno prestala raka dojke in se ji je uspelo dobro rehabilitirati predelati lastne stiske strahove se osvoboditi bojazni in zaživeti polno življenje od končanega zdravljenja pa morata preteči vsaj dve leti
+239 : Z nadaljnjimi raziskavami bodo ameriški strokovnjaki skušali še dokazati da je pri ljudeh ki pijejo pivo v zmernih količinah manj pogosta okužba z bakterijo Helicobacter pylori povzročiteljico rane na želodcu in pomembnega dejavnika tveganja za razvoj raka na želodcu
+240 : Rak Nekdo vam bo odsvetoval da se lotite projekta
+242 : Večina bolnikov z rakom se v času svojega zdravljenja srečuje s problemom negativne samopodobe
+243 : Zato za raka najverjetneje nikoli ne bo enotnega zdravila
+244 : Je mogoče da se iz hemoroidov razvije rak
+245 : Ena od učinkovin imenovana sulforafan posebej varuje ljudi z gensko obremenjenostjo da ne zbolijo za rakom debelega črevesa
+246 : Kljub pravici do vsakoletnega pregleda boj proti raku na materničnem vratu ni bil uspešen
+247 : Brokoli in druga temno zelena zelenjava pa vsebujejo tudi snovi ki pomagajo v boju proti raku
+248 : Toda rak kot je v osemdesetih letih napisal profesor Franc Lukič moj prvi vzornik ni smrt profesor Greg Ogilvie moj zdajšnji vzornik eden najpomembnejših onkologov v veterini razlaga da je rak najbolj ozdravljiva kronična bolezen
+249 : Pozneje sem gospoda srečala v stavbi C na oddelku z bolniki ki imajo pljučnega raka
+250 : Poglejmo na primer raka na materničnem vratu ko je edina rešitev operacija pri čemer je seveda nujna prekinitev nosečnosti
+251 : Spominjam se nosečnice pri kateri smo v 22. tednu odkrili napredovanega raka na materničnem vratu in ji predlagali takojšnjo operacijo
+252 : Tudi kadar odkrijejo raka se včasih odločijo da ne bodo ukrepali temveč bolnika samo spremljajo
+253 : Komaj smo se ga dobro razveselili že je zaokrožilo elektronsko sporočilo ki resno svari pred gardasilom cepivom proti virusom ki povzročajo raka na materničnem vratu
+254 : Ti krepijo imunski sistem ki nas varuje pred virusnimi in bakterijskimi okužbami ter povečujejo sposobnost telesa za boj proti raku in boleznim srca
+255 : Pravijo da preprečuje nastanek nekaterih vrst raka posebno raka danke
+256 : Zelje naj bi pospeševalo presnovo estrogena pri ženskah kar varuje pred rakom na dojki in maternici
+257 : Antioksidanti vežejo škodljive proste radikale ki poškodujejo telesne celice in lahko povzročijo raka
+258 : Če bi bolnik imel možnost da bi lažje prišel v ambulanto bi mu raka odkrili prej zato tako obsežna operacija ne bi bila potrebna
+259 : Velik poudarek namenja preventivi rakavim boleznim in zlasti preventivi raka na dojkah
+260 : To vedno pove kakor da bi odkrila zdravilo za raka aids in hemeroide hkrati
+261 : Dejstvo da so črevesnega raka in polipe imele osebe v ožji družini poveča tveganje za 2 do 4 krat
+262 : Mamografija je presejalni test za zgodnje odkrivanje raka na dojki ki je eden najpogostejših oblik raka pri ženskah
+263 : Raziskave so pokazale da je umrljivost za rakom dojk v nekaj letih upadla celo do 30 odst. povsod tam kjer imajo že leta dobro organizirano zgodnje odkrivanje bolezni
+264 : Vse več je tudi nemelanomskega raka kože v večini primerov bazocelularnega in ploščatoceličnega kjer se je incidenca s 17,9 na 100.000 moških in 20,7 na 100.000 žensk v obdobju med letoma 1963 do 1967 povečala na 61,8 na 100.000 moških in 63,2 na 100.000 žensk v letu 2001
+265 : Britanski znanstveniki razvijajo kontracepcijsko tabletko ki naj bi zmanjšala možnost obolevanja za rakom dojk
+266 : Kombinirane kontracepcijske tabletke ki so trenutno v uporabi nekateri povezujejo s povečanim tveganjem za raka dojk zlasti zaradi vsebnosti estrogena medtem ko naj bi bilo tveganje za pojav raka na materničnem vratu in jajčnikih pri tej vrsti kontracepcije manjše
+267 : Klinična raziskava ki je zajela 48.000 žensk v pomenopavzi se je osredotočila na preučevanje dolgoročnih dobrih in slabih posledic teh diet in njihovega tveganja za razvoj raka na črevesju in danki raka dojk in srčno žilnih bolezni ter na vzorčno povezanost sprememb telesne teže sprememb načina prehranjevanja in sprememb v makrohranilni sestavi živil
+268 : V kakšni meri so odgovorni za nastanek raka limfatskega tkiva bodo pokazale nadaljnje kohortne študije
+269 : Število bolnikov z rakom debelega črevesa in danke se povišuje
+270 : Vendar je za bolnike z rakom debelega črevesa in danke tudi v tej fazi bolezni upanje saj obstaja več vrst zdravljenja s citostatiki in v zadnjem letu tudi v kombinaciji s tarčnimi biološkimi zdravili
+271 : Rak debelega črevesa in danke je v zahodnem svetu drugi najpogostejši vzrok smrti med rakavimi boleznimi saj ga odkrijejo najpogosteje v že napredovali fazi
+272 : Okultni skriti rak prostate pa je tisti pri katerem ima bolnik težave s preiskavami najdejo njegove zasevke tumorja v sami prostati pa ne
+273 : Že dokazano dejstvo da sta pogostnost in umrljivost zaradi raka dojk prostate in debelega črevesa v predelih z več sončne svetlobe manjši je raziskovalce spodbudilo k preučevanju vloge vitamina D pri nastanku raka na trebušni slinavki
+274 : Rak širokega črevesa in danke je namreč v začetni fazi ozdravljiv v visokem odstotku sta poudarila in dodala da gre pri krvavitvah marsikdaj tudi za manjše polipe ki jih zdravniki preprosto odžgejo največkrat že kar med preiskavo
+275 : Zaradi naraščanja pojavnosti raka širokega črevesa in danke priporočata po petdesetem letu tudi kolonoskopijo pregled celotnega črevesa s posebnim inštrumentom še posebej tistim ki imajo sorodnika z rakom ali polipi črevesja
+276 : Manj učinkovita je ta metoda diagnosticiranja pri težavah s sklepi in pri kožnih boleznih v primeru raka pa je njena zanesljivost 50 odstotna
+277 : Društvo za boj proti okužbam s HPV in raku materničnega vratu Kala
+278 : Najpogosteje potrebujejo specialno enteralno prehrano bolniki z rakom opečenci bolniki z dolgotrajnimi infekti še posebej bolniki s HIV ledvični in jetrni bolniki in bolniki po operativnih posegih zlasti na zgornjih prebavilih
+279 : Rak debelega črevesja kolona in danke rektuma ki mu pravimo tudi kolorektalni rak spada med najpogostejše oblike raka
+281 : Pravih vzrokov za tako velik in nenehen porast ne pozna nihče vsekakor pa se je treba zavedati da so možnosti ozdravljenja boljše če rak debelega črevesa in danke odkrijemo čim prej
+282 : Ulcerozni kolitis vnetje črevesne sluznice poveča možnost za razvoj kolorektalnega raka
+283 : Perzistentna okužba z visokorizičnimi genotipi HPV je nujna ne samo za razvoj raka materničnega vratu ampak tudi za nastanek in vzdrževanje CIN III
+284 : HPV 16 in HPV 18 povzročata tudi nastanek nekaterih rakov zunanjega spolovila nožnice anusa ustne votline grla in žrela
+285 : Ker sta HPV 31 in HPV 45 po pogostosti v svetovnem merilu tretji in četrti genotip HPV pri raku materničnega vratu so ti preliminarni rezultati zelo spodbudni
+286 : Seveda je potrebna velika previdnost pri razlaganju teh rezultatov saj še ni nobenih dokazov da bo opisana navzkrižna reaktivnost rezultirala tudi v zaščiti pred razvojem s HPV 45 in HPV 31 povzročenega raka materničnega vratu
+287 : Ščiti pred različnimi vrstami raka saj nase veže proste radikale in zmanjšuje število tumorskih celic
+288 : Cepljenje proti HPV z obstoječim cepivom ni zamenjava za presejanje raka materničnega vratu
+289 : Z zdravljenjem predrakavih sprememb je možno preprečiti rak materničnega vratu
+290 : Pri ženskah ki zbolijo zaradi raka materničnega vratu še vedno ugotavljamo da v polovici primerov v zadnjih petih letih niso hodile na ginekološke preglede
+291 : Cepivo je namenjeno za preprečevanje predrakave nenormalne rasti celic materničnega vratu ali ženskih zunanjih spolovil raka materničnega vratu in bradavic na spolovilih ki jih povzročajo te okužbe s HPV
+292 : Cepivo proti HPV nima zdravilnega učinka in ni namenjeno zdravljenju raka materničnega vratu predrakavih sprememb ter genitalnih bradavic kakor tudi ne preprečevanju napredovanja predrakavih sprememb
+293 : Če bo cepljenih 70 do 80 odstotkov deklic oziroma mlajših žensk naj bi se število primerov raka materničnega vratu znižalo za 70 odstotkov hujših predrakavih sprememb materničnega vratu CIN 2 3 za 50 odstotkov blagih predrakavih sprememb materničnega vratu CIN 1 za 35 odstotkov in genitalnih bradavic za več kot 90 odstotkov
+294 : V prizadevanju za zmanjšanje obolevnosti za rakom materničnega vratu RMV smo ginekologi izboljšali tehniko odvzema brisa in nadgradili ginekološke preglede z dodatnimi diagnostičnimi metodami
+295 : Okužbo s HPV so dokazali v skoraj vseh primerih raka na materničnem vratu pri kar treh četrtinah pa je obstajala povezava z genotipoma HPV 16 in HPV 18
+296 : Iz tega sledi povsem logičen sklep da so HPV nujno potreben čeprav nezadosten dejavnik pri nastanku raka materničnega vratu
+297 : Rak je bolezen na katero ne bom nehala misliti nikoli
+298 : Julija lani smo se z ustanovitvijo Društva za boj proti okužbam s HPV in raku materničnega vratu KALA pridružili številnim sorodnim društvom iz Slovenije in sveta da bi povezali ljudi s podobnimi izkušnjami in skrbmi a tudi z željo da bi bile bolnice deležne karseda kakovostnih zdravstvenih uslug
+299 : Prav sporazumevanje je namreč še vedno rak rana zdravstva in nemalokrat tudi eden od argumentov za odhod v zasebno prakso
+300 : Pa o novih razlogih za optimizem saj je za vse ženske in deklice že na voljo cepivo proti raku na materničnem vratu
+301 : Ugotovili so namreč da pri starejših ljudeh ki so jedli več čebule in česna obstaja manjša verjetnost da zbolijo za nekaterimi vrstami raka kot so rak debelega črevesa rak na jajčnikih in rak na grlu
+302 : Slovensko združenje za boj proti raku dojk Europa Donna je v sodelovanju z Zvezo slovenskih društev za boj proti raku v petek 17. novembra 2006 priredila prvi seminar Živeti z rakom ki je presegel pričakovanja prirediteljev saj se ga je udeležilo več kot sto bolnic njihovih svojcev in drugih ki so želeli izvedeti kaj več o tej najpogostejši maligni bolezni žensk
+303 : Toda številni oboleli nimajo povečanih vrednosti PSA in tudi povečanje PSA še ne pomeni da imajo raka na prostati
+304 : Zdaj vemo da približno petnajst odstotkov ljudi ki pridejo k zdravniku in imajo diagnozo pljučni rak lahko zdravimo radikalno kar z drugimi besedami pomeni da jih lahko ozdravimo
+305 : Povsem prepričani o tem ne moremo biti nikoli in nikomur ne moremo dati zagotovila da se rak pri njem ne bo ponovil ali na novo nastal kje drugje v telesu
+306 : Ko bomo prišli tako daleč da bomo rekli ja imam raka ampak ga skupaj z zdravniki obvladujem tako da je kakovost mojega življenja zadovoljiva bomo dosegli svojevrsten cilj
+307 : O takem zdravljenju odločajo na multidisciplinarnem timu kjer so prisotni zdravniki ki se ukvarjajo z diagnostiko in seveda z zdravljenjem nedrobnoceličnih rakov pljuč predvsem so to internisti onkologi radioterapevti onkologi kirurgi in pulmologi
+308 : Za pljučnim rakom tako ne zbolijo vsi kadilci iz raziskav pa vemo da so kadilci 20 krat bolj ogroženi kot nekadilci pove dr. Maja Primic Žakelj
+309 : Gre za prvo cepivo proti raku materničnega vratu ki je hkrati z ostalimi evropskimi državami tudi v Sloveniji pridobilo dovoljenje za promet
+310 : Cepivo je dokazalo 100 % učinkovitost proti HPV 16 in 18 ki povzročata raka materničnega vratu ter 99 % učinkovitost proti HPV 6 in 11 ki povzročata bradavice
+311 : V Sloveniji imamo resonančne generatorje po zaslugi biofizika in terapevta naravnega zdravljenja prof. dr. Braneta Kobala ki s frekvenčno terapijo dosega uspehe pri zdravljenju različnih bolezni predvsem bolnikov z rakom
+312 : Poleg zbornika s predavanji smo udeleženci konference dobili tudi monografijo z naslovom Preprečevanje raka materničnega vratu s HPV cepivi in presejanjem F. X. Boscha in sodelavcev www.elsevier.com locate vaccine v kateri so področja povezana s cepljenjem obravnavana še podrobneje
+313 : V rak se lahko razvijejo le tiste vrste benignih sprememb pri katerih citopatologi pod mikroskopom ugotovijo da se celice pretirano delijo hiperplazija in so drugačne oblike atipične
+314 : Rak materničnega vratu je drugi najpogostejši rak pri ženskah zaradi katerega je leta 2002 zbolelo 493.000 umrlo pa 274.000 žensk
+315 : Zaradi delovanja HPV nastanejo tudi nekateri raki anusa zunanjega spolovila nožnice ustne votline in žrela to je leta 2002 povzročilo raka pri približno 68.300 ženskah in moških po vsem svetu
+316 : Društvo za preprečevanje okužb s HPV in raku materničnega vratu KALA
+317 : Rak materničnega vratu RMV je pogost maligni tumor pri ženskah pri katerem se maligne celice nahajajo v tkivu materničnega vratu ki spaja maternico z vagino in ustvarja tako imenovani porodni kanal
+318 : Rak materničnega vratu je predvsem v razvitih državah drugi najpogostejši rak pri ženskah takoj za rakom dojke
+319 : V Sloveniji je rak materničnega vratu šesti najpogostejši rak pri ženskah in drugi najpogostejši rak rodil za rakom maternične sluznice
+320 : Atipična hiperplazija je torej sprememba ki še ni rak a se v rakavo lahko spremeni zato jo je treba odstraniti
+321 : Od 46 preučevanih vrst sadja in zelenjave ki so jih uživali ljudje so samo paradižnikovi izdelki ki so bogati z likopenom pokazali pomembno povezavo z manjšim tveganjem za nastanek raka prostate
+322 : Zmožna sta loviti proste radikale ki lahko pripeljejo do bolezni srčno žilnega sistema nekaterih vrst raka in alzheimerjeve bolezni
+323 : Združeni v boj proti okužbam s HPV in z rakom materničnega vratu
+324 : Izpostavljanje UV žarkom je glavni razlog za tako veliko stopnjo obolevanja za kožnim rakom v zadnjih desetletjih
+325 : S tem so pojasnili zakaj prav rak na dojkah pri ženskah in rak na prostati pri moških rada razvijeta zasevke v kosteh
+326 : Nekaj sončne svetlobe resda potrebujemo čezmerno izpostavljanje pa lahko povzroči tudi sončne opekline prezgodnje staranje kože a tudi kožnega raka sivo mreno katarakto fotoalergične in fototoksične reakcije na koži in okvare imunskega sistema
+327 : Melanom je najnevarnejša oblika kožnega raka ki vznikne iz pigmentnih celic
+328 : Letna incidenca kožnega raka se je v naši državi od leta 1950 ko je znašala približno 7 100.000 prebivalcev povečala na približno 70 100.000 v letu 2003 torej se je povečala za desetkrat
+329 : Zbolela je za rakom na očesu in trpela zelo hude bolečine zraven sem tudi sama nepopisno trpela ko sem gledala kako moj najdražji človek trpi oziroma umira
+330 : Zdravljenje z radioaktivnim jodom je namenjeno raku ščitnice ne pa tudi raku dojke
+331 : Pri primarnem presejanju raka materničnega vratu HPV testa za zdaj ne uporabljajo nikjer v Evropi
+332 : Na Finskem kjer redno pregledujejo prav vse ženske je pojavnost raka materničnega vratu najnižja v Evropi
+333 : Zelo spremenjene celice materničnega vratu ki so nastale zaradi predrakavih sprememb ali začetnega raka materničnega vratu smo označevali kot PAP IV ali PAP V.
+334 : V četrti skupini so celice ploščatoceličnega raka materničnega vratu ki jih odkrijemo najbolj redko
+335 : Ali okužbi z virusom HPV vedno sledi razvoj raka
+336 : Vsi kadilci ki ste bili izpostavljeni azbestu ste veliko bolj ogroženi da boste zboleli za pljučnim rakom kot nekadilci zato je modro da prenehate kaditi
+337 : Če neki rak na prsih metastazira je dejal Američan Ramaswamy za diagnozo zadostuje že analiza 17 namesto prejšnjih 128 genov
+338 : Ženske ki so jih zdravili zaradi raka materničnega vratu morajo na pregled brisa vsako leto
+339 : Doslej so razvili samo dve cepivi in sicer cepivo proti humanem papiloma virusu ki povzroča rak materničnega vratu in cepivo proti virusu hepatitisa B ki povzroča raka na jetrih
+340 : V podjetju Roche farmacevtska družba d. o. o. si z razpošiljanjem modrih pentelj prizadevamo tudi k širšemu ozaveščanju o raku debelega črevesa in danke
+341 : Rak debelega črevesa in danke je tako rekoč edina rakava bolezen ki jo lahko preprečimo
+342 : Toda incidenca kožnega raka ne narašča le pri nas tako je povsod po svetu
+343 : Maksimiljan Kadivec dr. med. ki vodi Oddelek za radiologijo pri Onkološkem inštitutu v Ljubljani je povedal da sodobna radiologija vse bolj odkriva spremembe na debelem črevesu oziroma rak debelega črevesa s posebno preiskavo tako imenovano virtualno kolonoskopijo
+344 : Rak debelega črevesa kolona in danke rektuma ki mu pravimo tudi kolorektalni rak je med najpogostejšimi oblikami raka
+345 : Bolniki ki so se zdravili zaradi raka debelega črevesa in danke ter nimajo metastaz po zaključenem zdravljenju operativnem obsevanju in kemoterapiji ne potrebujejo nobenega dodatnega podpornega zdravljenja
+346 : Število odkritih primerov raka v Sloveniji tako kot drugod po svetu zaradi staranja populacije narašča narašča pa tudi število ozdravljenih
+347 : Kljub temu da polovica obolelih ozdravi se zdi da se ljudje o raku še vedno bojijo govoriti
+348 : Je pa prevzel enega od načinov prehranjevanja za katere so tako rekoč vsi integrativni in alternativni zdravniki ugotovili da je pri bolnikih z rakom vsaj blagodejen če že ne kar zdravilen
+349 : Test PAP je namenjen odkrivanju predrakavih sprememb materničnega vratu ki se lahko razvijejo v raka materničnega vratu če spremenjenih celic z manjšimi operativnimi posegi ne odstranimo
+350 : 57 Rak debelega črevesa in danke ODKRIJMO GA ČIMPREJ
+351 : Če se celične nepravilnosti odkrije dovolj zgodaj je zdravljenje uspešno in rak materničnega vratu se ne razvije
+352 : Te ugotovitve potrjujejo to kar je ugotovila že dr. Livingstonova da je za bolnika z rakom odločilno da se zdravi celovito kar pomeni predvsem da preide na ustrezno vegetarijansko dieto da spremeni življenjski slog in da spremeni samega sebe
+353 : Za bolnika z rakom je odločilno da se zdravi celovito
+354 : Test PAP je namenjen odkrivanju predrakavih sprememb materničnega vratu ki se lahko razvijejo v raka materničnega vratu če spremenjenih celic ne odstranijo z manjšimi operativnimi posegi
+355 : Le ta je predvsem v razvitih državah za rakom dojke drugo najpogostejše rakavo obolenje pri ženskah
+356 : Tak kombiniran pristop namreč odkrije okoli 97 odstotkov primerov invazivnega raka materničnega vratu
+357 : V ospredju sta dokazana rak pljuč in povečano tveganje za umrljivost zaradi bolezni srca
+358 : Zelenjava je varovalna hrana ki zmanjšuje riziko obolevnosti za kroničnimi boleznimi bolezni prebavil ateroskleroza številne degenerativne bolezni rak
+359 : Ko ga pijemo preide to varovalno orodje na nas in nas tako varuje pred rakom in srčnim infarktom
+360 : deksrazoksan zdravilo proti raku 150 dekstrometorfan 245 antitusik 90
+361 : Na srečo pa rak materničnega vratu zaradi svojih značilnosti ter dokaj učinkovitega odkrivanja in zdravljenja predrakavih sprememb predstavlja eno redkih rakavih bolezni pri kateri lahko nastanek raka z načrtnim iskanjem preprečimo če seveda redno obiskujemo ginekologa
+362 : Megace zaščiteno ime za megestrol 308 ženski spolni hormon 143 in zdravilo proti raku 150
+363 : mitomicin citotoksični antibiotik proti raku na dojki in na želodcu 150
+364 : Nolvadex zaščiteno ime za tamoksifen 377 zdravilo proti raku 150 nonoksinol 9 spermicid ki se uporablja v lokalnih kontracepcijskih pripravkih
+365 : Platimit zaščiteno ime za cisplatin 236 zdravilo proti raku 150
+366 : Antacidov ne bi smeli redno uporabljati za preprečevanje bolečin v trebuhu brez zdravniškega nadzora ker lahko prikrijejo simptome raka na želodcu
+367 : Vpletenih jih je lahko več hkrati zlasti posameznikova genska dediščina imunska pomanjkljivost in čezmerna izpostavljenost snovem ki povzročajo raka kancerogenom
+368 : Po podatkih Registra raka za Slovenijo se je zbolevnost za rakom materničnega vratu v šestdesetih in sedemdesetih letih zmanjševala nato pa postopno večala in dosegla leta 2003 številko 208 ali 20,4 zbolele na 100.000 žensk kar je precej zaskrbljujoče v primerjavi z evropsko številko 11,9 zbolele na 100.000 žensk
+369 : Skupina zdravil Ženski spolni hormoni str. $ 147 in zdravila proti raku str. $ 154
+370 : Skupina zdravil Zdravila proti raku str. $ 154
+371 : Onkogeni HPV predvsem HPV 16 18 45 in 31 povzročajo nastanek predrakavih sprememb materničnega vratu in RMV v določenem deležu pa tudi predrakave spremembe in raka zunanjega spolovila ter nožnice
+372 : Vse več novejših podatkov kaže da HPV lahko povzročajo tudi rak zadnjika in grla
+373 : Pri sotni so se strinjali da je treba doseči tudi vmesne možnosti saj rak že dolgo ni več bolezen ki pelje v invalidnost ampak je kronična bolezen ki lahko prinaša le določene omejitve
+374 : V času ko so le redki verjeli da bolnik z rakom sploh potrebuje posebno klinično obravnavo ker rak tako ali tako pomeni zanesljivo smrt v času ko so le redki verjeli da je zbiranje bolnikov v eni ustanovi primerna ali da bolnik z rakom sploh potrebuje resnico o svoji bolezni
+375 : Ob začetku izvajanja Državnega programa presejanja in zgodnjega odkrivanja predrakavih sprememb in raka na debelem črevesu in danki Svit je vodja programa Jožica Maučec Zakotnik dr. med. direktorica CINDI Slovenija sklicala novinarsko konferenco
+376 : Udeležujte se presejalnega programa za raka materničnega vratu ki naj bo organiziran v skladu z evropskimi smernicami za zagotavljanje kakovosti
+377 : Število obolelosti za kožnim rakom v zadnjih letih stalno narašča
+378 : UVB so odgovorni za nastanek opeklin pripomorejo pa tudi k spremembam kožnih celic ki lahko povzročijo raka
+379 : Take bolezni so pljučnica meningitis in nekatere vrste raka
+380 : S hepatitisom C ki povzroča cirozo jeter raka na jetrih in je glavni vzrok za presaditev jeter odraslih je po svetu okuženih najmanj 200 milijonov ljudi
+381 : Lahko pride do nekaterih vrst raka na primer raka maternice dojk in debelega črevesa
+382 : Kajti ko bodo oboleli za rakom ki je v sodobni družbi privzel primat ene najpogostejših in nevarnih čeprav ne povsem neozdravljivih bolezni lahko mirno zadihali v normalnih bivalnih okoliščinah in dobivali celovito paleto storitev ob kateri tudi na Slovenskem ne bomo več opozarjali na nevzdržne čakalne dobe pa naj bo to zaradi manka naprav ali kadra takrat bo nastopil čas za hvalo
+383 : DPP lahko odkrije povečanje prostate ali raka na tej žlezi
+384 : Adenomi so sicer benigni črevesni tumorji ki se lahko sprevržejo v raka na debelem črevesu in danki
+385 : Odkar je bilo pred petimi desetletji uvedeno rutinsko pregledovanje brisov se je smrtnost zaradi raka na materničnem vratu zmanjšala za 70 odstotkov
+386 : Polovico tega raka so ugotovili pri ženskah ki brisa Pap niso opravile nikoli nadaljnjih 10 odstotkov pa pri ženskah ki ga niso opravile v zadnjih petih letih
+387 : Acetilsalicilno kislino na primer aspirin nekateri imenujejo čudežno zdravilo saj zmanjšuje tveganje za akutni koronarni sindrom možgansko kap raka na debelem črevesu in danki in celo za alzheimerjevo bolezen
+388 : Znano je namreč da visokoenergijska prehrana povečuje tveganje za raka na črevesu
+389 : Kombinirano hormonsko zdravljenje nevšečnosti ki spremljajo menopavzo nedvomno poveča tveganje za srčni infarkt raka na dojki možgansko kap in nastanek krvnih strdkov kažejo izsledki
+390 : Tudi omejena izpostavljenost lahko povzroči spremembe celic ki lahko povečajo tveganje za raka pljuč
+391 : Kombinirano hormonsko zdravljenje navadno predpišejo ženskam ki še imajo maternico da bi preprečili tveganje raka na maternici ki je pogosta posledica zdravljenja z estrogeni
+392 : Že dolgo se poraja vprašanje ali dolgotrajno zdravljenje ne povečuje možnosti za razvoj raka na dojki ter drugih bolezni
+393 : V iskanju novih rešitev so znanstveniki naleteli na varnejšo alternativo selektivne zaviralce hormonov ti varujejo pred rakom na dojki
+394 : Vsekakor strokovnjaki takšne pripravke odsvetujejo ženskam ki jih zelo ogroža rak na dojki saj je znano da estrogen poveča nevarnost za to bolezen
+395 : DELAVCI KI DELAJO Z NIKLJEVIMI SPOJINAMI POGOSTEJE OBOLEVAJO ZA RAKOM NA PLJUČIH IN V NOSNI VOTLINI
+396 : Pri teh je seveda smiselno raka kolikor je to mogoče izključiti oziroma ženske vsaj nekaj časa spremljati
+397 : Najnovejše cepivo je cepivo za cepljenje proti raku na materničnem vratu
+398 : Na kontrolnem pregledu so namreč ugotovili da se je rak ponovil na drugi dojki
+399 : Največ je bolezni dihal in krvnih bolezni predvsem pa raka na ščitnici
+400 : Neustavljiva v svoji ljubezni do glasbe zdaj pa tudi voditeljica sklada za boj proti raku na dojki
+401 : Razvila je posebno sosledje položajev za celo vrsto bolezni od artritisa do raka in parkinsonove bolezni
+403 : Bristolski zdravniki poudarjajo da sončni žarki resda povečujejo možnost za nastanek kožnega raka in pospešujejo staranje vendar menijo da je verjetnost da bi umrli zaradi pretiranega sončenja zelo majhna
+404 : Veliko redkeje se pojavijo vnetja ali rak prostate
+405 : Vodijo lahko v nastanek želodčne razjede ali celo raka
+406 : WASHINGTON V Houstonu so domači košarkarji v severnoameriški ligi NBA zabeležili poraz proti Los Angelesu tekmo pa je zaznamoval trener gostiteljev Rudy Tomjanovich ki je razkril da mora na zdravljenje zaradi raka na mehurju
+407 : V Morju se potaplja v zgodbo šestdesetletnega umetnostnega zgodovinarja Maxa Mordena ki mu je pred kratkim za rakom umrla ljubljena žena Anna
+408 : Podporno kemoterapijo najpogosteje izvajajo pri raku dojke debelega črevesa in pljuč
+409 : Bolnike bi lahko zdravili še preden bi se rak razvil v viden tumor ali se razširil na limfne žleze
+410 : Manj kalorij pomeni manjšo verjetnost da boste zboleli za rakom
+411 : Raziskave pa so vendarle pokazale da se globoko verni ljudje laže otresejo bolezni tudi raka
+412 : Rak je skupno ime za dvesto malignih bolezni ki so različno pogoste pojasnjuje Maja Primic Žakelj vodja Registra raka in epidemiologije na Onkološkem inštitutu v Ljubljani
+413 : Vsi ki se ukvarjajo z zdravljenjem raka pri otrocih in posledicami tega zdravljenja so si danes edini da je te mlade ljudi ki imajo pred seboj še dolgo življenje treba nenehno in vse življenje slediti
+414 : Še vedno tudi ni povsem jasno kako drugače zastaviti delo da bi dobili vse ženske vsaj na minimalno število pregledov ki so potrebni za zgodnje odkrivanje raka na materničnem vratu
+415 : Igralka in modna oblikovalka pripravlja kolekcijo kopalk za ženske ki so zaradi raka na prsih prestale operacijo
+416 : Čeprav sta zgodnje odkrivanje in zdravljenje kožnega raka pomembna raje preprečimo njegov nastanek
+417 : Z njim želijo spodbuditi čim več žensk da bi prihajale na redne preventivne ginekološke preglede in s tem zmanjšati število tistih ki zbolijo za rakom materničnega vratu
+418 : Zveza slovenskih društev za boj proti raku je na včerajšnjem srečanju ljubljanskemu onkološkemu inštitutu izročila denar zbran s pomočjo sponzorjev v novoletni akciji voščil v časopisih
+419 : Zdravnica kar ni mogla verjeti da se je ponovilo saj naj ne bi bilo navadno da bi se te vrste rak kar tako selil po telesu pravi oče
+420 : Ko je ona zbolela za rakom in je on ljubeče skrbel zanjo je to presunilo milijone
+421 : Radijski voditelj je ta teden izvrstno vodil dobrodelno dražbo slovenskega združenja za boj proti raku dojk Europa Donna na katerem je Gorenjev rožnati hladilnik s pentljo iz belega zlata Zlatarne Celje dosegel ceno več kot deset tisoč evrov
+422 : Pri zvečani dejavnosti imunskega sistema recimo pri okužbah ali tudi pri raku se pojavijo otečene povečane bezgavke in mandlji
+423 : Zaradi vsega tega somatostatina pri zdravljenju raka pri nas ne uporabljamo je povedal prof. dr. Zvonimir Rudolf direktor Onkološkega inštituta v Ljubljani
+424 : Aspirin s preprečevanjem nastanka polipov v črevesju zmanjša tveganje za raka na debelem črevesu za kar 40 odstotkov pod določenimi pogoji pa lahko preprečuje tudi raka dojk levkemijo in pljučnega raka
+425 : Ob tej priložnosti so ustanovili tudi Društvo za boj proti raku Posavja
+426 : Pri kadilcih se rak pljuč razvije kar dvajsetkrat pogosteje kot pri nekadilcih
+427 : Vsakodnevna telesna dejavnost normalna telesna teža zdrava prehrana in alkohol le v priporočeni količini so zaščitni ne samo za raka dojk ampak tudi za rake prebavnega trakta debelo črevo in danka želodec žolčnik prostate in še nekatere ter tudi za druge kronične bolezni
+428 : Manj pogosto zbolevajo za rakom dojk ženske ki so rodile vsaj štirikrat in dojile dlje kot eno leto
+429 : Možnost da bodo zbolele za rakom dojk je 60 do 85 odstotna
+430 : Večja je pri njih tudi ogroženost za nastanek raka jajčnikov
+431 : Vsi prisotni izvedo da je imela raka vendar ni nikomur povedala zanj
+432 : Tudi po zadnjih podatkih Registra raka za Slovenijo za leto 2005 je podobno 49 odstotkov je imelo na dojko omejeno bolezen 43 odstotkov že zasevke v pazdušnih bezgavkah in sedem odstotkov že razsejano po telesu
+433 : Otroci rojeni v znamenju raka so običajno nežni in nadpovprečno občutljivi
+435 : Europa Donna slovensko združenje za boj proti raku dojk ima dva telefona SOS
+436 : Opažam da terapija zelo dobro vpliva na vse presnovne težave pri ljudeh na reprodukcijske organe vsa bakterijska vnetja težave s kožo in celo kožnega raka obolenja prostate paradentozo pomaga pri hitri regeneraciji po operativnih posegih pomaga odpravljati celulit
+437 : Po vnovičnem posredovanju HMS so Franja novembra lani le sprejeli v bolnišnico a so zdravniki ugotovili da se je rak na želodcu že razširil na druge organe in operacija ni več mogoča
+438 : Namenjena bo predvsem lajšanju bolečin bolnikom s kroničnimi boleznimi rakom in podobno
+439 : To bi v Sloveniji kjer za rakom dojk še vedno vsako leto umre 400 žensk pomenilo kar sto smrti manj
+440 : Takrat so bili izvidi Jasne Pungeršek še b. p. le tri mesece zatem pa se je pričela njena prava zdravstvena kalvarija ko je v dimljah otipala zatrdlino in se je izkazalo da se je rak razširil v bezgavko
+441 : Jeze se ne da povsem odvaditi ampak v boju z rakom sem se o njej še posebej spraševal
+442 : S poskusi na živalih so dokazali da se z zmanjšanjem števila teh celic zmanjša tudi tveganje za raka
+443 : Rak kronične bolezni srca sladkorna bolezen dementnost zmanjšanje umskih sposobnosti in druge bolezni pogosto povezane s staranjem bodo zares naš vsakdan
+444 : Najbolj je pogrešala svoje bližnje predvsem pa mamo ki je lani zbolela za rakom na dojki in s katero sta se tudi vsakodnevno slišali po telefonu
+446 : Račan se je umaknil iz politike in javnega življenja 31. januarja ko so zdravniki ugotovili da ima raka po poslabšanju zdravja pa je 11. aprila uradno odstopil kot predsednik SDP
+448 : Ameliji stvari zadnje čase ne gredo ravno najbolje njen prijatelj Andrew se je odselil mačka je dobila raka pa še njena najboljša prijateljica Laura se je odločila za poroko
+449 : Denimo enske ki imajo raka na dojki bi morale v čevljih nositi vložek iz staniol papirja med dvema navadnima vložkoma in sicer v sprednjem delu podplata
+452 : Druge raziskave omenjajo da pri ženah v menopavzi povečano jemanje folne kisline ščiti pred rakom na prsih
+453 : Prav tako naj bi folna kislina zmanjšala tveganje za raka na črevesju
+454 : Lani marca malo pred tem ko se je Niki ponovila levkemija so ugotovili da imam raka na materničnem vratu
+455 : Nedavno so zdravniki ugotovili da ima raka na možganih v njenem telescu
+456 : Za kruto diagnozo rak slinavke je izvedel na eni od svojih svetovnih turnej v Londonu
+457 : Prednost primerne pri endometriozi slabosti ven raku dojk odvisnemu od estrogena in za doječe matere
+458 : Premor sem imela ob rojstvu svojih dveh hčera in tedaj ko sem morala na operacijo raka na želodcu
+459 : Če verjamemo raznim brošuram soja pomaga proti osteoporozi raku in srčnim težavam
+460 : Ko pa veš da je rak v večini primerov smrtna bolezen
+461 : Poglobljenih raziskav ni tudi ekipa Tednika se ni mogla dokopati do njih so pa dovolj zgovorne pripovedi ljudi in število obolelih za rakom
+462 : Zaradi tega vse več mlajših ljudi zboli za kožnim rakom narašča število zbolelih za črnim rakom malignim melanomom in drugimi rakavimi obolenji vedno več ljudi ima moteno delovanje obrambnega imunskega sistema in zaradi tega številne posledice vse več ne ravno starih ljudi oslepi zaradi sive mrene
+463 : Nikomur od nas se še ne pozna da bi imel raka na pljučih
+464 : Cervarix vakcina HPV 16,18 GSK za preventivno zdravljenje raka na materničnem vratu
+465 : Pogostost raka na modih se je v državah kjer vodijo o tem evidenco dramatično povečala vključno s Skandinavijo v državah okoli Baltskega morja Nemčiji Veliki Britaniji ZDA in Novi Zelandiji
+466 : Prav tako se je v mnogih državah povečalo število obolelih za rakom na prsih in prostati
+467 : ustanovi Mali vitez Fondaciji za pomoč mladim ozdravelim od raka
+468 : Drobnič je rekel da imam raka na materničnem grlu
+469 : Strokovnjaki menijo da fitoestrogeni v klimakteriju ščitijo pred rakom dojk maternice jeter in levkemijo
+470 : Tesno sodeluje s Slovenskim združenjem za boj proti raku dojk Europa Donna in z Sekcijo za pomoč obolelim za rakom dojk ki ponujata psihološko pomoč bolnicam
+471 : ljudje ki imajo primer kožnega raka v družini
+472 : Zavod za šolstvo in Zveza društev za boj proti raku vodita akcijo za vzgojo nekadilskih generacij
+473 : Novi dosežki na področju zdravljenja pljučnega raka Pljučni rak je eno najpogostejših malignih obolenj v svetu in tudi pri nas
+474 : Najpogostejša oblika pljučnega raka je nedrobnocelični rak pljuč ki ga glede na lastnosti tumorja lahko razdelimo še na posamezne podtipe
+475 : GLASGOW 10. Alan Stubbs branilec nogometnega kluba Glasgow Celtic ki je moral na operacijo zaradi suma raka na modih je že dal izjavo novinarjem
+476 : Pri mladih ženskah so najpogostejši vzrok smrti maligna obolenja še vedno sta preveč razširjena raka dojke in materničnega vratu
+477 : Za maščobe je dokazano da povečujejo možnost nastanka raka dojke prostate in debelega črevesa
+478 : Za preprečevanje raka dojke so preveč že količine alkohola ki jih sicer pojmujemo kot neškodljive
+479 : Rak dojke je najpogostejša vrsta raka pri ženskah v razvitih državah saj predstavlja kar 20 odstotkov vseh rakavih obolenj med Evropejkami
+480 : Ko gre za pojavnost raka dojke je Slovenija v zadnjih letih v samem vrhu saj vsako leto odkrijemo približno 900 novih primerov
+481 : Ljubljana Rak dojke je najpogostejši rak za katerim v Sloveniji vsako leto na novo zboli okrog tisoč žensk v državah EU pa se ta številka ustavi pri 250 tisoč
+482 : Javnost je takrat iz poročil televizijske postaje CNN prvič zvedela da se je tja odpravil zato ker ga muči rak na želodcu
+483 : Aaron je homoseksualec Martin se bojuje z rakom Sarah pa vodi otroško oddajo na televiziji in se sestaja s poročenim moškim
+484 : Zgodba o človeku ki je zmagal nad boleznijo rakom je seveda postala velika uspešnica in nekakšen prototip pravljice o uresničitvi ameriških sanj torej o močnem človeku nadvse željnim zmage
+485 : Slednje povezujejo z nastankom levkemije pri otrocih raka na dojkah in možganih
+488 : Na primer nekdo je obseden od tega joj kaj pa če dobim raka
+489 : Rak je namreč bolezen ki človeka prizadene čustveno psihično pa tudi finančno in čeprav se mnogim to zdi nepomembno na področju spolnega življenja
+490 : Strokovnjaki svetujejo naj ženske katerih sorodnice so imele raka na dojkah ali jajčnikih pogosteje kot običajno hodijo na ginekološke preglede saj je pri njih večje tveganje da bodo zbolele tudi same
+491 : Povzročal naj bi številne oblike raka predvsem rak dojk jajčnikov maternice mod kakor tudi levkemijo in limfome
+492 : Lanena semena vsebujejo omega 3 maščobne kisline vlaknino in lignane snovi ki lahko zmanjšajo tveganje za raka na črevesju ali prostati srčno žilne bolezni in starostno izgubo vida
+493 : Nič posebnega sicer ampak če povemo da ima zraven še moža tri otroke da je aktivistka civilne družbe v boju proti raku na dojki da je redno zaposlena v Soči kot specialistka medicine dela
+494 : Vemo da lahko mnogim ženskam ki so izgubile maternico zaradi raka v nesreči ali iz katerega drugega vzroka omogočimo izpolnitev njihove velike želje da bodo rodile svojega otroka je za ameriški časopis Washington Post izjavil Del Priore
+495 : In ne samo rakom na debelem črevesu in rakom dojk temveč tudi rakom ledvic materničnega vratu požiralnika in drugih
+496 : V boju proti raku na dojkah se je pridružil tudi Belkin ki je izdal posebno rožnato kolekcijo za iPod nano ki od vsakega prodanega proizvoda donira 2,5 dolarja za raziskavo zdravila Susan G. Komen
+497 : Podpis Igralka se je odločila da bo raka na prsih premagala brez medijskega pompa
+498 : Shiba je ljubezen mojega življenja je pred kratkim izjavila Kylie in dodala da ji je bila štirinožna prijateljica v veliko pomoč ko se je zdravila zaradi raka na prsih
+499 : Energija ki se sprošča pri njihovem razpadu se absorbira v tkivu ga poškoduje in s tem poveča verjetnost za nastanek raka
+500 : Nizozemščina ker je to jezik pri katerem obstaja največje tveganje da boste dobili raka na grlu
+501 : Redni kadilci najpogosteje umirajo zaradi raka pljučnih bolezni ter bolezni srca in ožilja tobačni dim pa škodljivo vpliva tudi na zdravje nekadilcev
+502 : Takšno hormonsko nadomestno zdravljenje HNZ lahko zmanjša tveganje za raka na debelem črevesu in danki ter tveganje za zlome kosti zaradi osteoporoze
+503 : Vendar lahko dolgoročno poveča ogroženost z rakom na dojki koronarno boleznijo srca možgansko kapjo ter krvnimi strdki v nogah in pljučih
+504 : Oče je po spodletelem poslovnem poskusu izginil in umrl za rakom sam ne da bi mu žena odpustila
+505 : Tveganje da bodo zboleli za rakom na prostati je bilo pri moških starejših od 65 let ki v družini niso imeli tega raka a so jim v krvi izmerili vrlike vrednosti likopena za približno polovico manjše kot pri tistih ki se niso mogli pohvaliti z obilico likopena v krvi
+506 : Trenutno delovanje likopena pri bolnikih z napredovalim rakom na prostati preizkušajo na kliniki Mayo
+507 : V tem času ni mogoče z gotovostjo trditi da jemanje dodatkov likopena varuje pred rakom na prostati vendar uživanje paradižnikovih izdelkov dvakrat na teden vsekakor ne bo škodilo
+508 : OKV Mešanica povzroča motnjo rasti pljuč zmanjša delovanje encimov povzroča raka na jetrih ščitnici testisih ledvicah mlečnih žlezah limfnih nodulih in maternici pri otrocih ki so še posebej občutljivi pa se lahko pokaže v motenem razvoju možganov razdražljivosti in hiperaktivnosti
+509 : Ultravijolična svetloba poškoduje kožo na ustnicah in poveča tveganje za nastanek raka
+510 : Tudi rak ima svoj vzrok le da ga še ne poznamo
+511 : Tone ob odhodu iz medijske hiše NT & RC ni pripravil odhodnice temveč se je odločil in denar ki bi ga za to porabil raje nakazal celjskemu Društvu za boj proti raku na dojki katerega člana sta tudi oba z Olgo
+512 : RAK Ko kdo kaj naredi imate pri tem koristi tudi vi če si priznate ali ne
+513 : RAK Ne prepirajte se saj to slabi vašo življenjsko energijo
+514 : Priklenjen je na invalidski voziček njegovo telo je po operaciji zaradi raka na slinavki še slabotno vendar življenjska volja v njem še vedno močno gori
+515 : Mladi znanstvenik Jacob Hofstetter razvije zdravilo za zdravljenje bolnikov z rakom
+516 : Nedelja bo minila v znamenju humanitarnega koncerta v športni dvorani v Nazarjah ki ga pripravljajo Habrovi fantje izkupiček pa bodo namenili otrokom obolelim za rakom
+517 : Minuli petek je v Los Angelesu zaradi raka star 58 let umrl George Harrison kitarist pevec skladatelj in filmski producent član legendarne skupine The Beatles
+518 : Izkupiček bo namenjen prizadevanjem za boljšo ozaveščenost žensk o raku dojk njegovem preprečevanju in zgodnjem odkrivanju
+519 : CELJE Obolevnost za rakom na materničnem vratu je v celjski regiji nadpovprečno visoka ugotavljajo strokovnjaki s področja epidemiologije ginekologije in citologije
+520 : Rak Dejstvo da še sami ne verjamete v končni uspeh je lahko odločilno
+521 : Rak Zakaj mislite da ne morete postati tisto kar bi radi postali
+523 : Tri četrtine raka na debelem črevesu prepreči pravilna prehrana
+524 : Foto s sončnico v rokah Na odprtju onkološkega inštituta je presenetil vse ko je rekel da je uradno zdravljenje raka edino učinkovito
+525 : Slabokrvnost je lahko tudi posledica drugih bolezni raka in kroničnih vnetnih bolezni na primer revmatoidnega artritisa ankilozirajočega spondilitisa že omenjene Chronove bolezni in podobno
+526 : Prav tako vzemite resno ZORO presejanje za raka materničnega vratu ali SVIT presejanje za raka na debelem črevesu in danki
+527 : Danes je to najpomembnejša ustanova za zdravljenje raka v Sloveniji
+528 : Ti so se letos odločili za razvijanje cepiva proti bakteriji ki povzroča raka na želodcu in dvanajstniku
+529 : Prav tako ste vabljeni da storite enako za državni program obvladovanja raka v Sloveniji ki je v javni razpravi do 5. decembra
+530 : Ta v šestem poglavju predvideva paliativno oskrbo za bolnike z napredovalim rakom
+531 : Lahko imam celo raka v telesu a to še ne pomeni da imam vneto grlo pljučnico ali raka
+532 : Povzetek iz knjige Kaj naj jem da odženem raka na debelem črevesu
+533 : tvegane saj naj bi močno povečali verjetnost da bo ženska zbolela za rakom na dojki
+534 : Po zadnjih podatkih ameriških strokovnjakov lahko redna tridesetminutna vadba petkrat na teden za 18 odstotkov zmanjša možnost da boste zboleli za rakom na dojkah
+535 : Testi so pokazali da so celo ženske ki glede raka na dojkah zaradi dedne nagnjenosti sodijo v tako imenovane rizične skupine z zmerno intenzivnim kolesarjenjem tekom ali plavanjem zmanjšale možnost za pojav te bolezni
+536 : Večje tveganje glede raka na dojkah je namreč povezano s hormoni shranjenimi v telesni maščobi
+537 : Do sedaj so uspeli pri raku prostate ledvic in raku dojk
+538 : Zveza društev za boj proti raku ki ima sedež na Zaloški 2 v Ljubljani je izdala brošurico z natančnimi navodili kako si ženska lahko sama pravilno pregleda dojke
+539 : Tveganje za nastanek raka dojk je pri mladih ženskah zelo majhno zaradi kontracepcijskih tablet se poveča le neznatno po rezultatih nekaterih študij pa sploh ne
+540 : Skupina za samopomoč žensk z rakom dojke Radovljica vabi na redno mesečno srečanje ki bo v četrtek 3. februarja ob 17. uri v prostorih nad knjižnico A. T. Linharta
+541 : Ta živila vsebujejo mnoge zaščitne snovi ki nas varujejo tako pred nastankom raka kot pred prezgodnjim zbolevanjem za srčnožilnimi boleznimi
+542 : Mnogi Raki se ne držijo tako vzravnano kot bi se lahko
+543 : MEDTEM KO SO HITRO UŽALJENI SE RAKI POGOSTO NE ZAVEDAJO DA SO DO DRUGIH VČASIH TUDI SAMI ZELO OSTRI
+545 : Pri določenem odstotku žensk zdravilo močno poveča tveganje za nastanek raka na dojki infarkt in srčno kap
+546 : Upoštevanja vredno je to da je kronično zaprtje verjetno povezano z nastankom raka debelega črevesa in danke
+547 : Znano je da je od tega kako zgodaj se odkrije rak na materničnem vratu kar velja za vse oblike raka odvisno kako dobro ga je mogoče potem pozdraviti
+548 : To se mogoče zdi presenetljivo glede na to da nekateri virusi nedvomno povzročajo raka
+549 : Kljub temu obstaja domneva da se zmanjša tveganje za nastanek nekaterih pediatričnih rakov pri otrocih ki so bili izpostavljeni okužbam v prvih letih življenja
+550 : Z endotoksini ki jih najdemo v stenah številnih bakterij je mogoče razložiti zmanjšano tveganje za nastanek pljučnega raka med živinorejci
+551 : Izidi bi bili lahko presenetljivi glede na to da nekateri virusi nedvomno povzročajo raka
+552 : Navzlic temu domnevajo da se zmanjša tveganje za nastanek nekaterih pediatričnih rakov pri otrocih ki so bili izpostavljeni okužbam v prvih letih življenja
+553 : Nekatere raziskave dajejo slutiti da okužbe lahko povečajo tveganje posameznih rakov kot je ne Hodgkinov limfom vendar različni izsledki tega ne potrjujejo
+554 : Ta bakterija je še posebno problematična pri bolnikih z rakom cistično fibrozo ali opeklinami
+555 : Otrok ki je na primer za rakom zbolel pri dveh letih pride na kontrolni pregled tudi še pri 18 letih
+556 : Poleg tega je v paradižnikovem soku zaklad likopina snovi ki znižuje tveganje obolelosti za rakom
+557 : Bisfosfonati so tako že nekaj časa izbrano zdravilo pri raku dojke in raku prostate pri katerem se metastaze razširijo na kosti pri teh bolnikih smo ugotovili da so njihove kosti osteolitične in uničene izgubijo trdnost in kostna masa se zmanjša
+558 : Ženske katerih prehrana vsebuje veliko mlečnih izdelkov bogatih s kalcijem imajo manjše tveganje za raka na jajčnikih pravi najnovejša študija
+559 : Lahko sta prednostna izbira ali zamenjava kadar obstajajo protiindikacije za hormonsko nadomestno zdravljenje na primer pri boleznih jeter raku dojke nevarnosti krvnih strdkov in nepojasnjenih krvavitvah iz nožnice ali kadar ženska zavrača hormonsko nadomestno zdravljenje
+560 : Pa tudi če odkrijejo rakave celice in obstaja sum raka je bolje da to ugotovite čim prej in se čim prej začnete zdraviti saj so takrat možnosti ozdravitve večje
+561 : Pri nekaterih ženskah je možnost da zbolijo za rakom dojke zaradi dednih dejavnikov ali načina življenja večja kot pri drugih
+562 : Povečano tveganje za nastanek raka maternice obstaja tudi pri ženskah ki imajo po 50. letu še vedno menstruacije pri ženskah v postmenopavzi s sladkorno boleznijo visokim krvnim tlakom in preteklimi težavami z neplodnostjo
+563 : Strokovnjaki tako znova vsem ženskam predvsem starejšim priporočajo naj uživajo veliko mleka z malo maščobami in drugih izdelkov iz mleka saj naj bi tako zmanjšale tveganje za raka na jajčnikih za kar 54 odstotkov
+564 : Tveganje za nastanek raka jajčnika je povečano pri ženskah katerih bližnje sorodnice so razmeroma zgodaj imele raka dojke ali debelega črevesa
+565 : V Bolgariji denimo ne dobijo dovolj morfija niti bolniki z rakom kaj šele kronični bolniki
+566 : To se zgodi ker večina zdravil proti raku prizadene delovanje kostnega mozga in zmanjša njegovo sposobnost za tvorbo belih krvnih celic ki premagujejo številne vrste okužb
+567 : Ker je pljučni rak bolezen ki ga zaradi njegovega
+568 : Zdravniki priporočajo več vitamina C pri slabokrvnosti vseh nalezljivih boleznih zdravljenju prehlada ali gripe krvavitvah iz dlesni želodca ali dvanajstnika za preprečevanje in zdravljenje raka zniževanje ravni krvnega holesterola pri alergičnih reakcijah zdravljenju ateroskleroze artritisa za preprečevanje krčev v nogah pri nosečnicah pri poškodbah zdravljenju zastrupitev s svincem živim srebrom kadmijem zdravljenju psihičnih težav in celo za preganjanje alkoholnega mačka
+569 : Zdravila ki so dobila oznako nevarna so tista za katere je znano ali dokazano da pri izpostavljenosti ljudi ki delajo z njimi pov zročajo neželene škodljive učinke na primer kožni izpuščaji akutni učinek neplodnost poškodbe ploda splav ter rak kronični učinki
+570 : Zelo verjetno je da se rak materničnega endometrija pojavlja redkeje ker je izločanje estrogena pri kroničnem stresu manjše kot v običajnih razmerah
+571 : A še pomembnejša je bila zmaga nad rakom ki se je leta 1996 s testisov že razširil na možgane in pljuča
+572 : Vemo da v Sloveniji zboli za rakom vsako leto okrog 10.000 ljudi da je vsako toliko in toliko nesreč s hudimi posledicami da ima vsako leto srčni infarkt ali možgansko kap nekaj tisoč ljudi itd.
+573 : Moja žena boluje za kostnim rakom operacija stane dobre dva milijona tolarjev
+574 : Zraven sebe je imel napis Moja žena boluje za kostnim rakom operacija stane dobre dva milijona tolarjev
+575 : Obdukcija ki jo je takoj po Napoleonovi smrti izvršil njegov osebni zdravnik je pokazala da je umrl zaradi raka na želodcu
+576 : Ženske na Celjskem najbolj ogroža rak dojke temu sledijo rak kože materničnega vratu in rak telesa maternice ter rak debelega črevesa
+577 : Rak materničnega vratu pri ženskah predstavlja od 4 do 6 odstotkov rakov
+578 : Če se pri zdravljenju raka zanašaš le na eno vrsto zdravila vedno obstaja nevarnost da bodo maligne celice nekoč postale odporne
+579 : Mogoče je pri raku grozno to da ga vsak poveže s smrtjo
+580 : Otroci tako sproščeno govorijo o raku Jaka je
+581 : Imel je raka na prostati ki se je najbrž razvijal kakšnih deset let in se končal s tumorjem na možganih
+582 : Ne samo da je premagala raka na dojki pevka je že postavila nov rekord
+583 : Povedali so mu da ima Hodgkinov limfom in Jaka je pomislil Še dobro da ni rak potem pa so mu razložili da gre za raka na bezgavkah
+584 : Tam se zanj čas res ustavi Otroci tako sproščeno govorijo o raku Jaka je imel pa raka pa potem se pohecam da me je tudi škorpijon uščipnil v rit in se nasmejimo
+585 : Ker je vedno tako da glas slavnih vedno hitreje glasneje in bolj učinkovito seže v deveto vas so prosili da pripeljejo slavne prijatelje če jih le imajo ki so imeli osebno ali posredno izkušnjo z rakom dojk
+586 : Predsednica Slovenskega združenja za boj proti raku dojk dr. Mojca Senčar je povedala da zelo ceni Pandurjevo delo in da redno obiskuje njegove predstave
+587 : Včasih je veljalo da obstaja verjetnost za raka na prostati če je izmerjena vrednost PSA specifični antigeni prostate nad 4 nanograme na mililiter
+588 : Vendar pa so strokovnjaki ugotovili da je za rakom na prostati zbolelo tudi 15 odstotkov tistih katerih vrednost je bila pod 4
+589 : Z UŽIVANJEM VEČJIH KOLIČIN SVEŽE ZELENJAVE BOSTE UČINKOVITO KREPILI IMUNSKI SISTEM IN SE BORILI PROTI RAKU BOLEZNIM ŽELODCA IN ČREVESJA TER SRČNO ŽILNIM BOLEZNIM
+590 : Rak na dojki je zlovešča bolezen in ogroža veliko žensk
+591 : Po raziskavah ženske ki uživajo hrano z veliko lignini ki so bogato zastopani v lanu redkeje zbolijo za rakom debelega črevesja in dojke
+592 : Opravili so več diagnostičnih preiskav od utrazvoka vratu in trebuha do rentgena pljuč da bi ugotovili ali se je rak morda razširil še na druge dele telesa
+593 : Še posebno se odlikuje pri preprečevanju raka dojk in raka debelega črevesa
+594 : Solarijska svetloba je lahko nevarna tudi za osebe ki so imele kožni rak vse ki imajo to bolezen v družini in za osebe ki jemljejo nekatera zdravila
+595 : Na nastanek pljučnega raka vpliva tudi dejstvo da varilci bolj kadijo kot preostalo prebivalstvo
+596 : Tretjič se je odločila kandidirati in bo pri tem vztrajala predvsem zato ker hoče da inštitut postane ponovno vodilna inštitucija na področju zdravljenja raziskav in izobraževanja na področju raka
+597 : Drugi razlog je da je rak ponavadi omejen na ščitnico
+598 : Tiroksin jemljejo v nadomestnih = substitucijskih odmerkih tisti bolniki ki so imeli operacijo benignih bolezni ščitnice medularnega raka ali prognostično zelo ugodnega raka ščitnice
+599 : Je že tako da bolniki ki so imeli raka pa čeprav samo ščitnice zagotovo vedo kakšen je odgovor na vprašanje Komu zvoni
+600 : Tveganje da zboli za raka na požiralniku je bilo 18 krat večje pri tistih osebah ki so zmerno kadile a veliko pile
+601 : In da bolezen tudi če gre za raka še zdaleč ne pomeni konca
+602 : Skupina za samopomoč žensk z rakom dojke je ponovno moj nenadomestljivi vir moči samozavesti moja druga družina
+603 : Strinjali so se da je potrebno o tem kako živeti z rakom še naprej govoriti in da se bodo na to temo sestajali tudi v prihodnje
+604 : Znano je da je uspešnost zdravljenja raka v veliki meri odvisna prav od tega kako zgodaj zdravniki bolezen odkrijejo
+605 : Rak pa je bolezen ki ne izbira let
+606 : Seveda se je spraševala zakaj jima niso zdravniki že prej povedali za raka da bi se lahko poslovila in se pripravila na smrt
+607 : S testom PAP in zdravljenjem morebitnih predrakavih sprememb je rak materničnega vratu večinoma mogoče preprečiti
+608 : Rak na trebušni slinavki umrl je na svojem domu v Modeni je seveda bil tihi dogovor največjega tenorista vseh časov z naravo zato je tudi odšel povsem pomirjen s seboj
+609 : Marca se nam tako vsekakor obeta eden izmed boljših slovenskih žurov izkupiček od prodaje vstopnic pa bo romal v žep fundacije Otroci v boju z rakom in krvnimi boleznimi
+610 : Pacientke ki so zbolele za rakom in ki bi nato zaradi kemoterapije postale neplodne si lahko dajo najprej odstraniti jajčnike pozneje pa jim jih zdravniki ponovno vstavijo
+611 : Stella McCartney tako nadaljuje boj ki ga je bojevala njena za rakom umrla mama Linda Mcartney
+612 : Poleg tega je bil zelo osamljen zbolel pa je tudi za rakom na prostati
+613 : Pri rakih je nevarnost da se vam stvari preprosto zdi škoda metati stran
+614 : Družina glasbenikov Novina z Gumberka pri Otočcu je zaradi raka na črevesju izgubila že očeta Marijana in sina Boruta Družinska polipoza ogroža tudi življenje 20 letnega Tomaža Najboljše možnosti mu obeta laporoskopski poseg na milanski kliniki Novinovi znani po svojih dobrodelnih koncertih zdaj potrebujejo pomoč sami Pomagajmo jim zbrati 13.500 evrov za Tomaževo operacijo
+615 : Z njimi se je začel ukvarjati kmalu potem ko mu je mati umrla za rakom
+616 : Da so se za koledar 2007 s katerim zbirajo denar za boj proti raku na dojkah razgalile ragbi igralke angleške ekipe Canterbury iz Kenta bi skoraj ostalo neopaženo
+617 : Podjetje BSH Hišni aparati Nazarje želi poleg doseganja dobrih poslovnih rezultatov delovati družbeno odgovorno zato so se odločili za pomoč tistim ki jo resnično potrebujejo otrokom z rakom in krvnimi boleznimi
+618 : Nekateri celo trdijo da joga zmanjša možnost za nastanek raka
+619 : Zagreb 25. marca STA Potem ko so predsednika hrvaških socialdemokratov SDP in nekdanjega hrvaškega premiera Ivico Račana v soboto zaradi komplikacij pri nadaljevanju zdravljenja raka prepeljali v klinični center v Zagrebu so iz SDP v soboto zvečer sporočili da ima rakaste metastaze na možganih
+620 : Tekma legend bo tudi letos dobrodelno obarvana saj bodo organizatorji sredstva zbrana s pomočjo pokroviteljev na slavnostni Beli večerji podarili Ustanovi za pomoč otrokom z rakom in krvnimi boleznimi na himoonkološkem oddelku pediatrične klinike v Ljubljani
+621 : Ob 10. letnici delovanja v slovenskem prostoru so Hišni aparati Ustanovi za pomoč otrokom z rakom in krvnimi boleznimi podarili 10 milijonov tolarjev
+622 : Vzroki za nerazložljivo hujšanje so lahko preveč dejavna ščitnica jetrna okvara depresija in nekatere vrste raka
+623 : RAK MATERNIČNEGA VRATU pri ženskah pogost maligni tumor v tkivu materničnega vratu
+624 : V Sloveniji sta na voljo dve cepivi za preventivo pred rakom na materničnem vratu
+625 : Lani smo začeli s projektom Mi podpiramo prihodnost ki je namenjen otrokom obolelim za rakom
+626 : Morda se zdi presenetljivo toda uživanje pšeničnih otrobov po operaciji raka debelega črevesa oziroma odstranitvi tumorja lahko celo do neke mere preprečuje da bi se rak ponovil
+627 : Pšenica verjetno vsebuje biološko delujoče vlaknine in ali druge sestavine ki zavirajo spodbujevalce raka debelega črevesa
+628 : Možno je da pšenični otrobi zmanjšujejo koncentracijo žolčnih kislin in bakterijskih encimov v blatu ki verjetno povzročajo raka debelega črevesa
+629 : Zdi se da kalcij zavira fiziološke dejavnike ki vodijo do raka debelega črevesa kar kažejo tudi raziskave
+630 : Melanotan so razvili za zdravljenje kožnih obolenj predvsem raka vendar njegova učinkovitost in dolgoročno tveganje za zdravje še nista bila raziskana
+631 : Zaščitna prehrana je tista uravnotežena prehrana ki ima poudarek na zaščitnih snoveh ki nas ščitijo pred nastankom raka ali pred nastankom bolezni srca in ožilja
+632 : Izpostavljenost plinu radonu v gospodinjstvih je drugi vodilni vzrok nastanka pljučnega raka takoj za kajenjem ugotavljajo v študiji romunski strokovnjaki
+633 : Mojca Senčar predsednica slovenskega združenja za boj proti raku dojk Europa Donna je ob Teku za upanje izrazila veselje nad vse večjo prepoznavnostjo teka in njegovega namena
+634 : Lignani naj bi pomagali preprečevati raka prostate debelega črevesa in dojk
+635 : Rak prostate najpogosteje zaseva v kosti in lahko tudi v druge oddaljene organe
+636 : Vzrok gestagen zniža tveganje za raka maternice ki je sicer pri jemanju samo estrogenov zvišano
+637 : V Ukrajini se je število obolelih za rakom na ščitnici pri najstnikih po nesreči povečalo za desetkrat
+638 : Ljudje rojeni v znamenju raka imajo močno voljo so skrbni zvesti in pogosto nekoliko ravnodušni
+639 : V eni prejšnjih številk Novega tednika smo pisali o 9 letnem Žigi Gorenšku iz Zreč ki je zbolel za posebno obliko raka
+640 : Značilen primer je bolnik ki ga mučijo misli da ima raka na črevesju
+641 : Poleg kirurgije ki za seboj vedno pusti nekaj malignih celic je standardno zdravljenje za večino vrst raka še naprej obsevanje in kemoterapija razmeroma grobi orožji za boj proti bolezni ki imata omejeno učinkovitost bolni pa se počutijo šibke in slabo jim je
+642 : Astra Zeneca s sedežem v Londonu preizkuša podobno sestavino Iressa proti nekaterim vrstam raka na pljučih želodcu in prostati
+643 : Drugi se osredotočajo na še zgodnejšo stopnjo in poskušajo zmanjšati že tveganje za razvoj raka
+644 : Zdravljenje raka je bilo vedno poklic ki daje zadovoljstvo pravi dr. Michael Gordon specialist za raka na University of Arizona
+650 : Na tovrstne tečaje flamenka prihajajo otroci z Downovim sindromom zlorabljene osebe bolniki s psihičnimi težavami predvsem z depresijo in bolniki ki imajo raka in potrebujejo rehabilitacijo po kemoterapiji
+651 : Sklad za pomoč otrokom z rakom in krvnimi boleznimi je spet pripravil in izdal 10.000 medvedjih koledarjev ki jih bo v sodelovanju z republiškim zavodom za šolstvo poslal po slovenskih vrtcih in šolah in s prostovoljnimi prispevki zanje zbral potrebna sredstva za izboljšanje kakovosti zdravljenja in življenja otrok z rakom oziroma krvnimi boleznimi je ob predstavitvi povedal član nadzornega odbora sklada Jožef Faganel
+652 : Verjetno bodo v prihodnosti z njimi zdravili tudi pljučnega raka in raka dojke
+653 : Drugi načini zdravljenja pljučnega raka so šele v preizkušanju
+654 : George Michael Priljubljeni pevec pripravlja velik božični koncert na katerem bo brezplačno pel za medicinske sestre ki skrbijo za bolnike z rakom
+655 : Povedala je namreč da so pred dvema mesecema zdravniki posumili da ima raka na debelem črevesju zdaj pa so to tudi uradno potrdili
+656 : Sicer izjemna športnica in biatlonka je v okviru meseca boja proti raku na dojkah povedala svojo zgodbo o bolezni ki prizadene veliko žensk
+657 : Upa da bo njena knjiga pokazala ženskam da se morajo bojevati in da rak navsezadnje ni tako slab
+658 : Izkupiček od prodaje koledarjev pa bo namenjen otrokom z rakom
+659 : Da bi dosegli ženske vseh starosti in kultur so k sodelovanju povabili tudi svetovno znane osebnosti ki so imele osebno ali posredno izkušnjo z rakom dojk
+662 : Erženova je članica UO slovenskega združenja za boj proti raku dojk Europa Donna nacionalna koordinatorica za preventivo srčno žilnih bolezni predavateljica na medicinski fakulteti v Ljubljani organizatorka strokovnih srečanj za zdravnike družinske medicine
+663 : Tečaj je za svoje članice in simpatizerke organizirala Europa Donna slovensko združenje za boj proti raku dojk
+664 : Dr. Brecelj ji je dal voljo do življenja in spoznanje da se da z rakom živeti
+665 : Sama pravi da je rak bolezen kot vsaka druga
+666 : Če iščemo netipljivega raka dojk le z mamografijo bomo našli 85 odstotkov netipnih rakov dojk
+667 : Če iščemo rak dojke izključno z ultrazvokom bomo našli samo 35 odstotkov netipljivih rakov dojk
+668 : Doslej nas je nekoliko reševalo to da slovenski kmetje pridelujejo kakovostna živila ki nas ščitijo pred srčno žilnimi obolenji kapjo in nekaterimi vrstami raka
+669 : Še vedno velja da je rak dojk bolezen žensk pretežno po 50tem letu starosti vendar v zadnjih letih opažamo pomik v mlajše generacije
+670 : Res je da je mamografija rentgenski pregled dojk edina priznana metoda za zgodnje odkritje zelo začetnega raka včasih najdemo celo predrakave spremembe vendar to preiskavo zdravstvena zakonodaja nudi le ženskam po 50-tem letu
+671 : ZGODNJE ODKRIVANJE seznanjanje strokovne in splošne javnosti o pomenu rednih pregledov v skupinah prebivalstva z višjim tveganjem za nastanek raka debelega črevesa in danke spodbujanje k udeležbi v nacionalnem programu presejanja SVIT
+672 : Prim. mag. Vida Stržinar dr. med. Specialistka ginekologije in porodništva onkologija Podpredsednica Zveze društev za boj proti raku Slovenije
+673 : V ZDA trenutno poteka 12 kliničnih raziskav kjer preverjajo delovanje kurkumina pri raku in Alzheimerjevi bolezni
+674 : Samski raki se bodo v družbi težko izognili osebnim vprašanjem vse bo namreč zanimalo zakaj so brez partnerja
+676 : Tveganje črevesnega raka se poveča ni pa še jasno kako vitamin D ščiti pred njim
+677 : Kdor se hrani preveč mastno povečuje tveganje da bo zbolel za rakom na črevesju
+678 : Por s svojimi sestavinami razkužuje dihala in prebavila deluje razstrupljevalno predvsem za naša jetra pomaga nam tudi v boju proti raku
+679 : Pred kakšnimi šestimi meseci ko sem izbiral letala ladje počitniške hiše ob morju gorske koče in nove pisarne sem slišal da so pri vašem očetu ugotovili raka in da je stvar resna
+680 : Raziskovalci menijo da bi ta postopek lahko uporabili za zamenjavanje starega poškodovanega ali obrabljenega tkiva kar je obetavno za Parkinsonovo in Alzheimerjevo bolezen raka vse vrste kapi opeklin poškodbe hrbtenjače in diabetes
+683 : Dejavnost Sklada za pomoč otroku z rakom in krvnimi boleznimi
+684 : Vse tri oblike brokolov zelena bela in rdeče vijoličasta vsebujejo indel 3 carbinol snov ki je zelo uspešna pri zdravljenju raka na dojki priporočajo pa jo tudi kot preventivno sredstvo
+685 : Za raka na dojki tako kot za marsikatero drugo bolezen velja da je zdravljenje veliko lažje in tudi uspešnejše če ga odkrijejo dovolj zgodaj
+688 : Posledica je močno povečano tveganje genskih mutacij ki se lahko sprevržejo v raka
+689 : Rak na dojki je za zdaj najpogostejša oblika raka pri ženskah v Sloveniji
+690 : Opozarja da je rak ki se ponovi vsakič hujši zato je treba hitro ukrepati
+691 : Ta pomaga varovati naše telo pred različnimi oblikami raka ker veže proste radikale in zavira rast tumorskih celic
+692 : Umrljivost žensk zaradi raka na dojki se je povečala prav v tranzicijskih devetdesetih
+693 : Kako ste zadovoljni s svojim statusom od zamenjave trenerja Tomljanovicha ki se je umaknil zaradi bolezni rak z Vun Gundhyjem saj ste vso lansko sezono praktično presedeli
+694 : Pri tistih ki prezgodaj začnejo s spolnimi odnosi je kasneje tudi več raka na materničnem vratu
+695 : Laboratoriji Vichy v sodelovanju z Združenjem slovenskih dermatovenerologov Zvezo prijateljev mladine Zvezo slovenskih društev za boj proti raku in ob podpori Ministrstva za zdravje RS letos že četrtič zapored organizirajo projekt Center preventivne zaščite pred soncem
+696 : 45 letna glasbenica ki se je lani razšla s kolesarjem Lanceom Armstrongom takrat so ji uspešno odstranili tudi raka na dojki sporoča še da uživa v novem zelo zasebnem družinskem življenju
+697 : Število novih primerov raka prostate narašča tudi v Sloveniji
+698 : Strokovnjaki so ugotovili da na razvoj raka prostate vplivajo predvsem zunanji dejavniki večje tveganje obolenja za rakom na prostati pa naj bi veljalo pri tistih ki imajo tovrstnega raka v družini
+699 : Rožnati trak je mednarodni simbol s katerim se ljudi ozavešča o najpogostejši maligni bolezni žensk raku dojk
+700 : Kako je z rakom dojk in materničnega vratu
+701 : Tudi v Sloveniji so številke visoke saj za rakom debelega črevesja in danke vsako leto oboli približno 1200 prebivalcev
+702 : Tudi letos bodo k izvedbi preventivnih pregledov aktivno povabljeni vsi uporabniki Prve zdravstvene asistence ki spadajo v skupino sekundarne preventive ki jo določajo že ustaljene evropske smernice za zgodnje odkrivanje raka debelega črevesa in danke
+703 : Zvemo da je mali ki ga naj bi Jacko spolno nadlegoval umiral za rakom in da je bila njegova zadnja želja da se sreča z Michaelom Jacksonom
+704 : Raziskava je tudi pokazala da redno pitje kave povzroči manjše tveganje za nastanek jetrnega raka in sladkorne bolezni v primerjavi z nepivci kave
+705 : Vemo da se rak dojk pojavlja že zelo zgodaj
+707 : Rak Če ne boste ukrepali drugače kot ste sprva načrtovali vam bo pozneje spet žal
+708 : Kraigherjeva pravi da se zavedajo da se učinki množičnega brezplačnega cepljenja deklic ne bodo pokazali takoj temveč šele čez desetletja ko bi se v primeru okužbe pri nekaterih ženskah razvile predrakave spremembe in rak materničnega vratu
+709 : Pri bolnikih s tem rakom ki se zdravijo na OI je tveganje smrti kar 2,5 krat manjše kot pri bolnikih ki se zdravijo v drugih slovenskih bolnišnicah
+710 : Zaradi raka na trebušni slinavki je bil šest mesecev na bolniški
+711 : Pri nas se ljudje raka bojijo a ta strah ob prvih znamenjih porinejo v podzavest in gredo zato k zdravniku pozno
+712 : Zanimivo je da Franc Rak kar ne more pozabiti da pri Vodičarju velikokrat ni bil uslišan glede reprezentančnega statusa ihanskih biatloncev in bi mu zato še vedno rad navil ušesa
+713 : Kje nastanejo razlike zaradi katerih imajo pri nekaterih rakih bolniki ki se zdravijo na Onkološkem inštitutu bistveno boljše možnosti preživetja od tistih ki se zdravijo kje drugje
+714 : Države bodo pri tem sodelovale na področjih preventive zgodnjega odkrivanja raka zdravljenja in raziskav
+715 : Nobenega dokaza ni da samopregledovanje dojk dejansko zmanjša število smrti zaradi raka dojk so v poročilu pregleda novejših raziskav zapisali v publikaciji Mednarodne organizacije za ovrednotenje medicinskih raziskav The Cochrane Collaboration
+716 : Tako je Nexavar trenutno edino odobreno sistemsko zdravilo za zdravljenje raka jeter
+719 : Tako imajo na primer osebe s shizofrenijo več težav z debelostjo sladkorno boleznijo nekaterimi oblikami raka in slabimi zobmi
+720 : Znanstveniki si obetajo da bo z njim najprej mogoče zdraviti raka na črevesu in želodcu
+721 : Znanstveniki z velikimi upi spremljajo tudi druge uspešne poskuse zdravljenja raka z nanodelci vendar so za zdaj ti praviloma še omejeni na živali
+722 : Tudi pri raku na prostati pomeni zgodnje odkrivanje večjo možnost za ozdravitev
+724 : Razširile so se namreč govorice da je to pršilo radioaktivno oziroma povzroča raka in da prenaša aids ter da zmanjšuje potenco
+725 : V njej so bili nekdaj tudi raki zlasti veliko jih je bilo v pritoku Iščice
+726 : Koža se začne hitreje starati nenadoma je na najbolj izpostavljenih delih telesa veliko sončnih peg ki jih še lani ni bilo v najresnejših primerih pa lahko zbolimo tudi za kožnim rakom
+727 : In prav incidenca kožnega raka je v naši državi med rakavimi obolenji na drugem mestu pri ženskah takoj za rakom dojke pri moških pa za pljučnim rakom
+729 : Zato je bila toliko odmevnejša naslovna zgodba New York Timesa izpred nekaj tednov da so v bostonski otroški bolnišnici na pragu epohalnega odkritja zaradi katerega naj bi se rak kaj kmalu izenačil z boleznimi kot so na primer norice ali škrlatinka
+730 : Da imajo lahko težave z zanositvijo ženske ki so prebolele raka
+731 : Pred dvema meseca so ob rutinskem pregledu ugotovili da se je rak razširil na možgane
+732 : Rak Le zakaj nočete priznati da ste od tega tako odvisni
+733 : Za rakom na dojkah zboleva vedno več žensk in kaže da bo tako tudi v prihodnje
+734 : Značilno je da se kožni rak razvija počasi in da je ob pravilnem zdravljenju popolnoma ozdravljiv
+735 : Ti raki se lahko pojavi v katerem koli starostnem obdobju vendar pogostejše pri starejših
+736 : Rak je skupno ime za približno 180 bolezni za katere je značilna nepovratna sprememba celic te se nenadzorovano delijo tako se sprememba ki jo imenujemo tumor veča in širi po telesu
+737 : Ker je rak bolezen ki jo ljudje večinoma skrivajo
+738 : Vsega tega nihče ne vidi rad zato ljudje raka podobno kot duševne bolezni raje skrivajo
+739 : Res pa je da rak spremeni prav vsakega bolnika
+740 : Ko pa odkrijemo pljučnega raka je malo možnosti da bi ga pozdravili
+741 : Če menimo da je pravo zdravljenje raka samo prvo seveda vemo da so to operacija obsevanje kemoterapija hormonska terapija
+742 : Če govorimo o takem lajšanju raka moramo upoštevati tudi alternativno zdravljenje ki smo ga poimenovali s ponesrečenim izrazom zdravilstvo
+743 : Vemo da 70 odstotkov ljudi zboli za pljučnim rakom zaradi kajenja še posebno v kombinaciji z azbestom
+744 : Če ženska nosi v sebi gen ki povzroča raka dojk je verjetnost da bo zbolela 80 odstotna medtem ko je ogroženost vseh drugih žensk v Sloveniji 5,5 odstotna
+745 : Rak Pomembno spoznanje da ne morete ničesar prehiteti bo prišlo še pravočasno
+746 : Starejša ko je ženska manj je verjetnosti da bo zbolela za rakom na dojkah
+747 : Bolnikom z nekaterimi oblikami napredovalega raka zlasti če tumorji vraščajo ali utesnjujejo živce ali živčne pleteže kar povzroča najhujše bolečine pomagamo z raznimi invazivnimi metodami lajšanja bolečin epiduralne in področne blokade živcev vstavljanje trajnih katetrov za dovajanje protibolečinskih mešanic zdravil stalna infuzija protibolečinskih mešanic zdravil v žilo ali podkožje
+748 : Na kongresu je bila predstavljena že vrsta novih zdravil za zdravljenje raka na debelem črevesu in danki
+749 : Cepljenje proti raku na materničnem vratu cepljenje proti HPV je uvrščeno v program cepljenja in bo v šolskem letu 2009 10 brezplačno za deklice stare od 11 do 12 let ki bodo obiskovale 6. razred osnovne šole
+750 : Za vse druge mladostnice in ženske ki bi se s cepivom želele zaščititi pred rakom na materničnem vratu bo cepljenje še vedno samoplačniško
+751 : Zakaj kljub znanim dejstvom da kajenje povzroča pljučnega raka in kronično obstruktivno pljučno bolezen ljudje še vedno posegajo po tobačnih izdelkih
+753 : Stadij 4 pomeni da se je rak razširil že po telesu metastaziral
+754 : Debelost za 30 odstotkov poveča možnost za nastanek raka na črevesju
+755 : Tromboza v zgornji veni kavi pa je lahko znanilec tumorja v prsnem košu limfom pljučni rak
+756 : Tromboza v zgornji veni kavi pa je lahko znanilec tumorja v prsnem košu limfom plučni rak
+757 : Mali vitez fundacija za pomoč mladim ozdravljenim od raka
+758 : Marsikdo je že namreč zaradi tega prišel do zdravnika prepozno ko je bolezen predvsem rak toliko napredovala da zdravljenje ni več pomagalo
+759 : Vendar se del strokovnjakov sprašuje ali ne bi bilo smotrneje več denarja nameniti preventivnim in kurativnim programom na področju raka na materničnem vratu
+760 : Virus HPV je namreč potreben ne pa zadosten pogoj za razvoj raka materničnega vratu
+761 : Maligni melanom kožni rak ki nastane iz pigmentnih celic ali melanocitov in je eden od najnevarnejših 75 odstotkov smrti zaradi kožnega raka odkrivamo vsako leto pogosteje prizadete pa so mlajše osebe povprečna starost je okrog štirideset let
+762 : Pozabljajo da je UV sevanje kancerogeni dejavnik in mislijo da se rak njim pač ne more zgoditi nadaljuje Stojanovičeva
+763 : Najbolj odmevna je tista novost ki določa da se pregled za preprečevanje raka na materničnem vratu opravi enkrat na tri leta
+764 : Po zadnjih podatkih Registra raka za Slovenijo iz leta 2003 je zaradi raka dojk zbolelo več kot 1000 žensk in 10 moških kar Slovenijo uvršča v sredino svetovne lestvice
+765 : Poudaril je še da za omenjenim rakom pogosteje zbolijo ženske v osrednji in zahodni Sloveniji manj pa v vzhodni Sloveniji kar lahko pripisujemo predvsem ekonomskim in socialnim dejavnikom
+766 : Za uspešno zgodnje odkrivanje raka dojk potrebujemo v Sloveniji vsem ženskam dostopno mrežo primarnih centrov za dojke ki bodo opremljeni z ustrezno opremo in strokovnjaki usposobljenimi za odčitavanje mamogramov v skladu z evropskimi strokovnimi priporočili
+767 : V slovenskem prostoru morajo imeti na področju zgodnjega odkrivanja diagnosticiranja in zdravljenja bolezni dojk vse ženske enake možnosti pa je povedala prim. Jana Govc Eržen dr. med. specialistka splošne medicine in članica Slovenskega združenja za boj proti raku dojk Europa Donna
+768 : V 21. stoletju bomo umirali počasi veliko pozneje zlasti za rakom in degenerativnimi boleznimi možganov
+769 : Zbolevnost žensk za rakom materničnega vratu tako že pada kar je velik uspeh pravi dr. Alenka Repše Fokter
+770 : Najboljša preventiva pa je nekajenje oziroma prenehanje kajenja pravi prim. Trillerjeva saj kadilci sodijo v skupino z največjim tveganjem za nastanek tega raka sledi ji izpostavljenost rakotvornim snovem na delovnem mestu
+771 : Povedal mi je da je ponovna pojavitev raka pri njej že zelo napredovala
+772 : Osebe z večjim tveganjem za razvoj kožnega raka npr. ljudje z rdečimi ali svetlimi lasmi in svetlo poltjo kože ljudje z velikim številom pigmentnih znamenj ljudje ki so se že zdravili zaradi kožnega raka naj izpostavljene dele kože ščitijo z varovalnimi pripravki skozi vse leto
+773 : Redno naj bi si nanašal tudi kremo saj je kožni rak kar pogosta zadeva mnogo mladih ta opozorila ne jemlje resno
+774 : Odsotnost linol kislin kar je pogosto v naši prehrani naj bi bila vzrok nastanka oksidaze ki povzroča raka in mnogo drugih kroničnih bolezni
+775 : Pri tem ne smemo zanemariti dejstva da se lahko tudi rak debelega črevesa in danke izrazita s krvavitvijo iz črevesa
+776 : Takoj za njimi so ženske katerih sorodnice sestra ali mati so zbolele za rakom saj se po raziskavah zdravnikov predispozicija za rak podeduje v 25 odstotkih dednosti pa pri raku dojke pripisujejo kar 5 do 6 odstotkov vseh obolenj
+777 : V veliko pomoč ljudem bo nedvomno tudi nedavno ustanovljeno Društvo za boj proti raku Celje
+778 : Nekje sem prebrala da so takšne bradavice dejavnik tveganja za rak na materničnem ustju
+779 : Trdi da zdravi z ajurvedo celo raka da pozna v Evropi vsaj tri ljudi ki štejejo prek tristo let in da se bo tudi sam podal na pot dolgega življenja zanj pa se bo prekvasil v nekem tibetanskem samostanu
+780 : Zakaj nekateri nikoli ne postanejo odvisni od cigaret in zakaj nekateri kljub temu da kadijo ne zbolijo za pljučnim rakom
+781 : Organizirano presejanje za raka materničnega vratu že kaže rezultate torej manj primerov tega raka
+782 : Dodatno predlagajo da se privarčevana sredstva porabijo za ustrezno vrednotenje dežurstev v skladu s spremembo kolektivne pogodbe za zdravnike in zobozdravnike za zgodnje odkrivanje raka debelega črevesa ter danke program Svit in zgodnje odkrivanje raka dojk program Dora ter za širitev programov magnetne resonance in računalniške tomografije
+783 : Ob dejstvu da so v porastu nenalezljive kronične bolezni na primer srčno žilne bolezni rak diabetes in duševne motnje lahko domnevamo da so specialisti na teh področjih najbolj iskani partnerji farmacevtskih družb
+784 : Za primer vzemimo Glaxovo novo biološko zdravilo za zdravljenje raka dojke lapatinib Tyverb preseneča namreč hitrost s katero potuje skozi slovenske regulatorne mehanizme
+785 : K temu lahko pristopimo tako da preprečimo obolevanje za rakom kjer se da in z zgodnejšim odkrivanjem raka ki ga lahko omogoča presejanje
+786 : Čustvena travma ki jo povzroči rak je lahko prav toliko boleča kot sama bolezen je na konferenci o raku ugotavljala direktorica mednarodnega združenja za psihoonkologijo Luzia Travado
+787 : V Studiu Kernel pa so si nagradi prislužili s projektoma Za slike ki rešujejo življenja in Za zgodnje odkrivanje raka dojke
+788 : Pravi da je sicer normalno da čutijo žalost in tesnobo ko izvedo da imajo raka vendar je treba če se ti občutki ponavljajo in s časom ne minejo nekaj storiti
+789 : Travadova je poudarila da je treba prave komunikacije naučiti tudi zaposlene v zdravstvu ki skrbijo za bolnike z rakom saj so včasih tudi oni zaradi slabe komunikacije del težave
+790 : Rak dojk je sicer vedno bolj ozdravljiva bolezen če je odkrit dovolj zgodaj opozarja Senčarjeva vendar je osveščenost o tej bolezni v Sloveniji še vedno premajhna
+791 : Žena je imela raka mama parkinsonovo bolezen in hudo sklerozo
+792 : Zdravju škodljivi učinki azbesta se izrazijo šele po večletni izpostavljenosti azbestnemu prahu je opozorila dr. Zlata Remškar iz Bolnišnice Golnik in poudarila da vdihana azbestna vlakna sprožijo brazgotinjenje v naših pljučih ali na rebrni mreni ki vedno napreduje počasi ter povečajo možnost da zbolimo za rakom pljuč ali rebrne mrene
+793 : Če prek živil preidejo v človeško telo lahko povzročijo razna obolenja kože prekomerno poraščenost lažje okvare jeter povezujejo jih tudi z motnjami imunskega sistema s kronično pljučno obstruktivno boleznijo sladkorno boleznijo ter z motnjami pri tvorbi sklenine pri otrocih povzročajo pa lahko raka in okvare zarodkov V EU velja prosti pretok blaga
+794 : O Petri dekletu ki je zbolela za kostnim rakom izgubila nogo in na koncu premagala bolezen
+795 : Ker so pri varjenju nenehno izpostavljeni plinom prevzemajo od 30 do 40 odstotno večje relativno tveganje obolelosti za pljučnim rakom ne glede na to ali varijo rjaveča ali nerjaveča jekla
+796 : Na zaključni okrogli mizi so včeraj prvič natančneje opredelili tudi razlike v obolevnosti večje tveganje za raka večinoma na pljučih in sečilih je za prebivalce na vzhodu regije oziroma v okolici štirih največjih onesnaževalcev hrastniških Steklarne in Tovarne kemičnih izdelkov ter trboveljskih Termoelektrarne in Lafarge Cementa
+797 : Pri diagnozi obolelosti za rakom lahko človek v tem času zaradi bolezni umre če ni deležen ustrezne terapije sta le dve izmed tovrstnih ocen
+798 : Genetika je koristna pri medicinskih raziskavah in tudi za razvoj novih biotehnologij praktična uporabnost proučevanja človeškega genoma pa sega od napovedovanja bolezni raka cistične fibroze motenj hemostaze Alzheimerjeve bolezni itd. do odgovarjanja na vprašanja omenjena v uvodu
+799 : Aflatoksini lahko poškodujejo jetra in povzročijo tudi raka zato je raka jeter več v državah tretjega sveta kjer so razmere ugodne za rast aflatoksinov na hrani
+800 : Tudi na Slovenskem pospešen boj proti naraščajoči zbolevnosti za rakom na prsih ter rakom na debelem črevesu in danki Za čim več rešenih življenj
+801 : Izpostavil je da je rak rana slovenskega gasilstva še vedno status operativnega gasilca
+802 : Ko je ležala v krsti in sem videl njen obraz siv obraz ki ga je razdejal rak sem spoznal da zrem v obraz žrtve in
+804 : Aaron je homoseksualec Martin se bori z rakom Sarah pa vodi otroško oddajo na televiziji in se sestaja s poročenim moškim
+805 : Če navodila na kratko povzamemo svetujejo zdravo življenje ki ni pomembno le za preprečevanje raka pač pa tudi drugih kroničnih bolezni vanj ne sodijo kajenje in čezmerno pitje alkoholnih pijač neustrezno sestavljeni jedilniki čezmerno sončenje in neupoštevanje predpisov varstva pri delu
+806 : Gre za klasično spolno okužbo ki lahko mine brez hujših posledic lahko pa preide tudi v kronično vnetje jeter povzroči raka na jetrih ali celo njihovo cirozo opozarja Eva Grilc
+807 : Pater Karel pa je dejal da je Andoljšek našel v ustvarjanju tudi tolažbo po trpljenju zaradi izgube žene ki mu je umrla za rakom
+808 : V zaporu je namreč zaradi raka umrl obsedenec zaradi katerega je vrsto let živela v strahu saj jo je skoraj neprestano nadlegoval
+809 : Mednje spadajo manjše raziskovalne ustanove ki razvijajo na primer zdravila proti raku alzheimerjevi bolezni ali boleznim srca in ožilja pojasnjuje Cuypersova
+810 : Ker so brez pigmenta pogosto trpijo zaradi sončnih opeklin in zbolevajo za kožnim rakom
+811 : To je običajno rak na dojkah zato je hormonsko zdravljenje optimalno samo omejen čas
+812 : Številne raziskave so pokazale da je pri rudarjih in nekdanjih delavcih v topilnicah v Idriji splošna umrljivost umrljivost za rakom pljuč in obolenj srca in ožilja višja od pričakovane
+813 : Rak Nikar ne obupajte saj še vedno obstaja upanje da se bo zadeva ugodno razpletla
+814 : Obnovimo gospodični so lani diagnosticirali raka na dojki ker se je z njim spopadala že mama pa je privolila da ji odstranijo obe
+815 : Ko se še ni napravila pomlad sem slišal da je umrl za rakom
+816 : Odgovor na vprašanje zakaj prve manj pogosteje obolevajo za rakom je po mnenju tamkajšnjih zdravnikov varovalna sredozemska prehrana
+817 : Včasih so s to metodo raka le ustavili ne pa tudi odstranili
+818 : Najtežja preizkušnja pa se Jacqueline pokaže v obliki bolezni ko je zbolela za rakom
+819 : LAŠKO 26. V Laškem so se tudi letos odločili obdariti otroke obolele za rakom na Pediatrični kliniki v Ljubljani
+820 : Dojenje prav tako zmanjšuje možnosti za nastanek raka na dojkah in maternici pri ženskah zmanjšuje slabokrvnost zaradi pomanjkanja železa in osteoporozo
+821 : Naša klinika je zelo uspešna še na področju operativnega zdravljenja raka materničnega vratu saj je po naši metodi posledic operativnega zdravljenja predvsem na sečilih veliko manj
+822 : Kadmij povzroča raka lahko povzroča okvare ledvic in spremembe v kosteh poleg tega se sumi da škoduje dednim zasnovam in plodu
+823 : Pravzaprav ni raziskave ki bi potrdila da anabolni steroidi povzročajo raka na jetrih
+824 : Danes je namreč zdravljenje raka pri otrokih tako napredovalo da jih ozdravimo 60 odstotkov pravi dr. Dolničarjeva
+825 : Kronične poškodbe kože pa se pojavijo po večletnem izpostavljanju soncu in povzročajo prezgodnje staranje kože ter raka kože
+826 : Hkrati bo treba imenovati ljudi ki bodo organizirali sledenje bolniku in zdravljenje po operaciji raka debelega črevesa in danke je poudaril Štabuc
+827 : Zaradi raka debelega črevesa in danke je po zadnjih podatkih iz leta 2005 v Sloveniji umrlo 334 moških in 310 žensk
+828 : Danes v Sloveniji res ni treba da bi bolniki z rakom trpeli bolečine
+829 : Rojčeva je tudi aktivna članica Združenja za boj proti raku dojke Europa Donna in s svojimi izkušnjami pomaga drugim bolnicam
+830 : Tveganje za razvoj pljučnega raka je v veliki meri povezano z genetskimi dejavniki je pokazala največja študija ki jo so jo kadar koli opravili v zvezi z pljučnim rakom
+833 : Raziskovalci z omenjene klinike Mayo so ugotovili da redno jemanje ASA zmanjšuje verjetnost za razvoj raka kajti blokira ecime ki pospešujejo rast maligno spremenjenih celic
+835 : Verjetno najbolj raziskana je povezava vnetja in raka na debelem črevesu
+836 : Društvo za boj proti raku regije Celje je izdalo zgibanko Tudi malo alkohola je lahko preveč
+837 : No kadar vas zalotijo z njim v roki da vas seveda lahko zalije rdečica hočemo vam le povedati da se z rednimi ejakulacijami precej zmanjša moŽnost da zbolite za rakom na prostati
+838 : Kjer je veliko sonca je pigment nujno potreben za zaščito pred Žarki ki povzročajo opekline in koŽnega raka
+839 : Driskam lahko tudi krvavim bolečinam povišani telesni temperaturi neješčnosti utrujenosti se lahko pridruŽijo različni zapleti na primer predrtje črevesa ali črevesni rak
+840 : Usmerili so se v zdravljenje raka na črevesju pljučih in prostati
+841 : Grenivke rožnate ali rdeče barve dokazano zmanjšujejo tveganje za nastanek raka prostate
+842 : Neka učinkovina v brokoliju ubija klice ki povzročajo želodčne čire in celo raka
+843 : Zbrani denar bodo organizatorji po turnirju podarili ustanovi Mali vitez fundaciji za pomoč mladim ozdravljenim od raka
+844 : Da bi vendarle zmanjšali število umrlih ki imajo raka dojk da bi bolezen torej pravočasno odkrivali nameravajo v Sloveniji oblikovati vsem ženskam dostopno mrežo primarnih centrov za dojke ki bodo opremljeni z ustrezno opremo njihovi strokovnjaki pa bodo usposobljeni za odčitavanje mamogramov
+845 : Program so v registru raka na onkološkem inštitutu poimenovali Dora
+846 : Brez zdravljenja lahko vodi v cirozo in raka jeter
+847 : Izkažimo solidarnost in podporo v boju proti raku dojk
+848 : Zato da se bodo znali sami zaščititi pred soncem in da bodo vplivali tudi na svoje starše pravi dr. Ivan Eržen predsednik Društva za boj proti raku regije Celje in hkrati direktor ZZV Celje
+849 : Ugotovili so da prvi veliko pogosteje zbolijo za kožnim rakom
+850 : Cepljenje proti raku materničnega vratu bo moralo počakati na dogovor skupnosti občin
+851 : Avon in Europa Donna v skupnem boju proti raku dojk
+852 : Druga zgodba je Feynmanova bolezen trebušni rak zaradi katerega je bil operiran a je vseeno sodeloval pri načrtu
+853 : Tako pomagajo ženskam ki so obolele za rakom
+
+Cluster 1:
+100 : Poznamo več vrst te jedi in njena osnovna sestavina je riž ki postane rumen od žafrana temu pa dodamo še papriko in paradižnik meso perutnino rake ali morske sadeže chorizo in jajca
+101 : Očiščene rake damo v omako dodamo timijan in na blagem ognju kuhamo 4 minute
+137 : V tem času posebej na vročem olju prepražimo lignje in rake jih dodamo paelli skuhamo do konca koliko časa je odvisno od vrste riža in takoj postrežemo
+154 : Dobro vam denejo domače sadje presna zelenjava belo vino solata kislo zelje testenine in riž perutnina sladkovodne ribe in raki škodujejo pa vam ostre začimbe kot so poper ingver ostra paprika močno pečeno meso ali pripravljeno na žaru vse kar prav zaradi pečenja dobro diši na primer pražena kava česen čebula in visokoodstotne alkoholne pijače
+185 : Prehranjuje se s školjkami raki polži in je na splošno zelo požrešna saj se z gobcem zaletava v kamne če sluti da je pod njimi hrana
+280 : Ob številnih receptih iz domačih in tujih logov nas nato popelje skozi bogastvo sladkovodnih in morskih rib mehkužcev glavonožcev školjk in rakov celo konzerviranih rib ter nas na prijeten način navdušuje za uživanje vsega tega bogastva hrane iz vode
+434 : Oblikujemo pečenke mlete pečenke sesekljane zrezke rake perutnino zelenjavo
+447 : Evropska zakonodaja je izredno zahtevna in Valter Sabadin lastnik podjetja za trgovanje z ribami raki školjkami in drugimi morskimi bitji je skusil trnovo pot pridobivanja dovoljenj veterinarskih oznak in evropske kontrolne številke
+450 : Plenilcev je v sladkih vodah zelo veliko trdoživi pijavke nekateri planktonski raki ličinke in odrasle žuželke npr. kačji pastirji hrošči
+451 : Raki se prehranjujejo tako z rastlinami kot tudi z živalmi
+486 : postajal in glava mi je klonila na mizo in že je bila pred mano druščina in slavili so me in mi nazdravljali in paži so nosili cele ponve ocvrtih postrvi in rakov ki so plavali v masti tem sem nazdravil s kuhanim vinom pomešanim z žbicami in figami in potem so prišli pitani kopuni dušeni v lastnem soku poleg njih kosi mladega medveda v poprovi omaki
+487 : Družbi na čast popijem čašo zlate rebule in nazdravim prinesejo riž z mandljevo kremo in v vinu kuhane žive rake in postrvi in zraven cvrtje
+522 : To velja še zlasti v odnosih z vodnimi raki škorpijoni ali ribami
+645 : Hrani se večinoma z raki in občasno z rakovicami ki jih ujame ob obali ali celo na bregu
+646 : Odrasle ribe se hranijo pretežno z ribami mlajše jedo žuželčje ličinke in rake
+647 : Najpogosteje ga najdemo v ustjih velikih rek na primer v Gangesu kjer se hrani z manjšimi raki in ribami drsti pa se daleč proč v morju
+648 : Malo je znanega o njenih navadah vedo pa da se hrani pretežno z raki
+649 : Menda se hrani z ribami raki in lignji sicer pa je o njenih navadah bolj malo znanega
+681 : Lovljenje rib rakov školjk in hobotnic so začasno že ustavili turistična sezona pa zaradi onesnažene obale ki je doslej veljala za precej neokrnjeno najbrž ne bo preveč dobra
+686 : Ob njem so v kamnolomu odkrili še deset primerkov dinozavrov ostanke krokodilov letečih reptilov rib rakov in rastlin
+687 : Prav v tihožitjih so se grafično bogate teksture neživih predmetov razčlenjenost površin naplavljenih rib rakov in mehkužcev trepetava operjenost ptičje mrhovine ali materialnost lesa ki jih je opazoval s prav leonardovsko radovednostjo najbolj uspešno srečale z njegovo siceršnjo ljubeznijo do slikovitih učinkov litografske tehnike
+706 : Hrani se z mehkužci meduzami raki in tudi rastlinami
+728 : Morje je polno raznobarvnih rib velikih lignjev rakov školjk v globljih vodah in ob pisanih koralnih grebenih pa srečanje z različnimi vrstami morskih psov ni nikakršna posebnost
+803 : Največ cinka je v morski hrani školjkah in rakih z njim pa so bogati tudi ovčje puranje goveje meso in divjačina parmezan jajca žitarice in semena
+
+
+Cluster 2:
+0 : 17.00 Miniteater Ljubljana T. Galbiati T. G. Komljanec Riba Raca Rak igrano lutkovna predstava za otroke od 3. leta dalje
+16 : Rak od 22. junija do 22. julija Novica ki ste jo dolgo čakali vam bo polepšala dan
+27 : RAK od 22. rožnika do 22. malega srpana Ne hvalite se s svojimi dragocenostmi in prihranki prijazni poslušalec vas bo nekaj dni kasneje prosil za posojilo
+123 : Rak od 22. junija do 22. julija Lepo vam bo medtem ko se boste družili in pogovarjali z domačimi
+171 : RAK od 22. rožnika do 22. malega srpana Razmišljanje v naravi vas bo umirilo saj nekega praznika ne boste obeležili tako kot ste vajeni in boste zato razdražljivi
+241 : Rak od 22. junija do 22. julija To da najbližji stalno tarna vas vedno bolj moti
+402 : Rak od 22. junija do 22. julija Kljub ustvarjalnosti vam zadeve ne gredo od rok za kar je krivo pomanjkanje samozavesti
+445 : 17.00 Mini teater Ljubljana T. G. Komljanec Riba Raca Rak igrano lutkovna predstava
+544 : Rak od 22. junija do 22. julija Včasih je občutek negotovosti dobrodošel saj si lahko z njim okrepite samozavest
+660 : RAK od 22. rožnika do 22. malega srpana Vaše skrbno prikrito ljubosumje bo prišlo na dan ko boste napadli partnerja zaradi nepomembne malenkosti
+661 : Rak od 22. junija do 22. julija Saj vam ne bo padla krona z glave če boste naredili nekaj kar bi sicer moral najbližji
+675 : Rak od 22. junija do 22. julija Čustveno boste precej občutljivi večji stresi lahko povzročijo tudi težave z zdravjem
+682 : Rak od 22. junija do 22. julija Čeprav ste delo opravili odlično se marsikdo s tem ne strinja
+717 : Marjeta Rak Namestnik mag. farmacije iz Mariborskih lekarn nam je povedala da so v lekarnah na voljo številni proizvodi ki ščitijo pred soncem
+718 : Marjeta Rak Namestnik mag. farmacije Mariborske lekarne pravi da je v lekarnah na voljo dovolj visokokakovostnih izdelkov za zaščito proti soncu
+723 : Rak od 22. junija do 22. julija Priznate da v zadnjem času vedno bolj razmišljate o zabavah in lenarjenju ter vedno manj o delu
+752 : RAK od 22. rožnika do 22. malega srpana
+831 : Rak od 22. junija do 22. julija Nekaj se dogaja za vašim hrbtom vi pa le opazujete in ne ukrepate
+832 : RAK od 22. rožnika do 22. malega srpana Sprehode od hladilnika do mize zamenjajte s pohodi v naravo saj bodo dobrodejno vplivali na vaše zdravje
+834 : Rak od 22. junija do 22. julija Pokušajte vsaj malo bolj razviti občutek za fair play
+
+
+Spectral clustering
+Counter({0: 851, 2: 2, 1: 1})
+
+Cluster 0:
+
+Cluster 1:
+434 : Oblikujemo pečenke mlete pečenke sesekljane zrezke rake perutnino zelenjavo
+
+Cluster 2:
+101 : Očiščene rake damo v omako dodamo timijan in na blagem ognju kuhamo 4 minute
+137 : V tem času posebej na vročem olju prepražimo lignje in rake jih dodamo paelli skuhamo do konca koliko časa je odvisno od vrste riža in takoj postrežemo
+
+
+DBScan clustering
+Estimated no. of clusters: 1
+Estimated no. of noise points: 0
+Counter({0: 854})

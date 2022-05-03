@@ -1,0 +1,856 @@
+golf
+
+Aglomerative clustering
+Counter({0: 415, 1: 2})
+Counter({0: 293, 1: 124})
+Counter({0: 305, 1: 112}) complete uporabljen spodaj
+
+Cluster 0:
+0 : Eno izmed meritev v vsaki kopalni sezoni opravijo po naročilu ministrstva za zdravstvo oziroma zdravstvene inšpekcije druge meritve pa sofinancirajo občini Bohinj in Škofja Loka Direkcija za turizem Bled podjetje Golf in camp Bled hotel Toplice turistično društvo Bohinj in sam zavod
+1 : 1975 se je rodil igralec golfa Tiger Woods
+2 : Vsaj če sodimo po novem Volkswagnovem bencinskem izdelku ki so mu nadeli ime TSI in je na voljo tudi v golfu
+7 : 9.00 Golf evropska turneja 9.30 Reklamna oddaja 10.00 Confederations Cup 12.00 Reklamna oddaja 12.30 Confederations Cup 14.30 NHL Stanley Cup 15.15 Pago Pago 16.00 Xapatan 16.30 Takeshi's Castle 17.00 Pago Pago 17.45 Košarka 18.00 DSF novinarski center 18.30 DSF reportaža 19.00 Dvoboj DSF kviz 19.40 DSF novinarski center 20.00 U 21 22.00 DSF novinarski center 22.15 Confederations Cup 23.15 Touchdown Gatorade nogometni magazin 23.45 Golf evropska turneja 0.45 Extreme Situations 1.15 Reklamna oddaja 1.45 Reklamna oddaja
+8 : Igrišče na Bledu je najbrž veliko pridobilo s kranjsko delniško družbo Sava ki je 73 odstotni lastnik družbe Golf in kamp Bled d. d.
+10 : Obžalujeva pa da nekateri poslanci LDS ki so v zadnjem času sicer naredili izpite in dobili dovoljenje za igro golfa etike obnašanja v golfu še ne obvladajo
+11 : S parkirnega prostora na Jesihovem stradonu je bil ukraden osebni avtomobil znamke VW golf 1.9 TDI srebrne barve z oznako na tablicah LJ 43 66R vreden približno 2,8 milijona tolarjev s Kardeljeve ploščadi pa je izginil osebni avtomobil znamke Renault 5 rdeče barve registrska številka LJ 71 91M vreden približno pol milijona tolarjev
+13 : Zaradi kihanja in slabega počutja ter posledično slabe volje bi se kmalu razšla in ta ki bi takrat imel že novejši model golfa bi razmišljal da bi bilo treba hitro najti eno drugo ki bo namesto Svetlane plačevala polovico stroškov za stanovanje
+14 : Pri nas je najstarejše igrišče za golf na Bledu in zadnje ki so ga odprli v Ljubljani
+15 : Lozana Najboljši igralec golfa na svetu Tiger Woods je navdušen medtem ko nekateri govorijo o katastrofi
+17 : 8.30 Golf 9.30 Jadranje 10.00 Nogomet Prijateljska tekma 11.30 Avtomoto šport 12.30 Motociklizem VN Češke Brno 13.00 Motociklizem VN Češke Brno 14.00 Motociklizem VN Češke Brno 15.15 Motociklizem VN Češke Brno 16.30 Tenis WTA turnir Montreal Kanada 18.00 Motociklizem VN Češke Brno 19.00 Tenis WTA turnir Montreal Kanada 22.45 Rally Fia rally za SP Finska 23.00 Novice 23.15 Pikado 1.00 Rally Fia rally za SP Finska 1.15 Novice 1.30 Konec
+18 : Kariero sem želel končati v Magdeburgu in to sem zdaj storil je takoj po dvoboju dejal Ottke ki bo ostal v športu vendar presenetljivo ne v boksu ampak se bo posvetil poučevanju golfa katerega strasten igralec je in ima tudi dober hendikep 18
+19 : Golf v Sloveniji še zmeraj velja za neke vrste buržuazni šport
+20 : V ozadju Gojčičeve izjave se razkriva preobrat ki se je v Golf zvezi Slovenije začel pred tremi ali štirimi leti
+21 : Sploh ni šlo več za golf kot šport ampak za moč pravi Gojčič in dodaja da pri tem nikogar ne zanima kaj se v tem času dogaja z dobrimi celo vrhunskimi igralci golfa pri nas
+22 : 8.30 Golf 9.30 Nogomet Prijateljski turnir Bari Italija 11.30 Moderni peteroboj 12.30 Avtomoto šport 13.30 Gorsko kolesarstvo 14.00 Triatlon 15.00 Atletika Iaaf Grand Prix I Miting Stockholm Švedska 16.00 Nogomet Prijateljska tekma Milan Ac Real Madrid 18.00 Nogomet Prijateljski turnir Bari Italija 19.30 Rally Pariz Nancy Istambul 20.30 Športno potapljanje 21.00 Aerobika SP 22.00 Boks 23.00 Novice 23.15 Sumo 0.15 Sumo 1.15 Novice
+23 : Po mojem mnenju zaradi premalo strokovnega znanja saj ni skrivnost da so nekateri mladi igralci golfa boljši kot učitelji
+24 : 8.15 K Tel reklamna oddaja 8.45 Lumberjack 9.15 Powerboat 9.45 MotorVision 10.45 World Soccer 11.15 Športna borza 11.45 Reklamna oddaja 12.00 Speed Zone 12.15 Fun Zone 12.30 Normal oddaja za invalidne osebe 13.00 Ameriški gladiatorji 14.00 Takeshi's Castle 14.45 Lumberjack 15.15 Speed Zone 15.30 Fun Zone 15.45 Monster Trucks 16.15 Ameriški gladiatorji 17.15 Takeshi's Castle 18.00 DSF novinarski center 18.30 InTeam magazin nemške zvezne lige 19.00 DSF novinarski center 19.30 InTeam reportaža 20.00 DSF novinarski center 20.15 Rokomet 1. nemška zvezna liga 22.15 DSF novinarski center 22.30 CoolTour Hondin potovalni magazin 23.15 InTeam reportaža 23.45 Normal oddaja za invalidne osebe 0.15 Golf evropska turneja 0.45 Lumberjack 1.15 Best Direct reklamna oddaja
+25 : Dokaj poceni so še Golfi z bencinskim motorjem toda teh je na cestah bolj malo
+26 : BLED 6. Na Bledu se je končalo 21. mednarodno prvenstvo Slovenije v golfu ki je hkrati štelo tudi za državno prvenstvo
+27 : V Ulici bratov Vošnjakov v Celju je bilo vlomljeno v osebni avtomobil znamke VW Golf
+30 : 8.30 Jahanje pon. 9.30 Golf pon. 10.30 Motorsport pon. 11.00 Automagazin
+31 : 8.30 Namizni tenis 10.00 Nogomet Afriški pokal narodov 12.00 Nogomet Evrogoli 13.30 Atletika Dvoranski miting Dortmund Nemčija 15.00 Ciklokros SP 16.00 Kolesarstvo Po Avstraliji 17.00 Nogomet Afriški pokal narodov prenos 19.00 Nogomet Afriški pokal narodov 21.00 Boks 23.30 Golf 0.30 Kolesarstvo Po Avstraliji 1.30 Konec
+32 : Ob tem moramo upoštevati da golf ne pomeni samo igrišča temveč tudi povečan promet gradnjo gostinskih objektov ali na kratko odprto pot urbanizaciji
+33 : Voznik neznanega osebnega avtomobila je trčil v avtomobil VW golf rdeče barve nato pa odpeljal
+35 : Njegovi najljubši športi so golf smučanje gorsko plezanje in deskanje na snegu
+36 : ZAHTEVA FRANCIJA PERČIČA Z BLEDA KI JE V IMENU SVOJE SOPROGE MARIJE PERČIČ VLOŽIL IZPODBOJNO TOŽBO ZOPER LETOŠNJO SKUPŠČINO BLEJSKEGA TURISTIČNEGA PODJETJA GOLF IN KAMP V KATEREM JE PERČIČEVA MALA DELNIČARKA JE NA OKROŽNEM SODIŠČU V KRANJU V CELOTI POGORELA
+37 : LETOŠNJA SKUPŠČINA BLEJSKEGA TURISTIČNEGA PODJETJA GOLF IN KAMP KI SE JE KONEC AVGUSTA ODVILA V PROSTORIH PODJETJA NA BLEDU NI MINILA BREZ ZAPLETOV
+38 : Golf se na primer vozi po gumah enakih velikosti kot jih ima precej večji in težji passat
+39 : Aha še to tisto z golfom je bilo bolj za šalo
+40 : GOLF JE BIL in je še vedno priljubljen tudi med ameriškimi predsedniki
+41 : Verjamem da je na področju učenja golfa v Sloveniji še velik potencial
+42 : Četudi je izvrsten igralec ki je v golfu že od otroštva je to lep dokaz kako se lahko na eni luknji vse spremeni
+43 : GOLF ZVEZA SLOVENIJE JE V ZAČETKU LETA SPREJELA SKLEP IN GA OPREDELILA TUDI V TEKMOVALNO TEHNIČNEM PRAVILNIKU GZS DA SE NA PODROČJU SLOVENIJE UVEDE NOVI HANDICAP SISTEM KI JE V VELJAVI V SKORAJ VSEH EVROPSKIH DRŽAVAH RAZEN ANGLIJE
+47 : To je tisti Golf ki je privlačen že samo zaradi imena in svoje zgodovine je pa seveda tudi tehnično odličen
+48 : Da pa je Golf precej večji in težji kot pred 25 leti pa je že druga zgodba
+50 : BLED 12. Na blejskem igrišču za golf so predstavili začetek sodelovanja treh dežel avstrijske Koroške Furlanije Julijske krajine in Slovenije ki se jim je pridružila še četrta regija Benečija
+53 : V omenjenih dveh italijanskih regijah ter na sosednjem Koroškem je po dvanajst igrišč za golf v Sloveniji pa osem
+54 : BLED 12. Na blejskem igrišču za golf so sklenili štiridnevno mednarodno amatersko prvenstvo Slovenije v golfu
+55 : Stokrat sem mu ponovila da ne maram golfa toda Phill me sploh noče poslušati
+56 : V BTC Cityju so prejšnji teden slovesno krstili še eno imenitno pridobitev igrišče za mini golf z devetimi luknjami Že na odprtju je padel hole in one
+58 : 8.00 Iz domače skrinje ponovitev 10.00 Evropski golf turnirji ponovitev 10.30 TV prodaja 11.30 Video strani 13.30 TV prodaja 14.30 Poslovne informacije 15.00 Iz domače skrinje ponovitev 16.30 Motor Show Report 17.00 Juke Box kontaktna oddaja 18.30 Avto šou 19.00 Razvoj avtomobilizma 19.30 Poslovne informacije 20.00 Sijaj kontaktna oddaja 21.00 Reporter X 21.30 Iz domače skrinje kontaktna oddaja 23.00 Poslovne informacije 23.30 Juke Box ponovitev
+59 : Nikoli ne iz golfa samega vedno in povsod zgolj iz golfistov
+60 : Če je igralec v dvomu da bi z uporabo določenega pripomočka kršil 14.3 pravilo se mora posvetovati s klubom The Royal and Ancient Golf Club of St. Andrews
+61 : Izdelovalec lahko pošlje klubu The Royal and Ancient Golf Club of St. Andrews vzorec pripomočka ki ga namerava izdelovati s prošnjo za presojo njegove skladnosti s 14.3 pravilom če bi ga igralec uporabil med dogovorjenim krogom
+62 : Tak vzorec postane last kluba The Royal and Ancient Golf Club of St. Andrews ki ga hrani za dokazne namene
+63 : Bistvo 8. pravila je da naj bi golf ostal šport posameznikov
+64 : V Sloveniji sicer golf še vedno velja za snobovski šport podobno kot je to veljalo za tenis pred štiridesetimi leti
+65 : V golfu mi je najbolj všeč da lahko igraš z zelo različnimi ljudmi od najmlajših do najstarejših in se lahko od vsakega naučiš marsikaj zanimivega
+66 : 9.00 Medicina od A do Ž 9.30 Planet Počitnice 10.00 Smučarska Amerika 10.30 Avstralska panorama 11.00 Bronasti avstralski bogovi 12.00 Transazija 13.00 Odkrivamo Avstralijo 14.00 Potovalni hrošč 14.30 Capriceina potovanja 15.00 Kalejdoskopska obala 15.30 Skrivnosti Indije 16.00 Mississippi reka pesmi 17.00 Po največjih golf igriščih sveta 17.30 Svoboden v divji Afriki 18.00 Smučarska Amerika 18.30 Sončni udar 19.00 Pot gre naprej 19.30 Capriceina potovanja 20.00 Z železnico preko Avstralije 21.00 Coltrane v Cadillacu 21.30 Go 2 22.00 Transazija 23.00 Potepanje po Franciji 23.30 Veliki pobeg 0.00 Dominikin planet 1.00 Praznične poti 1.30 Kalejdoskopska obala 2.00 Konec
+67 : Za odlične teatralne kostume je poskrbel Alan Hranitelj po odru se je vozil celo električni avtomobilček za golf pri katerem so morali biti pozorni da ni zdrsnil z odra
+68 : V prihodnje nameravajo razširiti tudi igrišče za golf vendar je zanj potrebna najprej prekategorizacija zemljišč iz kmetijskih v zemljišča za posebne namene
+69 : Američan Tiger Woods najboljši igralec golfa na svetu bo na drugem letošnjem turnirju za grand slam odprtem prvenstvu ZDA v San Diegu igral podaljšano igro za zmago z rojakom Roccom Mediatejem
+70 : Najboljši igralec golfa na svetu Američan Tiger Woods bo moral na operacijo levega kolena s tem je zanj konec sezone
+71 : Na blejskem Kraljevem igrišču se je končalo ekipno evropsko mladinsko prvenstvo v golfu
+72 : Bled V hotelu Golf na Bledu bo jutri v soboto 8. decembra ob 19. uri adventni koncert moškega pevskega zbora Triglav z Bleda
+73 : 22.15 GOLF VRHUNCI UVODNEGA DNE TURNIRJA V SURREYU
+75 : 9.00 Nogomet 11.00 Golf evropska turneja 11.30 Reklamna oddaja 12.00 Speed Zone 12.30 Reklamna oddaja 13.00 It's A Knock Out 14.00 Sports Bakka 14.30 Zimski športi 15.30 Motobike Polo magazin 16.30 Gillette World Sport 17.00 Nevzdržno 17.15 Cooltour Potovalni magazin 18.00 DSF novinarski center 18.20 Dvoboj kviz 19.00 DSF reportaža 19.30 Nevzdržno 20.00 DSF novinarski center 20.15 Prenos Odbojka 22.15 DSF novinarski center 22.30 MotorVision 23.30 Wrestling SP Thunder 0.30 Monster Trucks 1.00 Speed Zone 1.15 Reklamna oddaja 2.15 Monster Trucks
+76 : 8.00 Olympica zgodovina olimpijskih iger 8.30 Dominion reklamna oddaja 9.00 Action 10.00 Superkros 11.00 Oldtimer magazin 12.00 Motocikli 13.00 Zlata petdeseta Formule 1 14.00 Hitrostno drsanje 15.00 Power Time 16.00 Ameriški gladiatorji 17.00 Šport moči 18.00 Oldtimer magazin 19.00 NBA od znotraj 20.15 Rokomet 1. nemška zvezna liga 22.15 Športna poročila 22.30 Sumo 23.30 Golf evropska turneja 0.00 Gillette World Sport Special 0.30 Športna poročila 0.45 Normal oddaja za invalidne osebe 1.15 Best Direct reklamna oddaja 1.45 Akrobatski team
+77 : Enostavno to je golf in takšna je igra
+83 : Zmaga Izolana Andreja Jereba je resda marsikoga razveselila zato pa precej manj nesreča Darka Peljhana ki je povsem razbil svojega golfa in tako že pred zadnjo preizkušnjo 6. in 7. oktobra v Samoboru podpisal vdajo glede letošnjega naslova državnega prvaka
+84 : Voznik golfa je peljal po prehitevalnem pasu in dohitel škodo felicio katere voznik se mu je umaknil na desno na vozni pas
+85 : Zato je voznik felicie zavil nazaj na prehitevalni pas in ga začel prehitevati ko pa je bil vzporedno z golfom je njegov voznik zapeljal na levo in predenj ter naglo zavrl
+86 : Prejšnjo sredo so bili celjski policisti obveščeni da je neznani storilec v času od prejšnjega petka do srede zjutraj s parkirnega prostora na Ipavčevi ulici v Celju odtujil neregistriran osebni avtomobil znamke VW golf serije II kovinsko sive barve vreden okoli 200 tisoč tolarjev
+87 : Obžalujeva pa da nekateri poslanci LDS ki so v zadnjem času sicer naredili izpite in dobili dovoljenje za igro golfa etike obnašanja v golfu še ne obvladajo sta zapisala v sporočilu za javnost
+88 : Sicer pa je po njunem golf vse prej kot šport elite
+90 : Nekdanji prijatelji preminulega Janija Florjančiča so tudi letos na golf igrišču Zlati grič organizirali golfski turnir v njegov spomin
+91 : Ne bi rekla da je golf samo za elito namenjen je širši javnosti
+92 : Postavili so več zased in v eno se je že pri Starem Logu ulovil tovornjak na katerem pa niso bili le štirje Žužemberčani ampak tudi avto golf za katerega se je izkazalo da je bil lastninjen v Ljubljani
+93 : Kdo bo odigral 120 lukenj z najmanj udarci bo znano v nedeljo zvečer ko bomo v Mokricah zaključili z igranjem je povedal predsednik Golf kluba Celje Borut Sedovnik pri katerem se lahko tudi prijavite na telefonsko številko 041 233 108
+94 : Ko je Iztok začel igrati golf sem šel nekajkrat z njim na igrišče
+95 : Pri pregledu golfa pa so policisti našli zanimive predmete ki pričajo da se ubežnika dobro spoznata na svoje delo
+96 : Danes študenti na Fakulteti za šport še ne morejo napisati golf za prvi šport a se trudimo da bo kmalu drugače
+97 : Pred kratkim je prišel dopis komisije ki skrbi za treniranje in izobraževanje kjer so zapisali da so zelo ponosni da gre golf v pravo smer in da nam nudijo vso podporo
+98 : BLED Ekipno evropsko prvenstvo v golfu za mladince danes in jutri ob 7.30 na Bledu
+99 : Škofja Loka V Vincarjih je neznanec minuli četrtek poškodoval na mestni ulici parkiran osebni avtomobil VW golf JGLD in sicer mu je z boka odtrgal okrasni letvi z zadnjega brisalca snel metlico in prebodel vse štiri gume
+106 : 8.30 Powderhausen TV 9.00 PK TV 9.30 World Soccer 10.00 MotorVision 11.00 Golf evropska turneja magazin 11.30 Reklamna oddaja 12.00 Speed Zone 12.30 Reklamna oddaja 13.00 Motobike magazin 14.00 Xapatan 14.30 It's A Knock Out 15.30 Xapatan 16.00 English Gladiators 17.00 It's A Knock Out 18.00 DSF novinarski center 18.30 Nevzdržno 19.00 Dvoboj kviz 19.40 DSF novinarski center 19.45 Formula 1 prosti trening prenos za VN ZDA v Indianapolisu 21.15 DSF novinarski center 21.30 Nogomet 2. nemška zvezna liga 22.30 Viererkette 23.03 Golf Ryderjev pokal 0.30 UEFA Champions League Magazin
+107 : Golf igrišče grad Mokrice ki se razprostira na 70 hektarih v letošnjem letu ponuja še več izzivov in novih užitkov
+108 : Z delovanjem je začela tudi Golf akademija s programi šolanja tako za začetnike kot za tiste ki želijo v tem športu napredovati
+109 : Po kratki in mili zimi se na Bledu znova začenja sezona golfa ki je v letu 2006 trajala vse do 10. decembra
+112 : 8.45 Šport moči 9.45 Monster Trucks 10.45 MotorVision 11.45 Reklamna oddaja 12.00 Speed Zone 12.15 Fun Zone 12.30 Monster Trucks 13.00 Ameriški gladiatorji 14.00 Takeshi's Castle 14.45 Lumberjack 15.15 Speed Zone 15.30 Fun Zone 15.45 Monster Trucks 16.15 Takeshi's Castle 17.00 Golf evropska turneja 18.00 DSF novinarski center 18.30 InTeam magazin nemške zvezne lige 19.00 DSF novinarski center 19.30 InTeam intervju 20.00 DSF novinarski center 20.15 U 18 22.30 DSF novinarski center 22.45 Viererkette strokovni razgovor 23.45 WOW Fan Power 0.45 Lumberjack 1.15 Best Direct reklamna oddaja
+116 : 8.30 Golf 9.30 Konjeništvo 10.30 Motociklizem VN Avstralije Phillip Island 12.00 Motociklizem 13.00 Gorsko kolesarstvo 13.30 Kolesarstvo Svet. prvenstvo San Sebastian Španija prenos 16.30 Tenis ATP turnir Dunaj prenos 21.30 Nogomet 23.00 Judo SP 0.00 Jadranje Magazin 0.30 Kolesarstvo Svet. prvenstvo San Sebastian Španija 1.30 Konec
+118 : Športna zveza največ denarja namenja squashu plavanju atletiki jadranju veslanju tenisu in golfu
+119 : To je lahko kak mestni trg zgodovinsko prizorišče stadion igrišče za golf grad vinograd livada pravzaprav kateri koli prostor kamor imata dostop žerjav in tovornjak s prikolico za prevoz opreme
+120 : Voznik osebnega avta volkswagen golf ki je ravno takrat pravilno pripeljal nasproti se je zato moral umikati desno in je zapeljal s ceste
+121 : Bled 10. septembra Od četrtka do nedelje je na igrišču za golf na Bledu potekalo letošnje Ballantine's mednarodno amatersko prvenstvo Slovenije
+122 : Skupni cilj je torej razvoj množičnosti golfa v Sloveniji in rast kakovosti predvsem z vzgojo najmlajših igralk in igralcev golfa
+123 : kopitar Prejšnji teden so Kralji priredili dobrodelni golf turnir na katerem so zbrali sto tisoč dolarjev ki so jih spet namenili posebnemu programu otroške bolnišnice LA Kings BloodMobile
+124 : Pedološke značilnosti tal so za ureditev igrišča za golf ugodne
+126 : 8.30 Konjeništvo 9.30 Golf Senior PGA Tour 10.30 Eurosportov dirkaški vikend 11.00 Športni avtomobilizem AutoMagazin 11.30 Golf 2001 Challenge Tour 12.00 Svet jadranja 12.30 Odbojka na mivki Svetovna turneja Mallorca Španija 13.30 Tenis WTA turnir Moskva Rusija prenos 15.00 Tenis WTA turnir Moskva Rusija 16.00 Ekstremni športi 18.00 Nogomet Kvalifikacije za SP 2002 18.30 Snooker Regal Masters 2001 20.30 Boks 22.30 Rally Svetovno prvenstvo FIA Sanremo Italija 23.00 Novice 23.15 Rokoborba Svetovno prvenstvo New York ZDA 0.15 Skoki v vodo 0.45 Rally Svetovno prvenstvo FIA Sanremo Italija 1.15 Novice
+128 : 8.00 Dominion reklamna oddaja 8.30 Paulaner Superfan nogometni kviz 9.15 Športni idoli 10.15 Oldtimer magazin 11.15 Gillette World Sport Special 11.45 Nogomet danes 12.15 NBA od znotraj 13.15 Paulaner Superfan nogometni kviz 14.00 Motorvision 15.00 Gillette World Sport Special 15.30 Biljard SP v Viersenu 16.30 Ofenzivno in napadalno 17.30 Nogomet danes 18.00 Paulaner Superfan nogometni kviz 18.45 Rokomet 1. nemška zvezna liga 20.30 Golf European Tour Magazin 21.00 Športni utrinki 21.15 Športni idoli 22.15 Športna poročila 22.30 Nogomet danes 23.00 NBA od znotraj 0.00 Normal oddaja za invalidne osebe 0.30 Golf European Tour Magazin 1.00 Best Direct reklamna oddaja 1.30 Oldtimer klasični avtomobili 2.30 Šport moči
+129 : Svojo kolegico je posvaril da bo ženski golf izpostavila posmehu ko se bo postavila po robu najboljšim moškim igralcem
+131 : 8.00 Dežniki 8.15 Zares divja zabava 8.40 Posel 9.05 Modri Peter 9.25 Grange Hill 10.00 Dr. Who 10.25 Modni izziv 10.50 Pripravljeni pozor kuhajte 11.20 Vreme 11.25 Eastenders 12.45 Modni izziv 13.15 Pripravljeni pozor kuhajte 13.45 Kilroy 14.30 Divje življenje 15.00 Ljubezen boli 15.50 Vreme 16.00 Pes Monty 16.05 Vse se vrne 16.30 Podzemni škrat 16.55 Grange Hill 17.30 Golf z Billom Oddiem 18.00 Top of the Pops 18.30 Dr. Who 19.00 Očetova vojska 19.30 So vam že postregli
+132 : Woods je palico za golf vihtel že s petimi leti
+133 : GOLF 1. Pontos Sašo Novakovič 2. Nika Jure Jerkovič 3. Blanka II Jurij Kolbe
+138 : Gordon MacKenzie Johnston je poleg tega da opravlja dela in naloge britanskega veleposlanika v Sloveniji in da je strasten igralec golfa znan še po nečem je odličen poznavalec slovenskega vina
+139 : 19.00 Miš maš otroška oddaja ponovitev 20.00 Glasbeni labirint ponovitev 21.00 Evropski turnirji v golfu 21.30 Avtomoto športni program ponovitev 22.00 Sq Jam glasbena oddaja ponovitev 23.00 Oglejte si z nami
+140 : Domov se je pripeljal z jeepom bil je na golfu jutri se bo odpeljal za nekaj dni na morje kjer ima hišo in jadrnico
+141 : Bled Družbi Golf in kamp Bled in Grand hotel Toplice ki se v procesu združevanja pod okriljem dejavnosti turizem v Poslovni skupini Sava združujeta v enovito družbo Grand hotel Toplice Bled sta uspešno opravili certifikacijsko presojo sistema vodenja kakovosti
+142 : 8.30 Nogomet Evrogoli 10.00 Prosto plezanje Svetovni pokal Millau Francija 10.30 Triatlon Itu Svetovni pokal Toronto Kanada 11.00 Motociklizem 12.30 Gorsko kolesarstvo EP Vars Francija 13.00 Jadranje 13.30 Golf 14.30 Konjeništvo 15.30 Tenis WTA turnir Montreal Kanada 18.00 Cart Svetovna serija Mid Ohio ZDA 19.00 Tenis WTA turnir Montreal Kanada 22.30 Nogomet Prijateljska tekma 0.00 Ekstremni športi 1.30 Konec
+143 : Turnir je bil organiziran na pobudo dr. Ernesta Petriča veleposlanika RS na Dunaju glavna organizatorja pa sta bila Golf in kamp Bled ter Klub diplomatov in poslovnežev z Dunaja
+144 : 8.00 Transazija 9.00 Floyd v Ozu 9.30 Okus po Italiji 10.00 Po vseh golf igriščih sveta 10.30 Okus po Franciji 11.00 Na vrhu sveta 12.00 Afriški šampanjski vlaki 13.00 Capriceina potovanja 13.30 Veliki pobeg 14.00 Pot se nadaljuje 14.30 Dubai 15.00 Mississippi reka pesmi 16.00 Transazija 17.00 Turist 17.30 Čez ekvator obe Ameriki 18.00 Sprehod po Zemlji 18.30 Avventura Potovanja po italijanski kuhinji 19.00 Pot se nadaljuje 19.30 Dubai 20.00 Največja potovanja na svetu 21.00 Floyd v Ozu 21.30 Debeluh iz Kenta 22.00 Najdlje a najlepše 23.00 Svoboden v divji Afriki 23.30 Na obzorju 0.00 Dominikin planet 1.00 Oceanija 1.30 Veliki pobeg
+146 : Predsednik prvega celjskega golf kluba je Borut Sedovnik
+148 : PTUJ Neznanec je v ponedeljek zvečer na parkirišču Centra rabljenih vozil Dominko vlomil v osebni avtomobil VW golf IV 1,9 TDI
+149 : 9.00 Izven kontrole 9.30 Ameriški gladiatorji 11.15 Stoke 11.45 Normal oddaja za invalidne osebe 12.15 Nogomet 2. nemška zvezna liga 13.00 World Soccer 13.30 Šport moči 14.30 Motobike 15.30 MotorVision 16.30 Warm Up 18.00 Namizni tenis 1. nemška zvezna liga 19.00 Golf US Masters 20.00 Gillette World Sport Special 20.30 Biljard 21.30 Knockout magazin 22.15 Wrestling SPW 0.00 Redki športi 0.30 Redki športi 1.00 Best Direct
+153 : S lovenski premier je preprič an da ljudje pri nas na golf še vedno gledajo kot na elitni šport a se to mnenje počasi spreminja k čemur pripomore tudi gradnja novih igrišč
+154 : Zaenkrat je golf v Sloveniji premalo množičen da bi lahko resno računali na generacije tekmovalcev ki bi lahko prodrle v evropski ali svetovni vrh
+155 : 19.00 Miš maš otroška oddaja ponovitev 20.00 Ex Tempore Avsenik ponovitev 21.30 Evropski turnirji v golfu 22.00 Sq jam glasbena oddaja ponovitev 23.00 Oglejte si z nami
+156 : SE VAM ZDI DA JE GOLF LAHKO DOBER POSEL
+157 : Vsi skupaj se moramo potruditi da prepričamo večino da je golf tudi v Sloveniji čeprav tekmovalno mlad povsem običajen šport dostopen veliki večini
+158 : Skušal sem igrati golf vendar sem ostal le pri začetnem tečaju
+161 : Bled Na blejskem igrišču za mali golf je bilo že 3
+163 : Če bi bil novi golf 5 bi bil še enkrat več vreden
+164 : Golf je tako silovito trčil v desno bočno stran vectre da jo je obrnilo v nasprotno smer in je nato z desno stranjo treščila v drog javne razsvetljave
+165 : Pri Golfu z najosnovnejšim motorjem če izvzamemo motor s posrednim vbrizgom so solidne
+166 : 8.30 Šport moči 9.30 MotorVision 10.30 Viererkette 11.30 Reklamna oddaja 12.00 PK TV 12.30 Reklamna oddaja 13.00 Xapatan 13.30 Takeshi's Castle 14.15 Pago Pago 15.00 Jet Sprints 15.30 Pace Championship 16.00 Xapatan 16.30 Takeshi's Castle 17.00 Golf US Masters 18.00 DSF novinarski center 18.30 Inteam 19.00 DSF novinarski center 19.30 DSF intervju 20.00 DSF novinarski center 20.15 UEFA Champions League Magazin 21.15 DSF novinarski center 21.30 Nogomet 22.15 DSF novinarski center 22.30 Knockout Fightnight 23.30 Wrestling SPW Thunder 0.30 Šport moči 1.30 Reklamna oddaja
+167 : Iz študije o upravičenosti izgradnje igrišča za golf v Sečovljah ki jo je naročila Občina Piran sofinanciral pa jo je tudi koprski Istrabenz izhaja da je ob primerjavi donosnosti golfa in kmetijstva pridelave projekt golf primernejši
+168 : V četrtkovem in petkovem programu je poleg četrtkovega gostovanja na odprtju letnega vrta puba Beli konj tudi petkovo druženje in nočni golf turnir na igrišču Zlati grič
+169 : Tekmovali so v kegljanju balinanju odbojki namiznem tenisu mini golfu in še v čem
+170 : Takrat se je nasproti z golfom pripeljal 41 letni V. Z. iz Gorice pri Šmartnem
+171 : 18.15 Football Salsa Latin Road To The World Cup 18.45 Gillette World Sport Special 19.15 Golf evropska turneja 20.15 Motorvision avtomagazin 21.15 Formula 1 trening za kvalifikacije 22.15 Knockout Fightnight 0.30 DSF reportaža 2.15 Monster Trucks 3.30 Speed Zone
+172 : 8.15 K Tel reklamna oddaja 8.45 Nogomet 2. nemška zvezna liga 10.15 Nogomet 2. nemška zvezna liga 11.45 Reklamna oddaja 12.00 Lumberjack 12.30 NHL Powerweek 13.00 Center Court ATP 15.00 Redki športi 15.15 Takeshi's Castle 16.00 Stoke Loop Szene Magazin 16.30 Formula 1 prosti trening 18.00 DSF novinarski center 18.30 InTeam magazin nemške zvezne lige 19.00 DSF novinarski center 19.30 InTeam magazin nemške zvezne lige 20.00 DSF novinarski center 20.15 Formula 1 prosti trening 21.45 Damon Hill's Wild & Whacky Races 22.15 DSF novinarski center 22.30 Touchdown Holsten Football Magazin 23.00 Golf evropska turneja 0.00 Wrestling SPW Thunder 1.00 Lumberjack 1.30 Best Direct reklamna oddaja 2.00 Wrestling SPW Thunder
+173 : 20.00 Tedenski signali informativna oddaja 20.30 Potovanja Turčija dokumentarna oddaja 21.30 Evropski turnirji v golfu 22.00 Avtomoto športni program 22.30 Oglejte si z nami
+174 : 8.15 Dominion 8.45 Oldtimer magazin 9.45 Formula 3 10.45 STW prvenstvo 11.45 Reklamna oddaja 12.00 Šport moči 13.00 Ameriški gladiatorji 14.00 Monster Trucks 15.00 NHL Stanley Cup 15.30 Redki športi 16.00 Ameriški gladiatorji 17.00 Touchdown 18.00 DSF Novinarski center 18.30 Reportaža 19.00 DSF Novinarski center 19.30 Reportaža 20.00 DSF Novinarski center 20.15 Wimbledon 22.15 DSF Novinarski center 22.30 LaOla 23.00 Nogomet 0.50 Golf US Open 1.50 Best Direct
+175 : Kmalu je ugotovil da je igranje golfa neverjetno dolgočasno zato si je zadal nov izziv kardio
+177 : Golf zveza Slovenije GZS je bila ustanovljena leta 1982 in bo letos organizirala okrog 60 turnirjev
+178 : Golfa so policisti kasneje našli v Lukovici in ugotovili da je bila njegova ključavnica enako poškodovana kot pri mercedesu
+179 : Kranj S parkirišča na Begunjski v Kranju je v noči na 28. april izginil osebni avto VW golf III kovinske temno sive barve letnik 1993 z registrsko oznako KR 28 65A vreden okrog 600.000 tolarjev
+180 : Pri uvozu vozišča iz smeri Brda je voznik golfa na prehitevalnem pasu dohitel voznika škode felicie
+181 : Takrat se je za njim pripeljal golf in trčil vanj
+182 : Za njim pa je pripeljal še voznik neznanega avtomobila ki je trčil še v golfa
+183 : 8.00 Potovanja z evropskimi železnicami 9.00 Cestno križišče 9.30 Okus po Italiji 10.00 Potovanje igralca golfa 10.30 Okus po Franciji 11.00 O zgodbah in potovanjih 12.00 Mississippi reka pesmi 13.00 Turist 13.30 Stopinje na planetu Zemlja 14.00 Okus po Italiji 14.30 Po vseh golf igriščih sveta 15.00 Na kosilu z Brianom Turnerjem 15.30 Plemenska potovanja 16.00 Potovanja z evropskimi železnicami 17.00 Največja potovanja na svetu 18.00 Zdravnikove stopinje 18.30 Čez črto 19.00 Vidiki življenja 19.30 Divja Irska 20.00 Chocove skrivnosti 21.00 Transazija 22.00 Potovanja s švicarsko železnico 23.00 Zgodbe z leteče preproge 23.30 Cestno križišče 0.00 Skrivnosti Indije 0.30 Potovanje 1.00 Connoisseurjeva zbirka
+184 : Odkar je Sava d. d. Kranj vstopila oziroma postala solastnica in večinska lastnica podjetja Golf in kamp d. d. ter Grand Hotela Toplice d. d. Bled se je zanju začelo novo obdobje
+186 : Govorice da so igrišča za golf ekološko sporna ter da se pri gnojenju trave in škropljenju plevela uporabi več nevarnih snovi kakor pri intenzivnem poljedelstvu pa odločno zanikam
+187 : Bo pa Golf v začetku na razpolago v štirih motornih različicah bencinski sta 1,4 in 1,6 FSI turbodizelski 1,9 TDI in 2,0 TDI 16V
+188 : V tamkajšnjem dvorcu sicer domuje klub Royal and Ancient Golf Club of St. Andrews R & A ki je krovna organizacija za golf zunaj ZDA in Mehike toda nima prav nobenih posebnih ugodnosti glede uporabe igrišč
+190 : Z osebnim avtom VW golf se je v soboto okoli 8.20 peljal po Derčevi ulici v Ljubljani 19 letni Ljubljančan A. L. V blagem desnem nepreglednem ovinku je prehitel več vozil nato pa trčil v varovalno ograjo ob pločniku
+192 : Iz družbe sta se umaknila NFD Holding ter Golf in kamp Bled iz skupine Sava
+194 : Jezna je tudi zato ker je igralec golfa Tiger Woods ki je v istem času posnel reklamni spot za Buick plačal le 50.000 dolarjev kazni pop zvezde Britney Spears in N'Sync pa za reklamo McDonaldsa sploh niso bile kaznovane
+195 : O večnih pomislekih povezanih z urejanjem prostora je znova poudaril da golf igrišča ne povečujejo in da niti kvadratnega metra od 250 hektarov urejenih pašnikov ne bodo namenili za turistične objekte
+198 : 18.00 Golf vrhunci tretjega dne turnirja v Münchnu
+199 : Tiger Woods je ustvaril občutek da je golf lahka igra toda nekateri mladi igralci so zdaj frustrirani ker sami ne znajo igrati z lahkoto
+200 : Prihodnji teden bo s turnirjema na Bledu vrhunec letošnje sezone golfa v Sloveniji
+201 : Dodatne prostore za poslovni turizem imajo še v hotelu Zdravilišče v klubu Termopolis in v hotelu Golf grad Mokrice
+202 : MOKRICE V galeriji Meke v Golf hotelu grad Mokrice so v četrtek 20. maja zvečer odprli vsakoletno pregledno razstavo del likovnikov Posavja
+204 : No zaenkrat ostanimo pri novorojenem golfu ki smo ga lahko na kratko tudi zapeljali
+205 : 15.00 Mobi TV 15.30 Iz domače skrinje ponovitev 17.00 Golf evropski turnirji ponovitev 17.30 Juke Box kontaktna oddaja 19.00 Motor Show Report pregled motorističnih športov 19.30 Ključ ponovitev 20.00 Politična konferenca kotaktna oddaja 21.00 Reporter X 21.30 Iz domače skrinje kontaktna oddaja 23.00 Juke Box ponovitev 00.30 Mobi TV 01.00 TV prodaja
+206 : 8.30 Golf US PGA Tour 9.30 Nogomet Evropsko prvenstvo do 21 let Švica 10.30 Avtomoto šport series 11.00 Tenis Odprto prvenstvo Francije Pariz 16.30 Kolesarstvo Giro d'Italia 17.30 Tenis Odprto prvenstvo Francije Pariz 21.00 Tenis Odprto prvenstvo Francije Pariz 22.00 Nogomet V akciji 22.30 Nogomet Moštva za SP 23.00 Novice 23.15 Nogomet Gillette Dream Team 0.15 Nogomet Moštva za SP 0.45 Gorsko kolesarstvo 1.15 Novice
+207 : 8.30 Come On Baby 9.30 The Worldgame 10.30 Motorvision avtomagazin 12.00 Nevzdržno 12.30 Reklamna oddaja 13.00 Sports Bakka 14.00 Come On Baby 15.00 Atp Masters Series povzetek 16.00 DSF reportaža 16.30 Formula 1 prosti trening 18.00 DSF novinarski center 18.20 Dvoboj kviz 19.00 Gillette World Cup 2002 19.30 Nemška zvezna liga 20.00 Formula 1 prosti trening 21.30 Nogomet 2. nemška zvezna liga 22.30 Viererkette 23.30 Uefa Champions League Magazin 0.30 Golf evropska turneja 2.15 Monster Trucks
+208 : Voznik tega močan velik obritoglavec s sončnimi očali je stopil ven prav tako je stopil ven tudi voznik golfa
+211 : 8.30 Golf US PGA Tour 9.30 Športni avtomobilizem Automagazin 10.00 Kolesarstvo Tour de France 11.00 Plavanje Svetovno prvenstvo Fukuoka Japonska 12.30 Atletika Iaaf Grand Prix I Miting Stockholm Švedska 14.00 Jadranje 14.30 Gorsko kolesarstvo UCI Svetovni pokal Grouse mountain Kanada 15.00 Konjeništvo 16.00 Atletika Iaaf Grand Prix I Miting Stockholm Švedska 17.30 Odbojka na mivki Svetovna turneja Lignano Sabbiadoro Italija 18.00 Plavanje Svetovno prvenstvo Fukuoka Japonska 19.00 Ekstremni športi Samo za mlade 19.30 Kolesarstvo Tour de France 20.00 Boks 22.00 Kolesarstvo Tour de France 23.00 Novice 23.15 Rally FIA Svetovno prvenstvo Safari rally Kenija 23.45 Plavanje Svetovno prvenstvo Fukuoka Japonska 0.45 Rally FIA Svetovno prvenstvo Safari rally Kenija 1.15 Novice
+212 : Mogoče si že kdaj kosil travo na igriščih za golf toda stavila bi da vse do danes golfa še nikoli nisi igral
+213 : Poleg ugodnih cen nastanitev v Sava hotelih Bled hoteli Golf Park Savica Jadran in Trst paket vključuje tudi neomejeno uporabo termalnega bazena v Živi whirpoola in savn za goste hotela Park konec tedna nočno kopanje v bazenih wellnesa Živa v hotelu Savica animacijski program za otroke ter bonus kartico za lepši poletni oddih
+214 : Neznani voznik rdečega golfa je namreč na cesti ki pelje iz Hajdine proti Ptujski Gori trčil v zadnji del kolesa z motorjem ki ga je vozil 16 letni M. B. iz Majšperka
+215 : V rojstnem Grosuplju je ustanovil golf klub ima tudi že precej članov skoraj vsi imajo tudi že palice in žogice le igrišča za golf še nima
+216 : Playboy sinonim za erotični tisk v katerem pa lahko najdete tudi veliko drugega zanimivega branja je dober razlog da se povabljena druščina poda na igrišče za golf to pot na Bledu
+217 : De 16.30 Reportaža 17.00 Nevzdržno 17.30 Nogomet 2. nemška zvezna liga 19.00 Golf Ryder Cup 20.15 DTM športni utrinki 21.15 Overtime 21.45 Nemška zvezna liga Ii 22.45 LaOla mednarodni nogomet 23.30 Beachsoccer 0.30 Dirke formule 1 1.30 Reklamna oddaja 2.30 Sexy Sport Clips 3.00 Reklamna oddaja 3.30 Sexy Sport Clips
+218 : 8.30 Kolesarstvo Po Španiji 9.30 Triatlon 10.30 Deseteroboj 11.30 Avtomoto šport Magazin 13.00 Formula 1 Grand Prix Magazin 13.30 Motociklizem Grand Prix Magazin 14.00 Eurofun 14.30 Gorsko kolesarstvo 15.00 Kolesarstvo Po Španiji 15.30 Kolesarstvo Po Španiji prenos 17.00 Golf PGA turnir 19.00 Boks 20.00 Pikado 21.00 Dirke tovornjakov 22.00 Boks 23.00 Formula 1 Grand Prix Magazin 23.30 Motociklizem Grand Prix Magazin 0.00 Jadranje Magazin 0.30 Kolesarstvo Po Španiji 1.30 Konec
+220 : Povabljeni poslovni partnerji so se zbrali pri golf igrišču Zlati grič
+221 : No za tehnika je Altea tako ali tako Golf sicer pa hvala bogu da je Golf Golf in da je lahko Altea takšna eden najbolj svežih avtomobilov v tem razredu zato zelo privlačen in zlasti v primerjavi s hišnimi tekmeci in precej ugoden nakup
+222 : Tedaj ji je nasproti z golfom pripeljal 22 letni J. G. iz Malije
+224 : Tekmovali bodo v atletiki košarki nogometu golfu tenisu namiznem tenisu plavanju balinanju lokostrelstvu odbojki in ciklokrosu
+225 : Voznik golfa je takoj začel vpiti na enega od 20 letnikov tako da je prišel iz svojega avtomobila
+226 : V blejskih hotelih Golf Park Jelovica Kompas Krim in Astoria v gostišču Okarina in galeriji Vila Nana so na ogled stalne razstave
+227 : Vozil je neregistriran golf za povrh pa je pihnil 1,17 promila
+229 : 8.00 Ne pozabite potnega lista 9.00 Potovanja z evropsko železnico 10.00 Avstralska panorama 10.30 Stopinje na planetu Zemlja 11.00 Neodvisni popotniški vodič 12.00 Sončni udar 12.30 Kalejdoskopska obala 13.00 Po največjih golf igriščih sveta 13.30 Floyd v Afriki 14.00 Potovalni hrošč 14.30 Turist 15.00 Nick Sanders Na robu puščave 15.30 Go 2 16.00 Ne pozabite potnega lista 17.00 Na obzorju 17.30 Sončni udar 18.00 Stopinje na planetu Zemlja 18.30 Tradicionalne poti z Burtom Wolfom 19.00 Turist 19.30 Avstralska panorama 20.00 24 ur v življenju mesta 21.00 Pot gre naprej 21.30 Pobesneli biki 22.00 Ne pozabite potnega lista 23.00 Glynn Christian okuša Tajsko 23.30 Entrada 0.00 Cestno križišče
+230 : Ljubljana S parkirnega prostora ob Celovški cesti je v četrtek popoldne neznanec odpeljal golfa temno sive barve z registrsko številko LJ P3 38P vrednega približno 350 tisoč tolarjev
+231 : 8.00 Iz domače skrinje ponovitev 10.00 Evropski golf turnirji ponovitev 10.30 TV prodaja 11.30 Video strani 13.30 TV prodaja 14.30 Mobi TV 15.00 Iz domače skrinje ponovitev 16.30 Motor Show Report 17.00 Juke Box kontaktna oddaja 18.30 Avto šou 19.00 Razvoj avtomobilizma 19.30 Mobi TV 20.00 Sijaj kontaktna oddaja 21.00 Reporter X 21.30 Iz domače skrinje kontaktna oddaja 23.00 Mobi TV 23.30 Juke Box ponovitev
+232 : Že pred zamenjavo hrošča z golfom je bilo očitno da ima pri konstruiranju osebnih avtomobilov prihodnost samonosna karoserija ki ima ob ustrezni zasnovi med trkom sposobnost absorbiranja velike količine energije
+233 : Tudi na trgu z rabljenimi avtomobili je tako še posebej če je to Golf z dizelskim motorjem
+234 : Čeprav v igri golfa ni zmagal je bil slavni igralec tri dni nasmejan in dobro razpoložen
+235 : 8.00 Transazija 9.00 Nad oblaki 9.30 Okus po Italiji 10.00 Po vseh golf igriščih sveta 10.30 Okus po Franciji 11.00 Na vrhu sveta 12.00 Tropska potovanja 13.00 Capriceina potovanja 13.30 Veliki pobeg 14.00 Okus po Italiji 14.30 Floyd v Španiji 15.00 Mississippi reka pesmi 16.00 Transazija 17.00 Turist 17.30 Čez ekvator obe Ameriki 18.00 Sprehod po planetu Zemlja 18.30 Avventura Potovanje po italijanski kuhinji 19.00 Od Pekinga do Pariza 19.30 Stopinje na planetu Zemlja 20.00 Največja potovanja na svetu 21.00 Nad oblaki 21.30 Debeluh iz Kenta 22.00 Najdlje a najlepše 23.00 Zdravnikove stopinje 23.30 Na obzorju 0.00 Dominikin planet 1.00 Oceanija 1.30 Veliki pobeg
+237 : Najprej je bil Golf sledil mu je Passat in zdaj je tu še Eos povsem samosvoj model kar je Volkswagen dodatno poudaril s samosvojim imenom
+238 : Pri Golfih z dizelskim motorjem bodite še posebej pazljivi saj so prevoženi kilometri velikokrat neresnični
+239 : V zadnjem času tradicionalno oblikovanemu Golfu ne gre več tako dobro kot pred leti ko je prevladoval nad konkurenco
+242 : Za njo je z golfom pripeljal 39 letni A. H. iz okolice Vrhnike
+243 : 11.30 GOLF DA TE KAP I amer. film
+244 : V segmentu C z majhno rastjo so kompaktni avti z oplom astro in volkswagnom golfom na čelu
+247 : 8.30 Atletika Svetovno mladinsko prvenstvo Santiago Čile 10.30 Motociklizem Pregled sezone 12.30 Golf 13.30 Jadranje 14.00 Tenis ATP turnir Lyon Francija 18.00 Rally Finska 19.00 Avtomoto šport 20.00 Rally Ciper 21.00 Tenis ATP turnir Lyon Francija 23.00 Boks 0.00 Ekstremni športi 1.00 Dirke tovornjakov
+248 : Žal imam za igranje golfa premalo časa predvsem ga igram na turnirjih ko se lahko tudi sproščeno srečam in pogovorim z mnogo ljudmi predvsem pa sem med prijatelji
+249 : Neznani voznik je z rdečim golfom pripeljal po Podmilščakovi ulici in v križišču zavijal levo na Vodovodno cesto v smeri Verovškove ulice
+251 : 8.30 Kolesarstvo Fleche Wallonne Belgija 9.30 Golf 10.30 Maraton Boston 12.00 Športni avtomobilizem Auto Mag 12.30 Rally 13.30 Olimpijski magazin 14.00 Golf 15.00 Boks 17.00 Dirkaški vikend 17.30 Ekstremni športi 19.00 Nogomet En svet en pokal 20.00 Tenis WTA turnir Charleston ZDA 21.30 Boks 23.00 Novice 23.15 Nogomet Pokal UEFA 0.15 Tenis WTA turnir Charleston ZDA 1.15 Novice
+253 : 9.00 Ko je Amerika prišla na olimpijado 11.00 Nemška zvezna liga Classics 13.00 Nevzdržno 13.15 The Worldgame 14.15 Reportaža 14.45 Motorvision 15.45 Izdelovalci avtomobilov 16.15 Motobike Polo magazin 17.15 World Soccer 17.30 Nevzdržno 18.00 Pustolovščine in potovanja 18.45 Formula 3 20.15 DTM športni utrinki 21.15 Beachsoccer 22.15 Knockout Fightnight 0.15 Golf evropska turneja 2.15 Monster Trucks
+254 : 8.30 Šport moči 9.30 Monster Trucks 10.00 MotorVision 11.00 Golf Evropska turneja magazin 11.30 Reklamna oddaja 12.00 Gillette World Sport Special 12.30 Reklamna oddaja 13.00 Xapatan 13.30 Takeshi's Castle 14.15 Pago Pago 15.00 Jet Sprints 15.30 Thundercats 16.00 Xapatan 16.30 Takeshi's Castle 17.15 Pago Pago 18.00 DSF novinarski center 18.30 InTeam magazin nemške zvezne lige 19.00 DSF novinarski center 19.30 PK TV 20.00 DSF novinarski center 20.15 MotorVision 21.15 MotorVision 22.15 DSF novinarski center 22.30 Viererkette 23.30 NBA od znotraj 0.30 Wow Fan Power 1.30 Reklamna oddaja 2.00 Nočni show 2.30 Lumberjack
+257 : Razred golf 1. Muca Sašo Novakovič 2. Urška Luka Jovanovič 2. Nika Emil Jerkovič
+258 : Kranj Na Vrečkovi ulici v Kranju je v noči na torek neznanec vlomil v golfa in ukradel avtoradio zadnjo polico z zvočniki in kovček z orodjem
+260 : To nenazadnje dokazuje tudi novi Golf ki je šele zapeljal na ceste pa bi ga že lahko opisali z besedami kot so vsakdanje preprost ali pa modno nezanimiv
+261 : 8.30 Tenis WTA turnir Rim Italija 9.30 Športni avtomobilizem 10.00 Eurosportov dirkaški vikend Silverstone Velika Britanija 10.30 Dirke tovornjakov 11.00 Moderni peteroboj 11.30 Golf US PGA Tour 12.30 Motociklizem VN Francije Le Mans 13.00 Motociklizem VN Francije Le Mans 14.00 Tenis WTA turnir Rim Italija 17.00 Boks 18.00 Motociklizem VN Francije Le Mans 19.00 Tenis WTA turnir Rim Italija 20.00 Tenis WTA turnir Rim Italija prenos 21.30 Boks 23.00 Novice 23.15 Pustolovščina AdNatura 0.15 Tenis WTA turnir Rim Italija 1.15 Novice
+262 : V hišo je vstopil skozi odprto okno se malce razgledal po prostorih in našel kontaktne ključe osebnega avtomobila znamke VW golf 1.9 rdeče barve z registrsko številko LJ F9 33V in se z njim odpeljal v neznano
+264 : Golfa verjetno ne bom igrala saj je zelo drag šport me pa mika da ga kdaj bi
+265 : Golfa ne bom igrala ker se mi ne zdi zanimiv poleg tega je zelo prestižen šport
+266 : Tudi golfa ne igram ker me ni pritegnil čeprav ima svoj čar
+267 : To tedaj ni bila demagogija a kaj naj potem rečemo o Milanu Kučanu ki se vozi naokoli v golfu
+268 : TRAVA GOLF IN HIT Igrišče za golf in arboretum gresta zelo lepo skupaj
+269 : Na igrišču za golf grada Mokrice bodo odprli letošnjo sezono v začetku aprila
+270 : Ko je bil vzporedno z jetto je slednji začel prehitevati golfa ne da bi se prepričal če to lahko varno stori
+271 : Ameriški igralec golfa Tiger Woods bi lahko udaril žogico preko 300 metrov daleč a je noče
+275 : PIRAN Piranski občinski svetniki so včeraj v drugem branju sprejeli lokacijski načrt za igrišče za golf v Sečovljah ki obsega približno 66 hektarov pretežno kmetijskih površin
+276 : Osnovna motorika z žogo košarka nogomet golf bejzbol odbojka rokomet vaterpolo
+277 : Nekaj podobnega velja tudi za igrišča za golf
+278 : 8.00 Dežniki 8.15 Zares divja zabava 8.40 Posel 9.05 Modri Peter 9.25 Grange Hill 10.00 Dr. Who 10.25 Modni izziv 10.50 Pripravljeni pozor kuhajte 11.20 Vreme 11.25 Eastenders 12.45 Modni izziv 13.15 Pripravljeni pozor kuhajte 13.45 Kilroy 14.30 Najavljeno 15.00 Ljubezen boli 15.50 Vreme 15.55 Mop in Smiff 16.10 Vse se vrne 16.35 Modri Peter 16.55 Grange Hill 17.30 Golf z Billom Oddiem 18.00 Top of the Pops 18.30 Dr. Who 19.00 Očetova vojska 19.30 So vam že postregli
+279 : 8.30 Come On Baby 9.30 The Worldgame 10.30 Motošport 12.00 Nevzdržno 13.00 Sports Bakka 14.00 Come On Baby 15.00 Športni avtomobili 15.30 Ustvarjalci avtomobilov 16.00 Golf evropska turneja 17.00 NBA od znotraj 18.00 DSF novinarski center 18.20 Dvoboj kviz 19.00 Gillette World Cup 2002 19.30 Nemška zvezna liga 20.00 DSF novinarski center 20.15 Uefa Champions League Magazin 21.15 DSF novinarski center 21.30 Nogomet 2. nemška zvezna liga 22.30 Viererkette 23.30 Knockout Axel Schulz 0.30 Monster Trucks 1.00 Speed Zone
+280 : Bled Na starem blejskem igrišču z 18 luknjami je Golfarsko seniorsko društvo Slovenije prvič priredilo mednarodni teden golfa ki se je začel s tradicionalnim srečanjem med Slovenijo in Avstrijo
+281 : Podobno je s primerom kmetijcev ki nasprotujejo gradnji igrišča za golf v Sečovljah
+282 : Veliko možnosti za različne športe npr. potapljanje jadranje na deski golf kolesarjenje pohodništvo
+283 : V noči na minuli ponedeljek je bil s parkirišča v Ul. V. prekomorske brigade v Celju ukraden osebni avtomobil znamke VW Golf serije III kovinsko sive barve reg. Št. CE V0 800
+284 : Royal and Ancient Golf Club of St. Andrews seveda še vedno ostaja klub odprt le moškim kar je v napadu feminizma tudi super
+285 : BLED 10. Na blejskem igrišču za golf se je začelo evropsko prvenstvo za mladince
+286 : Te zadnje pa bo pri igranju golfa v prihodnje očitno vse manj
+287 : Po pravilih najbolj pomembnega škotskega golf kluba The Royal and Ancient Golf Club of St. Andrews tvega da bo izgubil status ljubiteljskega igralca
+290 : Za kongres ki bo 18. in 19. januarja v hotelu Golf na Bledu prijave sprejemajo samo še danes
+291 : Le nekaj noči prej so na Beblerjevem trgu vlomili v starejši golf in se z njim odpeljali
+292 : V SVOJEM SEGMENTU JE BIL GOLF NAJBOLJŠI SAJ JE BIL VSAK SEDMI PRODAN AVTO GOLF ALI GOLF VARIANT 14,60 ODSTOTNEGA DELEŽA V SEGMENTU
+293 : S. iz Ljubljane z neregistriranim osebnim avtom VW golf vozil od Kranja proti Škofji Loki
+296 : Z dobrimi 43 odstotki ali 6633 avtomobili je naš najmočnejši avtomobilski razred spodnji srednji z meganom felicio accentom golfom in astro na čelu
+297 : Nasploh je golf v Sloveniji še v povojih
+298 : Tudi šampion v golfu Tiger Woods teniški profesionalec John MacEnroe in igralka Sigourney Weaver so se valili v zgradbah s križnimi hodniki v španskem stilu in buljili v svoje učbenike
+299 : Popoldne je na Mestnem trgu v Slovenskih Konjicah falot vlomil v golfa ter ukradel avtoradio jakno z nekaj denarja in dokumenti ter lastnika oškodoval za 200 evrov
+300 : Ugotovili so tudi da so mladoletniki v noči na 17. februar na Beblerjevem trgu vlomili v starejšega golfa ga spravili v pogon in ga ukradli
+301 : Pred približno dvema mesecema so navedeni mladoletniki na Litostrojski vlomili v golfa in ga poskušali ukrasti kar pa jim ni uspelo
+302 : Naprodaj bo jeseni najprej v Golfu potem pa tudi v ostalih modelih vse do Passata
+303 : 8.30 Warm Up 10.00 MotorVision 11.00 Nogomet 13.00 Formula 3 14.00 STW prvenstvo 16.30 DKM 17.30 Speedway 18.00 Center Court 19.00 MotorVision 20.00 Oldtimer magazin 21.00 STW prvenstvo 22.00 Motobike 23.00 Golf US Open 0.00 Gillette World Sport Special 0.30 Redki športi 1.00 Inside WNBA Magazin 1.30 Best Direct 2.00 NHL Powerweek
+304 : Na Mariborski cesti v Celju je bilo v noči na ponedeljek vlomljeno v osebni avto VW golf
+305 : Priznam da igram golf kadar se le da
+306 : BLED 25. Na blejskem igrišču za golf se je začelo BTC Odprto prvenstvo Slovenije v golfu ki spada v verigo challenge tekmovanj evropske zveze
+308 : 12.00 Po največjih golf igriščih sveta 12.30 Na kosilu z Brianom Turnerjem 13.00 Turist 13.30 Floyd potuje 14.00 Potovalni hrošč 14.30 Do Azije in naprej 15.00 Avstralska panorama 15.30 Raziskovanje pod jadri 16.00 Ubežne poti 16.45 Pot gre naprej 17.00 Floyd potuje 17.30 Po največjih golf igriščih sveta 18.00 Planet Počitnice 18.30 Potepanje po Franciji 19.00 Do Azije in naprej 19.30 Avventura potovanje po italijanski kuhinji 20.00 Najboljše ceste 20.30 Coltrane v cadillacu 21.00 Pot gre naprej 21.15 Pot gre naprej 21.30 Razglednice iz raja 22.00 Pilot Turistični vodič 23.00 S tovornjakom po Afriki 23.30 Nick Sanders 0.00 Alternativne poti 0.30 Pot gre naprej 0.45 Pot gre naprej 1.00 Do Azije in naprej 1.30 Avstralska panorama
+309 : Igrišče za golf je še vedo mogoče preorati in ponovno obdelovati
+310 : 8.30 Neubranljivo 8.45 Dorf's Golf Bible 9.30 MotorVision 11.30 Reklamna oddaja 12.00 Neubranljivo 12.30 Reklamna oddaja 13.00 Fujuma
+311 : Nejevoljo do novih sosedov je občutila tudi Evgenija Lazarini ki sicer meni da bi bilo naselje in igrišče za golf za krajane prej pozitivno kot negativno
+313 : Glavna področja namembnosti so oblačila za smučanje deskanje igranje golfa kolesarjenje raznovrstne aktivnosti na planem treniranje ter tudi oblačila za prosti čas
+314 : Hotel Quinta da Marinha Golf Conference Resort je eno največjih turistič nih kompleksov izven Algarveja in obstaja od leta 1984
+315 : Kompleks obsega vas s 70 hišicami igrišče za golf z osemnajstimi luknjami in drivingom šest teniških igrišč klubsko hišo dve restavraciji in bara s terasami ki mejijo na dva plavalna bazena konferenčni prostor za 160 ljudi in prostor za praznovanja s kapaciteto 250 oseb
+316 : Splošno znano ime je ostalo ohranjeno ime komleksa pa se je sprememnilo v Hotel Quintas da Marinha Golf Conference Resort
+317 : Kako odgovarjate vsem tistim ki pravijo da golf ni šport
+318 : Golf mi je postal zelo všeč sploh ko sem videla da lahko v okviru svojih sposobnosti igraš in se družiš
+319 : Ti tale golf pa je to res tako drag kot pravijo
+320 : Igrali so golf kot ga igrajo starejši ljudje
+321 : V Sloveniji pa je lani Sava postala večinski lastnik Astre Gume Grosuplje in CHEMA ter družbe Golf in kamp Bled letos pa je že lastnica Investicijskega podjetja SKB
+322 : Golfiste ki zagotovo težko pričakujejo pričetek nove golfske sezone obveščamo da je Kraljevo igrišče za golf na Bledu odprto za igro
+323 : Igrišče za golf na Bledu nadaljuje z okoljevarstvenimi aktivnostmi v okviru mednarodnega programa za varstvo okolja na golfskih igriščih Committed to Green zavezani okolju
+324 : V podjetju Golf in kamp Bled d. d. čakajo na sprejem prostorsko ureditvenih pogojev s katerimi bodo izpolnjene možnosti za pripravo projektov za izgradnjo apartmajske hiše novega gospodarskega poslopja na igrišču za golf in devetih polj Jezerskega igrišča proti Vrbi
+325 : Opazijo preveč stvari ki jih je treba postoriti in ko enkrat izgubimo koncentracijo izgubimo igro in nihče ne želi igrati golfa slabo
+326 : Spomnimo se stare zgodbe ki pravi če je človek uspešen v poslu zapostavlja svojo igro golfa vendar če je dober igralec golfa potem zapostavlja svoj posel
+327 : Biti predober igralec golfa je lahko škodljivo za njegovo kariero
+328 : Vse do zadnje zelenice je treba igrati vrhunski golf če hočeš da te igrišče nagradi
+329 : Že omenjeni dopoldan pred slovesnostjo je potekalo Žensko pokalno tekmovanje Golf zveze Slovenije kjer je v bruto seštevku zmagala članica Golf kluba Moravske Toplice Vanja Bransberger z 82 točkami
+330 : GOLF IGRIŠČE GRAD MOKRICE SLOVI KOT ENO IZMED NAJTEŽJIH
+331 : Se vam zdi da je golf šport ki zahteva veliko treninga
+335 : Mlađen je prvič držal v rokah palico za golf in na začetku mu ni šlo najbolje kar sem na vsak način želela zabeležiti s kamero
+336 : Tega občutka ljudem ki nikoli niso igrali golfa enostavno ne morem opisati
+337 : 8.30 Golf 9.30 Triatlon 10.00 Tovornjaki 10.30 Nogomet Pokal UEFA 12.30 Avtomoto šport 13.00 Olimpijske igre Sydney 13.30 Olimpijske igre Sydney 14.00 Tenis WTA turnir Linz Avstrija 17.00 Nogomet Pokal UEFA 18.30 Tenis ATP turnir Toulouse Francija 20.30 Pikado 22.00 Boks 22.45 Rally FIA rally za svetovno prvenstvo Sanremo Italija 23.00 Novice 23.15 Sumo 0.15 Motociklizem S ceste 1.15 Novice
+338 : Najprej smo ga uporabljali v Wilsonovih teniških loparjih potem v palicah za golf pozneje pa še v Atomicovih smučarskih čevljih in smučeh
+339 : Pri dveh je že vihtel palico za golf
+340 : 9.00 Svoboden v divji Afriki 9.30 Okus po Italiji 10.00 Po vseh golf igriščih sveta 10.30 Okus po Franciji 11.00 O zgodbah in potovanjih 12.00 Transazija 13.00 Capriceina potovanja 13.30 Veliki pobeg 14.00 Okus po Italiji 14.30 Sanjske destinacije 15.00 Odkrivamo Avstralijo 16.00 Pojdimo v
+342 : Na glavni obravnavi na novomeškem okrožnem sodišču je bilo največ dvomov o tem kdo je kriv za nesrečo ali je v rdečo luč zapeljal voznik golfa ali pa se je morda peška čez cesto odpravila pri rdeči luči na semaforju za pešce
+344 : V prostem času rad smučam in zadnji čas rad igram golf ne veliko kolikor pač imam časa
+345 : Ljubljana Z Ulice Koroškega bataljona v Ljubljani so v noči na sredo ukradli golfa srebrne barve z registrsko številko LJ V9 88A
+346 : 8.30 Golf 9.30 Nogomet Pokal UEFA 12.30 Motociklizem VN Španije Valencia prenos treninga 15.15 Kolesarstvo Po Španiji prenos 17.00 Tenis ATP turnir Mallorca Španija 18.00 Nogomet Pokal UEFA 19.30 Motociklizem VN Španije Valencia 20.00 Dirke tovornjakov 21.30 Motociklizem 22.00 Boks 23.00 Rally Svetovno prvenstvo Kitajska 23.15 Motociklizem VN Španije Valencia 0.15 Kolesarstvo Po Španiji 1.15 Rally Svetovno prvenstvo Kitajska
+349 : Letos bodo zgradili golf igrišče z osemnajstimi luknjami nove apartmaje in naravni park
+350 : Ali kdo drug lokalni športni dogodki mali nogomet tenis golf šah
+351 : Golf je za ljudi ki so predebeli da bi smučali na vodi
+353 : Največ je volkswagnov seveda golfov pa tudi polov in passatov BMW serije 3 Renaultovih cliov twingov in meganov Fiatovih puntov zlasti lani pa je bil zelo pogost peugeot 206
+354 : Na slovesni prireditvi v hotelu Golf na Bledu so najboljši prejeli priznanja in drugo mesto med velikimi smučišči je pripadlo Rogli ter tretje Cerknemu
+355 : 8.45 Izven kontrole 9.15 DSF Novinarski center 9.45 MotorVision 10.45 LaOla 11.15 World Soccer 11.45 Reklamna oddaja 12.00 DSF Novinarski center 12.30 Normal oddaja za invalidne osebe 13.00 Ameriški gladiatorji 14.00 Monster Trucks 15.00 NHL Stanley Cup 15.30 Redki športi 16.00 Ameriški gladiatorji 17.00 Oldtimer magazin 18.00 DSF Novinarski center 18.30 Reportaža 19.00 DSF Novinarski center 19.30 Reportaža 20.00 DSF Novinarski center 20.15 Wimbledon 22.15 DSF Novinarski center 22.30 Nogomet 23.30 Golf evropska turneja 0.00 Normal oddaja za invalidne osebe 0.30 Akrobatski team 1.15 Best Direct
+356 : 8.30 Kolesarstvo Tour de France pon. 9.30 Golf pon. 10.30 Motorsport pon. 11.00 Automagazin pon. 11.30 Kolesarstvo Tour de France pon. 12.30 Tenis ATP turnir v Gstaadu osmina finala
+357 : 9.00 Takeshi's Castle 9.45 DSF reportaža 10.15 Baseball Max 10.45 NBA od znotraj 11.15 World Soccer 11.45 Normal oddaja za invalidne osebe 12.15 Gillette World Sport Special 12.45 DSF reportaža 13.15 Nogomet 2. nemška zvezna liga 14.00 Powderhausen TV 14.30 Stoke 15.15 MotorVision 16.15 Motobike Polo magazin 17.00 Formula 1 trening za kvalifikacije 18.00 Nogomet 2. nemška zvezna liga 19.00 Nogomet 22.45 Golf evropska turneja 23.45 Wrestling SPW Monday Nitro 1.15 Reklamna oddaja 1.45 Nočni show 2.15 Monster Trucks
+359 : Pri gradnji golf igrišča gre po Šrotovih besedah za poseg v prostor brez dovoljenja poleg tega je lokacija za golf igrišče ki ga je pričel urejati golf klub Cinkarne Celje po županovih podatkih izven ureditvenega načrta parka spomina Teharje
+360 : V Sloveniji premoremo sedem igrišč za golf enega pa še dokončujejo
+361 : Voznica se je z vozilom znamke VW golf peljala po lokalni cesti ko je v desnem ostrem nepreglednem ovinku najprej zapeljala na neutrjeno površino nato nazaj na vozišče kjer je vozilo začelo bočno drseti na drugo stran po useku v gozd in trčilo v drevo
+362 : 8.00 Potovanja z evropsko železnico 9.00 Travelling Lite 9.30 Okus po Italiji 10.00 Glynn Christian okuša Tajsko 10.30 Okus po Franciji 11.00 O zgodbah in potovanjih 12.00 Potovanja z avstralsko železnico 13.00 Turist 13.30 Avventura Potovanja po italijanski kuhinji 14.00 Okus po Italiji 14.30 Po vseh golf igriščih sveta 15.00 Na kosilu z Brianom Turnerjem 15.30 Plemenska potovanja 16.00 Potovanja z evropsko železnico 17.00 Največja potovanja po našem planetu 18.00 Connoisseurjeva zbirka 18.30 Od Pekinga do Pariza 19.00 Srečanja in praznovanja 19.30 Gorski jezdeci 20.00 Azija danes 21.00 Potovanja s švicarsko železnico 22.00 Odkrivamo Avstralijo 23.00 Čez ekvator obe Ameriki 23.30 Travelling Lite 0.00 Vidiki življenja 0.30 Nad oblaki 1.00 Okoli sveta na dveh kolesih 1.30 Čudoviti Tomov svet
+363 : Hudo se je ranil voznik hyundaija ki so ga reševalci odpeljali v klinični center lažje poškodbe pa je dobil voznik golfa katerega voznik je nekje pred Kozarjami zavozil na napačni vozni pas
+364 : Bled Blejskima podjetjema Golf in kamp Bled d. d. in Grand hotel Toplice Bled je državna sekretarka ministrstva za gospodarstvo mag. Mateja Mešl včeraj izročila certifikata za kakovost ISO 9001
+365 : Takrat bo šele mogoče dobiti ustrezno dovoljenje za lani urejeno igrišče za golf ali zaradi njegove majhnosti bolje vadišče na edinem slovenskem otoku
+366 : Vrata je odprla tudi Golf akademija s programi šolanja tako za začetnike kot za tiste ki želijo v tem športu napredovati
+367 : Golf je na voljo s termi paketi opreme cene za trivratno karoserijsko različico se začenjajo pri 15.954 evrih
+368 : Šahovski festival na Bledu Na Bledu v hotelu Golf bo od 23. februarja do 2. marca potekal mednarodni šahovski festival
+370 : Ameriški profesionalni igralec golfa Tiger Woods bo leto 1998 zaključil kot prvi golfist na svetu
+371 : Zdravilišče Šmarješke Toplice bo dobilo nov hotelski prizidek s 160 posteljami in zdravstvenim delom družba pa sodeluje tudi pri gradnji igrišča za golf pri Strugi
+372 : 8.15 Reklamna oddaja 8.30 Paulaner Superfan športni kviz 9.15 Rokomet 1. nemška zvezna liga 10.15 Nogometni mundial 10.45 Športna dokumentacija 11.15 Motošport Indy Race League 12.15 Motošport Pro Superbike 13.15 Paulaner Superfan športni kviz 14.00 Rokomet 1. nemška zvezna liga 15.00 Nogometni mundial 15.30 Zvezde športa športni kviz 16.15 Akrobatski team 17.00 Golf European Pga Tour 18.00 Paulaner Superfan športni kviz 18.45 Motošport 19.45 Nogometni mundial 20.15 Košarka evropska liga 22.15 Športna poročila 22.30 Oldtimer magazin 23.30 Sport Special 0.00 Wrestling SPW Pro worldwide 1.00 Reklamna oddaja 1.30 Oldtimer klasični avtomobili 2.30 Neverjetne igre
+373 : 8.15 K Tel reklamna oddaja 8.45 Šport moči 9.45 Monster Trucks 10.45 Motobike Polo Magazin 11.45 Reklamna oddaja 12.00 Normal oddaja za invalidne osebe 12.30 Dvojna podaja Nike Talk 14.00 Takeshi's Castle 14.45 Lumberjack 15.15 Monster Trucks 15.45 Redki športi 16.15 Ameriški gladiatorji 17.15 Takeshi's Castle 18.00 DSF novinarski center 18.30 InTeam reportaža 19.00 DSF novinarski center 19.30 InTeam reportaža 20.00 DSF novinarski center 20.15 MotorVision 21.15 Motobike Polo Magazin 22.15 DSF novinarski center 22.30 CoolTour Hondin potovalni magazin 23.15 Golf evropska turneja 23.45 Rollerjam 0.45 Lumberjack 1.15 Best Direct reklamna oddaja 1.45 Redki športi
+377 : Pri novem hotelu naj bi zgradili še mini golf igrišče in otroški park igrišče
+379 : 8.45 Izven kontrole 9.15 InTeam 9.45 Veslanje 10.45 MotorVision 11.45 Reklamna oddaja 12.00 DSF Newscenter 12.30 InTeam 13.00 Ameriški gladiatorji 14.00 Monster Trucks 15.00 Izven kontrole 15.30 Redki športi 16.00 Ameriški gladiatorji 17.00 NBA od znotraj 18.00 DSF Newscenter 18.30 InTeam 19.00 DSF Newscenter 19.30 InTeam 20.00 DSF Newscenter 20.15 Oldtimer magazin 21.15 Top 10 magazin 22.15 DSF Newscenter 22.30 TieBreak 23.15 Golf evropska turneja 23.45 Wrestling 0.30 Redki športi 1.00 Rodeo 1.45 Best Direct
+381 : Za nameček je japonsko valuto okrepil še medijski pritisk na predsednika japonske vlade Morija kateremu očitajo da je brezbrižno dokončal igro golfa čeprav je vedel za nesrečo japonskih študentov katerih ladja je trčila z ameriško jedrsko podmornico
+382 : Skratka ponovno Golf ki nikjer zares ne izstopa po drugi strani pa je vsepovsod dober
+386 : Tenis atletika košarka nogomet rokomet golf zelo specifični športi
+388 : Sklenil je da bo povezal Mongolijo in golf odločil se je da bo celotno površino te azijske države izkoristil kot igrišče za golf z 18 luknjami ki jih je sam označil
+389 : Bled Včeraj so v Hotelu Golf na posebni priložnostni prireditvi ki jo je pripravilo uredništvo revije Gospodarski vestnik razglasili letošnjo gorenjsko gazelo priznanje za najhitrejše rastoče podjetje
+390 : Skupaj s podjetjem Damat & Damat bomo organizirali prvi Playboyev VIP golf turnir za povabljene igrali pa po sistemu texas scramble
+391 : 8.00 Razglednice iz Avstralije 9.00 Avventura Potovanje po italijanski kuhinji 9.30 Planet Počitnice 10.00 Coltrane v Cadillacu 10.30 Avstralska panorama 11.00 Z železnico preko Avstralije 12.00 Mississippi 13.00 Po največjih golf igriščih sveta 13.30 Sanjske destinacije 14.00 Pot gre naprej 14.30 Veliki pobeg 15.00 Crawshawovo križarjenje 15.30 Go 2 16.00 Razglednice iz Avstralije 17.00 Z železnico preko Avstralije 18.00 Potepanje po Franciji 18.30 Stopinje na planetu Zemlja 19.00 Pot gre naprej 19.30 Tradicionalne poti z Burtom Wolfom 20.00 Azija danes 21.00 Francoz v tujini 22.00 Največja potovanja na Zemlji 23.00 Praznične poti 23.30 Avventura Potovanje po italijanski kuhinji 0.00 Crawshawovo križarjenje 0.30 Debeluh iz Kenta 1.00 Medicina od A do Ž
+392 : 8.15 K Tel reklamna oddaja 8.45 Redki športi 9.15 Monster Trucks 10.15 Ameriški gladiatorji 11.15 Stoke 11.45 Normal oddaja za invalidne osebe 12.15 Baseball MAX 12.45 Touchdown nogometni magazin 13.15 Nogomet 2. nemška zvezna liga 14.00 World Soccer 14.30 Lumberjack 15.00 Formula 3 16.00 Monster Trucks 16.15 CoolTour Hondin potovalni magazin 17.00 Takeshi's Castle 17.45 DSF novinarski center 18.00 Nogomet 2. nemška zvezna liga 18.30 Dorf's Golf Bible 19.15 Gillette World Sport Special 19.45 DSF novinarski center 20.00 Hokej na ledu SP 22.25 DSF novinarski center 22.30 Touchdown nogometni magazin 0.00 Wrestling SPW Nitro 1.15 Best Direct reklamna oddaja 1.45 Wrestling SPW Nitro
+394 : Turnir je imel dva dela čeprav je bilo vreme bolj turobno se je prvi odvijal na Kraljevem igrišču za golf Bled večerno druženje pa se je nadaljevalo v restavraciji hotela Golf na Bledu
+395 : Včeraj se je na Bledu z odprtjem slovesnostjo uradno začelo Evropsko ekipno prvenstvo za ženske v golfu ki na blejskem igrišču za golf poteka že tretje leto zapored
+397 : Na udarjališču v Zrkovcih je namreč Golf klub Maribor postavil tudi žaromete in tako lahko zdaj ljubitelji golfa vadijo udarce v prijetno hladnih večernih urah
+398 : 8.00 Golf European Tour 11.00 Rokomet 1. nemška zvezna liga 12.00 Športni utrinki 12.15 NBA od znotraj 13.15 Paulaner Superfan športni kviz 14.00 Rokomet 1. nemška zvezna liga 15.00 Nogometni mundial 15.30 Športna dokumentacija 16.00 Gillette World Sport Special 16.30 Idoli 18.00 Paulaner Superfan športni kviz 18.45 NBA od znotraj 19.45 Nogometni mundial 20.15 Oldtimer 21.15 Mednarodni šport 22.15 Športna poročila 22.30 Boks 23.00 NBA od znotraj 0.00 Wrestling 1.00 Best Direct reklamna oddaja 1.30 Action 2.30 Potovalni magazin
+400 : V obdobju ko se ne moremo po mili volji zadrževati na zunanjih igriščih za golf lahko marsikaj storimo da bo naša igra prihodnjo sezono še boljša
+401 : Se vam zdi da je golf drag šport
+402 : Kordež Golfa ne igram ker so mi v času ki ga namenjam rekreaciji ljubši drugi športi
+403 : Zdelo se mi je da je golf šport za ljudi ki niso več ne samo obremenjeni ampak nimajo več drugih aktivnosti
+404 : Golf mi je postajal všeč ker sem tekmovala sama s seboj je pripovedovala moja sogovornica
+405 : 20.05 Golf da te kap I Caddysask ameriška komedija
+406 : 8.15 Dominion 8.45 Izven kontrole 9.15 Redki športi 9.45 MotorVision 10.45 Motobike 11.45 Reklamna oddaja 12.00 Redki športi 12.30 Normal oddaja za invalidne osebe 13.00 Ameriški gladiatorji 14.00 Monster Trucks 14.30 Redki športi 15.00 Roller Jam 16.00 Ameriški gladiatorji 17.00 Redki športi 17.30 Monster Trucks 18.00 DSF Novinarski center 18.30 InTeam 19.00 DSF Novinarski center 19.30 InTeam 20.00 DSF Novinarski center 20.15 Sportclips 21.00 MotorVision 21.30 DSF Novinarski center 21.45 MotorVision 22.15 DSF Novinarski center 22.30 Motobike 23.30 Normal oddaja za invalidne osebe 0.00 Golf evropska turneja 0.30 Redki športi 1.00 Best Direct 1.30 Izven kontrole
+411 : Peljhan je bil dvakrat tretji na Saturnusu je odstopil toda njegov golf bo tokrat že bolje pripravljen
+414 : 20.00 Vip cup turnir 2001 reportaža iz Velenja ponovitev 20.55 Graška gora poje in igra 1. del 22.15 Evropski turnirji v golfu 22.45 Video top glasbena oddaja 23.45 Oglejte si z nami
+415 : Miami Najboljši igralec golfa na svetu Tiger Woods je podpisal še eno sponzorsko pogodbo
+416 : Ob 20.30 je eden izmed njiju z rdečo lučjo ustavljal voznika avta znamke Golf ki pa je odpeljal naprej
+
+Cluster 1:
+3 : Volkswagen golf 1.4 16V letnik 1998 metalik srebrne barve reg 1 03 88.000 km oprema servo volan centralno zaklepanje radio 2x električna stekla ABS servisna knjiga meglenke kupljen v SLO cena 1.895.000 SIT
+4 : Volkswagen golf 1.9 TDI letnik 1999 00 rdeče barve reg. 12 03 61000 km ser. knjiga oprema avtom klima 2 x airbag 2x elek stekla servo centralno zakl. ABS naslon za roko alu platišča meglenke deljiva klop radio kup v SLO cena 2.565.000 SIT
+5 : Orciari Design ponuja tudi možnost predelave serijskih sedežev v anatomsko oblikovane športne sedeže za sedaj za avtomobile Porsche 993 996 Boxster Fiat Stilo Punto I in II BMW Z3 Peugeot 206 Toyota Corolla VW Golf III BMW Mini
+6 : Volkswagen Golf 1.9 TDI Highline AM 1 02
+9 : GOLF letnik 1989 prodam # 031 641 549
+12 : GOLF JX D letnik 1990 registriran do 9 2000 5V bel dobro ohranjen prodam # 068 73 105
+16 : Prodam Golf IV 19 TDI 110 km reg. do 5. 3. leta 1998 79.000 km srebrn 5 vrat servo volan ABS 2x airbag Alu 205 55 16 + zimska platišča daljinsko centralno zaklepanje radio + cd na daljinca + 8 zvočnikov električni šibedah euro kljuka sedež in volan nastavljiva po višini spojler lep videz 1. lastnik servisna knjiga
+28 : Prodamo alfo 33 1,3 93 8 98 9.700 Golf JX 89 1 98 7.800 DEM AX 87 3.300 R 4 88 2.200 ESCORT 1,6 93
+29 : Prodamo alfo 33 1,3 93 8 98 9.700 golf JX 89 7.800 DEM vectro 2,0 90 13.350 renault 18 86 86 2.900 jugo 55 87 1.600
+34 : PRODAM GOLF JGL bele barve dobro ohranjen letnik 81 reg do 30.4 l996
+44 : Zakaj se je Golf obut v 18 palčna platišča na suhi in na mokri podlagi v primerjavi z enakim a v 15 palčna platišča obutim Golfom ustavil nekaj metrov prej dokazuje raziskava nemškega združenja predelovalcev avtomobilov VDAT skupaj z Dunlopom
+45 : Toyota Corolla T Sport VW Golf 1.8T GTI AM 15 02
+46 : GOLF VARIANT 1.9 TDI 96 kW Basis 4.062.832
+49 : Model Fiat Stilo 1.9 JTD Dynamic Peugeot 307 HDi 110 Premium VW Golf 1.9 TDI Highline
+51 : VW GOLF JGL letnik 1981 dobro ohranjen prevoženih 122.000 km registriran do 24.1.1997 prodam + 068 76 377
+52 : GOLF letnik 1981 registriran do 2 96 bel zelo lepo ohranjen nekaj dodatne opreme prodam + 068 47 028
+57 : GOLF D letnik 1987 registriran do 28.3.1999 prodam # 068 325 334
+74 : GOLF JGLD diesel letnik 85 garažiran drugi lastnik reg. do 12 98 prodam
+78 : GOLF JX D letnik 1988 moder 3V zelo lepo ohranjen brezhiben prodam # 041 720 038
+79 : R 5 EXPRES letnik 1989 in golf JX letnik 1986 prodam # 068 21 372
+80 : GOLF III letnik 1992 1.8 bencin prodam # 068 76 488
+81 : GOLF 1.4 CL letnik 1996 dobro ohranjen ugodno prodam # 0608 43 313
+82 : TRAKTOR IMT 533 golf III letnik 1995 karavan 4 x 4 prodam
+89 : Golf diesel letnik 1989 registriran do maja 2009 ugodno prodam
+100 : GOLF II diesel letnik 1989 90 prvi lastnik odlično ohranjen prodam
+101 : GOLF jxd letnik 1989 90 5 vrat reg. metalne barve prodam
+102 : GOLF sdi odlično ohranjen letnik 2003 prevoženih 29.000 km prodam
+103 : GOLF II letnik 1987 reg. do 27. 4. 2006 ugodno prodam
+104 : GOLF 1.9 tdi klimatronik limuzina letnik 1998 prodam
+105 : GOLF PLUS 1.9 TDI 66 kW Trendline 18.307
+110 : PRODAM Golf 1,3 JGL bele barve dobro ohranjen letnik 81 registriran do 9 6 96
+111 : Volkswagen Golf 1.9 TDI DSG AM 19 04
+113 : GOLF JX D 6 letnik 1990 lita platišča lepo ohranjen ugodno prodam # 068 322 208
+114 : GOLF CLD letnik 1991 79.000 km registriran do 4 2000 sive kovinske barve sončna streha zelo ohranjen prodam # 068 42 764 ali 041 773 485
+115 : GOLF TD 1.9 letnik 1992 registriran do 2 2000 kovinsko svetlo zelen 5V alu platišča športni sedeži daljinsko CZ 155.000 km prodam # 068 322 407
+117 : Gorka hitrostna preizkušnja Petrol Gorjanci 2000 1. Stankovič Slovenijaavto Imos dallara 392 E do 2000 ccm 5:41,604 2. Dekleva Team Dekleva Dewalt 9,748 3. Zupančič Plamtex Sport Olimpija oba bmw 320 I oba ST 15,283 4. Črtalič Speed d. o. o. lucchini CN do 3000 ccm 19,575 5. Jereb Sava Seat RT seat ibiza kit car 25,323 6. Peljhan AK Self volkswagen golf kit car 34,627 7. Bubnič SB Racing lancia HF integrale 36,637 8. Trček Beja Sport ford escort RS cosworth 38,303 9. Valant AK Olimpija volkswagen golf kit car vsi A 39,560 10. Jurena Slk ford escort RS cosworth N 45,900 11. Klemenčič Beja Sport ford escort RS cosworth 46,929 12. Šuster AK Olimpija bmw M3 vsi N 49,649 pokal Seicento Petrol 1. Kavčič AMD Slovenijaavto Imos 7:15,454 2. Udovč Lojze Udovč 0,314 3. Fikfak Avtoplus Olimpija 0,488 4. Milosavljevič Avto Triglav AMD Slovenijaavto Imos 0,811 5. Pavlič Fiat RT 4,547 6. Šimenc AMD Kamnik 4,634 7. Tušek 5,811 8. Humar oba Petrol RT 6,284 9. Belingar ABC Sport Nova Gorica 8,745 10. Džudovič Elektro Dekleva 10,135
+125 : GOLF 1.9 TDI VARIANT LET 2000 MET SREBRN KLIMA ABS 4X AIR BAG OHRANJEN 2.640.000 SIT AVTO LESCE D.
+127 : GOLF letnik 1994 1.3 prodam # 07 3083650
+130 : GOLF JX D letnik 1987 ohranjen kovinske barve prodam # 068 325 238
+134 : GOLF DJX letnik 1988 registriran do 11 98 150.000 km prodam # 068 21 638
+135 : GOLF D 1.9 letnik 1992 rdeč prodam # 068 81 256
+136 : GOLF JXD letnik 1989 prodam # 068 84 035
+137 : GOLF 1.4 CL letnik 1993 42.000 km 4 vrata rdeč ohranjen prodam # 068 44 784
+145 : GOLF D letnik 1989 registriran do 10 01 prodam # 041 542 115
+147 : GOLF II 1.3 B letnik 1991 registriran do 3 02 prodam # 041 214 007
+150 : GOLF CLD letnik 1991 registriran do 4 2000 85.000 km sive kovinske barve zelo lepo ohranjen prodam # 068 42 764 ali 041 773 485
+151 : GOLF letnik 1996 registriran do 7 2000 servisna knjižica garažiran odlično ohranjen prodam # 068 53 003
+152 : GOLF JXD letnik 1986 moder registriran do marca 2000 prodam # 068 50 077
+159 : Pri Toyoti ob nekaterih znanih prodajnih adutih recimo statistično in sicer dokazani skromni pokvarljivosti oziroma veliki zanesljivosti trdijo da je auris pri stroških lastništva v katere štejejo predvsem porabo goriva in stroške vzdrževanja v povprečju za šest odstotkov cenejši od peterice najbližjih tekmecev focus megane peugeot 307 golf in astra
+160 : Golf karavan TD letnik 1995 lepo ohranjen prodam
+162 : GOLF JX B letnik 1990 registriran do 2.4.1998 104.000 km lepo ohranjen prodam
+176 : GOLF JGL letnik 1980 registriran do 2 95 prodam za 75.000 SIT # 068 42 040
+185 : Gregor je tako na svojega golfa namestil 19 palčna aluminijasta platišča Mille Miglia 8 19 pnevmatike pa so seveda nizkopresečne Michelinove model Pilot Sport 2 dimenzij 235 35 19
+189 : GOLF 1.3 letnik 1986 5V prodam # 068 81 148
+191 : GOLF IV letnik 2001 35.000 km prva lastnica lepo ohranjen prodam # 031 859 916
+193 : GOLF III 1,9 tdi letnik 1995 vlečna kljuka 5 vrat prodam za 2.500 EUR
+196 : Konkurenca je bila kar ostra prvih pet avtomobilov po danskem okusu pa je mazda3 opel meriva golf V toyota avensis in fiat panda
+197 : S sobote na nedeljo je neznanec iz podzemne garaže v Ulici Rudija Papeža na Planini v Kranju odpeljal avtomobil volkswagna golfa 1.9 TDI letnik 1999 bele barve z registrsko oznako CE 20 50S številka šasije WVWZZZIJZYD409378
+203 : GOLF JX D letnik 1990 5 prestav registriran do 8 99 prodam za 690.000 SIT # 068 49 941
+209 : BMW 318i 1993 prodam ali menjam za golf III
+210 : Volkswagen Golf 2.0 TDI Sportline 3V AM 02 04
+219 : GOLF 1.6 letnik 3 94 105.000 km rdeč prodam # 031 382 088
+223 : GOLF JX D letnik 1988 registriran do 2 98 bel 3V dobro ohranjen prodam # 068 73 105
+228 : Golf II dizel letnik 1991 rdeče barve prodam
+236 : Volkswagen Golf 1.9 SDI Basis Edition AM 13 03
+240 : Volkswagen Golf 2.0 16V TDI Sportline 3 vrata
+241 : Rezultati Martinskega relija 1. Peljhan Kacin AK Self VW golf kit car 1 02:30,1 2. Popovič Dolenc Ak Olimpija subaru impreza + 12,5 3. Podobnik Praznik Petrol Racing proton pert 1:50,3 4. Lončarić Uzić Hrvaška mitsubishi lancer evo V 4:55,5 5. Jereb Polončič Petrol Racing seat ibiza kit car 4:56,7 6. Beržan Čehovin Ak Olimopija citroen saxo 8:30,7 7. Smr delj Župevec AMD Slovenija Avto Lada samara 1500i 8:36,2 8. Rihtar Kriz manič AK Self VW golf TDi 8:36,4 9. Turk Kurent Honda Amortizer team honda civic 1,6 8:41,7 10. Carić Stubljić Hrvaška škoda felicia 1,3 11:44,1
+245 : JUGO koral 45 letnik 90 prodam za 1.850 DEM golf 1.6 diesel letnik 87 prodam za 6.500 DEM
+246 : Izidi velika nagrada Slovenije 1. Peljhan Self Aral VW golf kit car 2. Rihtar Self Aral ford escort 3. Šuster Olimpija BMW 320i 4. Kunčar Jug BMW 320 ST 5. Kuvalja Jug BMW 320 ST divizije II III IV 1. Peljhan 2
+250 : Konkurenca je torej znana že omenjeni vw golf opel astra peugeot 307 renault megane ipd. tudi to da gre v bravov prtljažnik 400 litrov prtljage v najboljšem primeru ponuja 1175 litrov da je zadnja klop deljiva v razmerju 40 60 da ima pritrdišča isofix za otroške sedeže ipd.
+252 : GOLF D letnik 1988 registriran do 7 98 prodam
+255 : Golf 3 1.9 dizel letnik 93 z vso dodatno opremo razen klime prodam
+256 : Prodam golf IV 4 motion 1,9 tdi 4 x 4 karavan bele barve letnik 99 model 00 4 x el. stekla centralno zaklepanje klima 4 x airbag sani rolo radio meglenke reg do 01 06
+259 : VW Golf 55 184 kW 75 250 KM
+263 : GOLF B letnik 82 reg. do 3 97 lepo ohranjen prodam
+272 : GOLF Variant Basis 1.9 TDi 74kW 4MOT 3.991.890
+273 : GOLF Variant Basis 1.9 TDi 66kW Avt. 3.835.677
+274 : Jereb Kurent Sava Seat Racing Seat Ibiza kit car 1.23:26,0 2. Peljhan Kacin AK Self Aral VW Golf kit car + 55 sekund 3. Klemenčič Zevnik RD Beja Sport Mitsubishi Lancer N + 4:59 4. Humar Čuk AK MPI Racing Idrija VW Polo 1,4 16V N + 7:26 5. Komadina Dvoršek Citroën Target Motorsport Citroen Xsara VTS N + 7:49 6. Černjevski Vidmar Černjavski RT Opel Corsa 1,4 N + 9:00 7. Prunk Bradač ŠK Mega Honda Integra Type R N + 9:26 8. Pirih Jeram AK MPI Racing Idrija Zastava Yugo 1,3 A + 10:32 9. Urbančič Pavčnik AMD Slovenija avto IMOS Zastava Yugo 1,3 A + 11,57 10. Valič Šavelj AMD Gorica Peugeot 106 rally N + 13:00
+288 : GOLF B letnik 1987 registriran do 12 98 rdeč prodam # 068 74 020
+289 : GOLF JX D letnik 1987 3V registriran do 12 98 prodam # 068 75 262
+294 : GOLF IV 1.9 TDI VARIANT LET 2000 MODER AVT KLIMA ABS 4X AIR BAG POTOVALNI RAČ SERVISNA 2.780.000 SIT AVTO LESCE D.
+295 : Golf IV 1.9 Tdi Comfortline 90 KM letnik 2000 43.000 km ABS 4 varnostne blazine gretje sedežev električni pomik stekel radio
+307 : GOLF D letnik 1989 prodam # 07 49 78 006
+312 : GOLF diesel letnik 83 reg. do maja prodam za 100.000 SIT
+332 : GOLF II bele barve letnik 1987 neregistriran ugodno prodam
+333 : GOLF 1,9 tdi letnik 2003 klima veliko dodatne opreme prodam za 10.100 EUR
+334 : GOLF III td karavan letnik 1994 5 vrat rdeč prvi lastnik odlično ohranjen prodam
+341 : Prodam dobro ohranjen Golf JGL l. 81 reg. do 9 9 99
+343 : Nadnaslov Test Volkswagen Golf 1.9 SDI Basis edition
+347 : GOLF PLUS 1,9 TDI 66 kW 18.320 EUR
+348 : GOLF PLUS 1,9 TDI 66 kW 4.487.000 SIT
+352 : Golf 3 KIT CAR letnik 1999 revidiran in pripravljen prodam
+358 : Rezultati 1. Zupančič Plamtex BMW 320i 5,25,81 2. Dekleva Elektrodekleva BMW 320i 3. Jemc Petrol racing ford escort 5:35,47 4. Peljhan Olimpija golf kit car 5:47,66 5. Komel Gorica opel astra 5:49,22 6. Rihtar Self ford escort 5:59,54
+369 : V soboto zvečer so s parkirišča v BTC predrzneži ukradli golfa 1.9 TDI letnik 1999
+374 : GOLF LETNIK 1987 prodam ali menjam za kmetijske stroje # 068 47 390
+375 : GOLF II 1.3 letnik 1988 bel brezhiben prodam # 031 816 875
+376 : GOLF 1.9 TDI letnik 1994 100.000 km 5V rdeč euro kljuka CZ prodam # 031 382 088
+378 : GOLF JX D 1.3 letnik 9 87 prva lastnica prodam # 041 764 747
+380 : GOLF 1,6 D letnik 1986 ohranjen ugodno prodam
+383 : Golf II diesel letnik 90 rdeče barve pet vrat in euro priklop
+384 : Primerjalni test Volkswagen Golf 1.9 TDI 66 kW in 1.4 TSI 90 kW
+385 : 40 Volkswagen Golf 1.9 TDI 66 kW in 1.4 TSI 90 kW
+387 : GOLF II JXD letnik 1989 in golf III 1.4 CL letnik 1995 prodam ali menjam za traktor # 031 884 019
+393 : GOLF diesel 1,9 serija 3 letnik 1995 s klimo kovinske barve prodam
+396 : GOLF III 1.9 D letnik 11 92 5V rdeč 61.000 km lepo ohranjen prodam # 0608 78 206
+399 : GOLF JX D letnik 1991 kovinsko temno sive barve 5V 5 prestav dobro ohranjen prodam + 068 22 742
+407 : Prodam Golf D bel l. 94 reg. do 5 99
+408 : Prodam Golf JX l. 88 reg. do 8 99
+409 : Bralci in poslušalci šestih sodelujočih medijev ste v finalni del izbrali mazda RX 8 s 27 točkami renault modus 20 peugeot 407 in VW golf po 11 in hyundai tucson 7 točk
+410 : Če bi upoštevali zgolj te ste bralci Nedelskega za finale določili naslednje avte peugeot 407 mazda RX 8 golf citroen C4 in audi A6
+412 : GOLF letnik 1979 dobro ohranjen prodam za 144.000 SIT # 041 652 056
+413 : PRODAM golf letnik 77 reg. do julija 97
+
+
+
+Spectral clustering
+Counter({1: 312, 0: 105})
+
+3 : Volkswagen golf 1.4 16V letnik 1998 metalik srebrne barve reg 1 03 88.000 km oprema servo volan centralno zaklepanje radio 2x električna stekla ABS servisna knjiga meglenke kupljen v SLO cena 1.895.000 SIT
+4 : Volkswagen golf 1.9 TDI letnik 1999 00 rdeče barve reg. 12 03 61000 km ser. knjiga oprema avtom klima 2 x airbag 2x elek stekla servo centralno zakl. ABS naslon za roko alu platišča meglenke deljiva klop radio kup v SLO cena 2.565.000 SIT
+5 : Orciari Design ponuja tudi možnost predelave serijskih sedežev v anatomsko oblikovane športne sedeže za sedaj za avtomobile Porsche 993 996 Boxster Fiat Stilo Punto I in II BMW Z3 Peugeot 206 Toyota Corolla VW Golf III BMW Mini
+6 : Volkswagen Golf 1.9 TDI Highline AM 1 02
+9 : GOLF letnik 1989 prodam # 031 641 549
+11 : S parkirnega prostora na Jesihovem stradonu je bil ukraden osebni avtomobil znamke VW golf 1.9 TDI srebrne barve z oznako na tablicah LJ 43 66R vreden približno 2,8 milijona tolarjev s Kardeljeve ploščadi pa je izginil osebni avtomobil znamke Renault 5 rdeče barve registrska številka LJ 71 91M vreden približno pol milijona tolarjev
+12 : GOLF JX D letnik 1990 registriran do 9 2000 5V bel dobro ohranjen prodam # 068 73 105
+16 : Prodam Golf IV 19 TDI 110 km reg. do 5. 3. leta 1998 79.000 km srebrn 5 vrat servo volan ABS 2x airbag Alu 205 55 16 + zimska platišča daljinsko centralno zaklepanje radio + cd na daljinca + 8 zvočnikov električni šibedah euro kljuka sedež in volan nastavljiva po višini spojler lep videz 1. lastnik servisna knjiga
+28 : Prodamo alfo 33 1,3 93 8 98 9.700 Golf JX 89 1 98 7.800 DEM AX 87 3.300 R 4 88 2.200 ESCORT 1,6 93
+29 : Prodamo alfo 33 1,3 93 8 98 9.700 golf JX 89 7.800 DEM vectro 2,0 90 13.350 renault 18 86 86 2.900 jugo 55 87 1.600
+45 : Toyota Corolla T Sport VW Golf 1.8T GTI AM 15 02
+46 : GOLF VARIANT 1.9 TDI 96 kW Basis 4.062.832
+49 : Model Fiat Stilo 1.9 JTD Dynamic Peugeot 307 HDi 110 Premium VW Golf 1.9 TDI Highline
+51 : VW GOLF JGL letnik 1981 dobro ohranjen prevoženih 122.000 km registriran do 24.1.1997 prodam + 068 76 377
+52 : GOLF letnik 1981 registriran do 2 96 bel zelo lepo ohranjen nekaj dodatne opreme prodam + 068 47 028
+57 : GOLF D letnik 1987 registriran do 28.3.1999 prodam # 068 325 334
+74 : GOLF JGLD diesel letnik 85 garažiran drugi lastnik reg. do 12 98 prodam
+78 : GOLF JX D letnik 1988 moder 3V zelo lepo ohranjen brezhiben prodam # 041 720 038
+79 : R 5 EXPRES letnik 1989 in golf JX letnik 1986 prodam # 068 21 372
+80 : GOLF III letnik 1992 1.8 bencin prodam # 068 76 488
+81 : GOLF 1.4 CL letnik 1996 dobro ohranjen ugodno prodam # 0608 43 313
+82 : TRAKTOR IMT 533 golf III letnik 1995 karavan 4 x 4 prodam
+89 : Golf diesel letnik 1989 registriran do maja 2009 ugodno prodam
+100 : GOLF II diesel letnik 1989 90 prvi lastnik odlično ohranjen prodam
+101 : GOLF jxd letnik 1989 90 5 vrat reg. metalne barve prodam
+102 : GOLF sdi odlično ohranjen letnik 2003 prevoženih 29.000 km prodam
+103 : GOLF II letnik 1987 reg. do 27. 4. 2006 ugodno prodam
+104 : GOLF 1.9 tdi klimatronik limuzina letnik 1998 prodam
+105 : GOLF PLUS 1.9 TDI 66 kW Trendline 18.307
+111 : Volkswagen Golf 1.9 TDI DSG AM 19 04
+113 : GOLF JX D 6 letnik 1990 lita platišča lepo ohranjen ugodno prodam # 068 322 208
+114 : GOLF CLD letnik 1991 79.000 km registriran do 4 2000 sive kovinske barve sončna streha zelo ohranjen prodam # 068 42 764 ali 041 773 485
+115 : GOLF TD 1.9 letnik 1992 registriran do 2 2000 kovinsko svetlo zelen 5V alu platišča športni sedeži daljinsko CZ 155.000 km prodam # 068 322 407
+125 : GOLF 1.9 TDI VARIANT LET 2000 MET SREBRN KLIMA ABS 4X AIR BAG OHRANJEN 2.640.000 SIT AVTO LESCE D.
+127 : GOLF letnik 1994 1.3 prodam # 07 3083650
+130 : GOLF JX D letnik 1987 ohranjen kovinske barve prodam # 068 325 238
+134 : GOLF DJX letnik 1988 registriran do 11 98 150.000 km prodam # 068 21 638
+135 : GOLF D 1.9 letnik 1992 rdeč prodam # 068 81 256
+136 : GOLF JXD letnik 1989 prodam # 068 84 035
+137 : GOLF 1.4 CL letnik 1993 42.000 km 4 vrata rdeč ohranjen prodam # 068 44 784
+145 : GOLF D letnik 1989 registriran do 10 01 prodam # 041 542 115
+147 : GOLF II 1.3 B letnik 1991 registriran do 3 02 prodam # 041 214 007
+148 : PTUJ Neznanec je v ponedeljek zvečer na parkirišču Centra rabljenih vozil Dominko vlomil v osebni avtomobil VW golf IV 1,9 TDI
+150 : GOLF CLD letnik 1991 registriran do 4 2000 85.000 km sive kovinske barve zelo lepo ohranjen prodam # 068 42 764 ali 041 773 485
+151 : GOLF letnik 1996 registriran do 7 2000 servisna knjižica garažiran odlično ohranjen prodam # 068 53 003
+152 : GOLF JXD letnik 1986 moder registriran do marca 2000 prodam # 068 50 077
+159 : Pri Toyoti ob nekaterih znanih prodajnih adutih recimo statistično in sicer dokazani skromni pokvarljivosti oziroma veliki zanesljivosti trdijo da je auris pri stroških lastništva v katere štejejo predvsem porabo goriva in stroške vzdrževanja v povprečju za šest odstotkov cenejši od peterice najbližjih tekmecev focus megane peugeot 307 golf in astra
+160 : Golf karavan TD letnik 1995 lepo ohranjen prodam
+162 : GOLF JX B letnik 1990 registriran do 2.4.1998 104.000 km lepo ohranjen prodam
+176 : GOLF JGL letnik 1980 registriran do 2 95 prodam za 75.000 SIT # 068 42 040
+189 : GOLF 1.3 letnik 1986 5V prodam # 068 81 148
+191 : GOLF IV letnik 2001 35.000 km prva lastnica lepo ohranjen prodam # 031 859 916
+193 : GOLF III 1,9 tdi letnik 1995 vlečna kljuka 5 vrat prodam za 2.500 EUR
+197 : S sobote na nedeljo je neznanec iz podzemne garaže v Ulici Rudija Papeža na Planini v Kranju odpeljal avtomobil volkswagna golfa 1.9 TDI letnik 1999 bele barve z registrsko oznako CE 20 50S številka šasije WVWZZZIJZYD409378
+203 : GOLF JX D letnik 1990 5 prestav registriran do 8 99 prodam za 690.000 SIT # 068 49 941
+209 : BMW 318i 1993 prodam ali menjam za golf III
+210 : Volkswagen Golf 2.0 TDI Sportline 3V AM 02 04
+219 : GOLF 1.6 letnik 3 94 105.000 km rdeč prodam # 031 382 088
+223 : GOLF JX D letnik 1988 registriran do 2 98 bel 3V dobro ohranjen prodam # 068 73 105
+228 : Golf II dizel letnik 1991 rdeče barve prodam
+236 : Volkswagen Golf 1.9 SDI Basis Edition AM 13 03
+240 : Volkswagen Golf 2.0 16V TDI Sportline 3 vrata
+245 : JUGO koral 45 letnik 90 prodam za 1.850 DEM golf 1.6 diesel letnik 87 prodam za 6.500 DEM
+250 : Konkurenca je torej znana že omenjeni vw golf opel astra peugeot 307 renault megane ipd. tudi to da gre v bravov prtljažnik 400 litrov prtljage v najboljšem primeru ponuja 1175 litrov da je zadnja klop deljiva v razmerju 40 60 da ima pritrdišča isofix za otroške sedeže ipd.
+252 : GOLF D letnik 1988 registriran do 7 98 prodam
+255 : Golf 3 1.9 dizel letnik 93 z vso dodatno opremo razen klime prodam
+256 : Prodam golf IV 4 motion 1,9 tdi 4 x 4 karavan bele barve letnik 99 model 00 4 x el. stekla centralno zaklepanje klima 4 x airbag sani rolo radio meglenke reg do 01 06
+259 : VW Golf 55 184 kW 75 250 KM
+263 : GOLF B letnik 82 reg. do 3 97 lepo ohranjen prodam
+272 : GOLF Variant Basis 1.9 TDi 74kW 4MOT 3.991.890
+273 : GOLF Variant Basis 1.9 TDi 66kW Avt. 3.835.677
+274 : Jereb Kurent Sava Seat Racing Seat Ibiza kit car 1.23:26,0 2. Peljhan Kacin AK Self Aral VW Golf kit car + 55 sekund 3. Klemenčič Zevnik RD Beja Sport Mitsubishi Lancer N + 4:59 4. Humar Čuk AK MPI Racing Idrija VW Polo 1,4 16V N + 7:26 5. Komadina Dvoršek Citroën Target Motorsport Citroen Xsara VTS N + 7:49 6. Černjevski Vidmar Černjavski RT Opel Corsa 1,4 N + 9:00 7. Prunk Bradač ŠK Mega Honda Integra Type R N + 9:26 8. Pirih Jeram AK MPI Racing Idrija Zastava Yugo 1,3 A + 10:32 9. Urbančič Pavčnik AMD Slovenija avto IMOS Zastava Yugo 1,3 A + 11,57 10. Valič Šavelj AMD Gorica Peugeot 106 rally N + 13:00
+288 : GOLF B letnik 1987 registriran do 12 98 rdeč prodam # 068 74 020
+289 : GOLF JX D letnik 1987 3V registriran do 12 98 prodam # 068 75 262
+294 : GOLF IV 1.9 TDI VARIANT LET 2000 MODER AVT KLIMA ABS 4X AIR BAG POTOVALNI RAČ SERVISNA 2.780.000 SIT AVTO LESCE D.
+295 : Golf IV 1.9 Tdi Comfortline 90 KM letnik 2000 43.000 km ABS 4 varnostne blazine gretje sedežev električni pomik stekel radio
+307 : GOLF D letnik 1989 prodam # 07 49 78 006
+312 : GOLF diesel letnik 83 reg. do maja prodam za 100.000 SIT
+332 : GOLF II bele barve letnik 1987 neregistriran ugodno prodam
+333 : GOLF 1,9 tdi letnik 2003 klima veliko dodatne opreme prodam za 10.100 EUR
+334 : GOLF III td karavan letnik 1994 5 vrat rdeč prvi lastnik odlično ohranjen prodam
+341 : Prodam dobro ohranjen Golf JGL l. 81 reg. do 9 9 99
+343 : Nadnaslov Test Volkswagen Golf 1.9 SDI Basis edition
+347 : GOLF PLUS 1,9 TDI 66 kW 18.320 EUR
+348 : GOLF PLUS 1,9 TDI 66 kW 4.487.000 SIT
+352 : Golf 3 KIT CAR letnik 1999 revidiran in pripravljen prodam
+369 : V soboto zvečer so s parkirišča v BTC predrzneži ukradli golfa 1.9 TDI letnik 1999
+374 : GOLF LETNIK 1987 prodam ali menjam za kmetijske stroje # 068 47 390
+375 : GOLF II 1.3 letnik 1988 bel brezhiben prodam # 031 816 875
+376 : GOLF 1.9 TDI letnik 1994 100.000 km 5V rdeč euro kljuka CZ prodam # 031 382 088
+378 : GOLF JX D 1.3 letnik 9 87 prva lastnica prodam # 041 764 747
+380 : GOLF 1,6 D letnik 1986 ohranjen ugodno prodam
+383 : Golf II diesel letnik 90 rdeče barve pet vrat in euro priklop
+384 : Primerjalni test Volkswagen Golf 1.9 TDI 66 kW in 1.4 TSI 90 kW
+385 : 40 Volkswagen Golf 1.9 TDI 66 kW in 1.4 TSI 90 kW
+387 : GOLF II JXD letnik 1989 in golf III 1.4 CL letnik 1995 prodam ali menjam za traktor # 031 884 019
+393 : GOLF diesel 1,9 serija 3 letnik 1995 s klimo kovinske barve prodam
+396 : GOLF III 1.9 D letnik 11 92 5V rdeč 61.000 km lepo ohranjen prodam # 0608 78 206
+399 : GOLF JX D letnik 1991 kovinsko temno sive barve 5V 5 prestav dobro ohranjen prodam + 068 22 742
+407 : Prodam Golf D bel l. 94 reg. do 5 99
+408 : Prodam Golf JX l. 88 reg. do 8 99
+409 : Bralci in poslušalci šestih sodelujočih medijev ste v finalni del izbrali mazda RX 8 s 27 točkami renault modus 20 peugeot 407 in VW golf po 11 in hyundai tucson 7 točk
+410 : Če bi upoštevali zgolj te ste bralci Nedelskega za finale določili naslednje avte peugeot 407 mazda RX 8 golf citroen C4 in audi A6
+412 : GOLF letnik 1979 dobro ohranjen prodam za 144.000 SIT # 041 652 056
+413 : PRODAM golf letnik 77 reg. do julija 97
+0 : Eno izmed meritev v vsaki kopalni sezoni opravijo po naročilu ministrstva za zdravstvo oziroma zdravstvene inšpekcije druge meritve pa sofinancirajo občini Bohinj in Škofja Loka Direkcija za turizem Bled podjetje Golf in camp Bled hotel Toplice turistično društvo Bohinj in sam zavod
+1 : 1975 se je rodil igralec golfa Tiger Woods
+2 : Vsaj če sodimo po novem Volkswagnovem bencinskem izdelku ki so mu nadeli ime TSI in je na voljo tudi v golfu
+7 : 9.00 Golf evropska turneja 9.30 Reklamna oddaja 10.00 Confederations Cup 12.00 Reklamna oddaja 12.30 Confederations Cup 14.30 NHL Stanley Cup 15.15 Pago Pago 16.00 Xapatan 16.30 Takeshi's Castle 17.00 Pago Pago 17.45 Košarka 18.00 DSF novinarski center 18.30 DSF reportaža 19.00 Dvoboj DSF kviz 19.40 DSF novinarski center 20.00 U 21 22.00 DSF novinarski center 22.15 Confederations Cup 23.15 Touchdown Gatorade nogometni magazin 23.45 Golf evropska turneja 0.45 Extreme Situations 1.15 Reklamna oddaja 1.45 Reklamna oddaja
+8 : Igrišče na Bledu je najbrž veliko pridobilo s kranjsko delniško družbo Sava ki je 73 odstotni lastnik družbe Golf in kamp Bled d. d.
+10 : Obžalujeva pa da nekateri poslanci LDS ki so v zadnjem času sicer naredili izpite in dobili dovoljenje za igro golfa etike obnašanja v golfu še ne obvladajo
+13 : Zaradi kihanja in slabega počutja ter posledično slabe volje bi se kmalu razšla in ta ki bi takrat imel že novejši model golfa bi razmišljal da bi bilo treba hitro najti eno drugo ki bo namesto Svetlane plačevala polovico stroškov za stanovanje
+14 : Pri nas je najstarejše igrišče za golf na Bledu in zadnje ki so ga odprli v Ljubljani
+15 : Lozana Najboljši igralec golfa na svetu Tiger Woods je navdušen medtem ko nekateri govorijo o katastrofi
+17 : 8.30 Golf 9.30 Jadranje 10.00 Nogomet Prijateljska tekma 11.30 Avtomoto šport 12.30 Motociklizem VN Češke Brno 13.00 Motociklizem VN Češke Brno 14.00 Motociklizem VN Češke Brno 15.15 Motociklizem VN Češke Brno 16.30 Tenis WTA turnir Montreal Kanada 18.00 Motociklizem VN Češke Brno 19.00 Tenis WTA turnir Montreal Kanada 22.45 Rally Fia rally za SP Finska 23.00 Novice 23.15 Pikado 1.00 Rally Fia rally za SP Finska 1.15 Novice 1.30 Konec
+18 : Kariero sem želel končati v Magdeburgu in to sem zdaj storil je takoj po dvoboju dejal Ottke ki bo ostal v športu vendar presenetljivo ne v boksu ampak se bo posvetil poučevanju golfa katerega strasten igralec je in ima tudi dober hendikep 18
+19 : Golf v Sloveniji še zmeraj velja za neke vrste buržuazni šport
+20 : V ozadju Gojčičeve izjave se razkriva preobrat ki se je v Golf zvezi Slovenije začel pred tremi ali štirimi leti
+21 : Sploh ni šlo več za golf kot šport ampak za moč pravi Gojčič in dodaja da pri tem nikogar ne zanima kaj se v tem času dogaja z dobrimi celo vrhunskimi igralci golfa pri nas
+22 : 8.30 Golf 9.30 Nogomet Prijateljski turnir Bari Italija 11.30 Moderni peteroboj 12.30 Avtomoto šport 13.30 Gorsko kolesarstvo 14.00 Triatlon 15.00 Atletika Iaaf Grand Prix I Miting Stockholm Švedska 16.00 Nogomet Prijateljska tekma Milan Ac Real Madrid 18.00 Nogomet Prijateljski turnir Bari Italija 19.30 Rally Pariz Nancy Istambul 20.30 Športno potapljanje 21.00 Aerobika SP 22.00 Boks 23.00 Novice 23.15 Sumo 0.15 Sumo 1.15 Novice
+23 : Po mojem mnenju zaradi premalo strokovnega znanja saj ni skrivnost da so nekateri mladi igralci golfa boljši kot učitelji
+24 : 8.15 K Tel reklamna oddaja 8.45 Lumberjack 9.15 Powerboat 9.45 MotorVision 10.45 World Soccer 11.15 Športna borza 11.45 Reklamna oddaja 12.00 Speed Zone 12.15 Fun Zone 12.30 Normal oddaja za invalidne osebe 13.00 Ameriški gladiatorji 14.00 Takeshi's Castle 14.45 Lumberjack 15.15 Speed Zone 15.30 Fun Zone 15.45 Monster Trucks 16.15 Ameriški gladiatorji 17.15 Takeshi's Castle 18.00 DSF novinarski center 18.30 InTeam magazin nemške zvezne lige 19.00 DSF novinarski center 19.30 InTeam reportaža 20.00 DSF novinarski center 20.15 Rokomet 1. nemška zvezna liga 22.15 DSF novinarski center 22.30 CoolTour Hondin potovalni magazin 23.15 InTeam reportaža 23.45 Normal oddaja za invalidne osebe 0.15 Golf evropska turneja 0.45 Lumberjack 1.15 Best Direct reklamna oddaja
+25 : Dokaj poceni so še Golfi z bencinskim motorjem toda teh je na cestah bolj malo
+26 : BLED 6. Na Bledu se je končalo 21. mednarodno prvenstvo Slovenije v golfu ki je hkrati štelo tudi za državno prvenstvo
+27 : V Ulici bratov Vošnjakov v Celju je bilo vlomljeno v osebni avtomobil znamke VW Golf
+30 : 8.30 Jahanje pon. 9.30 Golf pon. 10.30 Motorsport pon. 11.00 Automagazin
+31 : 8.30 Namizni tenis 10.00 Nogomet Afriški pokal narodov 12.00 Nogomet Evrogoli 13.30 Atletika Dvoranski miting Dortmund Nemčija 15.00 Ciklokros SP 16.00 Kolesarstvo Po Avstraliji 17.00 Nogomet Afriški pokal narodov prenos 19.00 Nogomet Afriški pokal narodov 21.00 Boks 23.30 Golf 0.30 Kolesarstvo Po Avstraliji 1.30 Konec
+32 : Ob tem moramo upoštevati da golf ne pomeni samo igrišča temveč tudi povečan promet gradnjo gostinskih objektov ali na kratko odprto pot urbanizaciji
+33 : Voznik neznanega osebnega avtomobila je trčil v avtomobil VW golf rdeče barve nato pa odpeljal
+34 : PRODAM GOLF JGL bele barve dobro ohranjen letnik 81 reg do 30.4 l996
+35 : Njegovi najljubši športi so golf smučanje gorsko plezanje in deskanje na snegu
+36 : ZAHTEVA FRANCIJA PERČIČA Z BLEDA KI JE V IMENU SVOJE SOPROGE MARIJE PERČIČ VLOŽIL IZPODBOJNO TOŽBO ZOPER LETOŠNJO SKUPŠČINO BLEJSKEGA TURISTIČNEGA PODJETJA GOLF IN KAMP V KATEREM JE PERČIČEVA MALA DELNIČARKA JE NA OKROŽNEM SODIŠČU V KRANJU V CELOTI POGORELA
+37 : LETOŠNJA SKUPŠČINA BLEJSKEGA TURISTIČNEGA PODJETJA GOLF IN KAMP KI SE JE KONEC AVGUSTA ODVILA V PROSTORIH PODJETJA NA BLEDU NI MINILA BREZ ZAPLETOV
+38 : Golf se na primer vozi po gumah enakih velikosti kot jih ima precej večji in težji passat
+39 : Aha še to tisto z golfom je bilo bolj za šalo
+40 : GOLF JE BIL in je še vedno priljubljen tudi med ameriškimi predsedniki
+41 : Verjamem da je na področju učenja golfa v Sloveniji še velik potencial
+42 : Četudi je izvrsten igralec ki je v golfu že od otroštva je to lep dokaz kako se lahko na eni luknji vse spremeni
+43 : GOLF ZVEZA SLOVENIJE JE V ZAČETKU LETA SPREJELA SKLEP IN GA OPREDELILA TUDI V TEKMOVALNO TEHNIČNEM PRAVILNIKU GZS DA SE NA PODROČJU SLOVENIJE UVEDE NOVI HANDICAP SISTEM KI JE V VELJAVI V SKORAJ VSEH EVROPSKIH DRŽAVAH RAZEN ANGLIJE
+44 : Zakaj se je Golf obut v 18 palčna platišča na suhi in na mokri podlagi v primerjavi z enakim a v 15 palčna platišča obutim Golfom ustavil nekaj metrov prej dokazuje raziskava nemškega združenja predelovalcev avtomobilov VDAT skupaj z Dunlopom
+47 : To je tisti Golf ki je privlačen že samo zaradi imena in svoje zgodovine je pa seveda tudi tehnično odličen
+48 : Da pa je Golf precej večji in težji kot pred 25 leti pa je že druga zgodba
+50 : BLED 12. Na blejskem igrišču za golf so predstavili začetek sodelovanja treh dežel avstrijske Koroške Furlanije Julijske krajine in Slovenije ki se jim je pridružila še četrta regija Benečija
+53 : V omenjenih dveh italijanskih regijah ter na sosednjem Koroškem je po dvanajst igrišč za golf v Sloveniji pa osem
+54 : BLED 12. Na blejskem igrišču za golf so sklenili štiridnevno mednarodno amatersko prvenstvo Slovenije v golfu
+55 : Stokrat sem mu ponovila da ne maram golfa toda Phill me sploh noče poslušati
+56 : V BTC Cityju so prejšnji teden slovesno krstili še eno imenitno pridobitev igrišče za mini golf z devetimi luknjami Že na odprtju je padel hole in one
+58 : 8.00 Iz domače skrinje ponovitev 10.00 Evropski golf turnirji ponovitev 10.30 TV prodaja 11.30 Video strani 13.30 TV prodaja 14.30 Poslovne informacije 15.00 Iz domače skrinje ponovitev 16.30 Motor Show Report 17.00 Juke Box kontaktna oddaja 18.30 Avto šou 19.00 Razvoj avtomobilizma 19.30 Poslovne informacije 20.00 Sijaj kontaktna oddaja 21.00 Reporter X 21.30 Iz domače skrinje kontaktna oddaja 23.00 Poslovne informacije 23.30 Juke Box ponovitev
+59 : Nikoli ne iz golfa samega vedno in povsod zgolj iz golfistov
+60 : Če je igralec v dvomu da bi z uporabo določenega pripomočka kršil 14.3 pravilo se mora posvetovati s klubom The Royal and Ancient Golf Club of St. Andrews
+61 : Izdelovalec lahko pošlje klubu The Royal and Ancient Golf Club of St. Andrews vzorec pripomočka ki ga namerava izdelovati s prošnjo za presojo njegove skladnosti s 14.3 pravilom če bi ga igralec uporabil med dogovorjenim krogom
+62 : Tak vzorec postane last kluba The Royal and Ancient Golf Club of St. Andrews ki ga hrani za dokazne namene
+63 : Bistvo 8. pravila je da naj bi golf ostal šport posameznikov
+64 : V Sloveniji sicer golf še vedno velja za snobovski šport podobno kot je to veljalo za tenis pred štiridesetimi leti
+65 : V golfu mi je najbolj všeč da lahko igraš z zelo različnimi ljudmi od najmlajših do najstarejših in se lahko od vsakega naučiš marsikaj zanimivega
+66 : 9.00 Medicina od A do Ž 9.30 Planet Počitnice 10.00 Smučarska Amerika 10.30 Avstralska panorama 11.00 Bronasti avstralski bogovi 12.00 Transazija 13.00 Odkrivamo Avstralijo 14.00 Potovalni hrošč 14.30 Capriceina potovanja 15.00 Kalejdoskopska obala 15.30 Skrivnosti Indije 16.00 Mississippi reka pesmi 17.00 Po največjih golf igriščih sveta 17.30 Svoboden v divji Afriki 18.00 Smučarska Amerika 18.30 Sončni udar 19.00 Pot gre naprej 19.30 Capriceina potovanja 20.00 Z železnico preko Avstralije 21.00 Coltrane v Cadillacu 21.30 Go 2 22.00 Transazija 23.00 Potepanje po Franciji 23.30 Veliki pobeg 0.00 Dominikin planet 1.00 Praznične poti 1.30 Kalejdoskopska obala 2.00 Konec
+67 : Za odlične teatralne kostume je poskrbel Alan Hranitelj po odru se je vozil celo električni avtomobilček za golf pri katerem so morali biti pozorni da ni zdrsnil z odra
+68 : V prihodnje nameravajo razširiti tudi igrišče za golf vendar je zanj potrebna najprej prekategorizacija zemljišč iz kmetijskih v zemljišča za posebne namene
+69 : Američan Tiger Woods najboljši igralec golfa na svetu bo na drugem letošnjem turnirju za grand slam odprtem prvenstvu ZDA v San Diegu igral podaljšano igro za zmago z rojakom Roccom Mediatejem
+70 : Najboljši igralec golfa na svetu Američan Tiger Woods bo moral na operacijo levega kolena s tem je zanj konec sezone
+71 : Na blejskem Kraljevem igrišču se je končalo ekipno evropsko mladinsko prvenstvo v golfu
+72 : Bled V hotelu Golf na Bledu bo jutri v soboto 8. decembra ob 19. uri adventni koncert moškega pevskega zbora Triglav z Bleda
+73 : 22.15 GOLF VRHUNCI UVODNEGA DNE TURNIRJA V SURREYU
+75 : 9.00 Nogomet 11.00 Golf evropska turneja 11.30 Reklamna oddaja 12.00 Speed Zone 12.30 Reklamna oddaja 13.00 It's A Knock Out 14.00 Sports Bakka 14.30 Zimski športi 15.30 Motobike Polo magazin 16.30 Gillette World Sport 17.00 Nevzdržno 17.15 Cooltour Potovalni magazin 18.00 DSF novinarski center 18.20 Dvoboj kviz 19.00 DSF reportaža 19.30 Nevzdržno 20.00 DSF novinarski center 20.15 Prenos Odbojka 22.15 DSF novinarski center 22.30 MotorVision 23.30 Wrestling SP Thunder 0.30 Monster Trucks 1.00 Speed Zone 1.15 Reklamna oddaja 2.15 Monster Trucks
+76 : 8.00 Olympica zgodovina olimpijskih iger 8.30 Dominion reklamna oddaja 9.00 Action 10.00 Superkros 11.00 Oldtimer magazin 12.00 Motocikli 13.00 Zlata petdeseta Formule 1 14.00 Hitrostno drsanje 15.00 Power Time 16.00 Ameriški gladiatorji 17.00 Šport moči 18.00 Oldtimer magazin 19.00 NBA od znotraj 20.15 Rokomet 1. nemška zvezna liga 22.15 Športna poročila 22.30 Sumo 23.30 Golf evropska turneja 0.00 Gillette World Sport Special 0.30 Športna poročila 0.45 Normal oddaja za invalidne osebe 1.15 Best Direct reklamna oddaja 1.45 Akrobatski team
+77 : Enostavno to je golf in takšna je igra
+83 : Zmaga Izolana Andreja Jereba je resda marsikoga razveselila zato pa precej manj nesreča Darka Peljhana ki je povsem razbil svojega golfa in tako že pred zadnjo preizkušnjo 6. in 7. oktobra v Samoboru podpisal vdajo glede letošnjega naslova državnega prvaka
+84 : Voznik golfa je peljal po prehitevalnem pasu in dohitel škodo felicio katere voznik se mu je umaknil na desno na vozni pas
+85 : Zato je voznik felicie zavil nazaj na prehitevalni pas in ga začel prehitevati ko pa je bil vzporedno z golfom je njegov voznik zapeljal na levo in predenj ter naglo zavrl
+86 : Prejšnjo sredo so bili celjski policisti obveščeni da je neznani storilec v času od prejšnjega petka do srede zjutraj s parkirnega prostora na Ipavčevi ulici v Celju odtujil neregistriran osebni avtomobil znamke VW golf serije II kovinsko sive barve vreden okoli 200 tisoč tolarjev
+87 : Obžalujeva pa da nekateri poslanci LDS ki so v zadnjem času sicer naredili izpite in dobili dovoljenje za igro golfa etike obnašanja v golfu še ne obvladajo sta zapisala v sporočilu za javnost
+88 : Sicer pa je po njunem golf vse prej kot šport elite
+90 : Nekdanji prijatelji preminulega Janija Florjančiča so tudi letos na golf igrišču Zlati grič organizirali golfski turnir v njegov spomin
+91 : Ne bi rekla da je golf samo za elito namenjen je širši javnosti
+92 : Postavili so več zased in v eno se je že pri Starem Logu ulovil tovornjak na katerem pa niso bili le štirje Žužemberčani ampak tudi avto golf za katerega se je izkazalo da je bil lastninjen v Ljubljani
+93 : Kdo bo odigral 120 lukenj z najmanj udarci bo znano v nedeljo zvečer ko bomo v Mokricah zaključili z igranjem je povedal predsednik Golf kluba Celje Borut Sedovnik pri katerem se lahko tudi prijavite na telefonsko številko 041 233 108
+94 : Ko je Iztok začel igrati golf sem šel nekajkrat z njim na igrišče
+95 : Pri pregledu golfa pa so policisti našli zanimive predmete ki pričajo da se ubežnika dobro spoznata na svoje delo
+96 : Danes študenti na Fakulteti za šport še ne morejo napisati golf za prvi šport a se trudimo da bo kmalu drugače
+97 : Pred kratkim je prišel dopis komisije ki skrbi za treniranje in izobraževanje kjer so zapisali da so zelo ponosni da gre golf v pravo smer in da nam nudijo vso podporo
+98 : BLED Ekipno evropsko prvenstvo v golfu za mladince danes in jutri ob 7.30 na Bledu
+99 : Škofja Loka V Vincarjih je neznanec minuli četrtek poškodoval na mestni ulici parkiran osebni avtomobil VW golf JGLD in sicer mu je z boka odtrgal okrasni letvi z zadnjega brisalca snel metlico in prebodel vse štiri gume
+106 : 8.30 Powderhausen TV 9.00 PK TV 9.30 World Soccer 10.00 MotorVision 11.00 Golf evropska turneja magazin 11.30 Reklamna oddaja 12.00 Speed Zone 12.30 Reklamna oddaja 13.00 Motobike magazin 14.00 Xapatan 14.30 It's A Knock Out 15.30 Xapatan 16.00 English Gladiators 17.00 It's A Knock Out 18.00 DSF novinarski center 18.30 Nevzdržno 19.00 Dvoboj kviz 19.40 DSF novinarski center 19.45 Formula 1 prosti trening prenos za VN ZDA v Indianapolisu 21.15 DSF novinarski center 21.30 Nogomet 2. nemška zvezna liga 22.30 Viererkette 23.03 Golf Ryderjev pokal 0.30 UEFA Champions League Magazin
+107 : Golf igrišče grad Mokrice ki se razprostira na 70 hektarih v letošnjem letu ponuja še več izzivov in novih užitkov
+108 : Z delovanjem je začela tudi Golf akademija s programi šolanja tako za začetnike kot za tiste ki želijo v tem športu napredovati
+109 : Po kratki in mili zimi se na Bledu znova začenja sezona golfa ki je v letu 2006 trajala vse do 10. decembra
+110 : PRODAM Golf 1,3 JGL bele barve dobro ohranjen letnik 81 registriran do 9 6 96
+112 : 8.45 Šport moči 9.45 Monster Trucks 10.45 MotorVision 11.45 Reklamna oddaja 12.00 Speed Zone 12.15 Fun Zone 12.30 Monster Trucks 13.00 Ameriški gladiatorji 14.00 Takeshi's Castle 14.45 Lumberjack 15.15 Speed Zone 15.30 Fun Zone 15.45 Monster Trucks 16.15 Takeshi's Castle 17.00 Golf evropska turneja 18.00 DSF novinarski center 18.30 InTeam magazin nemške zvezne lige 19.00 DSF novinarski center 19.30 InTeam intervju 20.00 DSF novinarski center 20.15 U 18 22.30 DSF novinarski center 22.45 Viererkette strokovni razgovor 23.45 WOW Fan Power 0.45 Lumberjack 1.15 Best Direct reklamna oddaja
+116 : 8.30 Golf 9.30 Konjeništvo 10.30 Motociklizem VN Avstralije Phillip Island 12.00 Motociklizem 13.00 Gorsko kolesarstvo 13.30 Kolesarstvo Svet. prvenstvo San Sebastian Španija prenos 16.30 Tenis ATP turnir Dunaj prenos 21.30 Nogomet 23.00 Judo SP 0.00 Jadranje Magazin 0.30 Kolesarstvo Svet. prvenstvo San Sebastian Španija 1.30 Konec
+117 : Gorka hitrostna preizkušnja Petrol Gorjanci 2000 1. Stankovič Slovenijaavto Imos dallara 392 E do 2000 ccm 5:41,604 2. Dekleva Team Dekleva Dewalt 9,748 3. Zupančič Plamtex Sport Olimpija oba bmw 320 I oba ST 15,283 4. Črtalič Speed d. o. o. lucchini CN do 3000 ccm 19,575 5. Jereb Sava Seat RT seat ibiza kit car 25,323 6. Peljhan AK Self volkswagen golf kit car 34,627 7. Bubnič SB Racing lancia HF integrale 36,637 8. Trček Beja Sport ford escort RS cosworth 38,303 9. Valant AK Olimpija volkswagen golf kit car vsi A 39,560 10. Jurena Slk ford escort RS cosworth N 45,900 11. Klemenčič Beja Sport ford escort RS cosworth 46,929 12. Šuster AK Olimpija bmw M3 vsi N 49,649 pokal Seicento Petrol 1. Kavčič AMD Slovenijaavto Imos 7:15,454 2. Udovč Lojze Udovč 0,314 3. Fikfak Avtoplus Olimpija 0,488 4. Milosavljevič Avto Triglav AMD Slovenijaavto Imos 0,811 5. Pavlič Fiat RT 4,547 6. Šimenc AMD Kamnik 4,634 7. Tušek 5,811 8. Humar oba Petrol RT 6,284 9. Belingar ABC Sport Nova Gorica 8,745 10. Džudovič Elektro Dekleva 10,135
+118 : Športna zveza največ denarja namenja squashu plavanju atletiki jadranju veslanju tenisu in golfu
+119 : To je lahko kak mestni trg zgodovinsko prizorišče stadion igrišče za golf grad vinograd livada pravzaprav kateri koli prostor kamor imata dostop žerjav in tovornjak s prikolico za prevoz opreme
+120 : Voznik osebnega avta volkswagen golf ki je ravno takrat pravilno pripeljal nasproti se je zato moral umikati desno in je zapeljal s ceste
+121 : Bled 10. septembra Od četrtka do nedelje je na igrišču za golf na Bledu potekalo letošnje Ballantine's mednarodno amatersko prvenstvo Slovenije
+122 : Skupni cilj je torej razvoj množičnosti golfa v Sloveniji in rast kakovosti predvsem z vzgojo najmlajših igralk in igralcev golfa
+123 : kopitar Prejšnji teden so Kralji priredili dobrodelni golf turnir na katerem so zbrali sto tisoč dolarjev ki so jih spet namenili posebnemu programu otroške bolnišnice LA Kings BloodMobile
+124 : Pedološke značilnosti tal so za ureditev igrišča za golf ugodne
+126 : 8.30 Konjeništvo 9.30 Golf Senior PGA Tour 10.30 Eurosportov dirkaški vikend 11.00 Športni avtomobilizem AutoMagazin 11.30 Golf 2001 Challenge Tour 12.00 Svet jadranja 12.30 Odbojka na mivki Svetovna turneja Mallorca Španija 13.30 Tenis WTA turnir Moskva Rusija prenos 15.00 Tenis WTA turnir Moskva Rusija 16.00 Ekstremni športi 18.00 Nogomet Kvalifikacije za SP 2002 18.30 Snooker Regal Masters 2001 20.30 Boks 22.30 Rally Svetovno prvenstvo FIA Sanremo Italija 23.00 Novice 23.15 Rokoborba Svetovno prvenstvo New York ZDA 0.15 Skoki v vodo 0.45 Rally Svetovno prvenstvo FIA Sanremo Italija 1.15 Novice
+128 : 8.00 Dominion reklamna oddaja 8.30 Paulaner Superfan nogometni kviz 9.15 Športni idoli 10.15 Oldtimer magazin 11.15 Gillette World Sport Special 11.45 Nogomet danes 12.15 NBA od znotraj 13.15 Paulaner Superfan nogometni kviz 14.00 Motorvision 15.00 Gillette World Sport Special 15.30 Biljard SP v Viersenu 16.30 Ofenzivno in napadalno 17.30 Nogomet danes 18.00 Paulaner Superfan nogometni kviz 18.45 Rokomet 1. nemška zvezna liga 20.30 Golf European Tour Magazin 21.00 Športni utrinki 21.15 Športni idoli 22.15 Športna poročila 22.30 Nogomet danes 23.00 NBA od znotraj 0.00 Normal oddaja za invalidne osebe 0.30 Golf European Tour Magazin 1.00 Best Direct reklamna oddaja 1.30 Oldtimer klasični avtomobili 2.30 Šport moči
+129 : Svojo kolegico je posvaril da bo ženski golf izpostavila posmehu ko se bo postavila po robu najboljšim moškim igralcem
+131 : 8.00 Dežniki 8.15 Zares divja zabava 8.40 Posel 9.05 Modri Peter 9.25 Grange Hill 10.00 Dr. Who 10.25 Modni izziv 10.50 Pripravljeni pozor kuhajte 11.20 Vreme 11.25 Eastenders 12.45 Modni izziv 13.15 Pripravljeni pozor kuhajte 13.45 Kilroy 14.30 Divje življenje 15.00 Ljubezen boli 15.50 Vreme 16.00 Pes Monty 16.05 Vse se vrne 16.30 Podzemni škrat 16.55 Grange Hill 17.30 Golf z Billom Oddiem 18.00 Top of the Pops 18.30 Dr. Who 19.00 Očetova vojska 19.30 So vam že postregli
+132 : Woods je palico za golf vihtel že s petimi leti
+133 : GOLF 1. Pontos Sašo Novakovič 2. Nika Jure Jerkovič 3. Blanka II Jurij Kolbe
+138 : Gordon MacKenzie Johnston je poleg tega da opravlja dela in naloge britanskega veleposlanika v Sloveniji in da je strasten igralec golfa znan še po nečem je odličen poznavalec slovenskega vina
+139 : 19.00 Miš maš otroška oddaja ponovitev 20.00 Glasbeni labirint ponovitev 21.00 Evropski turnirji v golfu 21.30 Avtomoto športni program ponovitev 22.00 Sq Jam glasbena oddaja ponovitev 23.00 Oglejte si z nami
+140 : Domov se je pripeljal z jeepom bil je na golfu jutri se bo odpeljal za nekaj dni na morje kjer ima hišo in jadrnico
+141 : Bled Družbi Golf in kamp Bled in Grand hotel Toplice ki se v procesu združevanja pod okriljem dejavnosti turizem v Poslovni skupini Sava združujeta v enovito družbo Grand hotel Toplice Bled sta uspešno opravili certifikacijsko presojo sistema vodenja kakovosti
+142 : 8.30 Nogomet Evrogoli 10.00 Prosto plezanje Svetovni pokal Millau Francija 10.30 Triatlon Itu Svetovni pokal Toronto Kanada 11.00 Motociklizem 12.30 Gorsko kolesarstvo EP Vars Francija 13.00 Jadranje 13.30 Golf 14.30 Konjeništvo 15.30 Tenis WTA turnir Montreal Kanada 18.00 Cart Svetovna serija Mid Ohio ZDA 19.00 Tenis WTA turnir Montreal Kanada 22.30 Nogomet Prijateljska tekma 0.00 Ekstremni športi 1.30 Konec
+143 : Turnir je bil organiziran na pobudo dr. Ernesta Petriča veleposlanika RS na Dunaju glavna organizatorja pa sta bila Golf in kamp Bled ter Klub diplomatov in poslovnežev z Dunaja
+144 : 8.00 Transazija 9.00 Floyd v Ozu 9.30 Okus po Italiji 10.00 Po vseh golf igriščih sveta 10.30 Okus po Franciji 11.00 Na vrhu sveta 12.00 Afriški šampanjski vlaki 13.00 Capriceina potovanja 13.30 Veliki pobeg 14.00 Pot se nadaljuje 14.30 Dubai 15.00 Mississippi reka pesmi 16.00 Transazija 17.00 Turist 17.30 Čez ekvator obe Ameriki 18.00 Sprehod po Zemlji 18.30 Avventura Potovanja po italijanski kuhinji 19.00 Pot se nadaljuje 19.30 Dubai 20.00 Največja potovanja na svetu 21.00 Floyd v Ozu 21.30 Debeluh iz Kenta 22.00 Najdlje a najlepše 23.00 Svoboden v divji Afriki 23.30 Na obzorju 0.00 Dominikin planet 1.00 Oceanija 1.30 Veliki pobeg
+146 : Predsednik prvega celjskega golf kluba je Borut Sedovnik
+149 : 9.00 Izven kontrole 9.30 Ameriški gladiatorji 11.15 Stoke 11.45 Normal oddaja za invalidne osebe 12.15 Nogomet 2. nemška zvezna liga 13.00 World Soccer 13.30 Šport moči 14.30 Motobike 15.30 MotorVision 16.30 Warm Up 18.00 Namizni tenis 1. nemška zvezna liga 19.00 Golf US Masters 20.00 Gillette World Sport Special 20.30 Biljard 21.30 Knockout magazin 22.15 Wrestling SPW 0.00 Redki športi 0.30 Redki športi 1.00 Best Direct
+153 : S lovenski premier je preprič an da ljudje pri nas na golf še vedno gledajo kot na elitni šport a se to mnenje počasi spreminja k čemur pripomore tudi gradnja novih igrišč
+154 : Zaenkrat je golf v Sloveniji premalo množičen da bi lahko resno računali na generacije tekmovalcev ki bi lahko prodrle v evropski ali svetovni vrh
+155 : 19.00 Miš maš otroška oddaja ponovitev 20.00 Ex Tempore Avsenik ponovitev 21.30 Evropski turnirji v golfu 22.00 Sq jam glasbena oddaja ponovitev 23.00 Oglejte si z nami
+156 : SE VAM ZDI DA JE GOLF LAHKO DOBER POSEL
+157 : Vsi skupaj se moramo potruditi da prepričamo večino da je golf tudi v Sloveniji čeprav tekmovalno mlad povsem običajen šport dostopen veliki večini
+158 : Skušal sem igrati golf vendar sem ostal le pri začetnem tečaju
+161 : Bled Na blejskem igrišču za mali golf je bilo že 3
+163 : Če bi bil novi golf 5 bi bil še enkrat več vreden
+164 : Golf je tako silovito trčil v desno bočno stran vectre da jo je obrnilo v nasprotno smer in je nato z desno stranjo treščila v drog javne razsvetljave
+165 : Pri Golfu z najosnovnejšim motorjem če izvzamemo motor s posrednim vbrizgom so solidne
+166 : 8.30 Šport moči 9.30 MotorVision 10.30 Viererkette 11.30 Reklamna oddaja 12.00 PK TV 12.30 Reklamna oddaja 13.00 Xapatan 13.30 Takeshi's Castle 14.15 Pago Pago 15.00 Jet Sprints 15.30 Pace Championship 16.00 Xapatan 16.30 Takeshi's Castle 17.00 Golf US Masters 18.00 DSF novinarski center 18.30 Inteam 19.00 DSF novinarski center 19.30 DSF intervju 20.00 DSF novinarski center 20.15 UEFA Champions League Magazin 21.15 DSF novinarski center 21.30 Nogomet 22.15 DSF novinarski center 22.30 Knockout Fightnight 23.30 Wrestling SPW Thunder 0.30 Šport moči 1.30 Reklamna oddaja
+167 : Iz študije o upravičenosti izgradnje igrišča za golf v Sečovljah ki jo je naročila Občina Piran sofinanciral pa jo je tudi koprski Istrabenz izhaja da je ob primerjavi donosnosti golfa in kmetijstva pridelave projekt golf primernejši
+168 : V četrtkovem in petkovem programu je poleg četrtkovega gostovanja na odprtju letnega vrta puba Beli konj tudi petkovo druženje in nočni golf turnir na igrišču Zlati grič
+169 : Tekmovali so v kegljanju balinanju odbojki namiznem tenisu mini golfu in še v čem
+170 : Takrat se je nasproti z golfom pripeljal 41 letni V. Z. iz Gorice pri Šmartnem
+171 : 18.15 Football Salsa Latin Road To The World Cup 18.45 Gillette World Sport Special 19.15 Golf evropska turneja 20.15 Motorvision avtomagazin 21.15 Formula 1 trening za kvalifikacije 22.15 Knockout Fightnight 0.30 DSF reportaža 2.15 Monster Trucks 3.30 Speed Zone
+172 : 8.15 K Tel reklamna oddaja 8.45 Nogomet 2. nemška zvezna liga 10.15 Nogomet 2. nemška zvezna liga 11.45 Reklamna oddaja 12.00 Lumberjack 12.30 NHL Powerweek 13.00 Center Court ATP 15.00 Redki športi 15.15 Takeshi's Castle 16.00 Stoke Loop Szene Magazin 16.30 Formula 1 prosti trening 18.00 DSF novinarski center 18.30 InTeam magazin nemške zvezne lige 19.00 DSF novinarski center 19.30 InTeam magazin nemške zvezne lige 20.00 DSF novinarski center 20.15 Formula 1 prosti trening 21.45 Damon Hill's Wild & Whacky Races 22.15 DSF novinarski center 22.30 Touchdown Holsten Football Magazin 23.00 Golf evropska turneja 0.00 Wrestling SPW Thunder 1.00 Lumberjack 1.30 Best Direct reklamna oddaja 2.00 Wrestling SPW Thunder
+173 : 20.00 Tedenski signali informativna oddaja 20.30 Potovanja Turčija dokumentarna oddaja 21.30 Evropski turnirji v golfu 22.00 Avtomoto športni program 22.30 Oglejte si z nami
+174 : 8.15 Dominion 8.45 Oldtimer magazin 9.45 Formula 3 10.45 STW prvenstvo 11.45 Reklamna oddaja 12.00 Šport moči 13.00 Ameriški gladiatorji 14.00 Monster Trucks 15.00 NHL Stanley Cup 15.30 Redki športi 16.00 Ameriški gladiatorji 17.00 Touchdown 18.00 DSF Novinarski center 18.30 Reportaža 19.00 DSF Novinarski center 19.30 Reportaža 20.00 DSF Novinarski center 20.15 Wimbledon 22.15 DSF Novinarski center 22.30 LaOla 23.00 Nogomet 0.50 Golf US Open 1.50 Best Direct
+175 : Kmalu je ugotovil da je igranje golfa neverjetno dolgočasno zato si je zadal nov izziv kardio
+177 : Golf zveza Slovenije GZS je bila ustanovljena leta 1982 in bo letos organizirala okrog 60 turnirjev
+178 : Golfa so policisti kasneje našli v Lukovici in ugotovili da je bila njegova ključavnica enako poškodovana kot pri mercedesu
+179 : Kranj S parkirišča na Begunjski v Kranju je v noči na 28. april izginil osebni avto VW golf III kovinske temno sive barve letnik 1993 z registrsko oznako KR 28 65A vreden okrog 600.000 tolarjev
+180 : Pri uvozu vozišča iz smeri Brda je voznik golfa na prehitevalnem pasu dohitel voznika škode felicie
+181 : Takrat se je za njim pripeljal golf in trčil vanj
+182 : Za njim pa je pripeljal še voznik neznanega avtomobila ki je trčil še v golfa
+183 : 8.00 Potovanja z evropskimi železnicami 9.00 Cestno križišče 9.30 Okus po Italiji 10.00 Potovanje igralca golfa 10.30 Okus po Franciji 11.00 O zgodbah in potovanjih 12.00 Mississippi reka pesmi 13.00 Turist 13.30 Stopinje na planetu Zemlja 14.00 Okus po Italiji 14.30 Po vseh golf igriščih sveta 15.00 Na kosilu z Brianom Turnerjem 15.30 Plemenska potovanja 16.00 Potovanja z evropskimi železnicami 17.00 Največja potovanja na svetu 18.00 Zdravnikove stopinje 18.30 Čez črto 19.00 Vidiki življenja 19.30 Divja Irska 20.00 Chocove skrivnosti 21.00 Transazija 22.00 Potovanja s švicarsko železnico 23.00 Zgodbe z leteče preproge 23.30 Cestno križišče 0.00 Skrivnosti Indije 0.30 Potovanje 1.00 Connoisseurjeva zbirka
+184 : Odkar je Sava d. d. Kranj vstopila oziroma postala solastnica in večinska lastnica podjetja Golf in kamp d. d. ter Grand Hotela Toplice d. d. Bled se je zanju začelo novo obdobje
+185 : Gregor je tako na svojega golfa namestil 19 palčna aluminijasta platišča Mille Miglia 8 19 pnevmatike pa so seveda nizkopresečne Michelinove model Pilot Sport 2 dimenzij 235 35 19
+186 : Govorice da so igrišča za golf ekološko sporna ter da se pri gnojenju trave in škropljenju plevela uporabi več nevarnih snovi kakor pri intenzivnem poljedelstvu pa odločno zanikam
+187 : Bo pa Golf v začetku na razpolago v štirih motornih različicah bencinski sta 1,4 in 1,6 FSI turbodizelski 1,9 TDI in 2,0 TDI 16V
+188 : V tamkajšnjem dvorcu sicer domuje klub Royal and Ancient Golf Club of St. Andrews R & A ki je krovna organizacija za golf zunaj ZDA in Mehike toda nima prav nobenih posebnih ugodnosti glede uporabe igrišč
+190 : Z osebnim avtom VW golf se je v soboto okoli 8.20 peljal po Derčevi ulici v Ljubljani 19 letni Ljubljančan A. L. V blagem desnem nepreglednem ovinku je prehitel več vozil nato pa trčil v varovalno ograjo ob pločniku
+192 : Iz družbe sta se umaknila NFD Holding ter Golf in kamp Bled iz skupine Sava
+194 : Jezna je tudi zato ker je igralec golfa Tiger Woods ki je v istem času posnel reklamni spot za Buick plačal le 50.000 dolarjev kazni pop zvezde Britney Spears in N'Sync pa za reklamo McDonaldsa sploh niso bile kaznovane
+195 : O večnih pomislekih povezanih z urejanjem prostora je znova poudaril da golf igrišča ne povečujejo in da niti kvadratnega metra od 250 hektarov urejenih pašnikov ne bodo namenili za turistične objekte
+196 : Konkurenca je bila kar ostra prvih pet avtomobilov po danskem okusu pa je mazda3 opel meriva golf V toyota avensis in fiat panda
+198 : 18.00 Golf vrhunci tretjega dne turnirja v Münchnu
+199 : Tiger Woods je ustvaril občutek da je golf lahka igra toda nekateri mladi igralci so zdaj frustrirani ker sami ne znajo igrati z lahkoto
+200 : Prihodnji teden bo s turnirjema na Bledu vrhunec letošnje sezone golfa v Sloveniji
+201 : Dodatne prostore za poslovni turizem imajo še v hotelu Zdravilišče v klubu Termopolis in v hotelu Golf grad Mokrice
+202 : MOKRICE V galeriji Meke v Golf hotelu grad Mokrice so v četrtek 20. maja zvečer odprli vsakoletno pregledno razstavo del likovnikov Posavja
+204 : No zaenkrat ostanimo pri novorojenem golfu ki smo ga lahko na kratko tudi zapeljali
+205 : 15.00 Mobi TV 15.30 Iz domače skrinje ponovitev 17.00 Golf evropski turnirji ponovitev 17.30 Juke Box kontaktna oddaja 19.00 Motor Show Report pregled motorističnih športov 19.30 Ključ ponovitev 20.00 Politična konferenca kotaktna oddaja 21.00 Reporter X 21.30 Iz domače skrinje kontaktna oddaja 23.00 Juke Box ponovitev 00.30 Mobi TV 01.00 TV prodaja
+206 : 8.30 Golf US PGA Tour 9.30 Nogomet Evropsko prvenstvo do 21 let Švica 10.30 Avtomoto šport series 11.00 Tenis Odprto prvenstvo Francije Pariz 16.30 Kolesarstvo Giro d'Italia 17.30 Tenis Odprto prvenstvo Francije Pariz 21.00 Tenis Odprto prvenstvo Francije Pariz 22.00 Nogomet V akciji 22.30 Nogomet Moštva za SP 23.00 Novice 23.15 Nogomet Gillette Dream Team 0.15 Nogomet Moštva za SP 0.45 Gorsko kolesarstvo 1.15 Novice
+207 : 8.30 Come On Baby 9.30 The Worldgame 10.30 Motorvision avtomagazin 12.00 Nevzdržno 12.30 Reklamna oddaja 13.00 Sports Bakka 14.00 Come On Baby 15.00 Atp Masters Series povzetek 16.00 DSF reportaža 16.30 Formula 1 prosti trening 18.00 DSF novinarski center 18.20 Dvoboj kviz 19.00 Gillette World Cup 2002 19.30 Nemška zvezna liga 20.00 Formula 1 prosti trening 21.30 Nogomet 2. nemška zvezna liga 22.30 Viererkette 23.30 Uefa Champions League Magazin 0.30 Golf evropska turneja 2.15 Monster Trucks
+208 : Voznik tega močan velik obritoglavec s sončnimi očali je stopil ven prav tako je stopil ven tudi voznik golfa
+211 : 8.30 Golf US PGA Tour 9.30 Športni avtomobilizem Automagazin 10.00 Kolesarstvo Tour de France 11.00 Plavanje Svetovno prvenstvo Fukuoka Japonska 12.30 Atletika Iaaf Grand Prix I Miting Stockholm Švedska 14.00 Jadranje 14.30 Gorsko kolesarstvo UCI Svetovni pokal Grouse mountain Kanada 15.00 Konjeništvo 16.00 Atletika Iaaf Grand Prix I Miting Stockholm Švedska 17.30 Odbojka na mivki Svetovna turneja Lignano Sabbiadoro Italija 18.00 Plavanje Svetovno prvenstvo Fukuoka Japonska 19.00 Ekstremni športi Samo za mlade 19.30 Kolesarstvo Tour de France 20.00 Boks 22.00 Kolesarstvo Tour de France 23.00 Novice 23.15 Rally FIA Svetovno prvenstvo Safari rally Kenija 23.45 Plavanje Svetovno prvenstvo Fukuoka Japonska 0.45 Rally FIA Svetovno prvenstvo Safari rally Kenija 1.15 Novice
+212 : Mogoče si že kdaj kosil travo na igriščih za golf toda stavila bi da vse do danes golfa še nikoli nisi igral
+213 : Poleg ugodnih cen nastanitev v Sava hotelih Bled hoteli Golf Park Savica Jadran in Trst paket vključuje tudi neomejeno uporabo termalnega bazena v Živi whirpoola in savn za goste hotela Park konec tedna nočno kopanje v bazenih wellnesa Živa v hotelu Savica animacijski program za otroke ter bonus kartico za lepši poletni oddih
+214 : Neznani voznik rdečega golfa je namreč na cesti ki pelje iz Hajdine proti Ptujski Gori trčil v zadnji del kolesa z motorjem ki ga je vozil 16 letni M. B. iz Majšperka
+215 : V rojstnem Grosuplju je ustanovil golf klub ima tudi že precej članov skoraj vsi imajo tudi že palice in žogice le igrišča za golf še nima
+216 : Playboy sinonim za erotični tisk v katerem pa lahko najdete tudi veliko drugega zanimivega branja je dober razlog da se povabljena druščina poda na igrišče za golf to pot na Bledu
+217 : De 16.30 Reportaža 17.00 Nevzdržno 17.30 Nogomet 2. nemška zvezna liga 19.00 Golf Ryder Cup 20.15 DTM športni utrinki 21.15 Overtime 21.45 Nemška zvezna liga Ii 22.45 LaOla mednarodni nogomet 23.30 Beachsoccer 0.30 Dirke formule 1 1.30 Reklamna oddaja 2.30 Sexy Sport Clips 3.00 Reklamna oddaja 3.30 Sexy Sport Clips
+218 : 8.30 Kolesarstvo Po Španiji 9.30 Triatlon 10.30 Deseteroboj 11.30 Avtomoto šport Magazin 13.00 Formula 1 Grand Prix Magazin 13.30 Motociklizem Grand Prix Magazin 14.00 Eurofun 14.30 Gorsko kolesarstvo 15.00 Kolesarstvo Po Španiji 15.30 Kolesarstvo Po Španiji prenos 17.00 Golf PGA turnir 19.00 Boks 20.00 Pikado 21.00 Dirke tovornjakov 22.00 Boks 23.00 Formula 1 Grand Prix Magazin 23.30 Motociklizem Grand Prix Magazin 0.00 Jadranje Magazin 0.30 Kolesarstvo Po Španiji 1.30 Konec
+220 : Povabljeni poslovni partnerji so se zbrali pri golf igrišču Zlati grič
+221 : No za tehnika je Altea tako ali tako Golf sicer pa hvala bogu da je Golf Golf in da je lahko Altea takšna eden najbolj svežih avtomobilov v tem razredu zato zelo privlačen in zlasti v primerjavi s hišnimi tekmeci in precej ugoden nakup
+222 : Tedaj ji je nasproti z golfom pripeljal 22 letni J. G. iz Malije
+224 : Tekmovali bodo v atletiki košarki nogometu golfu tenisu namiznem tenisu plavanju balinanju lokostrelstvu odbojki in ciklokrosu
+225 : Voznik golfa je takoj začel vpiti na enega od 20 letnikov tako da je prišel iz svojega avtomobila
+226 : V blejskih hotelih Golf Park Jelovica Kompas Krim in Astoria v gostišču Okarina in galeriji Vila Nana so na ogled stalne razstave
+227 : Vozil je neregistriran golf za povrh pa je pihnil 1,17 promila
+229 : 8.00 Ne pozabite potnega lista 9.00 Potovanja z evropsko železnico 10.00 Avstralska panorama 10.30 Stopinje na planetu Zemlja 11.00 Neodvisni popotniški vodič 12.00 Sončni udar 12.30 Kalejdoskopska obala 13.00 Po največjih golf igriščih sveta 13.30 Floyd v Afriki 14.00 Potovalni hrošč 14.30 Turist 15.00 Nick Sanders Na robu puščave 15.30 Go 2 16.00 Ne pozabite potnega lista 17.00 Na obzorju 17.30 Sončni udar 18.00 Stopinje na planetu Zemlja 18.30 Tradicionalne poti z Burtom Wolfom 19.00 Turist 19.30 Avstralska panorama 20.00 24 ur v življenju mesta 21.00 Pot gre naprej 21.30 Pobesneli biki 22.00 Ne pozabite potnega lista 23.00 Glynn Christian okuša Tajsko 23.30 Entrada 0.00 Cestno križišče
+230 : Ljubljana S parkirnega prostora ob Celovški cesti je v četrtek popoldne neznanec odpeljal golfa temno sive barve z registrsko številko LJ P3 38P vrednega približno 350 tisoč tolarjev
+231 : 8.00 Iz domače skrinje ponovitev 10.00 Evropski golf turnirji ponovitev 10.30 TV prodaja 11.30 Video strani 13.30 TV prodaja 14.30 Mobi TV 15.00 Iz domače skrinje ponovitev 16.30 Motor Show Report 17.00 Juke Box kontaktna oddaja 18.30 Avto šou 19.00 Razvoj avtomobilizma 19.30 Mobi TV 20.00 Sijaj kontaktna oddaja 21.00 Reporter X 21.30 Iz domače skrinje kontaktna oddaja 23.00 Mobi TV 23.30 Juke Box ponovitev
+232 : Že pred zamenjavo hrošča z golfom je bilo očitno da ima pri konstruiranju osebnih avtomobilov prihodnost samonosna karoserija ki ima ob ustrezni zasnovi med trkom sposobnost absorbiranja velike količine energije
+233 : Tudi na trgu z rabljenimi avtomobili je tako še posebej če je to Golf z dizelskim motorjem
+234 : Čeprav v igri golfa ni zmagal je bil slavni igralec tri dni nasmejan in dobro razpoložen
+235 : 8.00 Transazija 9.00 Nad oblaki 9.30 Okus po Italiji 10.00 Po vseh golf igriščih sveta 10.30 Okus po Franciji 11.00 Na vrhu sveta 12.00 Tropska potovanja 13.00 Capriceina potovanja 13.30 Veliki pobeg 14.00 Okus po Italiji 14.30 Floyd v Španiji 15.00 Mississippi reka pesmi 16.00 Transazija 17.00 Turist 17.30 Čez ekvator obe Ameriki 18.00 Sprehod po planetu Zemlja 18.30 Avventura Potovanje po italijanski kuhinji 19.00 Od Pekinga do Pariza 19.30 Stopinje na planetu Zemlja 20.00 Največja potovanja na svetu 21.00 Nad oblaki 21.30 Debeluh iz Kenta 22.00 Najdlje a najlepše 23.00 Zdravnikove stopinje 23.30 Na obzorju 0.00 Dominikin planet 1.00 Oceanija 1.30 Veliki pobeg
+237 : Najprej je bil Golf sledil mu je Passat in zdaj je tu še Eos povsem samosvoj model kar je Volkswagen dodatno poudaril s samosvojim imenom
+238 : Pri Golfih z dizelskim motorjem bodite še posebej pazljivi saj so prevoženi kilometri velikokrat neresnični
+239 : V zadnjem času tradicionalno oblikovanemu Golfu ne gre več tako dobro kot pred leti ko je prevladoval nad konkurenco
+241 : Rezultati Martinskega relija 1. Peljhan Kacin AK Self VW golf kit car 1 02:30,1 2. Popovič Dolenc Ak Olimpija subaru impreza + 12,5 3. Podobnik Praznik Petrol Racing proton pert 1:50,3 4. Lončarić Uzić Hrvaška mitsubishi lancer evo V 4:55,5 5. Jereb Polončič Petrol Racing seat ibiza kit car 4:56,7 6. Beržan Čehovin Ak Olimopija citroen saxo 8:30,7 7. Smr delj Župevec AMD Slovenija Avto Lada samara 1500i 8:36,2 8. Rihtar Kriz manič AK Self VW golf TDi 8:36,4 9. Turk Kurent Honda Amortizer team honda civic 1,6 8:41,7 10. Carić Stubljić Hrvaška škoda felicia 1,3 11:44,1
+242 : Za njo je z golfom pripeljal 39 letni A. H. iz okolice Vrhnike
+243 : 11.30 GOLF DA TE KAP I amer. film
+244 : V segmentu C z majhno rastjo so kompaktni avti z oplom astro in volkswagnom golfom na čelu
+246 : Izidi velika nagrada Slovenije 1. Peljhan Self Aral VW golf kit car 2. Rihtar Self Aral ford escort 3. Šuster Olimpija BMW 320i 4. Kunčar Jug BMW 320 ST 5. Kuvalja Jug BMW 320 ST divizije II III IV 1. Peljhan 2
+247 : 8.30 Atletika Svetovno mladinsko prvenstvo Santiago Čile 10.30 Motociklizem Pregled sezone 12.30 Golf 13.30 Jadranje 14.00 Tenis ATP turnir Lyon Francija 18.00 Rally Finska 19.00 Avtomoto šport 20.00 Rally Ciper 21.00 Tenis ATP turnir Lyon Francija 23.00 Boks 0.00 Ekstremni športi 1.00 Dirke tovornjakov
+248 : Žal imam za igranje golfa premalo časa predvsem ga igram na turnirjih ko se lahko tudi sproščeno srečam in pogovorim z mnogo ljudmi predvsem pa sem med prijatelji
+249 : Neznani voznik je z rdečim golfom pripeljal po Podmilščakovi ulici in v križišču zavijal levo na Vodovodno cesto v smeri Verovškove ulice
+251 : 8.30 Kolesarstvo Fleche Wallonne Belgija 9.30 Golf 10.30 Maraton Boston 12.00 Športni avtomobilizem Auto Mag 12.30 Rally 13.30 Olimpijski magazin 14.00 Golf 15.00 Boks 17.00 Dirkaški vikend 17.30 Ekstremni športi 19.00 Nogomet En svet en pokal 20.00 Tenis WTA turnir Charleston ZDA 21.30 Boks 23.00 Novice 23.15 Nogomet Pokal UEFA 0.15 Tenis WTA turnir Charleston ZDA 1.15 Novice
+253 : 9.00 Ko je Amerika prišla na olimpijado 11.00 Nemška zvezna liga Classics 13.00 Nevzdržno 13.15 The Worldgame 14.15 Reportaža 14.45 Motorvision 15.45 Izdelovalci avtomobilov 16.15 Motobike Polo magazin 17.15 World Soccer 17.30 Nevzdržno 18.00 Pustolovščine in potovanja 18.45 Formula 3 20.15 DTM športni utrinki 21.15 Beachsoccer 22.15 Knockout Fightnight 0.15 Golf evropska turneja 2.15 Monster Trucks
+254 : 8.30 Šport moči 9.30 Monster Trucks 10.00 MotorVision 11.00 Golf Evropska turneja magazin 11.30 Reklamna oddaja 12.00 Gillette World Sport Special 12.30 Reklamna oddaja 13.00 Xapatan 13.30 Takeshi's Castle 14.15 Pago Pago 15.00 Jet Sprints 15.30 Thundercats 16.00 Xapatan 16.30 Takeshi's Castle 17.15 Pago Pago 18.00 DSF novinarski center 18.30 InTeam magazin nemške zvezne lige 19.00 DSF novinarski center 19.30 PK TV 20.00 DSF novinarski center 20.15 MotorVision 21.15 MotorVision 22.15 DSF novinarski center 22.30 Viererkette 23.30 NBA od znotraj 0.30 Wow Fan Power 1.30 Reklamna oddaja 2.00 Nočni show 2.30 Lumberjack
+257 : Razred golf 1. Muca Sašo Novakovič 2. Urška Luka Jovanovič 2. Nika Emil Jerkovič
+258 : Kranj Na Vrečkovi ulici v Kranju je v noči na torek neznanec vlomil v golfa in ukradel avtoradio zadnjo polico z zvočniki in kovček z orodjem
+260 : To nenazadnje dokazuje tudi novi Golf ki je šele zapeljal na ceste pa bi ga že lahko opisali z besedami kot so vsakdanje preprost ali pa modno nezanimiv
+261 : 8.30 Tenis WTA turnir Rim Italija 9.30 Športni avtomobilizem 10.00 Eurosportov dirkaški vikend Silverstone Velika Britanija 10.30 Dirke tovornjakov 11.00 Moderni peteroboj 11.30 Golf US PGA Tour 12.30 Motociklizem VN Francije Le Mans 13.00 Motociklizem VN Francije Le Mans 14.00 Tenis WTA turnir Rim Italija 17.00 Boks 18.00 Motociklizem VN Francije Le Mans 19.00 Tenis WTA turnir Rim Italija 20.00 Tenis WTA turnir Rim Italija prenos 21.30 Boks 23.00 Novice 23.15 Pustolovščina AdNatura 0.15 Tenis WTA turnir Rim Italija 1.15 Novice
+262 : V hišo je vstopil skozi odprto okno se malce razgledal po prostorih in našel kontaktne ključe osebnega avtomobila znamke VW golf 1.9 rdeče barve z registrsko številko LJ F9 33V in se z njim odpeljal v neznano
+264 : Golfa verjetno ne bom igrala saj je zelo drag šport me pa mika da ga kdaj bi
+265 : Golfa ne bom igrala ker se mi ne zdi zanimiv poleg tega je zelo prestižen šport
+266 : Tudi golfa ne igram ker me ni pritegnil čeprav ima svoj čar
+267 : To tedaj ni bila demagogija a kaj naj potem rečemo o Milanu Kučanu ki se vozi naokoli v golfu
+268 : TRAVA GOLF IN HIT Igrišče za golf in arboretum gresta zelo lepo skupaj
+269 : Na igrišču za golf grada Mokrice bodo odprli letošnjo sezono v začetku aprila
+270 : Ko je bil vzporedno z jetto je slednji začel prehitevati golfa ne da bi se prepričal če to lahko varno stori
+271 : Ameriški igralec golfa Tiger Woods bi lahko udaril žogico preko 300 metrov daleč a je noče
+275 : PIRAN Piranski občinski svetniki so včeraj v drugem branju sprejeli lokacijski načrt za igrišče za golf v Sečovljah ki obsega približno 66 hektarov pretežno kmetijskih površin
+276 : Osnovna motorika z žogo košarka nogomet golf bejzbol odbojka rokomet vaterpolo
+277 : Nekaj podobnega velja tudi za igrišča za golf
+278 : 8.00 Dežniki 8.15 Zares divja zabava 8.40 Posel 9.05 Modri Peter 9.25 Grange Hill 10.00 Dr. Who 10.25 Modni izziv 10.50 Pripravljeni pozor kuhajte 11.20 Vreme 11.25 Eastenders 12.45 Modni izziv 13.15 Pripravljeni pozor kuhajte 13.45 Kilroy 14.30 Najavljeno 15.00 Ljubezen boli 15.50 Vreme 15.55 Mop in Smiff 16.10 Vse se vrne 16.35 Modri Peter 16.55 Grange Hill 17.30 Golf z Billom Oddiem 18.00 Top of the Pops 18.30 Dr. Who 19.00 Očetova vojska 19.30 So vam že postregli
+279 : 8.30 Come On Baby 9.30 The Worldgame 10.30 Motošport 12.00 Nevzdržno 13.00 Sports Bakka 14.00 Come On Baby 15.00 Športni avtomobili 15.30 Ustvarjalci avtomobilov 16.00 Golf evropska turneja 17.00 NBA od znotraj 18.00 DSF novinarski center 18.20 Dvoboj kviz 19.00 Gillette World Cup 2002 19.30 Nemška zvezna liga 20.00 DSF novinarski center 20.15 Uefa Champions League Magazin 21.15 DSF novinarski center 21.30 Nogomet 2. nemška zvezna liga 22.30 Viererkette 23.30 Knockout Axel Schulz 0.30 Monster Trucks 1.00 Speed Zone
+280 : Bled Na starem blejskem igrišču z 18 luknjami je Golfarsko seniorsko društvo Slovenije prvič priredilo mednarodni teden golfa ki se je začel s tradicionalnim srečanjem med Slovenijo in Avstrijo
+281 : Podobno je s primerom kmetijcev ki nasprotujejo gradnji igrišča za golf v Sečovljah
+282 : Veliko možnosti za različne športe npr. potapljanje jadranje na deski golf kolesarjenje pohodništvo
+283 : V noči na minuli ponedeljek je bil s parkirišča v Ul. V. prekomorske brigade v Celju ukraden osebni avtomobil znamke VW Golf serije III kovinsko sive barve reg. Št. CE V0 800
+284 : Royal and Ancient Golf Club of St. Andrews seveda še vedno ostaja klub odprt le moškim kar je v napadu feminizma tudi super
+285 : BLED 10. Na blejskem igrišču za golf se je začelo evropsko prvenstvo za mladince
+286 : Te zadnje pa bo pri igranju golfa v prihodnje očitno vse manj
+287 : Po pravilih najbolj pomembnega škotskega golf kluba The Royal and Ancient Golf Club of St. Andrews tvega da bo izgubil status ljubiteljskega igralca
+290 : Za kongres ki bo 18. in 19. januarja v hotelu Golf na Bledu prijave sprejemajo samo še danes
+291 : Le nekaj noči prej so na Beblerjevem trgu vlomili v starejši golf in se z njim odpeljali
+292 : V SVOJEM SEGMENTU JE BIL GOLF NAJBOLJŠI SAJ JE BIL VSAK SEDMI PRODAN AVTO GOLF ALI GOLF VARIANT 14,60 ODSTOTNEGA DELEŽA V SEGMENTU
+293 : S. iz Ljubljane z neregistriranim osebnim avtom VW golf vozil od Kranja proti Škofji Loki
+296 : Z dobrimi 43 odstotki ali 6633 avtomobili je naš najmočnejši avtomobilski razred spodnji srednji z meganom felicio accentom golfom in astro na čelu
+297 : Nasploh je golf v Sloveniji še v povojih
+298 : Tudi šampion v golfu Tiger Woods teniški profesionalec John MacEnroe in igralka Sigourney Weaver so se valili v zgradbah s križnimi hodniki v španskem stilu in buljili v svoje učbenike
+299 : Popoldne je na Mestnem trgu v Slovenskih Konjicah falot vlomil v golfa ter ukradel avtoradio jakno z nekaj denarja in dokumenti ter lastnika oškodoval za 200 evrov
+300 : Ugotovili so tudi da so mladoletniki v noči na 17. februar na Beblerjevem trgu vlomili v starejšega golfa ga spravili v pogon in ga ukradli
+301 : Pred približno dvema mesecema so navedeni mladoletniki na Litostrojski vlomili v golfa in ga poskušali ukrasti kar pa jim ni uspelo
+302 : Naprodaj bo jeseni najprej v Golfu potem pa tudi v ostalih modelih vse do Passata
+303 : 8.30 Warm Up 10.00 MotorVision 11.00 Nogomet 13.00 Formula 3 14.00 STW prvenstvo 16.30 DKM 17.30 Speedway 18.00 Center Court 19.00 MotorVision 20.00 Oldtimer magazin 21.00 STW prvenstvo 22.00 Motobike 23.00 Golf US Open 0.00 Gillette World Sport Special 0.30 Redki športi 1.00 Inside WNBA Magazin 1.30 Best Direct 2.00 NHL Powerweek
+304 : Na Mariborski cesti v Celju je bilo v noči na ponedeljek vlomljeno v osebni avto VW golf
+305 : Priznam da igram golf kadar se le da
+306 : BLED 25. Na blejskem igrišču za golf se je začelo BTC Odprto prvenstvo Slovenije v golfu ki spada v verigo challenge tekmovanj evropske zveze
+308 : 12.00 Po največjih golf igriščih sveta 12.30 Na kosilu z Brianom Turnerjem 13.00 Turist 13.30 Floyd potuje 14.00 Potovalni hrošč 14.30 Do Azije in naprej 15.00 Avstralska panorama 15.30 Raziskovanje pod jadri 16.00 Ubežne poti 16.45 Pot gre naprej 17.00 Floyd potuje 17.30 Po največjih golf igriščih sveta 18.00 Planet Počitnice 18.30 Potepanje po Franciji 19.00 Do Azije in naprej 19.30 Avventura potovanje po italijanski kuhinji 20.00 Najboljše ceste 20.30 Coltrane v cadillacu 21.00 Pot gre naprej 21.15 Pot gre naprej 21.30 Razglednice iz raja 22.00 Pilot Turistični vodič 23.00 S tovornjakom po Afriki 23.30 Nick Sanders 0.00 Alternativne poti 0.30 Pot gre naprej 0.45 Pot gre naprej 1.00 Do Azije in naprej 1.30 Avstralska panorama
+309 : Igrišče za golf je še vedo mogoče preorati in ponovno obdelovati
+310 : 8.30 Neubranljivo 8.45 Dorf's Golf Bible 9.30 MotorVision 11.30 Reklamna oddaja 12.00 Neubranljivo 12.30 Reklamna oddaja 13.00 Fujuma
+311 : Nejevoljo do novih sosedov je občutila tudi Evgenija Lazarini ki sicer meni da bi bilo naselje in igrišče za golf za krajane prej pozitivno kot negativno
+313 : Glavna področja namembnosti so oblačila za smučanje deskanje igranje golfa kolesarjenje raznovrstne aktivnosti na planem treniranje ter tudi oblačila za prosti čas
+314 : Hotel Quinta da Marinha Golf Conference Resort je eno največjih turistič nih kompleksov izven Algarveja in obstaja od leta 1984
+315 : Kompleks obsega vas s 70 hišicami igrišče za golf z osemnajstimi luknjami in drivingom šest teniških igrišč klubsko hišo dve restavraciji in bara s terasami ki mejijo na dva plavalna bazena konferenčni prostor za 160 ljudi in prostor za praznovanja s kapaciteto 250 oseb
+316 : Splošno znano ime je ostalo ohranjeno ime komleksa pa se je sprememnilo v Hotel Quintas da Marinha Golf Conference Resort
+317 : Kako odgovarjate vsem tistim ki pravijo da golf ni šport
+318 : Golf mi je postal zelo všeč sploh ko sem videla da lahko v okviru svojih sposobnosti igraš in se družiš
+319 : Ti tale golf pa je to res tako drag kot pravijo
+320 : Igrali so golf kot ga igrajo starejši ljudje
+321 : V Sloveniji pa je lani Sava postala večinski lastnik Astre Gume Grosuplje in CHEMA ter družbe Golf in kamp Bled letos pa je že lastnica Investicijskega podjetja SKB
+322 : Golfiste ki zagotovo težko pričakujejo pričetek nove golfske sezone obveščamo da je Kraljevo igrišče za golf na Bledu odprto za igro
+323 : Igrišče za golf na Bledu nadaljuje z okoljevarstvenimi aktivnostmi v okviru mednarodnega programa za varstvo okolja na golfskih igriščih Committed to Green zavezani okolju
+324 : V podjetju Golf in kamp Bled d. d. čakajo na sprejem prostorsko ureditvenih pogojev s katerimi bodo izpolnjene možnosti za pripravo projektov za izgradnjo apartmajske hiše novega gospodarskega poslopja na igrišču za golf in devetih polj Jezerskega igrišča proti Vrbi
+325 : Opazijo preveč stvari ki jih je treba postoriti in ko enkrat izgubimo koncentracijo izgubimo igro in nihče ne želi igrati golfa slabo
+326 : Spomnimo se stare zgodbe ki pravi če je človek uspešen v poslu zapostavlja svojo igro golfa vendar če je dober igralec golfa potem zapostavlja svoj posel
+327 : Biti predober igralec golfa je lahko škodljivo za njegovo kariero
+328 : Vse do zadnje zelenice je treba igrati vrhunski golf če hočeš da te igrišče nagradi
+329 : Že omenjeni dopoldan pred slovesnostjo je potekalo Žensko pokalno tekmovanje Golf zveze Slovenije kjer je v bruto seštevku zmagala članica Golf kluba Moravske Toplice Vanja Bransberger z 82 točkami
+330 : GOLF IGRIŠČE GRAD MOKRICE SLOVI KOT ENO IZMED NAJTEŽJIH
+331 : Se vam zdi da je golf šport ki zahteva veliko treninga
+335 : Mlađen je prvič držal v rokah palico za golf in na začetku mu ni šlo najbolje kar sem na vsak način želela zabeležiti s kamero
+336 : Tega občutka ljudem ki nikoli niso igrali golfa enostavno ne morem opisati
+337 : 8.30 Golf 9.30 Triatlon 10.00 Tovornjaki 10.30 Nogomet Pokal UEFA 12.30 Avtomoto šport 13.00 Olimpijske igre Sydney 13.30 Olimpijske igre Sydney 14.00 Tenis WTA turnir Linz Avstrija 17.00 Nogomet Pokal UEFA 18.30 Tenis ATP turnir Toulouse Francija 20.30 Pikado 22.00 Boks 22.45 Rally FIA rally za svetovno prvenstvo Sanremo Italija 23.00 Novice 23.15 Sumo 0.15 Motociklizem S ceste 1.15 Novice
+338 : Najprej smo ga uporabljali v Wilsonovih teniških loparjih potem v palicah za golf pozneje pa še v Atomicovih smučarskih čevljih in smučeh
+339 : Pri dveh je že vihtel palico za golf
+340 : 9.00 Svoboden v divji Afriki 9.30 Okus po Italiji 10.00 Po vseh golf igriščih sveta 10.30 Okus po Franciji 11.00 O zgodbah in potovanjih 12.00 Transazija 13.00 Capriceina potovanja 13.30 Veliki pobeg 14.00 Okus po Italiji 14.30 Sanjske destinacije 15.00 Odkrivamo Avstralijo 16.00 Pojdimo v
+342 : Na glavni obravnavi na novomeškem okrožnem sodišču je bilo največ dvomov o tem kdo je kriv za nesrečo ali je v rdečo luč zapeljal voznik golfa ali pa se je morda peška čez cesto odpravila pri rdeči luči na semaforju za pešce
+344 : V prostem času rad smučam in zadnji čas rad igram golf ne veliko kolikor pač imam časa
+345 : Ljubljana Z Ulice Koroškega bataljona v Ljubljani so v noči na sredo ukradli golfa srebrne barve z registrsko številko LJ V9 88A
+346 : 8.30 Golf 9.30 Nogomet Pokal UEFA 12.30 Motociklizem VN Španije Valencia prenos treninga 15.15 Kolesarstvo Po Španiji prenos 17.00 Tenis ATP turnir Mallorca Španija 18.00 Nogomet Pokal UEFA 19.30 Motociklizem VN Španije Valencia 20.00 Dirke tovornjakov 21.30 Motociklizem 22.00 Boks 23.00 Rally Svetovno prvenstvo Kitajska 23.15 Motociklizem VN Španije Valencia 0.15 Kolesarstvo Po Španiji 1.15 Rally Svetovno prvenstvo Kitajska
+349 : Letos bodo zgradili golf igrišče z osemnajstimi luknjami nove apartmaje in naravni park
+350 : Ali kdo drug lokalni športni dogodki mali nogomet tenis golf šah
+351 : Golf je za ljudi ki so predebeli da bi smučali na vodi
+353 : Največ je volkswagnov seveda golfov pa tudi polov in passatov BMW serije 3 Renaultovih cliov twingov in meganov Fiatovih puntov zlasti lani pa je bil zelo pogost peugeot 206
+354 : Na slovesni prireditvi v hotelu Golf na Bledu so najboljši prejeli priznanja in drugo mesto med velikimi smučišči je pripadlo Rogli ter tretje Cerknemu
+355 : 8.45 Izven kontrole 9.15 DSF Novinarski center 9.45 MotorVision 10.45 LaOla 11.15 World Soccer 11.45 Reklamna oddaja 12.00 DSF Novinarski center 12.30 Normal oddaja za invalidne osebe 13.00 Ameriški gladiatorji 14.00 Monster Trucks 15.00 NHL Stanley Cup 15.30 Redki športi 16.00 Ameriški gladiatorji 17.00 Oldtimer magazin 18.00 DSF Novinarski center 18.30 Reportaža 19.00 DSF Novinarski center 19.30 Reportaža 20.00 DSF Novinarski center 20.15 Wimbledon 22.15 DSF Novinarski center 22.30 Nogomet 23.30 Golf evropska turneja 0.00 Normal oddaja za invalidne osebe 0.30 Akrobatski team 1.15 Best Direct
+356 : 8.30 Kolesarstvo Tour de France pon. 9.30 Golf pon. 10.30 Motorsport pon. 11.00 Automagazin pon. 11.30 Kolesarstvo Tour de France pon. 12.30 Tenis ATP turnir v Gstaadu osmina finala
+357 : 9.00 Takeshi's Castle 9.45 DSF reportaža 10.15 Baseball Max 10.45 NBA od znotraj 11.15 World Soccer 11.45 Normal oddaja za invalidne osebe 12.15 Gillette World Sport Special 12.45 DSF reportaža 13.15 Nogomet 2. nemška zvezna liga 14.00 Powderhausen TV 14.30 Stoke 15.15 MotorVision 16.15 Motobike Polo magazin 17.00 Formula 1 trening za kvalifikacije 18.00 Nogomet 2. nemška zvezna liga 19.00 Nogomet 22.45 Golf evropska turneja 23.45 Wrestling SPW Monday Nitro 1.15 Reklamna oddaja 1.45 Nočni show 2.15 Monster Trucks
+358 : Rezultati 1. Zupančič Plamtex BMW 320i 5,25,81 2. Dekleva Elektrodekleva BMW 320i 3. Jemc Petrol racing ford escort 5:35,47 4. Peljhan Olimpija golf kit car 5:47,66 5. Komel Gorica opel astra 5:49,22 6. Rihtar Self ford escort 5:59,54
+359 : Pri gradnji golf igrišča gre po Šrotovih besedah za poseg v prostor brez dovoljenja poleg tega je lokacija za golf igrišče ki ga je pričel urejati golf klub Cinkarne Celje po županovih podatkih izven ureditvenega načrta parka spomina Teharje
+360 : V Sloveniji premoremo sedem igrišč za golf enega pa še dokončujejo
+361 : Voznica se je z vozilom znamke VW golf peljala po lokalni cesti ko je v desnem ostrem nepreglednem ovinku najprej zapeljala na neutrjeno površino nato nazaj na vozišče kjer je vozilo začelo bočno drseti na drugo stran po useku v gozd in trčilo v drevo
+362 : 8.00 Potovanja z evropsko železnico 9.00 Travelling Lite 9.30 Okus po Italiji 10.00 Glynn Christian okuša Tajsko 10.30 Okus po Franciji 11.00 O zgodbah in potovanjih 12.00 Potovanja z avstralsko železnico 13.00 Turist 13.30 Avventura Potovanja po italijanski kuhinji 14.00 Okus po Italiji 14.30 Po vseh golf igriščih sveta 15.00 Na kosilu z Brianom Turnerjem 15.30 Plemenska potovanja 16.00 Potovanja z evropsko železnico 17.00 Največja potovanja po našem planetu 18.00 Connoisseurjeva zbirka 18.30 Od Pekinga do Pariza 19.00 Srečanja in praznovanja 19.30 Gorski jezdeci 20.00 Azija danes 21.00 Potovanja s švicarsko železnico 22.00 Odkrivamo Avstralijo 23.00 Čez ekvator obe Ameriki 23.30 Travelling Lite 0.00 Vidiki življenja 0.30 Nad oblaki 1.00 Okoli sveta na dveh kolesih 1.30 Čudoviti Tomov svet
+363 : Hudo se je ranil voznik hyundaija ki so ga reševalci odpeljali v klinični center lažje poškodbe pa je dobil voznik golfa katerega voznik je nekje pred Kozarjami zavozil na napačni vozni pas
+364 : Bled Blejskima podjetjema Golf in kamp Bled d. d. in Grand hotel Toplice Bled je državna sekretarka ministrstva za gospodarstvo mag. Mateja Mešl včeraj izročila certifikata za kakovost ISO 9001
+365 : Takrat bo šele mogoče dobiti ustrezno dovoljenje za lani urejeno igrišče za golf ali zaradi njegove majhnosti bolje vadišče na edinem slovenskem otoku
+366 : Vrata je odprla tudi Golf akademija s programi šolanja tako za začetnike kot za tiste ki želijo v tem športu napredovati
+367 : Golf je na voljo s termi paketi opreme cene za trivratno karoserijsko različico se začenjajo pri 15.954 evrih
+368 : Šahovski festival na Bledu Na Bledu v hotelu Golf bo od 23. februarja do 2. marca potekal mednarodni šahovski festival
+370 : Ameriški profesionalni igralec golfa Tiger Woods bo leto 1998 zaključil kot prvi golfist na svetu
+371 : Zdravilišče Šmarješke Toplice bo dobilo nov hotelski prizidek s 160 posteljami in zdravstvenim delom družba pa sodeluje tudi pri gradnji igrišča za golf pri Strugi
+372 : 8.15 Reklamna oddaja 8.30 Paulaner Superfan športni kviz 9.15 Rokomet 1. nemška zvezna liga 10.15 Nogometni mundial 10.45 Športna dokumentacija 11.15 Motošport Indy Race League 12.15 Motošport Pro Superbike 13.15 Paulaner Superfan športni kviz 14.00 Rokomet 1. nemška zvezna liga 15.00 Nogometni mundial 15.30 Zvezde športa športni kviz 16.15 Akrobatski team 17.00 Golf European Pga Tour 18.00 Paulaner Superfan športni kviz 18.45 Motošport 19.45 Nogometni mundial 20.15 Košarka evropska liga 22.15 Športna poročila 22.30 Oldtimer magazin 23.30 Sport Special 0.00 Wrestling SPW Pro worldwide 1.00 Reklamna oddaja 1.30 Oldtimer klasični avtomobili 2.30 Neverjetne igre
+373 : 8.15 K Tel reklamna oddaja 8.45 Šport moči 9.45 Monster Trucks 10.45 Motobike Polo Magazin 11.45 Reklamna oddaja 12.00 Normal oddaja za invalidne osebe 12.30 Dvojna podaja Nike Talk 14.00 Takeshi's Castle 14.45 Lumberjack 15.15 Monster Trucks 15.45 Redki športi 16.15 Ameriški gladiatorji 17.15 Takeshi's Castle 18.00 DSF novinarski center 18.30 InTeam reportaža 19.00 DSF novinarski center 19.30 InTeam reportaža 20.00 DSF novinarski center 20.15 MotorVision 21.15 Motobike Polo Magazin 22.15 DSF novinarski center 22.30 CoolTour Hondin potovalni magazin 23.15 Golf evropska turneja 23.45 Rollerjam 0.45 Lumberjack 1.15 Best Direct reklamna oddaja 1.45 Redki športi
+377 : Pri novem hotelu naj bi zgradili še mini golf igrišče in otroški park igrišče
+379 : 8.45 Izven kontrole 9.15 InTeam 9.45 Veslanje 10.45 MotorVision 11.45 Reklamna oddaja 12.00 DSF Newscenter 12.30 InTeam 13.00 Ameriški gladiatorji 14.00 Monster Trucks 15.00 Izven kontrole 15.30 Redki športi 16.00 Ameriški gladiatorji 17.00 NBA od znotraj 18.00 DSF Newscenter 18.30 InTeam 19.00 DSF Newscenter 19.30 InTeam 20.00 DSF Newscenter 20.15 Oldtimer magazin 21.15 Top 10 magazin 22.15 DSF Newscenter 22.30 TieBreak 23.15 Golf evropska turneja 23.45 Wrestling 0.30 Redki športi 1.00 Rodeo 1.45 Best Direct
+381 : Za nameček je japonsko valuto okrepil še medijski pritisk na predsednika japonske vlade Morija kateremu očitajo da je brezbrižno dokončal igro golfa čeprav je vedel za nesrečo japonskih študentov katerih ladja je trčila z ameriško jedrsko podmornico
+382 : Skratka ponovno Golf ki nikjer zares ne izstopa po drugi strani pa je vsepovsod dober
+386 : Tenis atletika košarka nogomet rokomet golf zelo specifični športi
+388 : Sklenil je da bo povezal Mongolijo in golf odločil se je da bo celotno površino te azijske države izkoristil kot igrišče za golf z 18 luknjami ki jih je sam označil
+389 : Bled Včeraj so v Hotelu Golf na posebni priložnostni prireditvi ki jo je pripravilo uredništvo revije Gospodarski vestnik razglasili letošnjo gorenjsko gazelo priznanje za najhitrejše rastoče podjetje
+390 : Skupaj s podjetjem Damat & Damat bomo organizirali prvi Playboyev VIP golf turnir za povabljene igrali pa po sistemu texas scramble
+391 : 8.00 Razglednice iz Avstralije 9.00 Avventura Potovanje po italijanski kuhinji 9.30 Planet Počitnice 10.00 Coltrane v Cadillacu 10.30 Avstralska panorama 11.00 Z železnico preko Avstralije 12.00 Mississippi 13.00 Po največjih golf igriščih sveta 13.30 Sanjske destinacije 14.00 Pot gre naprej 14.30 Veliki pobeg 15.00 Crawshawovo križarjenje 15.30 Go 2 16.00 Razglednice iz Avstralije 17.00 Z železnico preko Avstralije 18.00 Potepanje po Franciji 18.30 Stopinje na planetu Zemlja 19.00 Pot gre naprej 19.30 Tradicionalne poti z Burtom Wolfom 20.00 Azija danes 21.00 Francoz v tujini 22.00 Največja potovanja na Zemlji 23.00 Praznične poti 23.30 Avventura Potovanje po italijanski kuhinji 0.00 Crawshawovo križarjenje 0.30 Debeluh iz Kenta 1.00 Medicina od A do Ž
+392 : 8.15 K Tel reklamna oddaja 8.45 Redki športi 9.15 Monster Trucks 10.15 Ameriški gladiatorji 11.15 Stoke 11.45 Normal oddaja za invalidne osebe 12.15 Baseball MAX 12.45 Touchdown nogometni magazin 13.15 Nogomet 2. nemška zvezna liga 14.00 World Soccer 14.30 Lumberjack 15.00 Formula 3 16.00 Monster Trucks 16.15 CoolTour Hondin potovalni magazin 17.00 Takeshi's Castle 17.45 DSF novinarski center 18.00 Nogomet 2. nemška zvezna liga 18.30 Dorf's Golf Bible 19.15 Gillette World Sport Special 19.45 DSF novinarski center 20.00 Hokej na ledu SP 22.25 DSF novinarski center 22.30 Touchdown nogometni magazin 0.00 Wrestling SPW Nitro 1.15 Best Direct reklamna oddaja 1.45 Wrestling SPW Nitro
+394 : Turnir je imel dva dela čeprav je bilo vreme bolj turobno se je prvi odvijal na Kraljevem igrišču za golf Bled večerno druženje pa se je nadaljevalo v restavraciji hotela Golf na Bledu
+395 : Včeraj se je na Bledu z odprtjem slovesnostjo uradno začelo Evropsko ekipno prvenstvo za ženske v golfu ki na blejskem igrišču za golf poteka že tretje leto zapored
+397 : Na udarjališču v Zrkovcih je namreč Golf klub Maribor postavil tudi žaromete in tako lahko zdaj ljubitelji golfa vadijo udarce v prijetno hladnih večernih urah
+398 : 8.00 Golf European Tour 11.00 Rokomet 1. nemška zvezna liga 12.00 Športni utrinki 12.15 NBA od znotraj 13.15 Paulaner Superfan športni kviz 14.00 Rokomet 1. nemška zvezna liga 15.00 Nogometni mundial 15.30 Športna dokumentacija 16.00 Gillette World Sport Special 16.30 Idoli 18.00 Paulaner Superfan športni kviz 18.45 NBA od znotraj 19.45 Nogometni mundial 20.15 Oldtimer 21.15 Mednarodni šport 22.15 Športna poročila 22.30 Boks 23.00 NBA od znotraj 0.00 Wrestling 1.00 Best Direct reklamna oddaja 1.30 Action 2.30 Potovalni magazin
+400 : V obdobju ko se ne moremo po mili volji zadrževati na zunanjih igriščih za golf lahko marsikaj storimo da bo naša igra prihodnjo sezono še boljša
+401 : Se vam zdi da je golf drag šport
+402 : Kordež Golfa ne igram ker so mi v času ki ga namenjam rekreaciji ljubši drugi športi
+403 : Zdelo se mi je da je golf šport za ljudi ki niso več ne samo obremenjeni ampak nimajo več drugih aktivnosti
+404 : Golf mi je postajal všeč ker sem tekmovala sama s seboj je pripovedovala moja sogovornica
+405 : 20.05 Golf da te kap I Caddysask ameriška komedija
+406 : 8.15 Dominion 8.45 Izven kontrole 9.15 Redki športi 9.45 MotorVision 10.45 Motobike 11.45 Reklamna oddaja 12.00 Redki športi 12.30 Normal oddaja za invalidne osebe 13.00 Ameriški gladiatorji 14.00 Monster Trucks 14.30 Redki športi 15.00 Roller Jam 16.00 Ameriški gladiatorji 17.00 Redki športi 17.30 Monster Trucks 18.00 DSF Novinarski center 18.30 InTeam 19.00 DSF Novinarski center 19.30 InTeam 20.00 DSF Novinarski center 20.15 Sportclips 21.00 MotorVision 21.30 DSF Novinarski center 21.45 MotorVision 22.15 DSF Novinarski center 22.30 Motobike 23.30 Normal oddaja za invalidne osebe 0.00 Golf evropska turneja 0.30 Redki športi 1.00 Best Direct 1.30 Izven kontrole
+411 : Peljhan je bil dvakrat tretji na Saturnusu je odstopil toda njegov golf bo tokrat že bolje pripravljen
+414 : 20.00 Vip cup turnir 2001 reportaža iz Velenja ponovitev 20.55 Graška gora poje in igra 1. del 22.15 Evropski turnirji v golfu 22.45 Video top glasbena oddaja 23.45 Oglejte si z nami
+415 : Miami Najboljši igralec golfa na svetu Tiger Woods je podpisal še eno sponzorsko pogodbo
+416 : Ob 20.30 je eden izmed njiju z rdečo lučjo ustavljal voznika avta znamke Golf ki pa je odpeljal naprej
+
+
+DBScan
+Estimated no. of clusters: 1
+Estimated no. of noise points: 0
+Counter({0: 417})

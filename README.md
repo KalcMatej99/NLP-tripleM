@@ -1,5 +1,6 @@
 # NLP-tripleM
 Repository of team TripleM for NLP @ UL FRI. Project 3:Cross-lingual sense disambiguation
+
 Students: Matej Miočić, Marko Ivanovski, Matej Kalc
 
 ## Folder structure

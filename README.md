@@ -9,3 +9,7 @@ Students: Matej Miočić, Marko Ivanovski, Matej Kalc
 
 ## Before running the code
 Before running the code please install the requirments in `requirements.txt`
+
+## Report
+
+Click [hjere](./TripleM_report.pdf to open the report.

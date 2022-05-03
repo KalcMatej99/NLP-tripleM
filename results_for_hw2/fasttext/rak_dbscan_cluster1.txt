@@ -1,0 +1,19 @@
+Estimated no. of clusters: 3
+Estimated no. of noise points: 2
+Counter({0: 169, 1: 16, -1: 2})
+['Rak', 'od', '22.', 'junija', 'do', '22.', 'julija', 'Novica', 'ki', 'ste', 'jo', 'dolgo', 'čakali', 'vam', 'bo', 'polepšala', 'dan']
+['RAK', 'od', '22.', 'rožnika', 'do', '22.', 'malega', 'srpana', 'Ne', 'hvalite', 'se', 's', 'svojimi', 'dragocenostmi', 'in', 'prihranki', 'prijazni', 'poslušalec', 'vas', 'bo', 'nekaj', 'dni', 'kasneje', 'prosil', 'za', 'posojilo']
+['Rak', 'od', '22.', 'junija', 'do', '22.', 'julija', 'Lepo', 'vam', 'bo', 'medtem', 'ko', 'se', 'boste', 'družili', 'in', 'pogovarjali', 'z', 'domačimi']
+['RAK', 'od', '22.', 'rožnika', 'do', '22.', 'malega', 'srpana', 'Razmišljanje', 'v', 'naravi', 'vas', 'bo', 'umirilo', 'saj', 'nekega', 'praznika', 'ne', 'boste', 'obeležili', 'tako', 'kot', 'ste', 'vajeni', 'in', 'boste', 'zato', 'razdražljivi']
+['Rak', 'od', '22.', 'junija', 'do', '22.', 'julija', 'To', 'da', 'najbližji', 'stalno', 'tarna', 'vas', 'vedno', 'bolj', 'moti']
+['Rak', 'od', '22.', 'junija', 'do', '22.', 'julija', 'Kljub', 'ustvarjalnosti', 'vam', 'zadeve', 'ne', 'gredo', 'od', 'rok', 'za', 'kar', 'je', 'krivo', 'pomanjkanje', 'samozavesti']
+['Rak', 'od', '22.', 'junija', 'do', '22.', 'julija', 'Včasih', 'je', 'občutek', 'negotovosti', 'dobrodošel', 'saj', 'si', 'lahko', 'z', 'njim', 'okrepite', 'samozavest']
+['RAK', 'od', '22.', 'rožnika', 'do', '22.', 'malega', 'srpana', 'Vaše', 'skrbno', 'prikrito', 'ljubosumje', 'bo', 'prišlo', 'na', 'dan', 'ko', 'boste', 'napadli', 'partnerja', 'zaradi', 'nepomembne', 'malenkosti']
+['Rak', 'od', '22.', 'junija', 'do', '22.', 'julija', 'Saj', 'vam', 'ne', 'bo', 'padla', 'krona', 'z', 'glave', 'če', 'boste', 'naredili', 'nekaj', 'kar', 'bi', 'sicer', 'moral', 'najbližji']
+['Rak', 'od', '22.', 'junija', 'do', '22.', 'julija', 'Čustveno', 'boste', 'precej', 'občutljivi', 'večji', 'stresi', 'lahko', 'povzročijo', 'tudi', 'težave', 'z', 'zdravjem']
+['Rak', 'od', '22.', 'junija', 'do', '22.', 'julija', 'Čeprav', 'ste', 'delo', 'opravili', 'odlično', 'se', 'marsikdo', 's', 'tem', 'ne', 'strinja']
+['Rak', 'od', '22.', 'junija', 'do', '22.', 'julija', 'Priznate', 'da', 'v', 'zadnjem', 'času', 'vedno', 'bolj', 'razmišljate', 'o', 'zabavah', 'in', 'lenarjenju', 'ter', 'vedno', 'manj', 'o', 'delu']
+['RAK', 'od', '22.', 'rožnika', 'do', '22.', 'malega', 'srpana']
+['Rak', 'od', '22.', 'junija', 'do', '22.', 'julija', 'Nekaj', 'se', 'dogaja', 'za', 'vašim', 'hrbtom', 'vi', 'pa', 'le', 'opazujete', 'in', 'ne', 'ukrepate']
+['RAK', 'od', '22.', 'rožnika', 'do', '22.', 'malega', 'srpana', 'Sprehode', 'od', 'hladilnika', 'do', 'mize', 'zamenjajte', 's', 'pohodi', 'v', 'naravo', 'saj', 'bodo', 'dobrodejno', 'vplivali', 'na', 'vaše', 'zdravje']
+['Rak', 'od', '22.', 'junija', 'do', '22.', 'julija', 'Pokušajte', 'vsaj', 'malo', 'bolj', 'razviti', 'občutek', 'za', 'fair', 'play']

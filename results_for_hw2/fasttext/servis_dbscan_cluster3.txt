@@ -1,0 +1,9 @@
+Estimated no. of clusters: 6
+Estimated no. of noise points: 4
+Counter({0: 86, 1: 36, 2: 25, 3: 6, -1: 4, 4: 3})
+['Servis', 'vseh', 'vrst', 'šivalnih', 'strojev', 'in', 'parnih', 'likalnikov']
+['BAGAT', 'servis', 'vseh', 'vrst', 'šivalnih', 'strojev', 'in', 'tlačnih', 'likalnikov', 'prodaja', 'novih', 'in', 'rabljenih', 'šivalnih', 'strojev', 'in', 'likalnikov']
+['OPRAVLJAM', 'SERVIS', 'vseh', 'vrst', 'šivalnih', 'strojev', 'in', 'likalnih', 'aparatov']
+['SERVIS', 'in', 'prodaja', 'vseh', 'vrst', 'visokotlačnih', 'pralnih', 'strojev', 'KARCHER', 'WAP', 'KEW', 'Lavor', 'wash', 'Stihl', 'Alko', 'Elektra', 'Beckum']
+['xxxxxxx', 'SERVIS', 'in', 'prodaja', 'vseh', 'vrst', 'visokotlačnih', 'pralnih', 'strojev', 'KARCHER', 'WAP', 'KEW', 'Lavor', 'wash', 'Stihl', 'Alko', 'Elektra', 'Beckum']
+['xxxxxxxxx', 'SERVIS', 'in', 'prodaja', 'vseh', 'vrst', 'visokotlačnih', 'pralnih', 'strojev', 'KARCHER', 'WAP', 'KEW', 'Lavor', 'wash', 'Stihl', 'Alko', 'Elektra', 'Beckum']

@@ -1,0 +1,10 @@
+Mean of random_baseline_loss: 0.89 and 95% CI: [0.88, 0.89]
+Mean of baseline_loss: 0.63 and 95% CI: [0.62, 0.63]
+Mean of loss: 0.35 and 95% CI: [0.34, 0.35]
+Mean of random_CA: 0.5 and 95% CI: [0.5, 0.51]
+Mean of baseline_CA: 0.68 and 95% CI: [0.67, 0.68]
+Mean of CA: 0.83 and 95% CI: [0.83, 0.84]
+Mean of annotated baseline: 0.86 and 95% CI: [0.86, 0.86]
+Mean of annotated_loss: 4.88 and 95% CI: [4.88, 4.88]
+Mean of annotated_ca: 0.86 and 95% CI: [0.86, 0.86]
+

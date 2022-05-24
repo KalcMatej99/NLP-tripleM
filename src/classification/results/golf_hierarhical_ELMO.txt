@@ -1,0 +1,7 @@
+Mean of random_baseline_loss: 0.89 and 95% CI: [0.87, 0.9]
+Mean of baseline_loss: 0.67 and 95% CI: [0.66, 0.67]
+Mean of loss: 0.0 and 95% CI: [0.0, 0.0]
+Mean of random_CA: 0.51 and 95% CI: [0.5, 0.51]
+Mean of baseline_CA: 0.62 and 95% CI: [0.61, 0.62]
+Mean of CA: 1.0 and 95% CI: [1.0, 1.0]
+

@@ -14,7 +14,7 @@ Students: Matej Miočić, Marko Ivanovski, Matej Kalc
 
 ## Before running the code
 
-Before running the code please install the requirments in `requirements.txt` and `requirments2.txt`. If you experience any problems with downloading AllenNLP run the following command:
+Before running the code please install the requirments in `requirements.txt`. If you experience any problems with downloading AllenNLP run the following command:
 ```
 pip3 install allennlp
 ```

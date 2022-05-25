@@ -6,7 +6,7 @@ Students: Matej Miočić, Marko Ivanovski, Matej Kalc
 ## Folder structure
  - Reports and additional material for showing our work is present in folder `Reports`.
  - Source code with jupyter notebooks are in  `src` which is divided into:
-    - `corpus`: code for obtaining corpus
+    - `corpus`: code for obtaining corpus; See demo of corpus [here](./src/corpus/demo.ipynb)
     - `pretrained models`: some pre-trained models which we were able to upload on github
     - `results`: a bunch of results used for analysis on non-contextual embeddings
     - `web scrapper`: the scrapper for obtaining homonyms from fran.si

@@ -9,8 +9,9 @@ Students: Matej Miočić, Marko Ivanovski, Matej Kalc
     - `corpus`: code for obtaining corpus
     - `pretrained models`: some pre-trained models which we were able to upload on github
     - `results`: a bunch of results used for analysis on non-contextual embeddings
-    - `web scrapper`: the scrapper for obtaining homonims from fran.si
+    - `web scrapper`: the scrapper for obtaining homonyms from fran.si
     - `non contextual embeddings` and `contextual embeddings` contain code for the mentioned embeddings clusters, scores, analysis
+    - `classification` for classifying with clusters and annotated sentences
 
 ## Before running the code
 
